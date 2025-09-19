@@ -2,6 +2,8 @@ import re
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
+import sys
+
 
 app = FastAPI(title="NER Hackathon Stub (Async, rule-based)")
 
