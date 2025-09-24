@@ -1,0 +1,2121 @@
+{
+    "cat_name": {
+        "cat_id": 108,
+        "items": [
+            {
+                "title": "Топпинг Абрико карамель на молочно-растительном сырье, 600мл",
+                "masterData": {
+                    "slug": "topping-abriko-karamel-na-molocno-rastitelnom-syre-600ml",
+                    "plu": "3659271",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд ImmunoGold натуральный c куркумой имбирём и соком лимона, 200г",
+                "masterData": {
+                    "slug": "med-immunogold-naturalnyj-c-kurkumoj-imbirem-i-sokom-limona-200g",
+                    "plu": "4385669",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Крем-мёд Сибирский Кедр с малиной, 180г",
+                "masterData": {
+                    "slug": "krem-med-sibirskij-kedr-s-malinoj-180g",
+                    "plu": "4385671",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Топпинг Абрико шоколад на молочно-растительном сырье, 600мл",
+                "masterData": {
+                    "slug": "topping-abriko-sokolad-na-molocno-rastitelnom-syre-600ml",
+                    "plu": "3659244",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Шалфейный натуральный цветочный Маркет, 350г",
+                "masterData": {
+                    "slug": "med-salfejnyj-naturalnyj-cvetocnyj-market-350g",
+                    "plu": "4340910",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Абрикос Te Gusto протертый с яблочным соком, 300г",
+                "masterData": {
+                    "slug": "abrikos-te-gusto-protertyj-s-ablocnym-sokom-300g",
+                    "plu": "4152951",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg экстра из яблок, 320г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-ekstra-iz-ablok-320g",
+                    "plu": "4334190",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Menz&Gasser Prima Frutta Клубника, 340г",
+                "masterData": {
+                    "slug": "konfitur-menz-gasser-prima-frutta-klubnika-340g",
+                    "plu": "4377475",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мармелад Naturalina из красного вина со специями, 170г",
+                "masterData": {
+                    "slug": "marmelad-naturalina-iz-krasnogo-vina-so-speciami-170g",
+                    "plu": "4251563",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Menz&Gasser Prima Frutta Вишня, 340г",
+                "masterData": {
+                    "slug": "konfitur-menz-gasser-prima-frutta-visna-340g",
+                    "plu": "4377478",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Darbo Клубника, 250г",
+                "masterData": {
+                    "slug": "konfitur-darbo-klubnika-250g",
+                    "plu": "4362957",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Menz&Gasser Prima Frutta Черника, 340г",
+                "masterData": {
+                    "slug": "konfitur-menz-gasser-prima-frutta-cernika-340g",
+                    "plu": "4377477",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Darbo Малина, 250г",
+                "masterData": {
+                    "slug": "konfitur-darbo-malina-250g",
+                    "plu": "4362956",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau Абрикосовый, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-abrikosovyj-340g",
+                    "plu": "4391453",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau Ягодный, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-agodnyj-340g",
+                    "plu": "4391457",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau Персиковый, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-persikovyj-340g",
+                    "plu": "4391456",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau Клубничный с ароматом ванили, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-klubnicnyj-s-aromatom-vanili-340g",
+                    "plu": "4391459",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Menz&Gasser Prima Frutta Малина, 340г",
+                "masterData": {
+                    "slug": "konfitur-menz-gasser-prima-frutta-malina-340g",
+                    "plu": "4377476",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St. Dalfour грушевый, 284г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-grusevyj-284g",
+                    "plu": "3019937",
+                    "unitName": "шт",
+                    "weight": 284,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St. Dalfour Мирабелла сливовый, 284г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-mirabella-slivovyj-284g",
+                    "plu": "3039876",
+                    "unitName": "шт",
+                    "weight": 284,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор клубника, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-klubnika-350g",
+                    "plu": "3491222",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Noyan из кизила экстра, 450г",
+                "masterData": {
+                    "slug": "varene-noyan-iz-kizila-ekstra-450g",
+                    "plu": "3297349",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Frueva клубничный, 310г",
+                "masterData": {
+                    "slug": "konfitur-frueva-klubnicnyj-310g",
+                    "plu": "4068147",
+                    "unitName": "шт",
+                    "weight": 310,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем персиковый Пр!ст, 300г",
+                "masterData": {
+                    "slug": "dzem-persikovyj-pr-st-300g",
+                    "plu": "3903159",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из инжира Маркет, 330г",
+                "masterData": {
+                    "slug": "varene-iz-inzira-market-330g",
+                    "plu": "4304133",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Ипатов Голубика & Бальзамик для сыра, 40г",
+                "masterData": {
+                    "slug": "dzem-ipatov-golubika-balzamik-dla-syra-40g",
+                    "plu": "4369888",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Кинто персик, 400г",
+                "masterData": {
+                    "slug": "dzem-kinto-persik-400g",
+                    "plu": "4149130",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Кинто слива, 400г",
+                "masterData": {
+                    "slug": "dzem-kinto-sliva-400g",
+                    "plu": "4149131",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Noyan из инжир экстра, 450г",
+                "masterData": {
+                    "slug": "varene-noyan-iz-inzir-ekstra-450g",
+                    "plu": "3297348",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St.Dalfour из манго и маракуйя, 284г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-iz-mango-i-marakuja-284g",
+                    "plu": "4364103",
+                    "unitName": "шт",
+                    "weight": 284,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St. Dalfour персиковый, 284г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-persikovyj-284g",
+                    "plu": "2050165",
+                    "unitName": "шт",
+                    "weight": 284,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из айвы Маркет, 330г",
+                "masterData": {
+                    "slug": "varene-iz-ajvy-market-330g",
+                    "plu": "4304130",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Десерт Пиканта из яблок с маракуйей, 370г",
+                "masterData": {
+                    "slug": "desert-pikanta-iz-ablok-s-marakujej-370g",
+                    "plu": "4255304",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau Малиновый, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-malinovyj-340g",
+                    "plu": "4391454",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из грецкого ореха Маркет, 330г",
+                "masterData": {
+                    "slug": "varene-iz-greckogo-oreha-market-330g",
+                    "plu": "4304132",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau Клубничный, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-klubnicnyj-340g",
+                    "plu": "4391455",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем из чёрной смородины Пр!ст, 300г",
+                "masterData": {
+                    "slug": "dzem-iz-cernoj-smorodiny-pr-st-300g",
+                    "plu": "3903161",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор чёрная смородина, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-cernaa-smorodina-350g",
+                    "plu": "4408012",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Лукашин персиковое, 450г",
+                "masterData": {
+                    "slug": "varene-lukasin-persikovoe-450g",
+                    "plu": "4056717",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Barline Кокос, 375мл",
+                "masterData": {
+                    "slug": "sirop-barline-kokos-375ml",
+                    "plu": "4165908",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": 375
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Barline Фундук, 375мл",
+                "masterData": {
+                    "slug": "sirop-barline-funduk-375ml",
+                    "plu": "4165912",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": 375
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Darbo Абрикос, 250г",
+                "masterData": {
+                    "slug": "konfitur-darbo-abrikos-250g",
+                    "plu": "4362955",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Мадагаскарская ваниль Маркет, 250мл",
+                "masterData": {
+                    "slug": "sirop-madagaskarskaa-vanil-market-250ml",
+                    "plu": "4277907",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Черносмородиновое Пр!ст, 380г",
+                "masterData": {
+                    "slug": "varene-cernosmorodinovoe-pr-st-380g",
+                    "plu": "4253745",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Noyan из белой черешни без косточек, 450г",
+                "masterData": {
+                    "slug": "varene-noyan-iz-beloj-ceresni-bez-kostocek-450g",
+                    "plu": "4332273",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из кизила Маркет, 330г",
+                "masterData": {
+                    "slug": "varene-iz-kizila-market-330g",
+                    "plu": "4304134",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем вишнёвый Пр!ст, 300г",
+                "masterData": {
+                    "slug": "dzem-visnevyj-pr-st-300g",
+                    "plu": "3903162",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Barline Блю Курасао, 375мл",
+                "masterData": {
+                    "slug": "sirop-barline-blu-kurasao-375ml",
+                    "plu": "4303602",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": 375
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Лукашинские абрикосовое, 450г",
+                "masterData": {
+                    "slug": "varene-lukasinskie-abrikosovoe-450g",
+                    "plu": "4106682",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор из киви, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-iz-kivi-350g",
+                    "plu": "4342707",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St. Dalfour вишнёвый, 170г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-visnevyj-170g",
+                    "plu": "4364105",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем малиновый Пр!ст, 300г",
+                "masterData": {
+                    "slug": "dzem-malinovyj-pr-st-300g",
+                    "plu": "3903158",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Мохито со вкусом лимона и мяты Маркет, 250мл",
+                "masterData": {
+                    "slug": "sirop-mohito-so-vkusom-limona-i-maty-market-250ml",
+                    "plu": "4277909",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из фейхоа Маркет, 330г",
+                "masterData": {
+                    "slug": "varene-iz-fejhoa-market-330g",
+                    "plu": "4304135",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Биоинвентика имбирный с лимоном фреш на сорбите, 250мл",
+                "masterData": {
+                    "slug": "sirop-bioinventika-imbirnyj-s-limonom-fres-na-sorbite-250ml",
+                    "plu": "4359763",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем клубничный Пр!ст, 300г",
+                "masterData": {
+                    "slug": "dzem-klubnicnyj-pr-st-300g",
+                    "plu": "3903160",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Лимон Лукашинские дробленный с сахаром, 450г",
+                "masterData": {
+                    "slug": "limon-lukasinskie-droblennyj-s-saharom-450g",
+                    "plu": "4106686",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Barline Ирландский, 375мл",
+                "masterData": {
+                    "slug": "sirop-barline-irlandskij-375ml",
+                    "plu": "4165905",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": 375
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Ипатов манговый чатни для сыра, 40г",
+                "masterData": {
+                    "slug": "dzem-ipatov-mangovyj-catni-dla-syra-40g",
+                    "plu": "4369886",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St. Dalfour клубничный, 170г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-klubnicnyj-170g",
+                    "plu": "4364107",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Лукашинские Домашнее клубничное, 450г",
+                "masterData": {
+                    "slug": "varene-lukasinskie-domasnee-klubnicnoe-450g",
+                    "plu": "4106683",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Лесные Угодья лимонный с имбирём, 280г",
+                "masterData": {
+                    "slug": "dzem-lesnye-ugoda-limonnyj-s-imbirem-280g",
+                    "plu": "4321942",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Маракуйя Маркет, 250мл",
+                "masterData": {
+                    "slug": "sirop-marakuja-market-250ml",
+                    "plu": "4277906",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор из манго, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-iz-mango-350g",
+                    "plu": "4343183",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ лимонный, 300г",
+                "masterData": {
+                    "slug": "dzem-maheev-limonnyj-300g",
+                    "plu": "3336641",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из белой черешни Маркет, 330г",
+                "masterData": {
+                    "slug": "varene-iz-beloj-ceresni-market-330g",
+                    "plu": "4304131",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Повидло клубничное Пр!ст, 500г",
+                "masterData": {
+                    "slug": "povidlo-klubnicnoe-pr-st-500g",
+                    "plu": "3503167",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем St. Dalfour вишнёвый, 284г",
+                "masterData": {
+                    "slug": "dzem-st-dalfour-visnevyj-284g",
+                    "plu": "35396",
+                    "unitName": "шт",
+                    "weight": 284,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Ратибор клубничный, 360г",
+                "masterData": {
+                    "slug": "dzem-ratibor-klubnicnyj-360g",
+                    "plu": "86313",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье клюквенное Маркет, 325г",
+                "masterData": {
+                    "slug": "varene-klukvennoe-market-325g",
+                    "plu": "4313419",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Barline Гренадин, 375мл",
+                "masterData": {
+                    "slug": "sirop-barline-grenadin-375ml",
+                    "plu": "4303625",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": 375
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп финиковый Зелёная Линия, 240мл",
+                "masterData": {
+                    "slug": "sirop-finikovyj-zelenaa-linia-240ml",
+                    "plu": "4038276",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Schwartau из кислой вишни, 340г",
+                "masterData": {
+                    "slug": "konfitur-schwartau-iz-kisloj-visni-340g",
+                    "plu": "4391452",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп голубой агавы тёмный Зелёная Линия, 240г",
+                "masterData": {
+                    "slug": "sirop-goluboj-agavy-temnyj-zelenaa-linia-240g",
+                    "plu": "4038275",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Манго Махеевъ протёртое с сахаром, 300мл",
+                "masterData": {
+                    "slug": "mango-maheev-protertoe-s-saharom-300ml",
+                    "plu": "4223222",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Ратибор вишнёвый, 360г",
+                "masterData": {
+                    "slug": "dzem-ratibor-visnevyj-360g",
+                    "plu": "86308",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Столбушино Сбитень натуральный прополис-травы-пряности, 340г",
+                "masterData": {
+                    "slug": "med-stolbusino-sbiten-naturalnyj-propolis-travy-pranosti-340g",
+                    "plu": "4098395",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор грушевый, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-grusevyj-350g",
+                    "plu": "3491217",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Соус Heinz Вкус Тоффи Карамель, 200г",
+                "masterData": {
+                    "slug": "sous-heinz-vkus-toffi-karamel-200g",
+                    "plu": "4363957",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Вишня с яблочным соком без сахара Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "visna-s-ablocnym-sokom-bez-sahara-zelenaa-linia-300g",
+                    "plu": "4335478",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Абрикосовое Пр!ст, 380г",
+                "masterData": {
+                    "slug": "varene-abrikosovoe-pr-st-380g",
+                    "plu": "4252943",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп голубой агавы светлый Зелёная Линия, 240г",
+                "masterData": {
+                    "slug": "sirop-goluboj-agavy-svetlyj-zelenaa-linia-240g",
+                    "plu": "4038274",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор из апельсина с лимоном, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-iz-apelsina-s-limonom-350g",
+                    "plu": "3491219",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Клубничное Пр!ст, 380г",
+                "masterData": {
+                    "slug": "varene-klubnicnoe-pr-st-380g",
+                    "plu": "4252950",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Купецкий Дом Посадъ из топинамбура с черникой, 330мл",
+                "masterData": {
+                    "slug": "sirop-kupeckij-dom-posad-iz-topinambura-s-cernikoj-330ml",
+                    "plu": "4234975",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Ратибор вишнёвый, 350г",
+                "masterData": {
+                    "slug": "konfitur-ratibor-visnevyj-350g",
+                    "plu": "3491216",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Клубничный Маркет, 250мл",
+                "masterData": {
+                    "slug": "sirop-klubnicnyj-market-250ml",
+                    "plu": "4277904",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Брусника без семян протёртая с сахаром, 200г",
+                "masterData": {
+                    "slug": "brusnika-bez-seman-protertaa-s-saharom-200g",
+                    "plu": "4357367",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Земляника садовая без сахара с яблочным соком Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "zemlanika-sadovaa-bez-sahara-s-ablocnym-sokom-zelenaa-linia-300g",
+                    "plu": "4335479",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из сосновых шишек Зелёная Линия, 240г",
+                "masterData": {
+                    "slug": "varene-iz-sosnovyh-sisek-zelenaa-linia-240g",
+                    "plu": "4327466",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ Вишнёвый, 400г",
+                "masterData": {
+                    "slug": "dzem-maheev-visnevyj-400g",
+                    "plu": "4204908",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Ратибор абрикосовый, 360г",
+                "masterData": {
+                    "slug": "dzem-ratibor-abrikosovyj-360g",
+                    "plu": "86307",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Повидло яблочное Пр!ст, 500г",
+                "masterData": {
+                    "slug": "povidlo-ablocnoe-pr-st-500g",
+                    "plu": "3503165",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Облепиха протёртая с сахаром Пр!ст, 350г",
+                "masterData": {
+                    "slug": "oblepiha-protertaa-s-saharom-pr-st-350g",
+                    "plu": "4252387",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Лесная Ягода Маркет, 325г",
+                "masterData": {
+                    "slug": "varene-lesnaa-agoda-market-325g",
+                    "plu": "4313426",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп со вкусом малины Маркет, 250мл",
+                "masterData": {
+                    "slug": "sirop-so-vkusom-maliny-market-250ml",
+                    "plu": "4277905",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп Соленая Карамель Маркет, 250 мл",
+                "masterData": {
+                    "slug": "sirop-solenaa-karamel-market-250-ml",
+                    "plu": "4277908",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сбитень Столбушино медовый с травами и пряностями Зелёная Линия, 250мл",
+                "masterData": {
+                    "slug": "sbiten-stolbusino-medovyj-s-travami-i-pranostami-zelenaa-linia-250ml",
+                    "plu": "4200319",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Клюква протёртая с сахаром Пр!ст, 350г",
+                "masterData": {
+                    "slug": "klukva-protertaa-s-saharom-pr-st-350g",
+                    "plu": "4252386",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg абрикосовый экстра, 320г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-abrikosovyj-ekstra-320g",
+                    "plu": "3354058",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Черника протёртая с сахаром Пр!ст, 350г",
+                "masterData": {
+                    "slug": "cernika-protertaa-s-saharom-pr-st-350g",
+                    "plu": "4252385",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ клубничный, 400г",
+                "masterData": {
+                    "slug": "dzem-maheev-klubnicnyj-400g",
+                    "plu": "3661658",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg клубничный экстра, 320г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-klubnicnyj-ekstra-320g",
+                    "plu": "3354061",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Десерт Экопродукт Премиум брусника, 330г",
+                "masterData": {
+                    "slug": "desert-ekoprodukt-premium-brusnika-330g",
+                    "plu": "3449818",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье из жимолости Маркет, 325г",
+                "masterData": {
+                    "slug": "varene-iz-zimolosti-market-325g",
+                    "plu": "4313424",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Топпинг Махеевъ мягкая карамель, 300мл",
+                "masterData": {
+                    "slug": "topping-maheev-magkaa-karamel-300ml",
+                    "plu": "4038129",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье абрикосовое стерилизованное Маркет Перекрёсток, 325г",
+                "masterData": {
+                    "slug": "varene-abrikosovoe-sterilizovannoe-market-perekrestok-325g",
+                    "plu": "4252165",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ из персика и манго, 400г",
+                "masterData": {
+                    "slug": "dzem-maheev-iz-persika-i-mango-400g",
+                    "plu": "3910897",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор инжир, 350г",
+                "masterData": {
+                    "slug": "varene-ratibor-inzir-350g",
+                    "plu": "4231227",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор из крыжовника, 350г",
+                "masterData": {
+                    "slug": "varene-ratibor-iz-kryzovnika-350g",
+                    "plu": "4231228",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg из абрикосов, 220г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-iz-abrikosov-220g",
+                    "plu": "4268617",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ груша и банан с экстрактом ванили нестерилизованный, 300г",
+                "masterData": {
+                    "slug": "dzem-maheev-grusa-i-banan-s-ekstraktom-vanili-nesterilizovannyj-300g",
+                    "plu": "4132416",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье брусничное Маркет, 325г",
+                "masterData": {
+                    "slug": "varene-brusnicnoe-market-325g",
+                    "plu": "4313422",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg Вильямс грушевый экстра, 320г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-vilams-grusevyj-ekstra-320g",
+                    "plu": "3404166",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Малиновое Пр!ст, 380г",
+                "masterData": {
+                    "slug": "varene-malinovoe-pr-st-380g",
+                    "plu": "4253746",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мед цветочный натуральный Маркет, 340г",
+                "masterData": {
+                    "slug": "med-cvetocnyj-naturalnyj-market-340g",
+                    "plu": "4355859",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье черносмородиновое стерилизованное Маркет Перекрёсток, 325г",
+                "masterData": {
+                    "slug": "varene-cernosmorodinovoe-sterilizovannoe-market-perekrestok-325g",
+                    "plu": "4252163",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп топинамбура Зелёная Линия, 240г",
+                "masterData": {
+                    "slug": "sirop-topinambura-zelenaa-linia-240g",
+                    "plu": "4369656",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Экопродукт малиновое, 1кг",
+                "masterData": {
+                    "slug": "varene-ekoprodukt-malinovoe-1kg",
+                    "plu": "13169",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд натуральный липовый Маркет, 500г",
+                "masterData": {
+                    "slug": "med-naturalnyj-lipovyj-market-500g",
+                    "plu": "4316603",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд натуральный монофлорный липовый дальневосточный Маркет, 500г",
+                "masterData": {
+                    "slug": "med-naturalnyj-monoflornyj-lipovyj-dalnevostocnyj-market-500g",
+                    "plu": "4316604",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg из инжира экстра, 330г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-iz-inzira-ekstra-330g",
+                    "plu": "3404165",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Гречишный натуральный монофлорный Маркет, 500г",
+                "masterData": {
+                    "slug": "med-grecisnyj-naturalnyj-monoflornyj-market-500g",
+                    "plu": "4320671",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Заповедные Угодья Орловское полесье гречишный натуральный, 500г",
+                "masterData": {
+                    "slug": "med-zapovednye-ugoda-orlovskoe-polese-grecisnyj-naturalnyj-500g",
+                    "plu": "3490696",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мед Берестов А.С. Алтайцвет Гречишный натуральный цветочный, 350г",
+                "masterData": {
+                    "slug": "med-berestov-a-s-altajcvet-grecisnyj-naturalnyj-cvetocnyj-350g",
+                    "plu": "4372210",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ Черничный, 300г",
+                "masterData": {
+                    "slug": "dzem-maheev-cernicnyj-300g",
+                    "plu": "3336645",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Сироп кленовый Зелёная Линия, 200мл",
+                "masterData": {
+                    "slug": "sirop-klenovyj-zelenaa-linia-200ml",
+                    "plu": "4155971",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ апельсиновый, 400г",
+                "masterData": {
+                    "slug": "dzem-maheev-apelsinovyj-400g",
+                    "plu": "3658465",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Конфитюр Zuegg клубника с земляникой с пониженной калорийностью, 220г",
+                "masterData": {
+                    "slug": "konfitur-zuegg-klubnika-s-zemlanikoj-s-ponizennoj-kalorijnostu-220g",
+                    "plu": "4267607",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор чёрная смородина, 350г",
+                "masterData": {
+                    "slug": "varene-ratibor-cernaa-smorodina-350g",
+                    "plu": "4231229",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Ратибор малиновый, 360г",
+                "masterData": {
+                    "slug": "dzem-ratibor-malinovyj-360g",
+                    "plu": "86314",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье клубничное Маркет Перекрёсток, 325г",
+                "masterData": {
+                    "slug": "varene-klubnicnoe-market-perekrestok-325g",
+                    "plu": "4252164",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье вишневое стерилизованное Маркет Перекрёсток, 325г",
+                "masterData": {
+                    "slug": "varene-visnevoe-sterilizovannoe-market-perekrestok-325g",
+                    "plu": "4252162",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Соус Heinz Шоколадный крем, 200мл",
+                "masterData": {
+                    "slug": "sous-heinz-sokoladnyj-krem-200ml",
+                    "plu": "4363958",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Заповедные Угодья Кубань белая акация натуральный, 500г",
+                "masterData": {
+                    "slug": "med-zapovednye-ugoda-kuban-belaa-akacia-naturalnyj-500g",
+                    "plu": "3490694",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Акациевый натуральный монофлорный Маркет, 500г",
+                "masterData": {
+                    "slug": "med-akacievyj-naturalnyj-monoflornyj-market-500g",
+                    "plu": "4320670",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Берестов А.С. Алтайцвет Майский натуральный цветочный, 350г",
+                "masterData": {
+                    "slug": "med-berestov-a-s-altajcvet-majskij-naturalnyj-cvetocnyj-350g",
+                    "plu": "4372211",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор вишнёвое, 350г",
+                "masterData": {
+                    "slug": "varene-ratibor-visnevoe-350g",
+                    "plu": "4198147",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Малина протёртая с сахаром без семян, 200г",
+                "masterData": {
+                    "slug": "malina-protertaa-s-saharom-bez-seman-200g",
+                    "plu": "4357379",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Берестов А.С. Алтайцвет Горный натуральный цветочный, 350г",
+                "masterData": {
+                    "slug": "med-berestov-a-s-altajcvet-gornyj-naturalnyj-cvetocnyj-350g",
+                    "plu": "4374858",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор абрикос, 350г",
+                "masterData": {
+                    "slug": "varene-ratibor-abrikos-350g",
+                    "plu": "4231222",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд цветочный луговой натуральный Маркет, 350г",
+                "masterData": {
+                    "slug": "med-cvetocnyj-lugovoj-naturalnyj-market-350g",
+                    "plu": "4331449",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ малиновый, 300г",
+                "masterData": {
+                    "slug": "dzem-maheev-malinovyj-300g",
+                    "plu": "3340191",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Джем Махеевъ клубничный, 300г",
+                "masterData": {
+                    "slug": "dzem-maheev-klubnicnyj-300g",
+                    "plu": "3369992",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Малина Ратибор протёртая с сахаром, 365 г",
+                "masterData": {
+                    "slug": "malina-ratibor-protertaa-s-saharom-365-g",
+                    "plu": "3660790",
+                    "unitName": "шт",
+                    "weight": 365,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Берестов А.С. Башкирхан Липовый натуральный цветочный, 350г",
+                "masterData": {
+                    "slug": "med-berestov-a-s-baskirhan-lipovyj-naturalnyj-cvetocnyj-350g",
+                    "plu": "4372209",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье малиновое стерилизованное Маркет Перекрёсток, 325г",
+                "masterData": {
+                    "slug": "varene-malinovoe-sterilizovannoe-market-perekrestok-325g",
+                    "plu": "4252161",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд липовый натуральный Маркет Перекрёсток, 350г",
+                "masterData": {
+                    "slug": "med-lipovyj-naturalnyj-market-perekrestok-350g",
+                    "plu": "3687698",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор Клубника, 350г",
+                "masterData": {
+                    "slug": "varene-ratibor-klubnika-350g",
+                    "plu": "4198148",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Варенье Ратибор малина, 360г",
+                "masterData": {
+                    "slug": "varene-ratibor-malina-360g",
+                    "plu": "4204893",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            },
+            {
+                "title": "Мёд Горный натуральный цветочный Маркет, 500г",
+                "masterData": {
+                    "slug": "med-gornyj-naturalnyj-cvetocnyj-market-500g",
+                    "plu": "4320672",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мёд, варенье",
+                    "id": 397
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,889 @@
+{
+    "cat_name": {
+        "cat_id": 248,
+        "items": [
+            {
+                "title": "Стартовый набор Glo Hyper деми синий model G403",
+                "masterData": {
+                    "slug": "startovyj-nabor-glo-hyper-demi-sinij-model-g403",
+                    "plu": "4168650",
+                    "unitName": "шт",
+                    "weight": 124,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Устройство доставки никотина CNPT Shift Клубника киви одноразового использования",
+                "masterData": {
+                    "slug": "ustrojstvo-dostavki-nikotina-cnpt-shift-klubnika-kivi-odnorazovogo-ispolzovania",
+                    "plu": "4315044",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Одноразовая электронная сигарета Brusko Vini с ароматом черники, 2мл",
+                "masterData": {
+                    "slug": "odnorazovaa-elektronnaa-sigareta-brusko-vini-s-aromatom-cerniki-2ml",
+                    "plu": "4375551",
+                    "unitName": "шт",
+                    "weight": 28,
+                    "volume": 2
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Lost Mary Лимонад голубика малина одноразового использования",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-lost-mary-limonad-golubika-malina-odnorazovogo-ispolzovania",
+                    "plu": "4321670",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Одноразовая электронная сигарета Brusko Vini с ароматом клубники, 2мл",
+                "masterData": {
+                    "slug": "odnorazovaa-elektronnaa-sigareta-brusko-vini-s-aromatom-klubniki-2ml",
+                    "plu": "4375549",
+                    "unitName": "шт",
+                    "weight": 28,
+                    "volume": 2
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Lost Mary Арбузный лёд одноразового использования",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-lost-mary-arbuznyj-led-odnorazovogo-ispolzovania",
+                    "plu": "4321671",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Одноразовая электронная сигарета Brusko Vini с ароматом мандарина, 2мл",
+                "masterData": {
+                    "slug": "odnorazovaa-elektronnaa-sigareta-brusko-vini-s-aromatom-mandarina-2ml",
+                    "plu": "4375552",
+                    "unitName": "шт",
+                    "weight": 28,
+                    "volume": 2
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Система нагревания табака lil Solid 3.0 синий",
+                "masterData": {
+                    "slug": "sistema-nagrevania-tabaka-lil-solid-3-0-sinij",
+                    "plu": "4419868",
+                    "unitName": "шт",
+                    "weight": 166,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Система нагревания табака lil Solid 3.0 золотой",
+                "masterData": {
+                    "slug": "sistema-nagrevania-tabaka-lil-solid-3-0-zolotoj",
+                    "plu": "4419869",
+                    "unitName": "шт",
+                    "weight": 166,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Mojimix Баблгам 5000 затяжек",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-mojimix-bablgam-5000-zatazek",
+                    "plu": "4292325",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Mojimix Голубика и лёд 5000 затяжек",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-mojimix-golubika-i-led-5000-zatazek",
+                    "plu": "4292328",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Стики Kent Stiks Berry Aroma",
+                "masterData": {
+                    "slug": "stiki-kent-stiks-berry-aroma",
+                    "plu": "4319603",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Mojimix Малиновый милкшейк 5000 затяжек",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-mojimix-malinovyj-milksejk-5000-zatazek",
+                    "plu": "4292329",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Одноразовая электронная сигарета Brusko Vini с ароматом манго, 2мл",
+                "masterData": {
+                    "slug": "odnorazovaa-elektronnaa-sigareta-brusko-vini-s-aromatom-mango-2ml",
+                    "plu": "4375550",
+                    "unitName": "шт",
+                    "weight": 28,
+                    "volume": 2
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Одноразовая электронная сигарета Brusko Vini с ароматом арбуза, 2мл",
+                "masterData": {
+                    "slug": "odnorazovaa-elektronnaa-sigareta-brusko-vini-s-aromatom-arbuza-2ml",
+                    "plu": "4375547",
+                    "unitName": "шт",
+                    "weight": 28,
+                    "volume": 2
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Одноразовая электронная сигарета Brusko Vini с ароматом винограда, 2мл",
+                "masterData": {
+                    "slug": "odnorazovaa-elektronnaa-sigareta-brusko-vini-s-aromatom-vinograda-2ml",
+                    "plu": "4375548",
+                    "unitName": "шт",
+                    "weight": 28,
+                    "volume": 2
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Палочки Iqos для чистки электрической системы нагревания табака, 10шт",
+                "masterData": {
+                    "slug": "palocki-iqos-dla-cistki-elektriceskoj-sistemy-nagrevania-tabaka-10st",
+                    "plu": "4119707",
+                    "unitName": "шт",
+                    "weight": 5,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Устройство Oxide ESM02/1 Клубника Киви одноразового использования",
+                "masterData": {
+                    "slug": "ustrojstvo-oxide-esm02-1-klubnika-kivi-odnorazovogo-ispolzovania",
+                    "plu": "4270386",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Стики Kent стикс Минт Арома",
+                "masterData": {
+                    "slug": "stiki-kent-stiks-mint-aroma",
+                    "plu": "4306111",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Устройство доставки никотина Plonq Max Розовый лимонад до 6000 затяжек",
+                "masterData": {
+                    "slug": "ustrojstvo-dostavki-nikotina-plonq-max-rozovyj-limonad-do-6000-zatazek",
+                    "plu": "4289940",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Устройство Glo Air I100 для нагревания табака",
+                "masterData": {
+                    "slug": "ustrojstvo-glo-air-i100-dla-nagrevania-tabaka",
+                    "plu": "4343541",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Устройство Glo Hyper Pro для нагревания табака в комплекте с USB-кабелем Type-C",
+                "masterData": {
+                    "slug": "ustrojstvo-glo-hyper-pro-dla-nagrevania-tabaka-v-komplekte-s-usb-kabelem-type-c",
+                    "plu": "4372190",
+                    "unitName": "шт",
+                    "weight": 95,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Neostick Demi Coffee Tobacco",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-neostick-demi-coffee-tobacco",
+                    "plu": "4410941",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Устройство Glo G410 для нагревания табака",
+                "masterData": {
+                    "slug": "ustrojstvo-glo-g410-dla-nagrevania-tabaka",
+                    "plu": "4334060",
+                    "unitName": "шт",
+                    "weight": 91,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Устройство для нагревания табака Glo Ultra I1300",
+                "masterData": {
+                    "slug": "ustrojstvo-dla-nagrevania-tabaka-glo-ultra-i1300",
+                    "plu": "4411952",
+                    "unitName": "шт",
+                    "weight": 88,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Стики Neostick Деми Чоко Тобакко с нагреваемым табаком",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-coko-tobakko-s-nagrevaemym-tabakom",
+                    "plu": "4358703",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Kent Руби буст тропик, пачка",
+                "masterData": {
+                    "slug": "stiki-kent-rubi-bust-tropik-packa",
+                    "plu": "4202455",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Деми Черри Тобакко с нагреваемым табаком",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-cerri-tobakko-s-nagrevaemym-tabakom",
+                    "plu": "4358702",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Устройство Lost Mary Арбуз и вишня электронная одноразового использования",
+                "masterData": {
+                    "slug": "ustrojstvo-lost-mary-arbuz-i-visna-elektronnaa-odnorazovogo-ispolzovania",
+                    "plu": "4321675",
+                    "unitName": "шт",
+                    "weight": 48,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Электронная система доставки никотина Lost Mary Лимонад черника малина одноразового использования",
+                "masterData": {
+                    "slug": "elektronnaa-sistema-dostavki-nikotina-lost-mary-limonad-cernika-malina-odnorazovogo-ispolzovania",
+                    "plu": "4321673",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Устройства",
+                    "id": 457
+                }
+            },
+            {
+                "title": "Стики Fiit Opal Change",
+                "masterData": {
+                    "slug": "stiki-fiit-opal-change",
+                    "plu": "4389609",
+                    "unitName": "шт",
+                    "weight": 13,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Табачные стики Fiit Silva Change",
+                "masterData": {
+                    "slug": "tabacnye-stiki-fiit-silva-change",
+                    "plu": "4389608",
+                    "unitName": "шт",
+                    "weight": 13,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Creations Arbor",
+                "masterData": {
+                    "slug": "stiki-heets-creations-arbor",
+                    "plu": "4327735",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Demi Creamy Tobacco",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-creamy-tobacco",
+                    "plu": "4060342",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Руби Буст, пачка",
+                "masterData": {
+                    "slug": "stiki-neostick-rubi-bust-packa",
+                    "plu": "3993423",
+                    "unitName": "шт",
+                    "weight": 33,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Деми Санрайз",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-sanrajz",
+                    "plu": "4373873",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Kent Stiks Rich Tobacco",
+                "masterData": {
+                    "slug": "stiki-kent-stiks-rich-tobacco",
+                    "plu": "4297999",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Creations Twilight",
+                "masterData": {
+                    "slug": "stiki-heets-creations-twilight",
+                    "plu": "4327736",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Kent Тобакко, пачка",
+                "masterData": {
+                    "slug": "stiki-kent-tobakko-packa",
+                    "plu": "4163862",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Velvet",
+                "masterData": {
+                    "slug": "stiki-fiit-velvet",
+                    "plu": "4372280",
+                    "unitName": "шт",
+                    "weight": 13,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Spring",
+                "masterData": {
+                    "slug": "stiki-fiit-spring",
+                    "plu": "4201258",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Табачные стики Neostick Деми Фрут клик",
+                "masterData": {
+                    "slug": "tabacnye-stiki-neostick-demi-frut-klik",
+                    "plu": "4060334",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Kent Руби буст, пачка",
+                "masterData": {
+                    "slug": "stiki-kent-rubi-bust-packa",
+                    "plu": "4202458",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Regular Deep",
+                "masterData": {
+                    "slug": "stiki-fiit-regular-deep",
+                    "plu": "4201255",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Табачные стики Neostick Деми Тропик клик",
+                "masterData": {
+                    "slug": "tabacnye-stiki-neostick-demi-tropik-klik",
+                    "plu": "4060341",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Tropic",
+                "masterData": {
+                    "slug": "stiki-fiit-tropic",
+                    "plu": "4126044",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Demi Red Moon",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-red-moon",
+                    "plu": "4335689",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Creations Sun",
+                "masterData": {
+                    "slug": "stiki-heets-creations-sun",
+                    "plu": "4327734",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Marine",
+                "masterData": {
+                    "slug": "stiki-fiit-marine",
+                    "plu": "4306616",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Regular Lil by Iqos",
+                "masterData": {
+                    "slug": "stiki-fiit-regular-lil-by-iqos",
+                    "plu": "4077680",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Деми Руби Буст, пачка",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-rubi-bust-packa",
+                    "plu": "4060337",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Kent Берри клик, пачка",
+                "masterData": {
+                    "slug": "stiki-kent-berri-klik-packa",
+                    "plu": "4163863",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Neostick Деми Ванилла Клик, пачка",
+                "masterData": {
+                    "slug": "stiki-neostick-demi-vanilla-klik-packa",
+                    "plu": "4114042",
+                    "unitName": "шт",
+                    "weight": 33,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Ruby Fuze",
+                "masterData": {
+                    "slug": "stiki-heets-ruby-fuze",
+                    "plu": "4187502",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Fiit Viola lil",
+                "masterData": {
+                    "slug": "stiki-fiit-viola-lil",
+                    "plu": "4077683",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Gold Selection от Parliament",
+                "masterData": {
+                    "slug": "stiki-heets-gold-selection-ot-parliament",
+                    "plu": "4002855",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Bronze Selection от Parliament",
+                "masterData": {
+                    "slug": "stiki-heets-bronze-selection-ot-parliament",
+                    "plu": "3981550",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Green Zing",
+                "masterData": {
+                    "slug": "stiki-heets-green-zing",
+                    "plu": "3938503",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Summer Breeze",
+                "masterData": {
+                    "slug": "stiki-heets-summer-breeze",
+                    "plu": "4144430",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets from Parliament Amber S",
+                "masterData": {
+                    "slug": "stiki-heets-from-parliament-amber-s",
+                    "plu": "3981551",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Slate",
+                "masterData": {
+                    "slug": "stiki-heets-slate",
+                    "plu": "4187501",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets Turquoise Selection от Parliament",
+                "masterData": {
+                    "slug": "stiki-heets-turquoise-selection-ot-parliament",
+                    "plu": "3981553",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            },
+            {
+                "title": "Стики Heets from Parliament Purple",
+                "masterData": {
+                    "slug": "stiki-heets-from-parliament-purple",
+                    "plu": "3981554",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Стики",
+                    "id": 458
+                }
+            }
+        ]
+    }
+}

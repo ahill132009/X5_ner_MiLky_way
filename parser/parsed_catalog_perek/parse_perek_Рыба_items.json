@@ -1,0 +1,3409 @@
+{
+    "cat_name": {
+        "cat_id": 174,
+        "items": [
+            {
+                "title": "Шпроты Вкусные Консервы крупные в масле, 160г",
+                "masterData": {
+                    "slug": "sproty-vkusnye-konservy-krupnye-v-masle-160g",
+                    "plu": "3468681",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Палтус стрелозубый филе порционное мороженое Люди Любят, 400г",
+                "masterData": {
+                    "slug": "paltus-strelozubyj-file-porcionnoe-morozenoe-ludi-lubat-400g",
+                    "plu": "4351940",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Форель паутинка сушеная, 300г",
+                "masterData": {
+                    "slug": "forel-pautinka-susenaa-300g",
+                    "plu": "4358257",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша Вяльково вяленая палочки, 30г",
+                "masterData": {
+                    "slug": "gorbusa-valkovo-valenaa-palocki-30g",
+                    "plu": "3611300",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Янтарная рыбка Тарань-ка солёно-сушёная филе, 100г",
+                "masterData": {
+                    "slug": "antarnaa-rybka-taran-ka-soleno-susenaa-file-100g",
+                    "plu": "3448529",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Kala Ranta натуральная кусочки, 200г",
+                "masterData": {
+                    "slug": "forel-kala-ranta-naturalnaa-kusocki-200g",
+                    "plu": "4383184",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Медальоны Владимир Рыба из форели радужной замороженные, 300г",
+                "masterData": {
+                    "slug": "medalony-vladimir-ryba-iz-foreli-raduznoj-zamorozennye-300g",
+                    "plu": "4403228",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Сельдь Vici по-корейски с кимчи, 200г",
+                "masterData": {
+                    "slug": "seld-vici-po-korejski-s-kimci-200g",
+                    "plu": "4423118",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сиг Риф филе-кусок на коже соленый охлажденный, 150г",
+                "masterData": {
+                    "slug": "sig-rif-file-kusok-na-koze-solenyj-ohlazdennyj-150g",
+                    "plu": "4289648",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан в масле с зеленью, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-v-masle-s-zelenu-200g",
+                    "plu": "48142",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Паста Крем-Фиш треска, 150г",
+                "masterData": {
+                    "slug": "pasta-krem-fis-treska-150g",
+                    "plu": "3664737",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Чавыча дальневосточная стейк с кожей Люди Любят",
+                "masterData": {
+                    "slug": "cavyca-dalnevostocnaa-stejk-s-kozej-ludi-lubat",
+                    "plu": "4389630",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сом Вяльково вяленый соломка, 40г",
+                "masterData": {
+                    "slug": "som-valkovo-valenyj-solomka-40g",
+                    "plu": "3626025",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Путассу Сухогруз сушёная с перцем, 70г",
+                "masterData": {
+                    "slug": "putassu-suhogruz-susenaa-s-percem-70g",
+                    "plu": "3360239",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Викинг атлантическая закуска в томатной заливке с овощами, 330г",
+                "masterData": {
+                    "slug": "seld-viking-atlanticeskaa-zakuska-v-tomatnoj-zalivke-s-ovosami-330g",
+                    "plu": "4060161",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Балтийский Берег Creme Le Mare с чесноком из морепродуктов, 150г",
+                "masterData": {
+                    "slug": "pasta-baltijskij-bereg-creme-le-mare-s-cesnokom-iz-moreproduktov-150g",
+                    "plu": "3655846",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сельдь Путина филе-кусочки в масле тихоокеанская, 150г",
+                "masterData": {
+                    "slug": "seld-putina-file-kusocki-v-masle-tihookeanskaa-150g",
+                    "plu": "4411821",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сиг EcoFood Armenia Севанский в томатном соусе, 240г",
+                "masterData": {
+                    "slug": "sig-ecofood-armenia-sevanskij-v-tomatnom-souse-240g",
+                    "plu": "3630750",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Сельдь атлантическая Меридиан филе-кусочки в маринаде с чёрной смородиной, 115г",
+                "masterData": {
+                    "slug": "seld-atlanticeskaa-meridian-file-kusocki-v-marinade-s-cernoj-smorodinoj-115g",
+                    "plu": "3413582",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь атлантическая Меридиан филе-кусочки в масле с можжевельником, 115г",
+                "masterData": {
+                    "slug": "seld-atlanticeskaa-meridian-file-kusocki-v-masle-s-mozzevelnikom-115g",
+                    "plu": "3413583",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Vici по-французски с дижонской горчицей, 200г",
+                "masterData": {
+                    "slug": "seld-vici-po-francuzski-s-dizonskoj-gorcicej-200g",
+                    "plu": "4423119",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Балтийский Берег по-царски тихоокеанская филе в масле, 400г",
+                "masterData": {
+                    "slug": "seld-baltijskij-bereg-po-carski-tihookeanskaa-file-v-masle-400g",
+                    "plu": "3682728",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сиг Риф обыкновенный холодного копчения ломтики охлажденный, 100г",
+                "masterData": {
+                    "slug": "sig-rif-obyknovennyj-holodnogo-kopcenia-lomtiki-ohlazdennyj-100g",
+                    "plu": "4289647",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Vici по-русски с огурцами и луком, 200г",
+                "masterData": {
+                    "slug": "seld-vici-po-russki-s-ogurcami-i-lukom-200g",
+                    "plu": "4423121",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Путассу северная Тарань-Ка Рыбка янтарная кусочки с красным перцем, 100г",
+                "masterData": {
+                    "slug": "putassu-severnaa-taran-ka-rybka-antarnaa-kusocki-s-krasnym-percem-100g",
+                    "plu": "4125014",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Крем-паста с антарктическим крилем Санта Бремор Антарктик-Криль с авокадо, 150г",
+                "masterData": {
+                    "slug": "krem-pasta-s-antarkticeskim-krilem-santa-bremor-antarktik-kril-s-avokado-150g",
+                    "plu": "4220133",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Осётр EcoFood натуральный в собственном соку, 240г",
+                "masterData": {
+                    "slug": "osetr-ecofood-naturalnyj-v-sobstvennom-soku-240g",
+                    "plu": "3438454",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Риет Путина Chef Rillettes из икры трески тихоокеанской с оливками и сыром пармезан, 100г",
+                "masterData": {
+                    "slug": "riet-putina-chef-rillettes-iz-ikry-treski-tihookeanskoj-s-olivkami-i-syrom-parmezan-100g",
+                    "plu": "4101416",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Набор пивной Иду с Рыбалки из кусочков очищенной вяленой рыбы, 120г",
+                "masterData": {
+                    "slug": "nabor-pivnoj-idu-s-rybalki-iz-kusockov-ocisennoj-valenoj-ryby-120g",
+                    "plu": "4354008",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Олива Олюторская слабосолёная",
+                "masterData": {
+                    "slug": "seld-oliva-olutorskaa-slabosolenaa",
+                    "plu": "4418026",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Медальоны Владимир Рыба из форели радужной и филе минтая мороженые, 300г",
+                "masterData": {
+                    "slug": "medalony-vladimir-ryba-iz-foreli-raduznoj-i-file-mintaa-morozenye-300g",
+                    "plu": "4406213",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Риет из скумбрии атлантической с черносливом Маркет Collection, 100г",
+                "masterData": {
+                    "slug": "riet-iz-skumbrii-atlanticeskoj-s-cernoslivom-market-collection-100g",
+                    "plu": "4354554",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Балтийский Берег варёный в масле с пряностями, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-baltijskij-bereg-varenyj-v-masle-s-pranostami-200g",
+                    "plu": "3999670",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Риет Путина Chef Rillettes из икры трески тихоокеанской с крабом камчатским, 100г",
+                "masterData": {
+                    "slug": "riet-putina-chef-rillettes-iz-ikry-treski-tihookeanskoj-s-krabom-kamcatskim-100g",
+                    "plu": "4101412",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Филе-кусочки в уксусно-масляной заливке, 280",
+                "masterData": {
+                    "slug": "seld-file-kusocki-v-uksusno-maslanoj-zalivke-280",
+                    "plu": "4255358",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сибас тушка потрошёная с головой с пряностями",
+                "masterData": {
+                    "slug": "sibas-tuska-potrosenaa-s-golovoj-s-pranostami",
+                    "plu": "4306791",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Атлантика филе-кусочки в масле с луком, 240г",
+                "masterData": {
+                    "slug": "seld-atlantika-file-kusocki-v-masle-s-lukom-240g",
+                    "plu": "4056955",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан отварной в желе с оливками и лимоном, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-otvarnoj-v-zele-s-olivkami-i-limonom-200g",
+                    "plu": "3467797",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сельдь Royal Fish филе-кусочки в масле с овощами, 330г",
+                "masterData": {
+                    "slug": "seld-royal-fish-file-kusocki-v-masle-s-ovosami-330g",
+                    "plu": "4252949",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Риет Меридиан пикантный из скумбрии, 100г",
+                "masterData": {
+                    "slug": "riet-meridian-pikantnyj-iz-skumbrii-100g",
+                    "plu": "3497737",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сайра тихоокеанская натуральная Пр!ст, 250г",
+                "masterData": {
+                    "slug": "sajra-tihookeanskaa-naturalnaa-pr-st-250g",
+                    "plu": "3653862",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Риет из форели радужной с мягким творогом Маркет Collection, 100г",
+                "masterData": {
+                    "slug": "riet-iz-foreli-raduznoj-s-magkim-tvorogom-market-collection-100g",
+                    "plu": "4354555",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Сардина холодного копчения неразделанная",
+                "masterData": {
+                    "slug": "sardina-holodnogo-kopcenia-nerazdelannaa",
+                    "plu": "4219585",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Кета Олива филе-ломтики холодного копчения, 120г",
+                "masterData": {
+                    "slug": "keta-oliva-file-lomtiki-holodnogo-kopcenia-120g",
+                    "plu": "4402191",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Олива по-датски тихоокеанская филе холодного копчения со специями, 150г",
+                "masterData": {
+                    "slug": "seld-oliva-po-datski-tihookeanskaa-file-holodnogo-kopcenia-so-speciami-150g",
+                    "plu": "4383568",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Нерка Олива филе-ломтики холодного копчения, 120г",
+                "masterData": {
+                    "slug": "nerka-oliva-file-lomtiki-holodnogo-kopcenia-120g",
+                    "plu": "4402012",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Щука Вяльково вяленая соломка, 40г",
+                "masterData": {
+                    "slug": "suka-valkovo-valenaa-solomka-40g",
+                    "plu": "3626024",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша натуральная Пр!ст, 250г",
+                "masterData": {
+                    "slug": "gorbusa-naturalnaa-pr-st-250g",
+                    "plu": "3653861",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Риет Меридиан из скумбрии с лесными грибами, 100г",
+                "masterData": {
+                    "slug": "riet-meridian-iz-skumbrii-s-lesnymi-gribami-100g",
+                    "plu": "3497739",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паштет из лососевых видов рыб Маркет, 125г",
+                "masterData": {
+                    "slug": "pastet-iz-lososevyh-vidov-ryb-market-125g",
+                    "plu": "4309361",
+                    "unitName": "шт",
+                    "weight": 125,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Кета Патипро соломка сушёно-вяленая, 40г",
+                "masterData": {
+                    "slug": "keta-patipro-solomka-suseno-valenaa-40g",
+                    "plu": "4404634",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Риет Путина Chef Rillettes из тунца пастеризованный, 100г",
+                "masterData": {
+                    "slug": "riet-putina-chef-rillettes-iz-tunca-pasterizovannyj-100g",
+                    "plu": "4101415",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Щупальца кальмара Балтийский Берег в чесночном соусе, 210г",
+                "masterData": {
+                    "slug": "supalca-kalmara-baltijskij-bereg-v-cesnocnom-souse-210g",
+                    "plu": "3275674",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Килька Барс балтийская неразделанная копчёная в томатном соусе, 250г",
+                "masterData": {
+                    "slug": "kilka-bars-baltijskaa-nerazdelannaa-kopcenaa-v-tomatnom-souse-250g",
+                    "plu": "4047699",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Риет Меридиан из тунца с луком и васаби, 100г",
+                "masterData": {
+                    "slug": "riet-meridian-iz-tunca-s-lukom-i-vasabi-100g",
+                    "plu": "4144441",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша + скумбрия Европром рубленая с чесноком, 180г",
+                "masterData": {
+                    "slug": "gorbusa-skumbria-evroprom-rublenaa-s-cesnokom-180g",
+                    "plu": "3940706",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Крем-Фиш горбуша-скумбрия, 150г",
+                "masterData": {
+                    "slug": "pasta-krem-fis-gorbusa-skumbria-150g",
+                    "plu": "4048658",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Vici традиционная филе-кусочки в масле, 150г",
+                "masterData": {
+                    "slug": "seld-vici-tradicionnaa-file-kusocki-v-masle-150g",
+                    "plu": "3345483",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Шпроты в масле из Балтийской кильки Маркет, 160г",
+                "masterData": {
+                    "slug": "sproty-v-masle-iz-baltijskoj-kilki-market-160g",
+                    "plu": "4261613",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Палтус синекорый филе без кожи мороженый Люди Любят, 400г",
+                "masterData": {
+                    "slug": "paltus-sinekoryj-file-bez-kozi-morozenyj-ludi-lubat-400g",
+                    "plu": "4414924",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая Leor по-домашнему солёная кусочки в масле, 300г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-leor-po-domasnemu-solenaa-kusocki-v-masle-300g",
+                    "plu": "4370920",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Марлин Олива филе-ломтики холодного копчения с базиликом-оливковым маслом-чесноком, 250г",
+                "masterData": {
+                    "slug": "marlin-oliva-file-lomtiki-holodnogo-kopcenia-s-bazilikom-olivkovym-maslom-cesnokom-250g",
+                    "plu": "4383569",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Муксун Риф ломтики холодного копчения, 100г",
+                "masterData": {
+                    "slug": "muksun-rif-lomtiki-holodnogo-kopcenia-100g",
+                    "plu": "3448329",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Vici к картошке филе-кусочки, 150г",
+                "masterData": {
+                    "slug": "seld-vici-k-kartoske-file-kusocki-150g",
+                    "plu": "3356206",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Треска Borealis Бакаляо По-Мурмански атлантическая филе с кожей замороженная, 600г",
+                "masterData": {
+                    "slug": "treska-borealis-bakalao-po-murmanski-atlanticeskaa-file-s-kozej-zamorozennaa-600g",
+                    "plu": "4406364",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Сёмга Silver Fish сухого посола слабосоленая ломтики, 100г",
+                "masterData": {
+                    "slug": "semga-silver-fish-suhogo-posola-slabosolenaa-lomtiki-100g",
+                    "plu": "4341161",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Семга Патитпро паутинка сушёно-вяленая, 40г",
+                "masterData": {
+                    "slug": "semga-patitpro-pautinka-suseno-valenaa-40g",
+                    "plu": "4325010",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Палтус Extra Fish чёрный кусочки холодного копчения, 100г",
+                "masterData": {
+                    "slug": "paltus-extra-fish-cernyj-kusocki-holodnogo-kopcenia-100g",
+                    "plu": "4394700",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паштет Формула ГОСТа из печени и икры тресковых рыб, 220г",
+                "masterData": {
+                    "slug": "pastet-formula-gosta-iz-peceni-i-ikry-treskovyh-ryb-220g",
+                    "plu": "4029977",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Нерка Олива филе-ломтики слабосолёная, 120г",
+                "masterData": {
+                    "slug": "nerka-oliva-file-lomtiki-slabosolenaa-120g",
+                    "plu": "4402189",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша + скумбрия Европром рубленая с ароматом копчения, 180г",
+                "masterData": {
+                    "slug": "gorbusa-skumbria-evroprom-rublenaa-s-aromatom-kopcenia-180g",
+                    "plu": "3940708",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Килька 5 Морей натуральная в томатном соусе, 240г",
+                "masterData": {
+                    "slug": "kilka-5-morej-naturalnaa-v-tomatnom-souse-240g",
+                    "plu": "39501",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Паста Санта Бремор Сальса из мяса мидии чилийской, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-salsa-iz-masa-midii-cilijskoj-150g",
+                    "plu": "4381625",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Форель Патипро паутинка сушёно-вяленая, 40г",
+                "masterData": {
+                    "slug": "forel-patipro-pautinka-suseno-valenaa-40g",
+                    "plu": "4322983",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан Мехико в масле с пряностями, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-mehiko-v-masle-s-pranostami-200g",
+                    "plu": "48143",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сельдь Vici филе традиционное, 240г",
+                "masterData": {
+                    "slug": "seld-vici-file-tradicionnoe-240g",
+                    "plu": "2117233",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Royal Fish тихоокеанская солёная филе-кусочки в майонезно-горчичной заливке, 330г",
+                "masterData": {
+                    "slug": "seld-royal-fish-tihookeanskaa-solenaa-file-kusocki-v-majonezno-gorcicnoj-zalivke-330g",
+                    "plu": "4238247",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Масло селёдочно-икорное Санта Бремор Бутербродное, 100г",
+                "masterData": {
+                    "slug": "maslo-seledocno-ikornoe-santa-bremor-buterbrodnoe-100g",
+                    "plu": "4119669",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Янтарная рыбка Сухогруз сушёная филе, 70г",
+                "masterData": {
+                    "slug": "antarnaa-rybka-suhogruz-susenaa-file-70g",
+                    "plu": "3360236",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сардина Доброфлот тихоокеанская тушка копчёная в масле, 210г",
+                "masterData": {
+                    "slug": "sardina-dobroflot-tihookeanskaa-tuska-kopcenaa-v-masle-210g",
+                    "plu": "3932486",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Семга Gustafsen филе-кусок солёная, 150г",
+                "masterData": {
+                    "slug": "semga-gustafsen-file-kusok-solenaa-150g",
+                    "plu": "4357050",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Санта Бремор кальмар рубленый в сливочном соусе с креветкой, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-kalmar-rublenyj-v-slivocnom-souse-s-krevetkoj-150g",
+                    "plu": "4208166",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Окунь морской филе на коже мороженый Люди Любят, 500г",
+                "masterData": {
+                    "slug": "okun-morskoj-file-na-koze-morozenyj-ludi-lubat-500g",
+                    "plu": "4334005",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Сельдь филе Санта Бремор Матиас свежая зелень, 250г",
+                "masterData": {
+                    "slug": "seld-file-santa-bremor-matias-svezaa-zelen-250g",
+                    "plu": "3164086",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая натуральная с добавлением масла куски Люди Любят, 240г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-naturalnaa-s-dobavleniem-masla-kuski-ludi-lubat-240g",
+                    "plu": "4323677",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Филе сельди атлантической слабосолёной с приправами в масле Люди Любят, 250г",
+                "masterData": {
+                    "slug": "file-seldi-atlanticeskoj-slabosolenoj-s-pripravami-v-masle-ludi-lubat-250g",
+                    "plu": "4366965",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Кета Ловим&Вялим соломка вяленая, 50г",
+                "masterData": {
+                    "slug": "keta-lovim-valim-solomka-valenaa-50g",
+                    "plu": "4241716",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан в масле, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-v-masle-200g",
+                    "plu": "48140",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сельдь Vici к картошке в масле филе, 240г",
+                "masterData": {
+                    "slug": "seld-vici-k-kartoske-v-masle-file-240g",
+                    "plu": "2154169",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Балтийский Берег Creme Le Mare сливочная из морепродуктов, 150г",
+                "masterData": {
+                    "slug": "pasta-baltijskij-bereg-creme-le-mare-slivocnaa-iz-moreproduktov-150g",
+                    "plu": "3655792",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Тунец желтоперый филе-кусочки без кожи мороженый Люди Любят, 500г",
+                "masterData": {
+                    "slug": "tunec-zeltoperyj-file-kusocki-bez-kozi-morozenyj-ludi-lubat-500g",
+                    "plu": "4364734",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Тунец Магуро филе натуральное, 200г",
+                "masterData": {
+                    "slug": "tunec-maguro-file-naturalnoe-200g",
+                    "plu": "3607426",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Мидии Vici варёно-копчёные маринованные в масле, 200г",
+                "masterData": {
+                    "slug": "midii-vici-vareno-kopcenye-marinovannye-v-masle-200g",
+                    "plu": "4167221",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Лещ Тарань-ка солёно-сушёный неразделанный, 250г",
+                "masterData": {
+                    "slug": "les-taran-ka-soleno-susenyj-nerazdelannyj-250g",
+                    "plu": "3448516",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сёмга Русское Море филе-ломтики слабосолёная, 120г",
+                "masterData": {
+                    "slug": "semga-russkoe-more-file-lomtiki-slabosolenaa-120g",
+                    "plu": "3387453",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Икра Люди Любят Классик с копчёным лососем в соусе деликатесная, 180г",
+                "masterData": {
+                    "slug": "ikra-ludi-lubat-klassik-s-kopcenym-lososem-v-souse-delikatesnaa-180g",
+                    "plu": "4366961",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Шпроты Вкусные Консервы в масле, 160г",
+                "masterData": {
+                    "slug": "sproty-vkusnye-konservy-v-masle-160g",
+                    "plu": "3475329",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Сельдь Матиас филе в масле с ароматом дыма, 250г",
+                "masterData": {
+                    "slug": "seld-matias-file-v-masle-s-aromatom-dyma-250g",
+                    "plu": "79544",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша + скумбрия Европром рубленая, 180г",
+                "masterData": {
+                    "slug": "gorbusa-skumbria-evroprom-rublenaa-180g",
+                    "plu": "3940705",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Вобла \tRыба&Sоль вяленая неразделанная, 200г",
+                "masterData": {
+                    "slug": "vobla-ryba-sol-valenaa-nerazdelannaa-200g",
+                    "plu": "3679378",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Шпроты Барс из балтийской кильки в масле, 175г",
+                "masterData": {
+                    "slug": "sproty-bars-iz-baltijskoj-kilki-v-masle-175g",
+                    "plu": "3633223",
+                    "unitName": "шт",
+                    "weight": 175,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Масло лососёвое Санта Бремор Бутербродное, 100г",
+                "masterData": {
+                    "slug": "maslo-lososevoe-santa-bremor-buterbrodnoe-100g",
+                    "plu": "4118408",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Санта Бремор Антарктик криль сливочно-чесночный из морепродуктов, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-antarktik-kril-slivocno-cesnocnyj-iz-moreproduktov-150g",
+                    "plu": "3463949",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Путассу Северная Рыбка янтарная сушено-вяленая кусочки с перцем Люди Любят, 70г",
+                "masterData": {
+                    "slug": "putassu-severnaa-rybka-antarnaa-suseno-valenaa-kusocki-s-percem-ludi-lubat-70g",
+                    "plu": "4357086",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Санта Бремор с тунцом и лососем, 140г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-s-tuncom-i-lososem-140g",
+                    "plu": "4336168",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Шпроты Барс из балтийской кильки в масле, 160г",
+                "masterData": {
+                    "slug": "sproty-bars-iz-baltijskoj-kilki-v-masle-160g",
+                    "plu": "3504456",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Филе сельди атлантической слабосолёной в масле Люди Любят, 250г",
+                "masterData": {
+                    "slug": "file-seldi-atlanticeskoj-slabosolenoj-v-masle-ludi-lubat-250g",
+                    "plu": "4366964",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Ряпушка Лисий нос горячего копчения, 250г",
+                "masterData": {
+                    "slug": "rapuska-lisij-nos-goracego-kopcenia-250g",
+                    "plu": "3980280",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Санта Бремор Антарктик криль подкопчённый из морепродуктов, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-antarktik-kril-podkopcennyj-iz-moreproduktov-150g",
+                    "plu": "3463948",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Кета Патипро соломка сушено-вяленая",
+                "masterData": {
+                    "slug": "keta-patipro-solomka-suseno-valenaa",
+                    "plu": "4118955",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец скипджек рубленый в масле Новый Океан, 185г",
+                "masterData": {
+                    "slug": "tunec-skipdzek-rublenyj-v-masle-novyj-okean-185g",
+                    "plu": "4003716",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Сельдь Vici из бочки филе с кожей в рассоле с пряностями, 250г",
+                "masterData": {
+                    "slug": "seld-vici-iz-bocki-file-s-kozej-v-rassole-s-pranostami-250g",
+                    "plu": "3504605",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Жёлтый полосатик Сухогруз сушёный, 70г",
+                "masterData": {
+                    "slug": "zeltyj-polosatik-suhogruz-susenyj-70g",
+                    "plu": "2173043",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Кета Олива филе-ломтики слабосолёная, 120г",
+                "masterData": {
+                    "slug": "keta-oliva-file-lomtiki-slabosolenaa-120g",
+                    "plu": "4402190",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Путассу северная сушено-вяленая соломка Люди Любят, 70г",
+                "masterData": {
+                    "slug": "putassu-severnaa-suseno-valenaa-solomka-ludi-lubat-70g",
+                    "plu": "4357087",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Масляная Посейдон холодного копчения ломтики, 100г",
+                "masterData": {
+                    "slug": "maslanaa-posejdon-holodnogo-kopcenia-lomtiki-100g",
+                    "plu": "4338363",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия Доброфлот дальневосточная натуральная в масле, 245г",
+                "masterData": {
+                    "slug": "skumbria-dobroflot-dalnevostocnaa-naturalnaa-v-masle-245g",
+                    "plu": "3507133",
+                    "unitName": "шт",
+                    "weight": 245,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Форель Agama радужная слабосолёная филе-кусок с кожей, 180г",
+                "masterData": {
+                    "slug": "forel-agama-raduznaa-slabosolenaa-file-kusok-s-kozej-180g",
+                    "plu": "4404805",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Шпроты За Родину из балтийской кильки в масле, 160г",
+                "masterData": {
+                    "slug": "sproty-za-rodinu-iz-baltijskoj-kilki-v-masle-160g",
+                    "plu": "3503292",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Шпроты Вкусные Консервы крупные в масле, 240г",
+                "masterData": {
+                    "slug": "sproty-vkusnye-konservy-krupnye-v-masle-240g",
+                    "plu": "3468684",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Горбуша Русское Море кусочки холодного копчения, 500г",
+                "masterData": {
+                    "slug": "gorbusa-russkoe-more-kusocki-holodnogo-kopcenia-500g",
+                    "plu": "4085866",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Смачная кусочек полупотрошёной рыбы пряного посола, 500г",
+                "masterData": {
+                    "slug": "seld-smacnaa-kusocek-polupotrosenoj-ryby-pranogo-posola-500g",
+                    "plu": "4362445",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Сильвер Фиш слабосолёная филе ломтики, 100г",
+                "masterData": {
+                    "slug": "forel-silver-fis-slabosolenaa-file-lomtiki-100g",
+                    "plu": "4341150",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Килька балтийская пряного посола",
+                "masterData": {
+                    "slug": "kilka-baltijskaa-pranogo-posola",
+                    "plu": "2082453",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Дары Океана радужная слабосоленая филе-кусок с кожей, 180г",
+                "masterData": {
+                    "slug": "forel-dary-okeana-raduznaa-slabosolenaa-file-kusok-s-kozej-180g",
+                    "plu": "4225470",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Икра Люди Любят Классик с креветкой в соусе деликатесная, 180г",
+                "masterData": {
+                    "slug": "ikra-ludi-lubat-klassik-s-krevetkoj-v-souse-delikatesnaa-180g",
+                    "plu": "4366960",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Бычки Пролив обжаренные в томатном соусе, 240г",
+                "masterData": {
+                    "slug": "bycki-proliv-obzarennye-v-tomatnom-souse-240g",
+                    "plu": "3934770",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Треска атлантическая Borealis стейк замороженный, 600г",
+                "masterData": {
+                    "slug": "treska-atlanticeskaa-borealis-stejk-zamorozennyj-600g",
+                    "plu": "4023639",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Горбуша соломка вяленая Люди Любят, 40г",
+                "masterData": {
+                    "slug": "gorbusa-solomka-valenaa-ludi-lubat-40g",
+                    "plu": "4357085",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Agama атлантическая слабосолёная филе-кусочки в масле, 400г",
+                "masterData": {
+                    "slug": "seld-agama-atlanticeskaa-slabosolenaa-file-kusocki-v-masle-400g",
+                    "plu": "4404804",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная паутинка сушёная Люди Любят, 70г",
+                "masterData": {
+                    "slug": "forel-raduznaa-pautinka-susenaa-ludi-lubat-70g",
+                    "plu": "4413545",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Косичка Атлантика горбуша дальневосточная-скумбрия атлантическая, 200г",
+                "masterData": {
+                    "slug": "kosicka-atlantika-gorbusa-dalnevostocnaa-skumbria-atlanticeskaa-200g",
+                    "plu": "4414300",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец Fortuna рубленый в масле, 185г",
+                "masterData": {
+                    "slug": "tunec-fortuna-rublenyj-v-masle-185g",
+                    "plu": "72319",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Тунец Меридиан желтоперый филе кусочки отварной в желе, 200г",
+                "masterData": {
+                    "slug": "tunec-meridian-zeltoperyj-file-kusocki-otvarnoj-v-zele-200g",
+                    "plu": "4271835",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Печень трески атлантической Гостово натуральная, 115г",
+                "masterData": {
+                    "slug": "pecen-treski-atlanticeskoj-gostovo-naturalnaa-115g",
+                    "plu": "3967288",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Форель радужная ломтики холодного копчения охлаждённая Люди Любят, 120г",
+                "masterData": {
+                    "slug": "forel-raduznaa-lomtiki-holodnogo-kopcenia-ohlazdennaa-ludi-lubat-120g",
+                    "plu": "4426112",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Шпроты Вкусные Консервы в масле, 240г",
+                "masterData": {
+                    "slug": "sproty-vkusnye-konservy-v-masle-240g",
+                    "plu": "3468682",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Скумбрия Extra Fish атлантическая солёная кусочки, 300г",
+                "masterData": {
+                    "slug": "skumbria-extra-fish-atlanticeskaa-solenaa-kusocki-300g",
+                    "plu": "4369340",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Рыба масляная филе холодного копчения",
+                "masterData": {
+                    "slug": "ryba-maslanaa-file-holodnogo-kopcenia",
+                    "plu": "3140126",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Атлантика Малосольная филе-кусочки в масле, 240г",
+                "masterData": {
+                    "slug": "seld-atlantika-malosolnaa-file-kusocki-v-masle-240g",
+                    "plu": "4056953",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Икра Санта Бремор Классическая, 180г",
+                "masterData": {
+                    "slug": "ikra-santa-bremor-klassiceskaa-180g",
+                    "plu": "3976385",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Анчоус Сухогруз сушёный, 70г",
+                "masterData": {
+                    "slug": "ancous-suhogruz-susenyj-70g",
+                    "plu": "3022552",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Рыба Сильвер Фиш масляная холодного копчения ломтики, 100г",
+                "masterData": {
+                    "slug": "ryba-silver-fis-maslanaa-holodnogo-kopcenia-lomtiki-100g",
+                    "plu": "4347723",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Крем-Фиш кальмар-креветка, 150г",
+                "masterData": {
+                    "slug": "pasta-krem-fis-kalmar-krevetka-150g",
+                    "plu": "3664715",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Тунец полосатый мелко рубленный Пр!ст, 185г",
+                "masterData": {
+                    "slug": "tunec-polosatyj-melko-rublennyj-pr-st-185g",
+                    "plu": "4186335",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая Borealis неразделанная замороженная, 1000г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-borealis-nerazdelannaa-zamorozennaa-1000g",
+                    "plu": "4135488",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Шпроты Вкусные Консервы в масле, 175г",
+                "masterData": {
+                    "slug": "sproty-vkusnye-konservy-v-masle-175g",
+                    "plu": "3469704",
+                    "unitName": "шт",
+                    "weight": 175,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Форель Silver Fish слабосолёная с розмарином, 120г",
+                "masterData": {
+                    "slug": "forel-silver-fish-slabosolenaa-s-rozmarinom-120g",
+                    "plu": "4408134",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Русское море филе слабосоленая бочковая традиционный посол в заливке, 230г",
+                "masterData": {
+                    "slug": "seld-russkoe-more-file-slabosolenaa-bockovaa-tradicionnyj-posol-v-zalivke-230g",
+                    "plu": "4364450",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Судак филе на коже мороженый Люди Любят, 400г",
+                "masterData": {
+                    "slug": "sudak-file-na-koze-morozenyj-ludi-lubat-400g",
+                    "plu": "4334006",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Форель радужная балык холодного копчения",
+                "masterData": {
+                    "slug": "forel-raduznaa-balyk-holodnogo-kopcenia",
+                    "plu": "4104139",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Царская с укропом тихоокеанская слабосолёная филе-кусочки в масле Люди Любят, 400г",
+                "masterData": {
+                    "slug": "seld-carskaa-s-ukropom-tihookeanskaa-slabosolenaa-file-kusocki-v-masle-ludi-lubat-400g",
+                    "plu": "4367699",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Царская тихоокеанская слабосолёная филе-кусочки в масле Люди Любят, 400г",
+                "masterData": {
+                    "slug": "seld-carskaa-tihookeanskaa-slabosolenaa-file-kusocki-v-masle-ludi-lubat-400g",
+                    "plu": "4367712",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сардина Доброфлот тихоокеанская Иваси натуральная, 245г",
+                "masterData": {
+                    "slug": "sardina-dobroflot-tihookeanskaa-ivasi-naturalnaa-245g",
+                    "plu": "3613299",
+                    "unitName": "шт",
+                    "weight": 245,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Горбуша Люди Любят Косичка кусочки копчёные, 200г",
+                "masterData": {
+                    "slug": "gorbusa-ludi-lubat-kosicka-kusocki-kopcenye-200g",
+                    "plu": "4419950",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Меридиан филе-кусочки в красной-винной заливке, 280г",
+                "masterData": {
+                    "slug": "seld-meridian-file-kusocki-v-krasnoj-vinnoj-zalivke-280g",
+                    "plu": "4255361",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша филе-ломтики холодного копчения Люди Любят, 150г",
+                "masterData": {
+                    "slug": "gorbusa-file-lomtiki-holodnogo-kopcenia-ludi-lubat-150g",
+                    "plu": "4353726",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец скипджек филе-кусок в масле Новый Океан, 185г",
+                "masterData": {
+                    "slug": "tunec-skipdzek-file-kusok-v-masle-novyj-okean-185g",
+                    "plu": "4003714",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Горбуша Курильский Берег натуральная, 250г",
+                "masterData": {
+                    "slug": "gorbusa-kurilskij-bereg-naturalnaa-250g",
+                    "plu": "3900135",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Скумбрия Меридиан отварная в желе, 200г",
+                "masterData": {
+                    "slug": "skumbria-meridian-otvarnaa-v-zele-200g",
+                    "plu": "74103",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Килька Балтийский Берег из филе кильки балтийской пряного посола в масле, 145г",
+                "masterData": {
+                    "slug": "kilka-baltijskij-bereg-iz-file-kilki-baltijskoj-pranogo-posola-v-masle-145g",
+                    "plu": "3293722",
+                    "unitName": "шт",
+                    "weight": 145,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Килька Вкусные Консервы неразделанная обжаренная в томатном соусе, 240г",
+                "masterData": {
+                    "slug": "kilka-vkusnye-konservy-nerazdelannaa-obzarennaa-v-tomatnom-souse-240g",
+                    "plu": "3468685",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Горбуша Русское Море горячего копчения обезглавленная, 500г",
+                "masterData": {
+                    "slug": "gorbusa-russkoe-more-goracego-kopcenia-obezglavlennaa-500g",
+                    "plu": "4085862",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь атлантическая Матиас XXL отборная филе слабосолёное в масле, 300г",
+                "masterData": {
+                    "slug": "seld-atlanticeskaa-matias-xxl-otbornaa-file-slabosolenoe-v-masle-300g",
+                    "plu": "4147685",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь тихоокеанская филе без кожи соленая, 200г",
+                "masterData": {
+                    "slug": "seld-tihookeanskaa-file-bez-kozi-solenaa-200g",
+                    "plu": "4219588",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша филе-ломтики слабосолёная Люди Любят, 150г",
+                "masterData": {
+                    "slug": "gorbusa-file-lomtiki-slabosolenaa-ludi-lubat-150g",
+                    "plu": "4352643",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Паста Санта Бремор Антарктик криль классический из морепродуктов, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-antarktik-kril-klassiceskij-iz-moreproduktov-150g",
+                    "plu": "3463947",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Балтийский Берег оливковый маре варёный в масле, 380г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-baltijskij-bereg-olivkovyj-mare-varenyj-v-masle-380g",
+                    "plu": "4045867",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сельдь Матиас ХХL Отборная филе-кусочки в масле, 200г",
+                "masterData": {
+                    "slug": "seld-matias-hhl-otbornaa-file-kusocki-v-masle-200g",
+                    "plu": "3497722",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Русское море Селедочка аппетитная филе-кусочки тихоокеанская слабосолёная в масле, 400г",
+                "masterData": {
+                    "slug": "seld-russkoe-more-seledocka-appetitnaa-file-kusocki-tihookeanskaa-slabosolenaa-v-masle-400g",
+                    "plu": "4360965",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Кальмар Два капитана командорский отварной соломка в рассоле, 310г",
+                "masterData": {
+                    "slug": "kalmar-dva-kapitana-komandorskij-otvarnoj-solomka-v-rassole-310g",
+                    "plu": "4045871",
+                    "unitName": "шт",
+                    "weight": 310,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Филе-кусочки сельди Матиас атлантической слабосоленые отборные в масле, 400г",
+                "masterData": {
+                    "slug": "file-kusocki-seldi-matias-atlanticeskoj-slabosolenye-otbornye-v-masle-400g",
+                    "plu": "4225103",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец желтоперый филе-кусок без кожи мороженый Люди Любят, 400г",
+                "masterData": {
+                    "slug": "tunec-zeltoperyj-file-kusok-bez-kozi-morozenyj-ludi-lubat-400g",
+                    "plu": "4364733",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Вобла Люди Любят вяленая неразделанная, 200г",
+                "masterData": {
+                    "slug": "vobla-ludi-lubat-valenaa-nerazdelannaa-200g",
+                    "plu": "4356893",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Минтай Сухогруз сушёный нарезка, 70г",
+                "masterData": {
+                    "slug": "mintaj-suhogruz-susenyj-narezka-70g",
+                    "plu": "3400074",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Треска Меридиан отварная в желе, 200г",
+                "masterData": {
+                    "slug": "treska-meridian-otvarnaa-v-zele-200g",
+                    "plu": "99330",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия Gustafsen холодного копчения кусочки, 280г",
+                "masterData": {
+                    "slug": "skumbria-gustafsen-holodnogo-kopcenia-kusocki-280g",
+                    "plu": "4183756",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Нерка балык холодного копчения",
+                "masterData": {
+                    "slug": "nerka-balyk-holodnogo-kopcenia",
+                    "plu": "3314015",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Икра Санта Бремор с креветкой, 180г",
+                "masterData": {
+                    "slug": "ikra-santa-bremor-s-krevetkoj-180g",
+                    "plu": "3983177",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Килька каспийская Балтийский Берег неразделанная пряного посола, 400г",
+                "masterData": {
+                    "slug": "kilka-kaspijskaa-baltijskij-bereg-nerazdelannaa-pranogo-posola-400g",
+                    "plu": "4181525",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец холодного копчения",
+                "masterData": {
+                    "slug": "tunec-holodnogo-kopcenia",
+                    "plu": "4318647",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Камбала желтоперая филе порционное мороженое Люди Любят, 400г",
+                "masterData": {
+                    "slug": "kambala-zeltoperaa-file-porcionnoe-morozenoe-ludi-lubat-400g",
+                    "plu": "4351941",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Мойва ЭкстраФиш с головой холодного копчения, 200г",
+                "masterData": {
+                    "slug": "mojva-ekstrafis-s-golovoj-holodnogo-kopcenia-200g",
+                    "plu": "4227589",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия Vici атлантическая кусочки холодного копчения, 300г",
+                "masterData": {
+                    "slug": "skumbria-vici-atlanticeskaa-kusocki-holodnogo-kopcenia-300g",
+                    "plu": "4395006",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель замороженная стейк",
+                "masterData": {
+                    "slug": "forel-zamorozennaa-stejk",
+                    "plu": "4410128",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Форель Профорель радужная слабосоленая филе-кусок, 200г",
+                "masterData": {
+                    "slug": "forel-proforel-raduznaa-slabosolenaa-file-kusok-200g",
+                    "plu": "4385961",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная филе-кусок слабосолёная Пр!ст, 130г",
+                "masterData": {
+                    "slug": "forel-raduznaa-file-kusok-slabosolenaa-pr-st-130g",
+                    "plu": "4066444",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Жёлтый полосатик сушено-вяленый Люди Любят, 70г",
+                "masterData": {
+                    "slug": "zeltyj-polosatik-suseno-valenyj-ludi-lubat-70g",
+                    "plu": "4380561",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Люди Любят ломтики слабосолёные, 120г",
+                "masterData": {
+                    "slug": "forel-ludi-lubat-lomtiki-slabosolenye-120g",
+                    "plu": "4412699",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Салака балтийская Leor холодного копчения неразделанная, 300г",
+                "masterData": {
+                    "slug": "salaka-baltijskaa-leor-holodnogo-kopcenia-nerazdelannaa-300g",
+                    "plu": "3636787",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Корюшка Русский рыбный мир вяленая, 300г",
+                "masterData": {
+                    "slug": "koruska-russkij-rybnyj-mir-valenaa-300g",
+                    "plu": "3479036",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия горячего копчения без головы",
+                "masterData": {
+                    "slug": "skumbria-goracego-kopcenia-bez-golovy",
+                    "plu": "16857",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша Жемчужина Сахалина натуральная, 240г",
+                "masterData": {
+                    "slug": "gorbusa-zemcuzina-sahalina-naturalnaa-240g",
+                    "plu": "4412886",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая Русское Море горячего копчения без головы, 300г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-russkoe-more-goracego-kopcenia-bez-golovy-300g",
+                    "plu": "3652287",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая Русское Море холодного копчения без головы, 300г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-russkoe-more-holodnogo-kopcenia-bez-golovy-300g",
+                    "plu": "3493288",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Осётр горячего копчения",
+                "masterData": {
+                    "slug": "osetr-goracego-kopcenia",
+                    "plu": "28384",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сёмга Русское Море филе-кусок слабосолёная, 200г",
+                "masterData": {
+                    "slug": "semga-russkoe-more-file-kusok-slabosolenaa-200g",
+                    "plu": "3387452",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Икра Санта Бремор с копчёным лососем, 270г",
+                "masterData": {
+                    "slug": "ikra-santa-bremor-s-kopcenym-lososem-270g",
+                    "plu": "3983178",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Ставридка Сухогруз сушёная, 70г",
+                "masterData": {
+                    "slug": "stavridka-suhogruz-susenaa-70g",
+                    "plu": "3193121",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия Балтийский Берег кусочки холодного копчения, 300г",
+                "masterData": {
+                    "slug": "skumbria-baltijskij-bereg-kusocki-holodnogo-kopcenia-300g",
+                    "plu": "3454689",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная горячего копчения тушка",
+                "masterData": {
+                    "slug": "forel-raduznaa-goracego-kopcenia-tuska",
+                    "plu": "4314595",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Балтийский Берег варёный в маринаде, 390г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-baltijskij-bereg-varenyj-v-marinade-390g",
+                    "plu": "4045868",
+                    "unitName": "шт",
+                    "weight": 390,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сайра 5 Морей тихоокеанская натуральная, 250г",
+                "masterData": {
+                    "slug": "sajra-5-morej-tihookeanskaa-naturalnaa-250g",
+                    "plu": "3196973",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Тунец скипджек рубленый Новый Океан, 185г",
+                "masterData": {
+                    "slug": "tunec-skipdzek-rublenyj-novyj-okean-185g",
+                    "plu": "4003717",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Горбуша Люди Любят филе порционное замороженое, 400г",
+                "masterData": {
+                    "slug": "gorbusa-ludi-lubat-file-porcionnoe-zamorozenoe-400g",
+                    "plu": "4351939",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Кальмар Сухогруз сушёный шинкованный, 70г",
+                "masterData": {
+                    "slug": "kalmar-suhogruz-susenyj-sinkovannyj-70g",
+                    "plu": "2154903",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Сибас Турция 0.2-0.6 кг",
+                "masterData": {
+                    "slug": "sibas-turcia-0-2-0-6-kg",
+                    "plu": "81554",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Палочки рыбные из филе минтая в панировке мороженые Люди Любят, 250г",
+                "masterData": {
+                    "slug": "palocki-rybnye-iz-file-mintaa-v-panirovke-morozenye-ludi-lubat-250g",
+                    "plu": "4383526",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Форель Люди Любят радужная филе-кусок с кожей замороженная, 400г",
+                "masterData": {
+                    "slug": "forel-ludi-lubat-raduznaa-file-kusok-s-kozej-zamorozennaa-400g",
+                    "plu": "4340995",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Камбала потрошеная без головы Мурманск",
+                "masterData": {
+                    "slug": "kambala-potrosenaa-bez-golovy-murmansk",
+                    "plu": "2083076",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Моремания филе подкопченная, 180г",
+                "masterData": {
+                    "slug": "forel-moremania-file-podkopcennaa-180g",
+                    "plu": "3668419",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша Русское Море филе горячего копчения, 200г",
+                "masterData": {
+                    "slug": "gorbusa-russkoe-more-file-goracego-kopcenia-200g",
+                    "plu": "3633239",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец Fortuna кусочки натуральные, 185г",
+                "masterData": {
+                    "slug": "tunec-fortuna-kusocki-naturalnye-185g",
+                    "plu": "72320",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Сельдь Матиас оригинал филе в масле, 250г",
+                "masterData": {
+                    "slug": "seld-matias-original-file-v-masle-250g",
+                    "plu": "79542",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь слабосолёная 400+",
+                "masterData": {
+                    "slug": "seld-slabosolenaa-400",
+                    "plu": "70039",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Нерка Меридиан Эко ломтики слабосолёная, 120г",
+                "masterData": {
+                    "slug": "nerka-meridian-eko-lomtiki-slabosolenaa-120g",
+                    "plu": "3408551",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Люди Любят филе слабосолёное, 200г",
+                "masterData": {
+                    "slug": "forel-ludi-lubat-file-slabosolenoe-200g",
+                    "plu": "4412698",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая кусочки холодного копчения Люди Любят, 300г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-kusocki-holodnogo-kopcenia-ludi-lubat-300g",
+                    "plu": "4358592",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Селёдочка к картошке Русское море филе слабосоленая в масле, 400г",
+                "masterData": {
+                    "slug": "seledocka-k-kartoske-russkoe-more-file-slabosolenaa-v-masle-400g",
+                    "plu": "4364448",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Корюшка Русский рыбный мир вяленая",
+                "masterData": {
+                    "slug": "koruska-russkij-rybnyj-mir-valenaa",
+                    "plu": "78002199",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Скумбрия холодного копчения без головы",
+                "masterData": {
+                    "slug": "skumbria-holodnogo-kopcenia-bez-golovy",
+                    "plu": "2173413",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная холодного копчения балык",
+                "masterData": {
+                    "slug": "forel-raduznaa-holodnogo-kopcenia-balyk",
+                    "plu": "4314594",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Кальмар Сухогруз сушёно-вяленый полоски, 70г",
+                "masterData": {
+                    "slug": "kalmar-suhogruz-suseno-valenyj-poloski-70g",
+                    "plu": "3692498",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Форель радужная Меридиан  филе-ломтики слабосолёная, 120г",
+                "masterData": {
+                    "slug": "forel-raduznaa-meridian-file-lomtiki-slabosolenaa-120g",
+                    "plu": "11778",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша 3 Fish солёная кусочки для бутербродов, 80г",
+                "masterData": {
+                    "slug": "gorbusa-3-fish-solenaa-kusocki-dla-buterbrodov-80g",
+                    "plu": "3671589",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная Vici филе-кусок слабосоленая, 200г",
+                "masterData": {
+                    "slug": "forel-raduznaa-vici-file-kusok-slabosolenaa-200g",
+                    "plu": "4385583",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Горбуша 5 Морей натуральная, 250г",
+                "masterData": {
+                    "slug": "gorbusa-5-morej-naturalnaa-250g",
+                    "plu": "87726",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Сельдь Матиас деликатесное оригинальное филе, 400г",
+                "masterData": {
+                    "slug": "seld-matias-delikatesnoe-originalnoe-file-400g",
+                    "plu": "3637884",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Gustafsen радужная соленая филе-кусок, 150г",
+                "masterData": {
+                    "slug": "forel-gustafsen-raduznaa-solenaa-file-kusok-150g",
+                    "plu": "4217902",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Тунец скипджек филе-кусок Новый Океан, 185г",
+                "masterData": {
+                    "slug": "tunec-skipdzek-file-kusok-novyj-okean-185g",
+                    "plu": "4003715",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Тунец Fortuna полосатый рубленый, 185г",
+                "masterData": {
+                    "slug": "tunec-fortuna-polosatyj-rublenyj-185g",
+                    "plu": "72318",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Шпроты За Родину тушки из балтийской кильки в масле, 270г",
+                "masterData": {
+                    "slug": "sproty-za-rodinu-tuski-iz-baltijskoj-kilki-v-masle-270g",
+                    "plu": "3962298",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Форель Мирамар филе-кусок слабосолёная, 200г",
+                "masterData": {
+                    "slug": "forel-miramar-file-kusok-slabosolenaa-200g",
+                    "plu": "4132667",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Русское Море филе-ломтики слабосолёная, 120г",
+                "masterData": {
+                    "slug": "forel-russkoe-more-file-lomtiki-slabosolenaa-120g",
+                    "plu": "3387456",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Меридиан радужная филе-кусок с кожей слабосоленая охлажденная, 200г",
+                "masterData": {
+                    "slug": "forel-meridian-raduznaa-file-kusok-s-kozej-slabosolenaa-ohlazdennaa-200g",
+                    "plu": "4285178",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная слабосолёная филе на коже",
+                "masterData": {
+                    "slug": "forel-raduznaa-slabosolenaa-file-na-koze",
+                    "plu": "4410175",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Сельдь Санта Бремор Матиас XXL отборная филе-кусочки в масле слабосолёная, 260г",
+                "masterData": {
+                    "slug": "seld-santa-bremor-matias-xxl-otbornaa-file-kusocki-v-masle-slabosolenaa-260g",
+                    "plu": "4034451",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Балтийский Берег филе-кусок слабосолёная, 200г",
+                "masterData": {
+                    "slug": "forel-baltijskij-bereg-file-kusok-slabosolenaa-200g",
+                    "plu": "3923407",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель Русское Море филе-кусок слабосолёная, 200г",
+                "masterData": {
+                    "slug": "forel-russkoe-more-file-kusok-slabosolenaa-200g",
+                    "plu": "3387455",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель стейк",
+                "masterData": {
+                    "slug": "forel-stejk",
+                    "plu": "3394126",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель филе",
+                "masterData": {
+                    "slug": "forel-file",
+                    "plu": "2000923",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Кижуч Чили стейк 0.5-0.7 кг",
+                "masterData": {
+                    "slug": "kizuc-cili-stejk-0-5-0-7-kg",
+                    "plu": "4215359",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            },
+            {
+                "title": "Форель радужная потрошёная с головой",
+                "masterData": {
+                    "slug": "forel-raduznaa-potrosenaa-s-golovoj",
+                    "plu": "13190",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба",
+                    "id": 386
+                }
+            }
+        ]
+    }
+}

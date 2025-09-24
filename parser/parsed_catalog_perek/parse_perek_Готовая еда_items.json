@@ -1,0 +1,5145 @@
+{
+    "cat_name": {
+        "cat_id": 25,
+        "items": [
+            {
+                "title": "Салат Зеленый с фасолью и грецким орехом Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "salat-zelenyj-s-fasolu-i-greckim-orehom-perekrestok-select-160g",
+                    "plu": "4421935",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич-ролл с куриными стрипсами картофелем по-деревенски и сырным соусом Перекрёсток Select, 315г",
+                "masterData": {
+                    "slug": "sendvic-roll-s-kurinymi-stripsami-kartofelem-po-derevenski-i-syrnym-sousom-perekrestok-select-315g",
+                    "plu": "4383605",
+                    "unitName": "шт",
+                    "weight": 315,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пита со свининой и соусом с ароматом трюфеля Перекрёсток Select, 190г",
+                "masterData": {
+                    "slug": "pita-so-svininoj-i-sousom-s-aromatom-trufela-perekrestok-select-190g",
+                    "plu": "4431033",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пита с бужениной и маринованными огурцами Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "pita-s-buzeninoj-i-marinovannymi-ogurcami-perekrestok-select-200g",
+                    "plu": "4431034",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Крем-суп Pervafood сырный с пармезаном, 300г",
+                "masterData": {
+                    "slug": "krem-sup-pervafood-syrnyj-s-parmezanom-300g",
+                    "plu": "4305862",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Круассан с индейкой су-вид и огуречным релишем Перекрёсток Select, 145г",
+                "masterData": {
+                    "slug": "kruassan-s-indejkoj-su-vid-i-ogurecnym-relisem-perekrestok-select-145g",
+                    "plu": "4428405",
+                    "unitName": "шт",
+                    "weight": 145,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожное Макарон Сицилийская Фисташка, 16г",
+                "masterData": {
+                    "slug": "piroznoe-makaron-sicilijskaa-fistaska-16g",
+                    "plu": "78036452",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Драже Tasty Story со вкусом пряника, 40г",
+                "masterData": {
+                    "slug": "draze-tasty-story-so-vkusom-pranika-40g",
+                    "plu": "4388200",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Бургер с говядиной, 200г",
+                "masterData": {
+                    "slug": "burger-s-govadinoj-200g",
+                    "plu": "4406926",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожное Картошка, 80г",
+                "masterData": {
+                    "slug": "piroznoe-kartoska-80g",
+                    "plu": "78035120",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Индейка По-Старорусски Перекрёсток Select, 400г",
+                "masterData": {
+                    "slug": "indejka-po-starorusski-perekrestok-select-400g",
+                    "plu": "4405294",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Бейгл с филе форели атлантической яйцом и икрой масаго Перекрёсток Select, 110г",
+                "masterData": {
+                    "slug": "bejgl-s-file-foreli-atlanticeskoj-ajcom-i-ikroj-masago-perekrestok-select-110g",
+                    "plu": "4428067",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Эклер карамельный, 80г",
+                "masterData": {
+                    "slug": "ekler-karamelnyj-80g",
+                    "plu": "78035129",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Аджапсандал с аджикой и зеленью Перекрёсток Select, 150г",
+                "masterData": {
+                    "slug": "adzapsandal-s-adzikoj-i-zelenu-perekrestok-select-150g",
+                    "plu": "4419762",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паприкаш свиной томленый Перекрёсток Select, 350г",
+                "masterData": {
+                    "slug": "paprikas-svinoj-tomlenyj-perekrestok-select-350g",
+                    "plu": "4405292",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Лосось с крабом жареный, 230г",
+                "masterData": {
+                    "slug": "roll-losos-s-krabom-zarenyj-230g",
+                    "plu": "4249668",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Эклер шоколадный, 80г",
+                "masterData": {
+                    "slug": "ekler-sokoladnyj-80g",
+                    "plu": "78035130",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Темпура с крабом, 230г",
+                "masterData": {
+                    "slug": "roll-tempura-s-krabom-230g",
+                    "plu": "4249669",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Ванильный Пломбир Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-vanilnyj-plombir-perekrestok-select-35g",
+                    "plu": "4372005",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сок вишнево-абрикосовый восстановленный неосветленный Перекрёсток Select, 300мл",
+                "masterData": {
+                    "slug": "sok-visnevo-abrikosovyj-vosstanovlennyj-neosvetlennyj-perekrestok-select-300ml",
+                    "plu": "4407798",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Айс латте вишня, 350мл",
+                "masterData": {
+                    "slug": "ajs-latte-visna-350ml",
+                    "plu": "78036383",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": 350
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе индейки су-вид слайсами Перекрёсток Select, 150г",
+                "masterData": {
+                    "slug": "file-indejki-su-vid-slajsami-perekrestok-select-150g",
+                    "plu": "4421859",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Клубничный Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-klubnicnyj-perekrestok-select-35g",
+                    "plu": "4372008",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Конвертики с творогом и зеленью Перекрёсток Select, 140г",
+                "masterData": {
+                    "slug": "konvertiki-s-tvorogom-i-zelenu-perekrestok-select-140g",
+                    "plu": "4428800",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Меренга Шоколадная с карамелью и арахисом, 60г",
+                "masterData": {
+                    "slug": "merenga-sokoladnaa-s-karamelu-i-arahisom-60g",
+                    "plu": "78036473",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожное Вупи Пай банановый с арахисовым кремом, 100г",
+                "masterData": {
+                    "slug": "piroznoe-vupi-paj-bananovyj-s-arahisovym-kremom-100g",
+                    "plu": "78036476",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожное Персик, 120г",
+                "masterData": {
+                    "slug": "piroznoe-persik-120g",
+                    "plu": "78035124",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Крунат малиновый, 90г",
+                "masterData": {
+                    "slug": "krunat-malinovyj-90g",
+                    "plu": "78035963",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Имбирь маринованный белый, 20г",
+                "masterData": {
+                    "slug": "imbir-marinovannyj-belyj-20g",
+                    "plu": "4130670",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Аджика Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-adzika-perekrestok-select-35g",
+                    "plu": "4371999",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Малиновый Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-malinovyj-perekrestok-select-35g",
+                    "plu": "4372009",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Конвертики с грибами и сыром Перекрёсток Select, 120г",
+                "masterData": {
+                    "slug": "konvertiki-s-gribami-i-syrom-perekrestok-select-120g",
+                    "plu": "4428798",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи Яблоко-Груша-Овсяные Хлопья-Семена Льна фруктовый Перекрёсток Select, 300мл",
+                "masterData": {
+                    "slug": "smuzi-abloko-grusa-ovsanye-hlopa-semena-lna-fruktovyj-perekrestok-select-300ml",
+                    "plu": "4407797",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи Банан Груша Кокос Семена Чиа с кокосовым молоком Перекрёсток Select, 300мл",
+                "masterData": {
+                    "slug": "smuzi-banan-grusa-kokos-semena-cia-s-kokosovym-molokom-perekrestok-select-300ml",
+                    "plu": "4407795",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Латте спелая вишня, 200мл",
+                "masterData": {
+                    "slug": "latte-spelaa-visna-200ml",
+                    "plu": "78035820",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи Банан-Черная Смородина-Семена Чиа фруктово-ягодный Перекрёсток Select, 300мл",
+                "masterData": {
+                    "slug": "smuzi-banan-cernaa-smorodina-semena-cia-fruktovo-agodnyj-perekrestok-select-300ml",
+                    "plu": "4407796",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Квас Хлебный оригинальный нефильтрованный непастеризованный Перекрёсток Select, 200мл",
+                "masterData": {
+                    "slug": "kvas-hlebnyj-originalnyj-nefiltrovannyj-nepasterizovannyj-perekrestok-select-200ml",
+                    "plu": "4413942",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Комбуча Красный виноград Перекрёсток Select, 200мл",
+                "masterData": {
+                    "slug": "kombuca-krasnyj-vinograd-perekrestok-select-200ml",
+                    "plu": "4353197",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сациви из курицы с грецким орехом и зеленью Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "sacivi-iz-kuricy-s-greckim-orehom-i-zelenu-perekrestok-select-200g",
+                    "plu": "4422814",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Круассан с салями чоризо сыром и соусом перечный чили, 150г",
+                "masterData": {
+                    "slug": "kruassan-s-salami-corizo-syrom-i-sousom-perecnyj-cili-150g",
+                    "plu": "78036650",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сок томатный с сельдереем перцем и морской солью восстановленный Перекрёсток Select, 300мл",
+                "masterData": {
+                    "slug": "sok-tomatnyj-s-seldereem-percem-i-morskoj-solu-vosstanovlennyj-perekrestok-select-300ml",
+                    "plu": "4407799",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": 300
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Комбуча классическая Перекрёсток Select, 200мл",
+                "masterData": {
+                    "slug": "kombuca-klassiceskaa-perekrestok-select-200ml",
+                    "plu": "4353194",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Меренга Французская с тыквенными семечками, 50г",
+                "masterData": {
+                    "slug": "merenga-francuzskaa-s-tykvennymi-semeckami-50g",
+                    "plu": "78036472",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Сальса Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-salsa-perekrestok-select-35g",
+                    "plu": "4372001",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Брусничный Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-brusnicnyj-perekrestok-select-35g",
+                    "plu": "4372007",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морковь с баклажанами по-корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "morkov-s-baklazanami-po-korejski-perekrestok-select-200g",
+                    "plu": "4379037",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Роза с сoком среднегазированный безалкогольный Перекрёсток Select, 320мл",
+                "masterData": {
+                    "slug": "limonad-roza-s-sokom-srednegazirovannyj-bezalkogolnyj-perekrestok-select-320ml",
+                    "plu": "4415731",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чкмерули из курицы в сливочно-чесночном соусе Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "ckmeruli-iz-kuricy-v-slivocno-cesnocnom-souse-perekrestok-select-250g",
+                    "plu": "4421477",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Комбуча Малина Перекрёсток Select, 200мл",
+                "masterData": {
+                    "slug": "kombuca-malina-perekrestok-select-200ml",
+                    "plu": "4353196",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ложки одноразовые столовые Пр!ст, 12шт",
+                "masterData": {
+                    "slug": "lozki-odnorazovye-stolovye-pr-st-12st",
+                    "plu": "3466614",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Соус Барбекю Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-barbeku-perekrestok-select-35g",
+                    "plu": "4372000",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Конвертики с курицей сыром и томатами Перекрёсток Select, 140г",
+                "masterData": {
+                    "slug": "konvertiki-s-kuricej-syrom-i-tomatami-perekrestok-select-140g",
+                    "plu": "4428799",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Миндальная Вишня с сoком среднегазированный безалкогольный Перекрёсток Select, 320мл",
+                "masterData": {
+                    "slug": "limonad-mindalnaa-visna-s-sokom-srednegazirovannyj-bezalkogolnyj-perekrestok-select-320ml",
+                    "plu": "4415727",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Грибы древесные с морковью по-корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "griby-drevesnye-s-morkovu-po-korejski-perekrestok-select-200g",
+                    "plu": "4379034",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Грилата с брынзой и зеленью, 100г",
+                "masterData": {
+                    "slug": "grilata-s-brynzoj-i-zelenu-100g",
+                    "plu": "78034825",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Латте Смородина Розмарин, 400мл",
+                "masterData": {
+                    "slug": "latte-smorodina-rozmarin-400ml",
+                    "plu": "78035811",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Малина-Брусника с сoком среднегазированный безалкогольный Перекрёсток Select, 320мл",
+                "masterData": {
+                    "slug": "limonad-malina-brusnika-s-sokom-srednegazirovannyj-bezalkogolnyj-perekrestok-select-320ml",
+                    "plu": "4415729",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Маш с кето-курицей и соусом из сладкого перца Перекрёсток Select, 260г",
+                "masterData": {
+                    "slug": "mas-s-keto-kuricej-i-sousom-iz-sladkogo-perca-perekrestok-select-260g",
+                    "plu": "4396347",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Круассан с куриным филе су-вид и сливочным песто Перекрёсток Select, 135г",
+                "masterData": {
+                    "slug": "kruassan-s-kurinym-file-su-vid-i-slivocnym-pesto-perekrestok-select-135g",
+                    "plu": "4371198",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салфетки влажные антибактериальные Home Story, 20шт",
+                "masterData": {
+                    "slug": "salfetki-vlaznye-antibakterialnye-home-story-20st",
+                    "plu": "3917868",
+                    "unitName": "шт",
+                    "weight": 123,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Бумага и салфетки",
+                    "id": 444
+                }
+            },
+            {
+                "title": "Соус Чесночный майонезный Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-cesnocnyj-majoneznyj-perekrestok-select-35g",
+                    "plu": "4371998",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Чили сладкий Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-cili-sladkij-perekrestok-select-35g",
+                    "plu": "4372002",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Зубочистки №1 пластиковые, 300шт",
+                "masterData": {
+                    "slug": "zubocistki-no1-plastikovye-300st",
+                    "plu": "3420440",
+                    "unitName": "шт",
+                    "weight": 57,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Уход за полостью рта",
+                    "id": 443
+                }
+            },
+            {
+                "title": "Трубочка вафельная с варёным сгущенным молоком, 85г",
+                "masterData": {
+                    "slug": "trubocka-vafelnaa-s-varenym-sgusennym-molokom-85g",
+                    "plu": "78036485",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Щи суточные томленые со сметаной Перекрёсток Select, 335г",
+                "masterData": {
+                    "slug": "si-sutocnye-tomlenye-so-smetanoj-perekrestok-select-335g",
+                    "plu": "4383326",
+                    "unitName": "шт",
+                    "weight": 335,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морс Черносмородиново-Яблочный Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "mors-cernosmorodinovo-ablocnyj-perekrestok-select-250ml",
+                    "plu": "4413749",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич-ролл с курицей и грушевым конфитюром Перекрёсток Select, 165г",
+                "masterData": {
+                    "slug": "sendvic-roll-s-kuricej-i-grusevym-konfiturom-perekrestok-select-165g",
+                    "plu": "4427504",
+                    "unitName": "шт",
+                    "weight": 165,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Медово-Горчичный Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-medovo-gorcicnyj-perekrestok-select-35g",
+                    "plu": "4372004",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Панини с тунцом запеченным перцем и яйцом Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "panini-s-tuncom-zapecennym-percem-i-ajcom-perekrestok-select-220g",
+                    "plu": "4426653",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Лаванда с сoком среднегазированный безалкогольный Перекрёсток Select, 320мл",
+                "masterData": {
+                    "slug": "limonad-lavanda-s-sokom-srednegazirovannyj-bezalkogolnyj-perekrestok-select-320ml",
+                    "plu": "4415730",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Eclipse Ледяная вишня, 13.6г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-eclipse-ledanaa-visna-13-6g",
+                    "plu": "2111640",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Салфетки влажные антисептические Home Story, 20шт",
+                "masterData": {
+                    "slug": "salfetki-vlaznye-antisepticeskie-home-story-20st",
+                    "plu": "3917869",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Бумага и салфетки",
+                    "id": 444
+                }
+            },
+            {
+                "title": "Байтсы Rostic'S Фирменные из куриного филе с соусом терияки, 194г",
+                "masterData": {
+                    "slug": "bajtsy-rostics-firmennye-iz-kurinogo-file-s-sousom-teriaki-194g",
+                    "plu": "4410445",
+                    "unitName": "шт",
+                    "weight": 194,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морковь со спаржей по-корейски Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "morkov-so-sparzej-po-korejski-perekrestok-select-500g",
+                    "plu": "4405777",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блинчики с кокосовой сгущёнкой Перекрёсток Select, 140г",
+                "masterData": {
+                    "slug": "blinciki-s-kokosovoj-sgusenkoj-perekrestok-select-140g",
+                    "plu": "4420750",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Грилата с курицей и сыром, 100г",
+                "masterData": {
+                    "slug": "grilata-s-kuricej-i-syrom-100g",
+                    "plu": "78034824",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Малиновый морс Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "malinovyj-mors-perekrestok-select-500ml",
+                    "plu": "4353154",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Сок, морс",
+                    "id": 425
+                }
+            },
+            {
+                "title": "Огурцы битые по-сычуаньски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "ogurcy-bitye-po-sycuanski-perekrestok-select-200g",
+                    "plu": "4424679",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Суп Куриный с домашней лапшой Перекрёсток Select, 1000г",
+                "masterData": {
+                    "slug": "sup-kurinyj-s-domasnej-lapsoj-perekrestok-select-1000g",
+                    "plu": "4425665",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирог Чизкейк Шоколадный Микс сырный, 120г",
+                "masterData": {
+                    "slug": "pirog-cizkejk-sokoladnyj-miks-syrnyj-120g",
+                    "plu": "78036091",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Мини ролл с огурцом и мини ролл с лососем, 122г",
+                "masterData": {
+                    "slug": "mini-roll-s-ogurcom-i-mini-roll-s-lososem-122g",
+                    "plu": "4405989",
+                    "unitName": "шт",
+                    "weight": 122,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чанахи из курицы с овощами и травами Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "canahi-iz-kuricy-s-ovosami-i-travami-perekrestok-select-250g",
+                    "plu": "4421475",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Мини-ролл с огурцом «Много лосося GO», 110г",
+                "masterData": {
+                    "slug": "mini-roll-s-ogurcom-mnogo-lososa-go-110g",
+                    "plu": "4130993",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус Сырный майонезный Перекрёсток Select, 35г",
+                "masterData": {
+                    "slug": "sous-syrnyj-majoneznyj-perekrestok-select-35g",
+                    "plu": "4372003",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": 35
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Мандарин с сoком среднегазированный безалкогольный Перекрёсток Select, 320мл",
+                "masterData": {
+                    "slug": "limonad-mandarin-s-sokom-srednegazirovannyj-bezalkogolnyj-perekrestok-select-320ml",
+                    "plu": "4415728",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Латте спелая вишня, 400мл",
+                "masterData": {
+                    "slug": "latte-spelaa-visna-400ml",
+                    "plu": "78035821",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морс Брусничный Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "mors-brusnicnyj-perekrestok-select-250ml",
+                    "plu": "4413748",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Осака «Много лосося GO», 200г",
+                "masterData": {
+                    "slug": "roll-osaka-mnogo-lososa-go-200g",
+                    "plu": "4340153",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи Клубника-Банан Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "smuzi-klubnika-banan-perekrestok-select-250ml",
+                    "plu": "4353151",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чай зелёный Манго-Маракуйя негазированный Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "caj-zelenyj-mango-marakuja-negazirovannyj-perekrestok-select-500ml",
+                    "plu": "4421813",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Филадельфия с филе лосося атлантического слабосолёным Перекрёсток Select, 200 г",
+                "masterData": {
+                    "slug": "salat-filadelfia-s-file-lososa-atlanticeskogo-slabosolenym-perekrestok-select-200-g",
+                    "plu": "4374533",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирог Яблочный элит, 120г",
+                "masterData": {
+                    "slug": "pirog-ablocnyj-elit-120g",
+                    "plu": "78036073",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пюре Смузи с кокосовым молоком манго и ананасом Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "pure-smuzi-s-kokosovym-molokom-mango-i-ananasom-perekrestok-select-250ml",
+                    "plu": "4408819",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Десерт творожный Даниссимо Фисташково-малиновый 3.9%, 110г",
+                "masterData": {
+                    "slug": "desert-tvoroznyj-danissimo-fistaskovo-malinovyj-3-9-110g",
+                    "plu": "4378549",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Йогурты, десерты",
+                    "id": 372
+                }
+            },
+            {
+                "title": "Суп  Сливочный с треской креветками и песто Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "sup-slivocnyj-s-treskoj-krevetkami-i-pesto-perekrestok-select-300g",
+                    "plu": "4425860",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Черри-перчики сладкие пикантные фаршированные сливочным сыром в масле Перекрёсток Select, 130г",
+                "masterData": {
+                    "slug": "cerri-perciki-sladkie-pikantnye-farsirovannye-slivocnym-syrom-v-masle-perekrestok-select-130g",
+                    "plu": "4417771",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Черничный морс Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "cernicnyj-mors-perekrestok-select-500ml",
+                    "plu": "4353153",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Сок, морс",
+                    "id": 425
+                }
+            },
+            {
+                "title": "Хорциани из свинины с овощами и аджикой Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "horciani-iz-svininy-s-ovosami-i-adzikoj-perekrestok-select-250g",
+                    "plu": "4424719",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Боул с креветками кешью и цветной капустой Перекрёсток Select, 215г",
+                "masterData": {
+                    "slug": "boul-s-krevetkami-kesu-i-cvetnoj-kapustoj-perekrestok-select-215g",
+                    "plu": "4422742",
+                    "unitName": "шт",
+                    "weight": 215,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шефролл Rostic'S Оригинальный Фирменный, 184г",
+                "masterData": {
+                    "slug": "sefroll-rostics-originalnyj-firmennyj-184g",
+                    "plu": "4410443",
+                    "unitName": "шт",
+                    "weight": 184,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе куриное су-вид с томатами базиликом и сыром моцарелла Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "file-kurinoe-su-vid-s-tomatami-bazilikom-i-syrom-mocarella-perekrestok-select-230g",
+                    "plu": "4420762",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чай зелёный Облепиховый с мятой негазированный Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "caj-zelenyj-oblepihovyj-s-matoj-negazirovannyj-perekrestok-select-500ml",
+                    "plu": "4421818",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чай зелёный Клубничный с манго негазированный Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "caj-zelenyj-klubnicnyj-s-mango-negazirovannyj-perekrestok-select-500ml",
+                    "plu": "4421815",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Раф кофе лавандовый, 400мл",
+                "masterData": {
+                    "slug": "raf-kofe-lavandovyj-400ml",
+                    "plu": "78034945",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Баклажаны Пармиджано с соусом болоньезе Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "baklazany-parmidzano-s-sousom-boloneze-perekrestok-select-200g",
+                    "plu": "4399235",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Япо Буррито Сурими «Много лосося GO», 200г",
+                "masterData": {
+                    "slug": "apo-burrito-surimi-mnogo-lososa-go-200g",
+                    "plu": "4221717",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блины с ягодной начинкой Перекрёсток Select, 210г",
+                "masterData": {
+                    "slug": "bliny-s-agodnoj-nacinkoj-perekrestok-select-210g",
+                    "plu": "4335250",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Мусс из манки с рикоттой  и клюквой  Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "muss-iz-manki-s-rikottoj-i-klukvoj-perekrestok-select-220g",
+                    "plu": "4181697",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чашушули из говядины с аджикой Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "casusuli-iz-govadiny-s-adzikoj-perekrestok-select-300g",
+                    "plu": "4419763",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Гункан с сурими спайси «Много лосося GO», 125г",
+                "masterData": {
+                    "slug": "gunkan-s-surimi-spajsi-mnogo-lososa-go-125g",
+                    "plu": "4130994",
+                    "unitName": "шт",
+                    "weight": 125,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Соус соевый, 30г",
+                "masterData": {
+                    "slug": "sous-soevyj-30g",
+                    "plu": "4130566",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хачапури по-мегрельски с сулугуни зеленью и грецким орехом Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "hacapuri-po-megrelski-s-suluguni-zelenu-i-greckim-orehom-perekrestok-select-250g",
+                    "plu": "4422352",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Самурай, 190г",
+                "masterData": {
+                    "slug": "roll-samuraj-190g",
+                    "plu": "4394333",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат с говяжьим языком и заправкой с уцхо-сунели Перекрёсток Select, 170г",
+                "masterData": {
+                    "slug": "salat-s-govazim-azykom-i-zapravkoj-s-ucho-suneli-perekrestok-select-170g",
+                    "plu": "4421934",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Картофель отварной с укропом Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "kartofel-otvarnoj-s-ukropom-perekrestok-select-200g",
+                    "plu": "4416810",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лапша яичная с говядиной жареная на воке Перекрёсток Select, 280г",
+                "masterData": {
+                    "slug": "lapsa-aicnaa-s-govadinoj-zarenaa-na-voke-perekrestok-select-280g",
+                    "plu": "4373614",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Биточек куриный с соусом из болгарского перца и картофельным пюре Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "bitocek-kurinyj-s-sousom-iz-bolgarskogo-perca-i-kartofelnym-pure-perekrestok-select-250g",
+                    "plu": "4409329",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлеты Пожарские Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "kotlety-pozarskie-perekrestok-select-160g",
+                    "plu": "4377883",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Капучино на миндальном молоке, 200мл",
+                "masterData": {
+                    "slug": "kapucino-na-mindalnom-moloke-200ml",
+                    "plu": "78031241",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Капучино на кокосовом молоке, 200мл",
+                "masterData": {
+                    "slug": "kapucino-na-kokosovom-moloke-200ml",
+                    "plu": "78031244",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Orbit White Классический без сахара, 13.6г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-orbit-white-klassiceskij-bez-sahara-13-6g",
+                    "plu": "8176",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Запеканка творожная с чёрной смородиной Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-s-cernoj-smorodinoj-perekrestok-select-200g",
+                    "plu": "4269921",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хачапури Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "hacapuri-perekrestok-select-250g",
+                    "plu": "4422351",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каша гречневая со сливочным маслом Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "kasa-grecnevaa-so-slivocnym-maslom-perekrestok-select-200g",
+                    "plu": "4416808",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Стрипсы куриные с томатным соусом Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "stripsy-kurinye-s-tomatnym-sousom-perekrestok-select-220g",
+                    "plu": "4423628",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Биточки из индейки с рисом и томатным соусом Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "bitocki-iz-indejki-s-risom-i-tomatnym-sousom-perekrestok-select-230g",
+                    "plu": "4422473",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Гедза зелёные с креветкой белоногой и овощами Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "gedza-zelenye-s-krevetkoj-belonogoj-i-ovosami-perekrestok-select-160g",
+                    "plu": "4373585",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Курица Том Ям с рисом Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "kurica-tom-am-s-risom-perekrestok-select-230g",
+                    "plu": "4409325",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Яблоко-Груша с сoком среднегазированный Перекрёсток Select, 330мл",
+                "masterData": {
+                    "slug": "limonad-abloko-grusa-s-sokom-srednegazirovannyj-perekrestok-select-330ml",
+                    "plu": "4409798",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": 330
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Торт Чизкейк Клубничный Элит, 115г",
+                "masterData": {
+                    "slug": "tort-cizkejk-klubnicnyj-elit-115g",
+                    "plu": "78036074",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Dirol X-Fresh Арбузный лёд без сахара, 16г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-dirol-x-fresh-arbuznyj-led-bez-sahara-16g",
+                    "plu": "3498786",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Сырнички с грушей и персиком Зелёная Линия, 120г",
+                "masterData": {
+                    "slug": "syrnicki-s-grusej-i-persikom-zelenaa-linia-120g",
+                    "plu": "4189743",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Свекольник на кефире Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "svekolnik-na-kefire-perekrestok-select-250g",
+                    "plu": "4414705",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлета из судака и креветок с рисом Перекрёсток Select, 270г",
+                "masterData": {
+                    "slug": "kotleta-iz-sudaka-i-krevetok-s-risom-perekrestok-select-270g",
+                    "plu": "4192787",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожное Медовик домашний, 110г",
+                "masterData": {
+                    "slug": "piroznoe-medovik-domasnij-110g",
+                    "plu": "78032696",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Щечки говяжьи томленые Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "secki-govazi-tomlenye-perekrestok-select-300g",
+                    "plu": "4405296",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Курица карри с вешенками и рисом басмати Перекрёсток Select, 285г",
+                "masterData": {
+                    "slug": "kurica-karri-s-vesenkami-i-risom-basmati-perekrestok-select-285g",
+                    "plu": "4423023",
+                    "unitName": "шт",
+                    "weight": 285,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе трески запеченное под сыром с картофелем яйцом и томатами Перекрёсток Select, 170г",
+                "masterData": {
+                    "slug": "file-treski-zapecennoe-pod-syrom-s-kartofelem-ajcom-i-tomatami-perekrestok-select-170g",
+                    "plu": "4421885",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи с манго и морковью Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "smuzi-s-mango-i-morkovu-perekrestok-select-250ml",
+                    "plu": "4352869",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каурма лагман из курицы с овощами и аджикой Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "kaurma-lagman-iz-kuricy-s-ovosami-i-adzikoj-perekrestok-select-300g",
+                    "plu": "4419688",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Гедза с курицей на пару Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "gedza-s-kuricej-na-paru-perekrestok-select-160g",
+                    "plu": "4373584",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи Цитрусовый микс Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "smuzi-citrusovyj-miks-perekrestok-select-250ml",
+                    "plu": "4353152",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе грудки цыпленка-бройлера Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "file-grudki-cyplenka-brojlera-perekrestok-select-160g",
+                    "plu": "4402001",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Тефтели мясные в сливочно-томатном соусе Перекрёсток Select, 370г",
+                "masterData": {
+                    "slug": "tefteli-masnye-v-slivocno-tomatnom-souse-perekrestok-select-370g",
+                    "plu": "4409324",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шаурма с курицей овощами и аджикой Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "saurma-s-kuricej-ovosami-i-adzikoj-perekrestok-select-160g",
+                    "plu": "4421416",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Апельсин с сoком среднегазированный Перекрёсток Select, 330мл",
+                "masterData": {
+                    "slug": "limonad-apelsin-s-sokom-srednegazirovannyj-perekrestok-select-330ml",
+                    "plu": "4409796",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": 330
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Кимчи из квашеных овощей из пекинской капусты Перекрёсток Select, 200 г",
+                "masterData": {
+                    "slug": "salat-kimci-iz-kvasenyh-ovosej-iz-pekinskoj-kapusty-perekrestok-select-200-g",
+                    "plu": "4377397",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Запеканка творожная с клубникой и папайей Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-s-klubnikoj-i-papajej-zelenaa-linia-200g",
+                    "plu": "4344257",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат слоёный со шпротами Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "salat-sloenyj-so-sprotami-perekrestok-select-220g",
+                    "plu": "4401948",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чиабатта с оливками и курицей в пряных травах и медово-горчичным соусом Перекрёсток Select, 210г",
+                "masterData": {
+                    "slug": "ciabatta-s-olivkami-i-kuricej-v-pranyh-travah-i-medovo-gorcicnym-sousom-perekrestok-select-210g",
+                    "plu": "4399430",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сет Сумо «Много Лосося», 365г",
+                "masterData": {
+                    "slug": "set-sumo-mnogo-lososa-365g",
+                    "plu": "4249724",
+                    "unitName": "шт",
+                    "weight": 365,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чахохбили из курицы с аджикой и рисом Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "cahohbili-iz-kuricy-s-adzikoj-i-risom-perekrestok-select-240g",
+                    "plu": "4409753",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Капучино на миндальном молоке, 400мл",
+                "masterData": {
+                    "slug": "kapucino-na-mindalnom-moloke-400ml",
+                    "plu": "78031248",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чикенболы с грибным соусом и картофельным пюре с песто Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "cikenboly-s-gribnym-sousom-i-kartofelnym-pure-s-pesto-perekrestok-select-220g",
+                    "plu": "4420761",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Лайм-Кактус с сoком среднегазированный Перекрёсток Select, 330мл",
+                "masterData": {
+                    "slug": "limonad-lajm-kaktus-s-sokom-srednegazirovannyj-perekrestok-select-330ml",
+                    "plu": "4409794",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": 330
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пюре картофельное Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "pure-kartofelnoe-perekrestok-select-200g",
+                    "plu": "4416811",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морковь со спаржей по-корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "morkov-so-sparzej-po-korejski-perekrestok-select-200g",
+                    "plu": "4405776",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад Фейхоа с сoком среднегазированный Перекрёсток Select, 330мл",
+                "masterData": {
+                    "slug": "limonad-fejhoa-s-sokom-srednegazirovannyj-perekrestok-select-330ml",
+                    "plu": "4409797",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": 330
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад клубничный с розмарином Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "limonad-klubnicnyj-s-rozmarinom-perekrestok-select-250ml",
+                    "plu": "4302220",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Газировка",
+                    "id": 423
+                }
+            },
+            {
+                "title": "Стейк из форели на пару с отварными овощами Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "stejk-iz-foreli-na-paru-s-otvarnymi-ovosami-perekrestok-select-230g",
+                    "plu": "4424684",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лапша удон с курицей Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "lapsa-udon-s-kuricej-perekrestok-select-300g",
+                    "plu": "4381676",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Суп с фрикадельками Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "sup-s-frikadelkami-perekrestok-select-300g",
+                    "plu": "4424678",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шашлык из курицы с картофелем Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "saslyk-iz-kuricy-s-kartofelem-perekrestok-select-250g",
+                    "plu": "4421474",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Смузи с грушей и шпинатом с ароматом мяты Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "smuzi-s-grusej-i-spinatom-s-aromatom-maty-perekrestok-select-250ml",
+                    "plu": "4352870",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Средство для рук Диасептик-30 дезинфицирующее Home Story, 50мл",
+                "masterData": {
+                    "slug": "sredstvo-dla-ruk-diaseptik-30-dezinficiruusee-home-story-50ml",
+                    "plu": "3908011",
+                    "unitName": "шт",
+                    "weight": 48,
+                    "volume": 50
+                },
+                "primaryCategory": {
+                    "title": "Уход за телом",
+                    "id": 1224
+                }
+            },
+            {
+                "title": "Сет Лайт «Много Лосося», 184г",
+                "masterData": {
+                    "slug": "set-lajt-mnogo-lososa-184g",
+                    "plu": "4249722",
+                    "unitName": "шт",
+                    "weight": 175,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич с курицей су-вид ананасами и кисло-сладким соусом Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "sendvic-s-kuricej-su-vid-ananasami-i-kislo-sladkim-sousom-perekrestok-select-160g",
+                    "plu": "4420372",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе куриное с запечённой тыквой Шеф Перекрёсток, 210г",
+                "masterData": {
+                    "slug": "file-kurinoe-s-zapecennoj-tykvoj-sef-perekrestok-210g",
+                    "plu": "4365361",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Dirol X-Fresh Ледяной мандарин без сахара, 16г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-dirol-x-fresh-ledanoj-mandarin-bez-sahara-16g",
+                    "plu": "3498787",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Пирог Осетинский с курицей и сыром Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "pirog-osetinskij-s-kuricej-i-syrom-perekrestok-select-200g",
+                    "plu": "4425838",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Зразы картофельные с грибами Перекрёсток Select,  230г",
+                "masterData": {
+                    "slug": "zrazy-kartofelnye-s-gribami-perekrestok-select-230g",
+                    "plu": "4387092",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Круассан с ветчиной и сыром Шеф Перекрёсток, 115г",
+                "masterData": {
+                    "slug": "kruassan-s-vetcinoj-i-syrom-sef-perekrestok-115g",
+                    "plu": "4310836",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блинчики с маковой начинкой Перекрёсток Select, 210г",
+                "masterData": {
+                    "slug": "blinciki-s-makovoj-nacinkoj-perekrestok-select-210g",
+                    "plu": "4421875",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи печеночные Перекрёсток Select, 150г",
+                "masterData": {
+                    "slug": "oladi-pecenocnye-perekrestok-select-150g",
+                    "plu": "4381910",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Говядина с черносливом и гречкой Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "govadina-s-cernoslivom-i-greckoj-perekrestok-select-300g",
+                    "plu": "4312151",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники без сахара запечённые Перекрёсток Select, 100г",
+                "masterData": {
+                    "slug": "syrniki-bez-sahara-zapecennye-perekrestok-select-100g",
+                    "plu": "4414886",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста Болоньезе Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "pasta-boloneze-perekrestok-select-500g",
+                    "plu": "4424680",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлетка куриная с кабачками с картофелем по-деревенски Перекрёсток Select, 190г",
+                "masterData": {
+                    "slug": "kotletka-kurinaa-s-kabackami-s-kartofelem-po-derevenski-perekrestok-select-190g",
+                    "plu": "4381906",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Капучино на кокосовом молоке, 400мл",
+                "masterData": {
+                    "slug": "kapucino-na-kokosovom-moloke-400ml",
+                    "plu": "78031249",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Курица по-французски с картофельным пюре Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kurica-po-francuzski-s-kartofelnym-pure-perekrestok-select-250g",
+                    "plu": "4382076",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Раф соленая карамель с орехами, 400мл",
+                "masterData": {
+                    "slug": "raf-solenaa-karamel-s-orehami-400ml",
+                    "plu": "78035831",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад манго-маракуйя Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "limonad-mango-marakuja-perekrestok-select-250ml",
+                    "plu": "4302219",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Газировка",
+                    "id": 423
+                }
+            },
+            {
+                "title": "Оладьи из кабачков со сметаной Перекрёсток Select, 170г",
+                "masterData": {
+                    "slug": "oladi-iz-kabackov-so-smetanoj-perekrestok-select-170g",
+                    "plu": "4419957",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Wrigley's Spearmint пластинки со вкусом мяты без сахара, 13г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-wrigleys-spearmint-plastinki-so-vkusom-maty-bez-sahara-13g",
+                    "plu": "15205",
+                    "unitName": "шт",
+                    "weight": 13,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Лазанья Золотой Петушок с соусом Болоньез, 370г",
+                "masterData": {
+                    "slug": "lazana-zolotoj-petusok-s-sousom-bolonez-370g",
+                    "plu": "2120574",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Айс Латте, 350мл",
+                "masterData": {
+                    "slug": "ajs-latte-350ml",
+                    "plu": "78034885",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": 350
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат с тунцом и картофелем Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "salat-s-tuncom-i-kartofelem-perekrestok-select-200g",
+                    "plu": "4364442",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Какао, 400мл",
+                "masterData": {
+                    "slug": "kakao-400ml",
+                    "plu": "78036192",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад грейпфрутовый с лаймом и имбирем Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "limonad-grejpfrutovyj-s-lajmom-i-imbirem-perekrestok-select-250ml",
+                    "plu": "4302222",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Газировка",
+                    "id": 423
+                }
+            },
+            {
+                "title": "Вареники с картофелем и грибами Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "vareniki-s-kartofelem-i-gribami-perekrestok-select-200g",
+                    "plu": "4383866",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлеты куриные паровые Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "kotlety-kurinye-parovye-perekrestok-select-160g",
+                    "plu": "4421287",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Греческий Перекрёсток Select, 190г",
+                "masterData": {
+                    "slug": "salat-greceskij-perekrestok-select-190g",
+                    "plu": "4391677",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат с куриным филе, киноа и овощами Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "salat-s-kurinym-file-kinoa-i-ovosami-perekrestok-select-200g",
+                    "plu": "4364441",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морковь По-Корейски Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "morkov-po-korejski-perekrestok-select-500g",
+                    "plu": "4405771",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Тарталетка Малиновая, 110г",
+                "masterData": {
+                    "slug": "tartaletka-malinovaa-110g",
+                    "plu": "78033041",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Блины с вишней Перекрёсток Select, 140 г",
+                "masterData": {
+                    "slug": "bliny-s-visnej-perekrestok-select-140-g",
+                    "plu": "4377559",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Капуста с морковью по-корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "kapusta-s-morkovu-po-korejski-perekrestok-select-200g",
+                    "plu": "4405772",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Голубцы ленивые в томатно-сметанном соусе Перекрёсток Select, 150г",
+                "masterData": {
+                    "slug": "golubcy-lenivye-v-tomatno-smetannom-souse-perekrestok-select-150g",
+                    "plu": "4410403",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блины с ветчиной и сыром Перекрёсток Select, 400г",
+                "masterData": {
+                    "slug": "bliny-s-vetcinoj-i-syrom-perekrestok-select-400g",
+                    "plu": "4335247",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Дракон «Много лосося GO», 190г",
+                "masterData": {
+                    "slug": "roll-drakon-mnogo-lososa-go-190g",
+                    "plu": "4132491",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирог Осетинский с сыром Перекрёсток Select, 400г",
+                "masterData": {
+                    "slug": "pirog-osetinskij-s-syrom-perekrestok-select-400g",
+                    "plu": "4425836",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Спаржа По-Корейски Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "sparza-po-korejski-perekrestok-select-500g",
+                    "plu": "4405774",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Крем-суп тыквенный с индейкой Зелёная Линия, 270г",
+                "masterData": {
+                    "slug": "krem-sup-tykvennyj-s-indejkoj-zelenaa-linia-270g",
+                    "plu": "4325412",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салфетки влажные освежающие Пр!ст, 20шт",
+                "masterData": {
+                    "slug": "salfetki-vlaznye-osvezausie-pr-st-20st",
+                    "plu": "3631007",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Бумага и салфетки",
+                    "id": 444
+                }
+            },
+            {
+                "title": "Салат с тунцом Перекрёсток Select, 162г",
+                "masterData": {
+                    "slug": "salat-s-tuncom-perekrestok-select-162g",
+                    "plu": "4391679",
+                    "unitName": "шт",
+                    "weight": 162,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Суп-пюре из тыквы Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "sup-pure-iz-tykvy-perekrestok-select-300g",
+                    "plu": "4273862",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста каватаппи с моцареллой и сыром чеддер Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "pasta-kavatappi-s-mocarelloj-i-syrom-cedder-perekrestok-select-230g",
+                    "plu": "4423449",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат с говяжьей печенью шампиньонами и грецким орехом, 180г",
+                "masterData": {
+                    "slug": "salat-s-govazej-pecenu-sampinonami-i-greckim-orehom-180g",
+                    "plu": "4406504",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Борщ овощной Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "bors-ovosnoj-perekrestok-select-300g",
+                    "plu": "4325413",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лазанья Золотой Петушок Четыре сыра, 370г",
+                "masterData": {
+                    "slug": "lazana-zolotoj-petusok-cetyre-syra-370g",
+                    "plu": "2120576",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Говядина томленая в перечном соусе с орзо Перекрёсток Select, 270г",
+                "masterData": {
+                    "slug": "govadina-tomlenaa-v-perecnom-souse-s-orzo-perekrestok-select-270g",
+                    "plu": "4422949",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лазанья по-милански с курицей и соусом бешамель Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "lazana-po-milanski-s-kuricej-i-sousom-besamel-perekrestok-select-300g",
+                    "plu": "4399236",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста с вешенками и куриным филе в сливочном соусе Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "pasta-s-vesenkami-i-kurinym-file-v-slivocnom-souse-perekrestok-select-250g",
+                    "plu": "4424682",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Запеканка картофельная с мясом Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "zapekanka-kartofelnaa-s-masom-perekrestok-select-200g",
+                    "plu": "4201520",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Нисуаз с филе-кусочками тунца запеченного и горчично-медовым соусом Перекрёсток Select, 215г",
+                "masterData": {
+                    "slug": "salat-nisuaz-s-file-kusockami-tunca-zapecennogo-i-gorcicno-medovym-sousom-perekrestok-select-215g",
+                    "plu": "4398544",
+                    "unitName": "шт",
+                    "weight": 215,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Снежная калифорния «Много лосося GO», 190г",
+                "masterData": {
+                    "slug": "roll-sneznaa-kalifornia-mnogo-lososa-go-190g",
+                    "plu": "4132488",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Кофе Раф ванильный, 400мл",
+                "masterData": {
+                    "slug": "kofe-raf-vanilnyj-400ml",
+                    "plu": "78034935",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич с ростбифом и соусом с аджикой Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "sendvic-s-rostbifom-i-sousom-s-adzikoj-perekrestok-select-180g",
+                    "plu": "4392892",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе куриное с грибами под сырной корочкой с картофелем Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "file-kurinoe-s-gribami-pod-syrnoj-korockoj-s-kartofelem-perekrestok-select-240g",
+                    "plu": "4389855",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лимонад малиновый с мятой Перекрёсток Select, 250мл",
+                "masterData": {
+                    "slug": "limonad-malinovyj-s-matoj-perekrestok-select-250ml",
+                    "plu": "4302221",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Газировка",
+                    "id": 423
+                }
+            },
+            {
+                "title": "Паста Карбонара Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "pasta-karbonara-perekrestok-select-500g",
+                    "plu": "4424681",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста Арабьята Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "pasta-arabata-perekrestok-select-250g",
+                    "plu": "4155363",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Спаржа По-Корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "sparza-po-korejski-perekrestok-select-200g",
+                    "plu": "4405773",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Бифштекс из говядины с картофельным пюре Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "bifsteks-iz-govadiny-s-kartofelnym-pure-perekrestok-select-250g",
+                    "plu": "4340929",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат из свеклы и брынзы с соусом песто Перекрёсток Select, 170г",
+                "masterData": {
+                    "slug": "salat-iz-svekly-i-brynzy-s-sousom-pesto-perekrestok-select-170g",
+                    "plu": "4331972",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Запеканка творожная с вишней Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-s-visnej-perekrestok-select-200g",
+                    "plu": "4401207",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Напиток Лимонад Гранатовый безалкогольный негазированный Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "napitok-limonad-granatovyj-bezalkogolnyj-negazirovannyj-perekrestok-select-500ml",
+                    "plu": "4408830",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Рис отварной с курицей в кисло-сладком соусе Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "ris-otvarnoj-s-kuricej-v-kislo-sladkom-souse-perekrestok-select-240g",
+                    "plu": "4381672",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Dirol Мята без сахара, 13.6г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-dirol-mata-bez-sahara-13-6g",
+                    "plu": "3257582",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Сет №1 «Много лосося GO», 610г",
+                "masterData": {
+                    "slug": "set-no1-mnogo-lososa-go-610g",
+                    "plu": "4131019",
+                    "unitName": "шт",
+                    "weight": 610,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Рамен с курицей Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "ramen-s-kuricej-perekrestok-select-300g",
+                    "plu": "4280523",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морс клубничный Шеф Перекрёсток, 500мл",
+                "masterData": {
+                    "slug": "mors-klubnicnyj-sef-perekrestok-500ml",
+                    "plu": "4360073",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Сельдь под шубой Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "salat-seld-pod-suboj-perekrestok-select-500g",
+                    "plu": "4199785",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каша рисовая с мякотью кокоса Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "kasa-risovaa-s-makotu-kokosa-perekrestok-select-220g",
+                    "plu": "4381670",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе куриное су-вид с соусом Бешамель и овощными биточками Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "file-kurinoe-su-vid-s-sousom-besamel-i-ovosnymi-bitockami-perekrestok-select-250g",
+                    "plu": "4362089",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каша овсяная на молоке Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-na-moloke-perekrestok-select-250g",
+                    "plu": "4331754",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Запеканка творожная с грушей Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-s-grusej-zelenaa-linia-200g",
+                    "plu": "4273206",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырнички с варёной сгущенкой Зелёная Линия, 120г",
+                "masterData": {
+                    "slug": "syrnicki-s-varenoj-sgusenkoj-zelenaa-linia-120g",
+                    "plu": "4189742",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Суп норвежский Шеф Перекрёсток, 300г",
+                "masterData": {
+                    "slug": "sup-norvezskij-sef-perekrestok-300g",
+                    "plu": "4195447",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Бризоль куриная с пенне и соусом Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "brizol-kurinaa-s-penne-i-sousom-perekrestok-select-250g",
+                    "plu": "4420760",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Dirol Черника и цитрусовые фрукты без сахара, 16г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-dirol-cernika-i-citrusovye-frukty-bez-sahara-16g",
+                    "plu": "3679720",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Харчо Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "harco-perekrestok-select-300g",
+                    "plu": "4163233",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Запеканка творожная с чёрной смородиной Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-s-cernoj-smorodinoj-zelenaa-linia-200g",
+                    "plu": "4273203",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чиабатта с курицей моцареллой и омлетом, 220г",
+                "masterData": {
+                    "slug": "ciabatta-s-kuricej-mocarelloj-i-omletom-220g",
+                    "plu": "4352735",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлеты из индейки с пюре из батата Зелёная Линия, 220г",
+                "masterData": {
+                    "slug": "kotlety-iz-indejki-s-pure-iz-batata-zelenaa-linia-220g",
+                    "plu": "4327212",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлеты из индейки на пару с овощами Зелёная Линия, 250г",
+                "masterData": {
+                    "slug": "kotlety-iz-indejki-na-paru-s-ovosami-zelenaa-linia-250g",
+                    "plu": "4327213",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Dirol Colors XXL ассорти мятных вкусов без сахара, 19г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-dirol-colors-xxl-assorti-matnyh-vkusov-bez-sahara-19g",
+                    "plu": "3612240",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Каша пшённая на молоке Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kasa-psennaa-na-moloke-perekrestok-select-250g",
+                    "plu": "4331755",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Филе куриное с гречкой и луковым соусом Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "file-kurinoe-s-greckoj-i-lukovym-sousom-perekrestok-select-230g",
+                    "plu": "4309962",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи печеночные жареные Перекрёсток Select, 280г",
+                "masterData": {
+                    "slug": "oladi-pecenocnye-zarenye-perekrestok-select-280g",
+                    "plu": "4410402",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники жареные Перекрёсток Select, 110г",
+                "masterData": {
+                    "slug": "syrniki-zarenye-perekrestok-select-110g",
+                    "plu": "4200603",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Dirol Colors XXL ассорти фруктовых вкусов без сахара, 19г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-dirol-colors-xxl-assorti-fruktovyh-vkusov-bez-sahara-19g",
+                    "plu": "3612241",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Запеканка творожная Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-zelenaa-linia-200g",
+                    "plu": "4273205",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Мини-чиабатта с куриной ветчиной омлетом и сыром Перекресток Select, 255г",
+                "masterData": {
+                    "slug": "mini-ciabatta-s-kurinoj-vetcinoj-omletom-i-syrom-perekrestok-select-255g",
+                    "plu": "4423500",
+                    "unitName": "шт",
+                    "weight": 255,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники с курагой Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "syrniki-s-kuragoj-perekrestok-select-220g",
+                    "plu": "4147836",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи из курицы с рисом и овощами Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "oladi-iz-kuricy-s-risom-i-ovosami-perekrestok-select-250g",
+                    "plu": "4364439",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Солянка мясная Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "solanka-masnaa-perekrestok-select-300g",
+                    "plu": "4163228",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сет на двоих «Много лосося», 515г",
+                "masterData": {
+                    "slug": "set-na-dvoih-mnogo-lososa-515g",
+                    "plu": "4174592",
+                    "unitName": "шт",
+                    "weight": 515,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Кебабы мясные с картофелем Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kebaby-masnye-s-kartofelem-perekrestok-select-250g",
+                    "plu": "4309968",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Донат Карамель со вкусом карамели, 62г",
+                "masterData": {
+                    "slug": "donat-karamel-so-vkusom-karameli-62g",
+                    "plu": "78029841",
+                    "unitName": "шт",
+                    "weight": 62,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блинчики с лососем и творожным сыром Перекрёсток Select, 150г",
+                "masterData": {
+                    "slug": "blinciki-s-lososem-i-tvoroznym-syrom-perekrestok-select-150g",
+                    "plu": "4407906",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Запеканка творожная с яблоком и корицей Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "zapekanka-tvoroznaa-s-ablokom-i-koricej-zelenaa-linia-200g",
+                    "plu": "4273204",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи куриные Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "oladi-kurinye-perekrestok-select-160g",
+                    "plu": "4382078",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи куриные со спагетти и томатным соусом Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "oladi-kurinye-so-spagetti-i-tomatnym-sousom-perekrestok-select-250g",
+                    "plu": "4382077",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлета де-воляй из куриного филе с грибами и спагетти Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kotleta-de-volaj-iz-kurinogo-file-s-gribami-i-spagetti-perekrestok-select-250g",
+                    "plu": "4364437",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Orbit White Bubblemint без сахара, 13.6г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-orbit-white-bubblemint-bez-sahara-13-6g",
+                    "plu": "3426700",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Крем-суп грибной Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "krem-sup-gribnoj-perekrestok-select-300g",
+                    "plu": "4324261",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Щи из квашеной капусты с курицей Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "si-iz-kvasenoj-kapusty-s-kuricej-perekrestok-select-300g",
+                    "plu": "4188081",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Плов с говядиной Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "plov-s-govadinoj-perekrestok-select-250g",
+                    "plu": "4309963",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блины с яблоком мёдом и корицей Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "bliny-s-ablokom-medom-i-koricej-perekrestok-select-240g",
+                    "plu": "4335249",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырнички с вишней Зелёная Линия, 120г",
+                "masterData": {
+                    "slug": "syrnicki-s-visnej-zelenaa-linia-120g",
+                    "plu": "4189744",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жевательная резинка Orbit White Нежная мята без сахара, 13.6г",
+                "masterData": {
+                    "slug": "zevatelnaa-rezinka-orbit-white-neznaa-mata-bez-sahara-13-6g",
+                    "plu": "3439786",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Жвачка",
+                    "id": 405
+                }
+            },
+            {
+                "title": "Салат с копченой курицей яблоками орехами и сельдереем Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-s-kopcenoj-kuricej-ablokami-orehami-i-seldereem-perekrestok-select-180g",
+                    "plu": "4410401",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Рассольник с курицей Шеф Перекрёсток, 300г",
+                "masterData": {
+                    "slug": "rassolnik-s-kuricej-sef-perekrestok-300g",
+                    "plu": "4188083",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Греческий салат с цитрусовым дрессингом Перекрёсток Select, 210г",
+                "masterData": {
+                    "slug": "greceskij-salat-s-citrusovym-dressingom-perekrestok-select-210g",
+                    "plu": "4223586",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хумус рецепт из Иерусалима Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "humus-recept-iz-ierusalima-perekrestok-select-300g",
+                    "plu": "4183545",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блины с ветчиной и сыром Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "bliny-s-vetcinoj-i-syrom-perekrestok-select-240g",
+                    "plu": "4335246",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Оливье с говядиной Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-olive-s-govadinoj-perekrestok-select-180g",
+                    "plu": "4406510",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Жареный рис по-азиатски с креветками Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "zarenyj-ris-po-aziatski-s-krevetkami-perekrestok-select-250g",
+                    "plu": "4221854",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блинчики с мясом Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "blinciki-s-masom-perekrestok-select-240g",
+                    "plu": "4291246",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирог Осетинский с картофелем и сыром Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "pirog-osetinskij-s-kartofelem-i-syrom-perekrestok-select-200g",
+                    "plu": "4425837",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Колбаски по-нюрнбергски с картофелем и горчичным соусом Перекрёсток Select, 205г",
+                "masterData": {
+                    "slug": "kolbaski-po-nurnbergski-s-kartofelem-i-gorcicnym-sousom-perekrestok-select-205g",
+                    "plu": "4381902",
+                    "unitName": "шт",
+                    "weight": 205,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Омлет с ветчиной и сыром Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "omlet-s-vetcinoj-i-syrom-perekrestok-select-200g",
+                    "plu": "3925274",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Морковь По-Корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "morkov-po-korejski-perekrestok-select-200g",
+                    "plu": "4405770",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ролл Филадельфия «Много лосося GO»,  215г",
+                "masterData": {
+                    "slug": "roll-filadelfia-mnogo-lososa-go-215g",
+                    "plu": "4131025",
+                    "unitName": "шт",
+                    "weight": 215,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлета пожарская с картофельным пюре Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "kotleta-pozarskaa-s-kartofelnym-pure-perekrestok-select-300g",
+                    "plu": "4364438",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлета Пожарская с картофельным пюре Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kotleta-pozarskaa-s-kartofelnym-pure-perekrestok-select-250g",
+                    "plu": "4381904",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлеты из индейки с гречкой отварной Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "kotlety-iz-indejki-s-greckoj-otvarnoj-perekrestok-select-220g",
+                    "plu": "4422205",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Спагетти Болоньезе с говядиной Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "spagetti-boloneze-s-govadinoj-perekrestok-select-220g",
+                    "plu": "4381675",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич-ролл с курицей и морковью по-корейски Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "sendvic-roll-s-kuricej-i-morkovu-po-korejski-perekrestok-select-200g",
+                    "plu": "4274164",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Коул Слоу капустный Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-koul-slou-kapustnyj-perekrestok-select-180g",
+                    "plu": "4406508",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Стрипсы из куриного филе с картофелем Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "stripsy-iz-kurinogo-file-s-kartofelem-perekrestok-select-250g",
+                    "plu": "4368151",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Столичный Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "salat-stolicnyj-perekrestok-select-500g",
+                    "plu": "4199786",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Спагетти Неро с креветками в томатном соусе Перекрёсток Select, 280г",
+                "masterData": {
+                    "slug": "spagetti-nero-s-krevetkami-v-tomatnom-souse-perekrestok-select-280g",
+                    "plu": "4289866",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каша Дружба из пшена и риса Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kasa-druzba-iz-psena-i-risa-perekrestok-select-250g",
+                    "plu": "4381668",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Напиток Лимонад Лимон-Имбирь безалкогольный негазированный Перекрёсток Select, 500мл",
+                "masterData": {
+                    "slug": "napitok-limonad-limon-imbir-bezalkogolnyj-negazirovannyj-perekrestok-select-500ml",
+                    "plu": "4408829",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шницель Куриный в яичном кляре Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "snicel-kurinyj-v-aicnom-klare-perekrestok-select-180g",
+                    "plu": "4377884",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Удон с курицей и овощами Перекрёсток Select, 215г",
+                "masterData": {
+                    "slug": "udon-s-kuricej-i-ovosami-perekrestok-select-215g",
+                    "plu": "4401912",
+                    "unitName": "шт",
+                    "weight": 215,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста 4 сыра Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "pasta-4-syra-perekrestok-select-250g",
+                    "plu": "4156187",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Фаворит Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-favorit-perekrestok-select-180g",
+                    "plu": "4406505",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники с изюмом Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "syrniki-s-izumom-perekrestok-select-220g",
+                    "plu": "4147835",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Алекс Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-aleks-perekrestok-select-180g",
+                    "plu": "4406503",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Столичный с курицей Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-stolicnyj-s-kuricej-perekrestok-select-180g",
+                    "plu": "4401910",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Фишкейки с картофельным пюре и соусом тар-тар Перекрёсток Select, 280г",
+                "masterData": {
+                    "slug": "fiskejki-s-kartofelnym-pure-i-sousom-tar-tar-perekrestok-select-280g",
+                    "plu": "4192791",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Американо, 400мл",
+                "masterData": {
+                    "slug": "amerikano-400ml",
+                    "plu": "78034900",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пончик Перекрёсток Берлинский с варёной сгущёнкой, 2х64г",
+                "masterData": {
+                    "slug": "poncik-perekrestok-berlinskij-s-varenoj-sgusenkoj-2h64g",
+                    "plu": "78010688",
+                    "unitName": "шт",
+                    "weight": 128,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи жареные Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "oladi-zarenye-perekrestok-select-160g",
+                    "plu": "4228141",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Оладьи жареные Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "oladi-zarenye-perekrestok-select-250g",
+                    "plu": "4407908",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат из свеклы с чесноком Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-iz-svekly-s-cesnokom-perekrestok-select-180g",
+                    "plu": "4401911",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Тортильони с индейкой и соусом с фенхелем Перекрёсток Select, 260г",
+                "masterData": {
+                    "slug": "tortiloni-s-indejkoj-i-sousom-s-fenhelem-perekrestok-select-260g",
+                    "plu": "4409319",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирог Осетинский с сыром Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "pirog-osetinskij-s-syrom-perekrestok-select-200g",
+                    "plu": "4425835",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ежики мясные с рисом Перекрёсток Select, 270г",
+                "masterData": {
+                    "slug": "eziki-masnye-s-risom-perekrestok-select-270g",
+                    "plu": "4409326",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Перекрёсток Select с индейкой-барбекю, 210г",
+                "masterData": {
+                    "slug": "salat-perekrestok-select-s-indejkoj-barbeku-210g",
+                    "plu": "4147826",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста с куриным филе и соусом песто Перекрёсток Select, 250 г",
+                "masterData": {
+                    "slug": "pasta-s-kurinym-file-i-sousom-pesto-perekrestok-select-250-g",
+                    "plu": "4372373",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники творожные 5% Зелёная Линия",
+                "masterData": {
+                    "slug": "syrniki-tvoroznye-5-zelenaa-linia",
+                    "plu": "3671520",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Суп гороховый с копченостями Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "sup-gorohovyj-s-kopcenostami-perekrestok-select-300g",
+                    "plu": "4163238",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат с куриным филе и картофелем пай Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "salat-s-kurinym-file-i-kartofelem-paj-perekrestok-select-200g",
+                    "plu": "4364436",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Вок с говядиной Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "vok-s-govadinoj-perekrestok-select-250g",
+                    "plu": "4175863",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блинчики без начинки Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "blinciki-bez-nacinki-perekrestok-select-200g",
+                    "plu": "4338980",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич на угольном хлебе с индейкой перцем гриль и пикантным соусом Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "sendvic-na-ugolnom-hlebe-s-indejkoj-percem-gril-i-pikantnym-sousom-perekrestok-select-180g",
+                    "plu": "4392893",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салфетки влажные антибактериальные Home Story, 15шт",
+                "masterData": {
+                    "slug": "salfetki-vlaznye-antibakterialnye-home-story-15st",
+                    "plu": "3976937",
+                    "unitName": "шт",
+                    "weight": 67,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Бумага и салфетки",
+                    "id": 444
+                }
+            },
+            {
+                "title": "Том Ям с морепродуктами Шеф Перекрёсток, 370г",
+                "masterData": {
+                    "slug": "tom-am-s-moreproduktami-sef-perekrestok-370g",
+                    "plu": "4280526",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Борщ Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "bors-perekrestok-select-300g",
+                    "plu": "4323587",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Гуляш из курицы с овощами с гречкой отварной Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "gulas-iz-kuricy-s-ovosami-s-greckoj-otvarnoj-perekrestok-select-240g",
+                    "plu": "4381901",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич-ролл с ветчиной и португальским салатом Перекрёсток Select, 185г",
+                "masterData": {
+                    "slug": "sendvic-roll-s-vetcinoj-i-portugalskim-salatom-perekrestok-select-185g",
+                    "plu": "4410399",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Поке с креветками и соусом Альтерно Перекрёсток Select, 210г",
+                "masterData": {
+                    "slug": "poke-s-krevetkami-i-sousom-alterno-perekrestok-select-210g",
+                    "plu": "4276196",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пюре картофельное Перекрёсток Select, 450г",
+                "masterData": {
+                    "slug": "pure-kartofelnoe-perekrestok-select-450g",
+                    "plu": "4298576",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шницель по-министерски с рисом и овощами Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "snicel-po-ministerski-s-risom-i-ovosami-perekrestok-select-300g",
+                    "plu": "4312153",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Макароны по-флотски Перекрёсток Select, 240г",
+                "masterData": {
+                    "slug": "makarony-po-flotski-perekrestok-select-240g",
+                    "plu": "4404317",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шаурма с курицей, 220г",
+                "masterData": {
+                    "slug": "saurma-s-kuricej-220g",
+                    "plu": "4221614",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Курица с ананасами в кисло-сладком соусе и рисом Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "kurica-s-ananasami-v-kislo-sladkom-souse-i-risom-perekrestok-select-220g",
+                    "plu": "4409320",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Винегрет овощной Перекрёсток Select с маслом, 500г",
+                "masterData": {
+                    "slug": "vinegret-ovosnoj-perekrestok-select-s-maslom-500g",
+                    "plu": "4133219",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлета куриная с картофельным пюре Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kotleta-kurinaa-s-kartofelnym-pure-perekrestok-select-250g",
+                    "plu": "4417738",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Дачный Перекрёсток Select, 160г",
+                "masterData": {
+                    "slug": "salat-dacnyj-perekrestok-select-160g",
+                    "plu": "4381673",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Винегрет овощной Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "vinegret-ovosnoj-perekrestok-select-180g",
+                    "plu": "3681084",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Биточек куриный со спагетти в томатном соусе Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "bitocek-kurinyj-so-spagetti-v-tomatnom-souse-perekrestok-select-220g",
+                    "plu": "4403477",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Плов с курицей Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "plov-s-kuricej-perekrestok-select-300g",
+                    "plu": "4381912",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники жареные Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "syrniki-zarenye-perekrestok-select-220g",
+                    "plu": "4147834",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Шницель куриный в яйце с картофельным пюре Перекрёсток Select, 210г",
+                "masterData": {
+                    "slug": "snicel-kurinyj-v-ajce-s-kartofelnym-pure-perekrestok-select-210g",
+                    "plu": "4381913",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Азу из говядины с картофельным пюре Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "azu-iz-govadiny-s-kartofelnym-pure-perekrestok-select-300g",
+                    "plu": "4312150",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста с цыпленком в соусе Пепе Верде Перекрёсток Select, 230г",
+                "masterData": {
+                    "slug": "pasta-s-cyplenkom-v-souse-pepe-verde-perekrestok-select-230g",
+                    "plu": "4409322",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Крабовый Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "salat-krabovyj-perekrestok-select-180g",
+                    "plu": "4406507",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Клаб Сэндвич двойной с бужениной Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "klab-sendvic-dvojnoj-s-buzeninoj-perekrestok-select-180g",
+                    "plu": "4410398",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич с курицей терияки и творожным сыром Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "sendvic-s-kuricej-teriaki-i-tvoroznym-syrom-perekrestok-select-200g",
+                    "plu": "4358604",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Курица терияки на рисе Перекрёсток Select, 215г",
+                "masterData": {
+                    "slug": "kurica-teriaki-na-rise-perekrestok-select-215g",
+                    "plu": "4401909",
+                    "unitName": "шт",
+                    "weight": 215,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Кекс Маффин, 2х120г",
+                "masterData": {
+                    "slug": "keks-maffin-2h120g",
+                    "plu": "78007940",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич-ролл с индейкой Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "sendvic-roll-s-indejkoj-perekrestok-select-200g",
+                    "plu": "4133313",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сырники жареные Перекрёсток Select, 440г",
+                "masterData": {
+                    "slug": "syrniki-zarenye-perekrestok-select-440g",
+                    "plu": "4201519",
+                    "unitName": "шт",
+                    "weight": 440,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлеты куриные с картофельным пюре Перекрёсток Select, 450г",
+                "masterData": {
+                    "slug": "kotlety-kurinye-s-kartofelnym-pure-perekrestok-select-450g",
+                    "plu": "4415660",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Рулетики пикантные из ветчины Перекрёсток Select, 150г",
+                "masterData": {
+                    "slug": "ruletiki-pikantnye-iz-vetciny-perekrestok-select-150g",
+                    "plu": "3681730",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Оливье Перекрёсток Select, 500г",
+                "masterData": {
+                    "slug": "salat-olive-perekrestok-select-500g",
+                    "plu": "4133217",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Мимоза Шеф Перекрёсток, 200г",
+                "masterData": {
+                    "slug": "salat-mimoza-sef-perekrestok-200g",
+                    "plu": "3681151",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста с ветчиной и грибами Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "pasta-s-vetcinoj-i-gribami-perekrestok-select-250g",
+                    "plu": "4123368",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Цезарь с креветками Перекрёсток Select, 190г",
+                "masterData": {
+                    "slug": "salat-cezar-s-krevetkami-perekrestok-select-190g",
+                    "plu": "4268960",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сэндвич-ролл Цезарь с креветками Перекрёсток Select, 175г",
+                "masterData": {
+                    "slug": "sendvic-roll-cezar-s-krevetkami-perekrestok-select-175g",
+                    "plu": "4403479",
+                    "unitName": "шт",
+                    "weight": 175,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Котлета по-киевски с картофельным пюре Перекрёсток Select, 280г",
+                "masterData": {
+                    "slug": "kotleta-po-kievski-s-kartofelnym-pure-perekrestok-select-280g",
+                    "plu": "4381905",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Блинчики без начинки Перекрёсток Select, 400г",
+                "masterData": {
+                    "slug": "blinciki-bez-nacinki-perekrestok-select-400g",
+                    "plu": "4335251",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Биточки мясные с картофельным пюре Перекрёсток Select, 300г",
+                "masterData": {
+                    "slug": "bitocki-masnye-s-kartofelnym-pure-perekrestok-select-300g",
+                    "plu": "4419226",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Клаб сэндвич двойной с курицей и беконом Перекрёсток Select, 180г",
+                "masterData": {
+                    "slug": "klab-sendvic-dvojnoj-s-kuricej-i-bekonom-perekrestok-select-180g",
+                    "plu": "4403478",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Улитка Перекрёсток Греческая со шпинатом и сыром, 160г",
+                "masterData": {
+                    "slug": "ulitka-perekrestok-greceskaa-so-spinatom-i-syrom-160g",
+                    "plu": "74710",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каша молочная рисовая Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "kasa-molocnaa-risovaa-perekrestok-select-250g",
+                    "plu": "3681003",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Оливье Перекрёсток Select, 200г",
+                "masterData": {
+                    "slug": "salat-olive-perekrestok-select-200g",
+                    "plu": "3681186",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Паста Перекрёсток Select Карбонара, 250г",
+                "masterData": {
+                    "slug": "pasta-perekrestok-select-karbonara-250g",
+                    "plu": "4128971",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Сельдь под шубой Перекрёсток Select, 250г",
+                "masterData": {
+                    "slug": "salat-seld-pod-suboj-perekrestok-select-250g",
+                    "plu": "3682462",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Латте, 400мл",
+                "masterData": {
+                    "slug": "latte-400ml",
+                    "plu": "78031250",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Салат Цезарь Перекрёсток Select, 220г",
+                "masterData": {
+                    "slug": "salat-cezar-perekrestok-select-220g",
+                    "plu": "4225649",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Капучино, 400мл",
+                "masterData": {
+                    "slug": "kapucino-400ml",
+                    "plu": "78031245",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            }
+        ]
+    }
+}

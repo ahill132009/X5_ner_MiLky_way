@@ -1,0 +1,4333 @@
+{
+    "cat_name": {
+        "cat_id": 242,
+        "items": [
+            {
+                "title": "Хлеб Хлебозавод №22 Дарницкий формовой, 700г",
+                "masterData": {
+                    "slug": "hleb-hlebozavod-no22-darnickij-formovoj-700g",
+                    "plu": "4354623",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Новый Пр!ст, 380г",
+                "masterData": {
+                    "slug": "baton-novyj-pr-st-380g",
+                    "plu": "4157283",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Кукурузно-рисовые с киноа-льном-розмарином, 100г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-kukuruzno-risovye-s-kinoa-lnom-rozmarinom-100g",
+                    "plu": "4002378",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Zai Cracker Итальянские с оливковым маслом хрустящие, 250г",
+                "masterData": {
+                    "slug": "hlebcy-zai-cracker-italanskie-s-olivkovym-maslom-hrustasie-250g",
+                    "plu": "4363533",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Baker House цельнозерновые овсяные с розмарином, 50г",
+                "masterData": {
+                    "slug": "hlebcy-baker-house-celnozernovye-ovsanye-s-rozmarinom-50g",
+                    "plu": "4367419",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Delburger Мультизлаковый 250г",
+                "masterData": {
+                    "slug": "hleb-delburger-multizlakovyj-250g",
+                    "plu": "4424657",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Delburger Черный 250г",
+                "masterData": {
+                    "slug": "hleb-delburger-cernyj-250g",
+                    "plu": "4424656",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Кето-тарталетки Vqформула, 70г",
+                "masterData": {
+                    "slug": "keto-tartaletki-vqformula-70g",
+                    "plu": "4374678",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Di&Di амарантовые с гречей без глютена, 100г",
+                "masterData": {
+                    "slug": "hlebcy-di-di-amarantovye-s-grecej-bez-glutena-100g",
+                    "plu": "3688779",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Без глютена",
+                    "id": 130
+                }
+            },
+            {
+                "title": "Хлеб Haverland цельнозерновой из пшеницы-спельта-полбы, 350г",
+                "masterData": {
+                    "slug": "hleb-haverland-celnozernovoj-iz-psenicy-spelta-polby-350g",
+                    "plu": "4386492",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Haverland Vegan цельнозерновой протеиновый, 250г",
+                "masterData": {
+                    "slug": "hleb-haverland-vegan-celnozernovoj-proteinovyj-250g",
+                    "plu": "4386493",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пирожное Макарон Сицилийская Фисташка, 16г",
+                "masterData": {
+                    "slug": "piroznoe-makaron-sicilijskaa-fistaska-16g",
+                    "plu": "78036452",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Cornation Кукурузные зерновые, 150г",
+                "masterData": {
+                    "slug": "hlebcy-cornation-kukuruznye-zernovye-150g",
+                    "plu": "4367345",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Vegers Луковые хрустящие запеченные, 40г",
+                "masterData": {
+                    "slug": "hlebcy-vegers-lukovye-hrustasie-zapecennye-40g",
+                    "plu": "4390738",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Хлебцы Fitstart Манго-маракуйя рисовые, 100г",
+                "masterData": {
+                    "slug": "hlebcy-fitstart-mango-marakuja-risovye-100g",
+                    "plu": "4122472",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пирожное Картошка, 80г",
+                "masterData": {
+                    "slug": "piroznoe-kartoska-80g",
+                    "plu": "78035120",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Самарский Пекарь Четыре злака зерновой нарезка, 350г",
+                "masterData": {
+                    "slug": "hleb-samarskij-pekar-cetyre-zlaka-zernovoj-narezka-350g",
+                    "plu": "4001717",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Аютинский Хлеб Порционный картофельный с луком нарезанный, 300г",
+                "masterData": {
+                    "slug": "hleb-autinskij-hleb-porcionnyj-kartofelnyj-s-lukom-narezannyj-300g",
+                    "plu": "4224358",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Эклер карамельный, 80г",
+                "masterData": {
+                    "slug": "ekler-karamelnyj-80g",
+                    "plu": "78035129",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Cornation Зерновые овсяные, 150г",
+                "masterData": {
+                    "slug": "hlebcy-cornation-zernovye-ovsanye-150g",
+                    "plu": "4367347",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Тосты Lejinji, 320г",
+                "masterData": {
+                    "slug": "tosty-lejinji-320g",
+                    "plu": "4395706",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб ZbreadD белково-полбяной с семенами чиа и киноа, 290г",
+                "masterData": {
+                    "slug": "hleb-zbreadd-belkovo-polbanoj-s-semenami-cia-i-kinoa-290g",
+                    "plu": "3992566",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Молодцы Фитнес-Линия минерал плюс контроль хрустящие, 100г",
+                "masterData": {
+                    "slug": "hlebcy-molodcy-fitnes-linia-mineral-plus-kontrol-hrustasie-100g",
+                    "plu": "2059457",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Злаковый коктейль сырный, 100г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-zlakovyj-koktejl-syrnyj-100g",
+                    "plu": "3273363",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Эклер шоколадный, 80г",
+                "masterData": {
+                    "slug": "ekler-sokoladnyj-80g",
+                    "plu": "78035130",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пицца Грибная, 890г",
+                "masterData": {
+                    "slug": "picca-gribnaa-890g",
+                    "plu": "4383009",
+                    "unitName": "шт",
+                    "weight": 890,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Тортилья Tortillove пшенично-кукурузная d25см, 240г",
+                "masterData": {
+                    "slug": "tortila-tortillove-psenicno-kukuruznaa-d25sm-240g",
+                    "plu": "4372913",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Круассан сюпрем кремчиз с черникой, 100г",
+                "masterData": {
+                    "slug": "kruassan-suprem-kremciz-s-cernikoj-100g",
+                    "plu": "78037018",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Печенье Фундучный кукис, 75г",
+                "masterData": {
+                    "slug": "pecene-funducnyj-kukis-75g",
+                    "plu": "78036501",
+                    "unitName": "шт",
+                    "weight": 75,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Каравай-бублик Каравай Традиционный, 200г",
+                "masterData": {
+                    "slug": "karavaj-bublik-karavaj-tradicionnyj-200g",
+                    "plu": "4397459",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Изделие хлебобулочное VQформула Белково-полбяной многозерновой, 290г",
+                "masterData": {
+                    "slug": "izdelie-hlebobulocnoe-vqformula-belkovo-polbanoj-mnogozernovoj-290g",
+                    "plu": "4406398",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пирожное Чизкейк Орео, 100г",
+                "masterData": {
+                    "slug": "piroznoe-cizkejk-oreo-100g",
+                    "plu": "78036512",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожное Персик, 120г",
+                "masterData": {
+                    "slug": "piroznoe-persik-120g",
+                    "plu": "78035124",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Vqформула Белково-полбяной с изюмом и семечками нарезанный, 250г",
+                "masterData": {
+                    "slug": "hleb-vqformula-belkovo-polbanoj-s-izumom-i-semeckami-narezannyj-250g",
+                    "plu": "4374772",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Крунат малиновый, 90г",
+                "masterData": {
+                    "slug": "krunat-malinovyj-90g",
+                    "plu": "78035963",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Булочка Lejinji со вкусом молока, 80г",
+                "masterData": {
+                    "slug": "bulocka-lejinji-so-vkusom-moloka-80g",
+                    "plu": "4395705",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Коломенский Злаковый пшенично-ржаной с семенами подсолнечника и льна, 300г",
+                "masterData": {
+                    "slug": "hleb-kolomenskij-zlakovyj-psenicno-rzanoj-s-semenami-podsolnecnika-i-lna-300g",
+                    "plu": "4383470",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Станичный заварной подовый, 250г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-stanicnyj-zavarnoj-podovyj-250g",
+                    "plu": "3431850",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Аютинский Хлеб Порционный пшенично-ржаной в нарезке, 300г",
+                "masterData": {
+                    "slug": "hleb-autinskij-hleb-porcionnyj-psenicno-rzanoj-v-narezke-300g",
+                    "plu": "4187335",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Донат Marshmallow с посыпкой из пастилы, 60г",
+                "masterData": {
+                    "slug": "donat-marshmallow-s-posypkoj-iz-pastily-60g",
+                    "plu": "78035356",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лепешка Bikano Папад из муки бобовых с чёрным перцем, 200г",
+                "masterData": {
+                    "slug": "lepeska-bikano-papad-iz-muki-bobovyh-s-cernym-percem-200g",
+                    "plu": "4381814",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Волован с манго, 85г",
+                "masterData": {
+                    "slug": "volovan-s-mango-85g",
+                    "plu": "78036975",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Волован с чёрной смородиной, 85г",
+                "masterData": {
+                    "slug": "volovan-s-cernoj-smorodinoj-85g",
+                    "plu": "78036976",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Ремесленный чёрный заварной ржано-пшеничный, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-remeslennyj-cernyj-zavarnoj-rzano-psenicnyj-300g",
+                    "plu": "4250088",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Самарский Пекарь Три злака со льном нарезка, 350г",
+                "masterData": {
+                    "slug": "hleb-samarskij-pekar-tri-zlaka-so-lnom-narezka-350g",
+                    "plu": "4001716",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Альфредо, 880г",
+                "masterData": {
+                    "slug": "picca-alfredo-880g",
+                    "plu": "4383007",
+                    "unitName": "шт",
+                    "weight": 880,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Take a Bite кукурузно-рисовые с луком хрустящие, 150г",
+                "masterData": {
+                    "slug": "hlebcy-take-a-bite-kukuruzno-risovye-s-lukom-hrustasie-150g",
+                    "plu": "3951308",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Криспы Мистраль Канадские из трёх видов риса, 100г",
+                "masterData": {
+                    "slug": "krispy-mistral-kanadskie-iz-treh-vidov-risa-100g",
+                    "plu": "4372168",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Take a Bite рисово-гречневые хрустящие, 150г",
+                "masterData": {
+                    "slug": "hlebcy-take-a-bite-risovo-grecnevye-hrustasie-150g",
+                    "plu": "3951310",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Аютинский Хлеб Порционный овсяный в нарезке, 300г",
+                "masterData": {
+                    "slug": "hleb-autinskij-hleb-porcionnyj-ovsanyj-v-narezke-300g",
+                    "plu": "4187329",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Di&Di амарантовые без глютена, 100г",
+                "masterData": {
+                    "slug": "hlebcy-di-di-amarantovye-bez-glutena-100g",
+                    "plu": "3688778",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Без глютена",
+                    "id": 130
+                }
+            },
+            {
+                "title": "Булочка Дарница с лимонной начинкой, 75г",
+                "masterData": {
+                    "slug": "bulocka-darnica-s-limonnoj-nacinkoj-75g",
+                    "plu": "4095506",
+                    "unitName": "шт",
+                    "weight": 75,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы Здоровей гречишно-рисовые без глютена, 90г",
+                "masterData": {
+                    "slug": "hlebcy-zdorovej-grecisno-risovye-bez-glutena-90g",
+                    "plu": "3483723",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Без глютена",
+                    "id": 130
+                }
+            },
+            {
+                "title": "Хлебцы Cornation зерновые овсяные, 100г",
+                "masterData": {
+                    "slug": "hlebcy-cornation-zernovye-ovsanye-100g",
+                    "plu": "4315346",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебец Каравай Чёрный Янтарь наливной зерно и солод, 300г",
+                "masterData": {
+                    "slug": "hlebec-karavaj-cernyj-antar-nalivnoj-zerno-i-solod-300g",
+                    "plu": "4193036",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Сухарики Finn Crisp Original ржаные, 200г",
+                "masterData": {
+                    "slug": "suhariki-finn-crisp-original-rzanye-200g",
+                    "plu": "17790",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Булочка Каравай Ассоль, 2х50г",
+                "masterData": {
+                    "slug": "bulocka-karavaj-assol-2h50g",
+                    "plu": "4349105",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы Maxi Vita мультизлаковые хрустящие, 150г",
+                "masterData": {
+                    "slug": "hlebcy-maxi-vita-multizlakovye-hrustasie-150g",
+                    "plu": "4153540",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Тесто Фило Gretta, 340г",
+                "masterData": {
+                    "slug": "testo-filo-gretta-340g",
+                    "plu": "4373877",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Самарский Пекарь 100% Ржаной зерновой нарезанный, 350г",
+                "masterData": {
+                    "slug": "hleb-samarskij-pekar-100-rzanoj-zernovoj-narezannyj-350g",
+                    "plu": "4001715",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Maxi Vita гречневые хрустящие, 150г",
+                "masterData": {
+                    "slug": "hlebcy-maxi-vita-grecnevye-hrustasie-150g",
+                    "plu": "4153539",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пицца Мясная, 910г",
+                "masterData": {
+                    "slug": "picca-masnaa-910g",
+                    "plu": "4170538",
+                    "unitName": "шт",
+                    "weight": 910,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Булочка Бриошь, 45г",
+                "masterData": {
+                    "slug": "bulocka-brios-45g",
+                    "plu": "78036695",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Пумперникель Вестфальский цельнозерновой Маркет Collection, 450г",
+                "masterData": {
+                    "slug": "hleb-pumpernikel-vestfalskij-celnozernovoj-market-collection-450g",
+                    "plu": "4361611",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Булочка Date с начинкой со вкусом Сыра, 70г",
+                "masterData": {
+                    "slug": "bulocka-date-s-nacinkoj-so-vkusom-syra-70g",
+                    "plu": "4395493",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Пицца Ветчина-грибы, 950г",
+                "masterData": {
+                    "slug": "picca-vetcina-griby-950g",
+                    "plu": "4170544",
+                    "unitName": "шт",
+                    "weight": 950,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Штрудель Хлебозавод №28 с творогом, 60г",
+                "masterData": {
+                    "slug": "strudel-hlebozavod-no28-s-tvorogom-60g",
+                    "plu": "4297866",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Аютинский Хлеб Тостовый в нарезке, 280г",
+                "masterData": {
+                    "slug": "hleb-autinskij-hleb-tostovyj-v-narezke-280g",
+                    "plu": "4187189",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Take a Bite кукурузно-рисовые с морской солью хрустящие, 150г",
+                "masterData": {
+                    "slug": "hlebcy-take-a-bite-kukuruzno-risovye-s-morskoj-solu-hrustasie-150g",
+                    "plu": "3951309",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Трубочка вафельная с варёным сгущенным молоком, 85г",
+                "masterData": {
+                    "slug": "trubocka-vafelnaa-s-varenym-sgusennym-molokom-85g",
+                    "plu": "78036485",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner кукурузно-рисовые с имбирём и лимоном без глютена, 90г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-kukuruzno-risovye-s-imbirem-i-limonom-bez-glutena-90g",
+                    "plu": "3602797",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Булочка с кардамоном и корицей, 80г",
+                "masterData": {
+                    "slug": "bulocka-s-kardamonom-i-koricej-80g",
+                    "plu": "78036971",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлебцы Cornation зерновые гречневые, 100г",
+                "masterData": {
+                    "slug": "hlebcy-cornation-zernovye-grecnevye-100g",
+                    "plu": "4315344",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Fitstart Пряная вишня рисовые с корицей и соком, 100г",
+                "masterData": {
+                    "slug": "hlebcy-fitstart-pranaa-visna-risovye-s-koricej-i-sokom-100g",
+                    "plu": "4359554",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Коломенский Русский ржано-пшеничный нарезанный, 325г",
+                "masterData": {
+                    "slug": "hleb-kolomenskij-russkij-rzano-psenicnyj-narezannyj-325g",
+                    "plu": "4383472",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Каравай Финские ржано-пшеничные, 240г",
+                "masterData": {
+                    "slug": "hlebcy-karavaj-finskie-rzano-psenicnye-240g",
+                    "plu": "3687773",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пицца Четыре сыра, 735г",
+                "masterData": {
+                    "slug": "picca-cetyre-syra-735g",
+                    "plu": "4164757",
+                    "unitName": "шт",
+                    "weight": 735,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Батончик Щелковохлеб Злаковое чудо нарезанный, 200г",
+                "masterData": {
+                    "slug": "batoncik-selkovohleb-zlakovoe-cudo-narezannyj-200g",
+                    "plu": "4315649",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Столовые хрустящие Пр!ст, 110г",
+                "masterData": {
+                    "slug": "hlebcy-stolovye-hrustasie-pr-st-110g",
+                    "plu": "3688701",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Baker House Итальянские овощной микс, 250г",
+                "masterData": {
+                    "slug": "hlebcy-baker-house-italanskie-ovosnoj-miks-250g",
+                    "plu": "3952943",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пицца BBQ, 980г",
+                "masterData": {
+                    "slug": "picca-bbq-980g",
+                    "plu": "4170534",
+                    "unitName": "шт",
+                    "weight": 980,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Schar Pan multigrano без глютена нарезка, 250г",
+                "masterData": {
+                    "slug": "hleb-schar-pan-multigrano-bez-glutena-narezka-250g",
+                    "plu": "3668481",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Криспы Мистраль Алтайские гречневые, 150г",
+                "masterData": {
+                    "slug": "krispy-mistral-altajskie-grecnevye-150g",
+                    "plu": "4372165",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пирог Чизкейк Шоколадный Микс сырный, 120г",
+                "masterData": {
+                    "slug": "pirog-cizkejk-sokoladnyj-miks-syrnyj-120g",
+                    "plu": "78036091",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Кукис Три Шоколада, 70г",
+                "masterData": {
+                    "slug": "kukis-tri-sokolada-70g",
+                    "plu": "78036450",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Хлебозавод №22 Столичный, 700г",
+                "masterData": {
+                    "slug": "hleb-hlebozavod-no22-stolicnyj-700g",
+                    "plu": "3497206",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Пепперони римская, 300г",
+                "masterData": {
+                    "slug": "picca-pepperoni-rimskaa-300g",
+                    "plu": "78035341",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Коломенский Злаковый ржано-пшеничный с пророщенным зерном ржи, 300г",
+                "masterData": {
+                    "slug": "hleb-kolomenskij-zlakovyj-rzano-psenicnyj-s-prorosennym-zernom-rzi-300g",
+                    "plu": "4383471",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Цельнозерновые ржаные с отрубями Зелёная Линия, 160г",
+                "masterData": {
+                    "slug": "hlebcy-celnozernovye-rzanye-s-otrubami-zelenaa-linia-160g",
+                    "plu": "4413953",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Улитка с миндальным кремом и корицей, 90г",
+                "masterData": {
+                    "slug": "ulitka-s-mindalnym-kremom-i-koricej-90g",
+                    "plu": "78036974",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Пицца Четыре Сыра римская, 300г",
+                "masterData": {
+                    "slug": "picca-cetyre-syra-rimskaa-300g",
+                    "plu": "78035342",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирог Яблочный элит, 120г",
+                "masterData": {
+                    "slug": "pirog-ablocnyj-elit-120g",
+                    "plu": "78036073",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Вкусная Фантазия Виктория пшеничные вафельные, 60г",
+                "masterData": {
+                    "slug": "hlebcy-vkusnaa-fantazia-viktoria-psenicnye-vafelnye-60g",
+                    "plu": "3412317",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Полбяной цельнозерновой, 270г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-polbanoj-celnozernovoj-270g",
+                    "plu": "4009100",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Dr. Schar Pan Rustico злаковый, 250г",
+                "masterData": {
+                    "slug": "hleb-dr-schar-pan-rustico-zlakovyj-250g",
+                    "plu": "3668482",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Сдоба Хлебозавод №28 с маком, 80г",
+                "masterData": {
+                    "slug": "sdoba-hlebozavod-no28-s-makom-80g",
+                    "plu": "3017956",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Кольцо Аладушкин песочное, 80г",
+                "masterData": {
+                    "slug": "kolco-aladuskin-pesocnoe-80g",
+                    "plu": "3482783",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Ржевский цельнозерновой Маркет Collection, 450г",
+                "masterData": {
+                    "slug": "hleb-rzevskij-celnozernovoj-market-collection-450g",
+                    "plu": "4361612",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Цельнозерновые с зеленью хрустящие Зелёная Линия, 70г",
+                "masterData": {
+                    "slug": "hlebcy-celnozernovye-s-zelenu-hrustasie-zelenaa-linia-70g",
+                    "plu": "4342194",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Кукис Шоколадная Крошка, 70г",
+                "masterData": {
+                    "slug": "kukis-sokoladnaa-kroska-70g",
+                    "plu": "78036449",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом тостовый нарезка, 500г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-tostovyj-narezka-500g",
+                    "plu": "36573",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Хлебное Местечко Гречневый бездрожжевой, 300г",
+                "masterData": {
+                    "slug": "hleb-hlebnoe-mestecko-grecnevyj-bezdrozzevoj-300g",
+                    "plu": "4094189",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Здоровей кукурузные хрустящие, 90г",
+                "masterData": {
+                    "slug": "hlebcy-zdorovej-kukuruznye-hrustasie-90g",
+                    "plu": "3483725",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Улитка с маком и лимонным курдом, 90г",
+                "masterData": {
+                    "slug": "ulitka-s-makom-i-limonnym-kurdom-90g",
+                    "plu": "78036973",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Хлебозавод №22 Паляница, 500г",
+                "masterData": {
+                    "slug": "hleb-hlebozavod-no22-palanica-500g",
+                    "plu": "4278907",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Здоровый рецепт бездрожжевой заварной, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-zdorovyj-recept-bezdrozzevoj-zavarnoj-300g",
+                    "plu": "4338725",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Wasa Delicate Crisp Rosemary & Sea salt тонкие пшеничные с розмарином и морской солью, 190г",
+                "masterData": {
+                    "slug": "hlebcy-wasa-delicate-crisp-rosemary-sea-salt-tonkie-psenicnye-s-rozmarinom-i-morskoj-solu-190g",
+                    "plu": "4066929",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Бородинские хрустящие Зелёная Линия, 70г",
+                "masterData": {
+                    "slug": "hlebcy-borodinskie-hrustasie-zelenaa-linia-70g",
+                    "plu": "4342193",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Сдоба Лакомка с клубничной начинкой, 110г",
+                "masterData": {
+                    "slug": "sdoba-lakomka-s-klubnicnoj-nacinkoj-110g",
+                    "plu": "78035715",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Вкусная Фантазия Виктория овсяные вафельные, 60г",
+                "masterData": {
+                    "slug": "hlebcy-vkusnaa-fantazia-viktoria-ovsanye-vafelnye-60g",
+                    "plu": "3412323",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Криспы Мистраль Мексиканские кукурузные, 145г",
+                "masterData": {
+                    "slug": "krispy-mistral-meksikanskie-kukuruznye-145g",
+                    "plu": "4372169",
+                    "unitName": "шт",
+                    "weight": 145,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Сдоба Лакомка с абрикосовой начинкой, 110г",
+                "masterData": {
+                    "slug": "sdoba-lakomka-s-abrikosovoj-nacinkoj-110g",
+                    "plu": "78035714",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Рулет с корицей, 200г",
+                "masterData": {
+                    "slug": "rulet-s-koricej-200g",
+                    "plu": "78035704",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Круассан с лимонным курдом и черничным конфитюром, 80г",
+                "masterData": {
+                    "slug": "kruassan-s-limonnym-kurdom-i-cernicnym-konfiturom-80g",
+                    "plu": "78036972",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Криспы Мистраль Турецкие из булгура киноа и микса семян, 110г",
+                "masterData": {
+                    "slug": "krispy-mistral-tureckie-iz-bulgura-kinoa-i-miksa-seman-110g",
+                    "plu": "4372170",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Ароматный ржано-пшеничный подовый с изюмом, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-aromatnyj-rzano-psenicnyj-podovyj-s-izumom-300g",
+                    "plu": "3994705",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Щелковохлеб Рижский заварной нарезка, 320г",
+                "masterData": {
+                    "slug": "hleb-selkovohleb-rizskij-zavarnoj-narezka-320g",
+                    "plu": "3357340",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Protein Rex Crispy протеиново-злаковые кокосовый крамбл, 55г",
+                "masterData": {
+                    "slug": "hlebcy-protein-rex-crispy-proteinovo-zlakovye-kokosovyj-krambl-55g",
+                    "plu": "3936077",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Булочка Дарница с абрикосовой начинкой, 75г",
+                "masterData": {
+                    "slug": "bulocka-darnica-s-abrikosovoj-nacinkoj-75g",
+                    "plu": "4095507",
+                    "unitName": "шт",
+                    "weight": 75,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Багет, 200г",
+                "masterData": {
+                    "slug": "baget-200g",
+                    "plu": "78034324",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Булочка Щелковохлеб для гамбургера, 4х60г",
+                "masterData": {
+                    "slug": "bulocka-selkovohleb-dla-gamburgera-4h60g",
+                    "plu": "3496198",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Щедрые ржаные, 100г",
+                "masterData": {
+                    "slug": "hlebcy-sedrye-rzanye-100g",
+                    "plu": "3182026",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Торт Чизкейк Клубничный Элит, 115г",
+                "masterData": {
+                    "slug": "tort-cizkejk-klubnicnyj-elit-115g",
+                    "plu": "78036074",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Булочка Date с шоколадной начинкой, 70г",
+                "masterData": {
+                    "slug": "bulocka-date-s-sokoladnoj-nacinkoj-70g",
+                    "plu": "4395492",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Булочка Date с молочной начинкой, 70г",
+                "masterData": {
+                    "slug": "bulocka-date-s-molocnoj-nacinkoj-70g",
+                    "plu": "4395491",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб зерновой 6 злаков с полбой в нарезке, 280г",
+                "masterData": {
+                    "slug": "hleb-zernovoj-6-zlakov-s-polboj-v-narezke-280g",
+                    "plu": "4157549",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пирожное Медовик домашний, 110г",
+                "masterData": {
+                    "slug": "piroznoe-medovik-domasnij-110g",
+                    "plu": "78032696",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сдоба Щелковохлеб Финская с грушевой начинкой, 80г",
+                "masterData": {
+                    "slug": "sdoba-selkovohleb-finskaa-s-grusevoj-nacinkoj-80g",
+                    "plu": "3652260",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Корнерсы рисовые с сыром, 40г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-kornersy-risovye-s-syrom-40g",
+                    "plu": "4289754",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Паляница Черемушки Украинская половинка нарезка, 300г",
+                "masterData": {
+                    "slug": "palanica-ceremuski-ukrainskaa-polovinka-narezka-300g",
+                    "plu": "3639289",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Злаковый коктейль клюквенные, 100г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-zlakovyj-koktejl-klukvennye-100g",
+                    "plu": "3195740",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Штрудель Черемушки с яблоком, 70г",
+                "masterData": {
+                    "slug": "strudel-ceremuski-s-ablokom-70g",
+                    "plu": "3293055",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner рисовые с морской солью без глютена хрустящие, 100г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-risovye-s-morskoj-solu-bez-glutena-hrustasie-100g",
+                    "plu": "3445944",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пицца Пепперони, 920г",
+                "masterData": {
+                    "slug": "picca-pepperoni-920g",
+                    "plu": "4164759",
+                    "unitName": "шт",
+                    "weight": 920,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Тесто Gretta Фило, 460г",
+                "masterData": {
+                    "slug": "testo-gretta-filo-460g",
+                    "plu": "4373881",
+                    "unitName": "шт",
+                    "weight": 460,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Щелковохлеб тостовый молочный нарезанный, 240г",
+                "masterData": {
+                    "slug": "hleb-selkovohleb-tostovyj-molocnyj-narezannyj-240g",
+                    "plu": "4315652",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Тарталетки КиТ для икры, 30шт",
+                "masterData": {
+                    "slug": "tartaletki-kit-dla-ikry-30st",
+                    "plu": "2160788",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Baker House Итальянские с розмарином и чесноком, 250г",
+                "masterData": {
+                    "slug": "hlebcy-baker-house-italanskie-s-rozmarinom-i-cesnokom-250g",
+                    "plu": "3476099",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Елизавета вафельный ржаной, 75г",
+                "masterData": {
+                    "slug": "hleb-elizaveta-vafelnyj-rzanoj-75g",
+                    "plu": "25627",
+                    "unitName": "шт",
+                    "weight": 75,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Тарталетки Кит для салата, 15шт",
+                "masterData": {
+                    "slug": "tartaletki-kit-dla-salata-15st",
+                    "plu": "2160789",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Сочник Королевский, 75г",
+                "masterData": {
+                    "slug": "socnik-korolevskij-75g",
+                    "plu": "78036712",
+                    "unitName": "шт",
+                    "weight": 75,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлебцы WASA Original ржаные цельнозерновые, 275г",
+                "masterData": {
+                    "slug": "hlebcy-wasa-original-rzanye-celnozernovye-275g",
+                    "plu": "4066930",
+                    "unitName": "шт",
+                    "weight": 275,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Ватрушка с творогом и вишневой начинкой, 130г",
+                "masterData": {
+                    "slug": "vatruska-s-tvorogom-i-visnevoj-nacinkoj-130g",
+                    "plu": "78035664",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Булочки Bimbo из пшеничной муки с кунжутом, 240г",
+                "masterData": {
+                    "slug": "bulocki-bimbo-iz-psenicnoj-muki-s-kunzutom-240g",
+                    "plu": "4137972",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Кукис Двойной Шоколад, 70г",
+                "masterData": {
+                    "slug": "kukis-dvojnoj-sokolad-70g",
+                    "plu": "78036451",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлебцы Круазетт тонкие мультизлаковые, 200г",
+                "masterData": {
+                    "slug": "hlebcy-kruazett-tonkie-multizlakovye-200g",
+                    "plu": "4257405",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Сочник Черемушки с черникой, 120г",
+                "masterData": {
+                    "slug": "socnik-ceremuski-s-cernikoj-120g",
+                    "plu": "3635613",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы ProteinRex Шоколадный брауни протеиново-злаковые, 55г",
+                "masterData": {
+                    "slug": "hlebcy-proteinrex-sokoladnyj-brauni-proteinovo-zlakovye-55g",
+                    "plu": "4015220",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пирожок Дом Выпечки слоёный с черной смородиной, 70г",
+                "masterData": {
+                    "slug": "pirozok-dom-vypecki-sloenyj-s-cernoj-smorodinoj-70g",
+                    "plu": "4263368",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Батон Зерновой нарезанный Маркет, 300г",
+                "masterData": {
+                    "slug": "baton-zernovoj-narezannyj-market-300g",
+                    "plu": "4318511",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Булочка Щелковохлеб для хот-дога, 4х75г",
+                "masterData": {
+                    "slug": "bulocka-selkovohleb-dla-hot-doga-4h75g",
+                    "plu": "3357346",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner кукурузно-рисовые с прованскими травами без глютена хрустящие, 100г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-kukuruzno-risovye-s-provanskimi-travami-bez-glutena-hrustasie-100g",
+                    "plu": "3445942",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Пирожок Дом Выпечки слоёный с яблоком, 70г",
+                "masterData": {
+                    "slug": "pirozok-dom-vypecki-sloenyj-s-ablokom-70g",
+                    "plu": "4263370",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Корнерсы рисовые сметана и зелень, 40г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-kornersy-risovye-smetana-i-zelen-40g",
+                    "plu": "4289753",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебец цельнозерновой нарезанный Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "hlebec-celnozernovoj-narezannyj-zelenaa-linia-300g",
+                    "plu": "4323651",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner хрустящие рисовые с молочным шоколадом, 67г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-hrustasie-risovye-s-molocnym-sokoladom-67g",
+                    "plu": "4109959",
+                    "unitName": "шт",
+                    "weight": 67,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Лепёшки Краюшки ржано-пшеничные, 55г",
+                "masterData": {
+                    "slug": "lepeski-krauski-rzano-psenicnye-55g",
+                    "plu": "78035998",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Деревенский бездрожжевой подовый, 220г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-derevenskij-bezdrozzevoj-podovyj-220g",
+                    "plu": "3427407",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Питерский новый, 320г",
+                "masterData": {
+                    "slug": "hleb-piterskij-novyj-320g",
+                    "plu": "78033124",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Батон Черемушки Для Гурманов нарезанный, 400г",
+                "masterData": {
+                    "slug": "baton-ceremuski-dla-gurmanov-narezannyj-400g",
+                    "plu": "4413856",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Щедрые ржаные тонкие, 170г",
+                "masterData": {
+                    "slug": "hlebcy-sedrye-rzanye-tonkie-170g",
+                    "plu": "3497593",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Magic Grain мультизлаковые тыквенные семечки-семена льна-кунжут, 160г",
+                "masterData": {
+                    "slug": "hlebcy-magic-grain-multizlakovye-tykvennye-semecki-semena-lna-kunzut-160g",
+                    "plu": "4101075",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Хлебный дом Бурже шведские с семенами, 4х70г",
+                "masterData": {
+                    "slug": "hlebcy-hlebnyj-dom-burze-svedskie-s-semenami-4h70g",
+                    "plu": "4050645",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хачапури Хлебозавод №28 с сыром, 60г",
+                "masterData": {
+                    "slug": "hacapuri-hlebozavod-no28-s-syrom-60g",
+                    "plu": "4297870",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Тарталетка Малиновая, 110г",
+                "masterData": {
+                    "slug": "tartaletka-malinovaa-110g",
+                    "plu": "78033041",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Экстра нарезка, 450г",
+                "masterData": {
+                    "slug": "hleb-ekstra-narezka-450g",
+                    "plu": "53610",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Черемушки Кукурузный нарезанный в упаковке, 300г",
+                "masterData": {
+                    "slug": "hleb-ceremuski-kukuruznyj-narezannyj-v-upakovke-300g",
+                    "plu": "4298846",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Harry's American Sandwich пшеничный с отрубями, 515г",
+                "masterData": {
+                    "slug": "hleb-harrys-american-sandwich-psenicnyj-s-otrubami-515g",
+                    "plu": "2061863",
+                    "unitName": "шт",
+                    "weight": 515,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом Геркулес с отрубями половинка нарезка, 250г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-gerkules-s-otrubami-polovinka-narezka-250g",
+                    "plu": "3266204",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лепёшки ржано-пшеничные Хлебный Дом краюшки, 240г",
+                "masterData": {
+                    "slug": "lepeski-rzano-psenicnye-hlebnyj-dom-krauski-240g",
+                    "plu": "36560",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Коломенский Двинский пшенично-ржаной нарезанный, 350г",
+                "masterData": {
+                    "slug": "hleb-kolomenskij-dvinskij-psenicno-rzanoj-narezannyj-350g",
+                    "plu": "4371568",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Четыре Сыра римская, 300г",
+                "masterData": {
+                    "slug": "picca-cetyre-syra-rimskaa-300g",
+                    "plu": "78035225",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ватрушка с творогом, 140г",
+                "masterData": {
+                    "slug": "vatruska-s-tvorogom-140g",
+                    "plu": "78035662",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Schar Pan blanco без глютена нарезка, 250г",
+                "masterData": {
+                    "slug": "hleb-schar-pan-blanco-bez-glutena-narezka-250g",
+                    "plu": "3668480",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Слойка Хлебный Дом Спелое яблоко, 55г",
+                "masterData": {
+                    "slug": "slojka-hlebnyj-dom-speloe-abloko-55g",
+                    "plu": "4311068",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлебцы Хлебцы Молодцы Фитнес линия цельнозерновые витамин плюс хрустящие, 100г",
+                "masterData": {
+                    "slug": "hlebcy-hlebcy-molodcy-fitnes-linia-celnozernovye-vitamin-plus-hrustasie-100g",
+                    "plu": "2059458",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Хлебцы Молодцы Лайт ржаные вафельные без дрожжей хрустящие, 70г",
+                "masterData": {
+                    "slug": "hlebcy-hlebcy-molodcy-lajt-rzanye-vafelnye-bez-drozzej-hrustasie-70g",
+                    "plu": "3154405",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Цельнозерновой ржано-пшеничный, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-celnozernovoj-rzano-psenicnyj-300g",
+                    "plu": "3633467",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Слойка Черемушки Слоёлочка с вишней, 70г",
+                "masterData": {
+                    "slug": "slojka-ceremuski-sloelocka-s-visnej-70g",
+                    "plu": "3498078",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Щелковохлеб тостовый нарезка, 240г",
+                "masterData": {
+                    "slug": "hleb-selkovohleb-tostovyj-narezka-240g",
+                    "plu": "3284334",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Рисовые с песто и пармезаном, 80г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-risovye-s-pesto-i-parmezanom-80g",
+                    "plu": "4385009",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Бублик с маком, 100г",
+                "masterData": {
+                    "slug": "bublik-s-makom-100g",
+                    "plu": "78035661",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Карамельные кукурузно-рисовые без глютена, 90г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-karamelnye-kukuruzno-risovye-bez-glutena-90g",
+                    "plu": "3617315",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Сочник Черемушки с вишней, 2х60г",
+                "masterData": {
+                    "slug": "socnik-ceremuski-s-visnej-2h60g",
+                    "plu": "3498080",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Лепешка с сыром, 110г",
+                "masterData": {
+                    "slug": "lepeska-s-syrom-110g",
+                    "plu": "78035724",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пицца Пепперони римская, 300г",
+                "masterData": {
+                    "slug": "picca-pepperoni-rimskaa-300g",
+                    "plu": "78035224",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лаваш Рижский Хлеб мини из пшеничной муки Мини, 200г",
+                "masterData": {
+                    "slug": "lavas-rizskij-hleb-mini-iz-psenicnoj-muki-mini-200g",
+                    "plu": "3940608",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом Геркулес зерновой нарезка, 500г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-gerkules-zernovoj-narezka-500g",
+                    "plu": "2059535",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Хлебозавод 28 Для Фитнеса нарезка, 300г",
+                "masterData": {
+                    "slug": "hleb-hlebozavod-28-dla-fitnesa-narezka-300g",
+                    "plu": "4018850",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебец Белый с отрубями нарезанный Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "hlebec-belyj-s-otrubami-narezannyj-zelenaa-linia-300g",
+                    "plu": "4323653",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner гречневые с витаминами, 100г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-grecnevye-s-vitaminami-100g",
+                    "plu": "3275648",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлеб Щелковохлеб Столичный нарезка, 320г",
+                "masterData": {
+                    "slug": "hleb-selkovohleb-stolicnyj-narezka-320g",
+                    "plu": "3634576",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Хлебозавод №22 Дарницкий, 700г",
+                "masterData": {
+                    "slug": "hleb-hlebozavod-no22-darnickij-700g",
+                    "plu": "3497200",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом Геркулес с кукурузой нарезка, 255г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-gerkules-s-kukuruzoj-narezka-255g",
+                    "plu": "3961492",
+                    "unitName": "шт",
+                    "weight": 255,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лаваш Mission Деревенский, 270г",
+                "masterData": {
+                    "slug": "lavas-mission-derevenskij-270g",
+                    "plu": "4096013",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Булочка Bimbo Английский маффин 4шт, 240г",
+                "masterData": {
+                    "slug": "bulocka-bimbo-anglijskij-maffin-4st-240g",
+                    "plu": "4344631",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Булочка Щелковохлеб Люкс, 5х45г",
+                "masterData": {
+                    "slug": "bulocka-selkovohleb-luks-5h45g",
+                    "plu": "53607",
+                    "unitName": "шт",
+                    "weight": 225,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Коржик Молочный сдобный Маркет, 100г",
+                "masterData": {
+                    "slug": "korzik-molocnyj-sdobnyj-market-100g",
+                    "plu": "4403333",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Пирожок Дом Выпечки слоёный с малиной, 70г",
+                "masterData": {
+                    "slug": "pirozok-dom-vypecki-sloenyj-s-malinoj-70g",
+                    "plu": "4263369",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Рулет с маком, 200г",
+                "masterData": {
+                    "slug": "rulet-s-makom-200g",
+                    "plu": "78035705",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлебец Хлебный дом Подовый с зёрнами и семенами нарезка, 300г",
+                "masterData": {
+                    "slug": "hlebec-hlebnyj-dom-podovyj-s-zernami-i-semenami-narezka-300g",
+                    "plu": "3476555",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пирожок Дом Выпечки слоёный с вишней, 70г",
+                "masterData": {
+                    "slug": "pirozok-dom-vypecki-sloenyj-s-visnej-70g",
+                    "plu": "4263367",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Булочка Бимбо Макси с кунжутом, 252г",
+                "masterData": {
+                    "slug": "bulocka-bimbo-maksi-s-kunzutom-252g",
+                    "plu": "4153444",
+                    "unitName": "шт",
+                    "weight": 252,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Dr.Korner Рисовые со сметаной и зеленью хрустящие, 80г",
+                "masterData": {
+                    "slug": "hlebcy-dr-korner-risovye-so-smetanoj-i-zelenu-hrustasie-80g",
+                    "plu": "4302536",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Хлебцы Baker House Итальянские с семенами подсолнечника, 250г",
+                "masterData": {
+                    "slug": "hlebcy-baker-house-italanskie-s-semenami-podsolnecnika-250g",
+                    "plu": "3476098",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Чиабатта, 280г",
+                "masterData": {
+                    "slug": "ciabatta-280g",
+                    "plu": "78034650",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Хлебозавод №22 белый формовой, 500г",
+                "masterData": {
+                    "slug": "hleb-hlebozavod-no22-belyj-formovoj-500g",
+                    "plu": "4278908",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Донат Малиновое Наслаждение с малиновой начинкой, 65г",
+                "masterData": {
+                    "slug": "donat-malinovoe-naslazdenie-s-malinovoj-nacinkoj-65g",
+                    "plu": "78036303",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Слойка Хлебный Дом Сладкая клубника, 55г",
+                "masterData": {
+                    "slug": "slojka-hlebnyj-dom-sladkaa-klubnika-55g",
+                    "plu": "4311066",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Лепёшки пшеничные Mission тортильи оригинальные со злаками, 250г",
+                "masterData": {
+                    "slug": "lepeski-psenicnye-mission-tortili-originalnye-so-zlakami-250g",
+                    "plu": "3439816",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Баварская римская, 300г",
+                "masterData": {
+                    "slug": "picca-bavarskaa-rimskaa-300g",
+                    "plu": "78036435",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Измайловский подовый нарезанный Маркет, 360г",
+                "masterData": {
+                    "slug": "hleb-izmajlovskij-podovyj-narezannyj-market-360g",
+                    "plu": "4318513",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Грибная кусок, 110г",
+                "masterData": {
+                    "slug": "picca-gribnaa-kusok-110g",
+                    "plu": "4383010",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Булочка Bagerstat для бургера с кунжутом, 168г",
+                "masterData": {
+                    "slug": "bulocka-bagerstat-dla-burgera-s-kunzutom-168g",
+                    "plu": "4256835",
+                    "unitName": "шт",
+                    "weight": 168,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Коломенский Даниловский пшеничный нарезанный, 250г",
+                "masterData": {
+                    "slug": "hleb-kolomenskij-danilovskij-psenicnyj-narezannyj-250g",
+                    "plu": "4332762",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Щелковохлеб Ржевский нарезка, 700г",
+                "masterData": {
+                    "slug": "hleb-selkovohleb-rzevskij-narezka-700g",
+                    "plu": "76186",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лаваш Черемушки Тандырный Премиум, 200г",
+                "masterData": {
+                    "slug": "lavas-ceremuski-tandyrnyj-premium-200g",
+                    "plu": "4392964",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Ватрушка Черемушки сдобная, 100г",
+                "masterData": {
+                    "slug": "vatruska-ceremuski-sdobnaa-100g",
+                    "plu": "3331226",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Крестьянский бездрожжевой заварной подовый, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-krestanskij-bezdrozzevoj-zavarnoj-podovyj-300g",
+                    "plu": "3357380",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Коломенское Бородинский нарезка, 400г",
+                "masterData": {
+                    "slug": "hleb-kolomenskoe-borodinskij-narezka-400g",
+                    "plu": "2065124",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лепешка с сыром чесноком зеленью, 110г",
+                "masterData": {
+                    "slug": "lepeska-s-syrom-cesnokom-zelenu-110g",
+                    "plu": "78035726",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пицца Мясная кусок, 110г",
+                "masterData": {
+                    "slug": "picca-masnaa-kusok-110g",
+                    "plu": "4170548",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Юбилейный бездрожжевой, 205г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-ubilejnyj-bezdrozzevoj-205g",
+                    "plu": "3682239",
+                    "unitName": "шт",
+                    "weight": 205,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лепёшки пшеничные Mission тортильи оригинальные гриль, 250г",
+                "masterData": {
+                    "slug": "lepeski-psenicnye-mission-tortili-originalnye-gril-250g",
+                    "plu": "3693421",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Бублик с кунжутом, 100г",
+                "masterData": {
+                    "slug": "bublik-s-kunzutom-100g",
+                    "plu": "78035656",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Булочки пшеничные Коломенский с кунжутом, 180г",
+                "masterData": {
+                    "slug": "bulocki-psenicnye-kolomenskij-s-kunzutom-180g",
+                    "plu": "4370804",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб ржаной бездрожжевой заварной со злаками, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-rzanoj-bezdrozzevoj-zavarnoj-so-zlakami-300g",
+                    "plu": "4138140",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Маффин с кусочками шоколада, 100г",
+                "masterData": {
+                    "slug": "maffin-s-kusockami-sokolada-100g",
+                    "plu": "78035426",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Черемушки бездрожжевой нарезка, 320г",
+                "masterData": {
+                    "slug": "hleb-ceremuski-bezdrozzevoj-narezka-320g",
+                    "plu": "4059494",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лаваш Армянский Маркет Перекрёсток, 200г",
+                "masterData": {
+                    "slug": "lavas-armanskij-market-perekrestok-200g",
+                    "plu": "4199211",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Донат Карамель со вкусом карамели, 62г",
+                "masterData": {
+                    "slug": "donat-karamel-so-vkusom-karameli-62g",
+                    "plu": "78029841",
+                    "unitName": "шт",
+                    "weight": 62,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Батон Горчичный нарезанный Маркет, 190г",
+                "masterData": {
+                    "slug": "baton-gorcicnyj-narezannyj-market-190g",
+                    "plu": "4318510",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Конвертик Мастер Пироговъ Венский с черникой, 70г",
+                "masterData": {
+                    "slug": "konvertik-master-pirogov-venskij-s-cernikoj-70g",
+                    "plu": "3455635",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Булочки Коломенское с кардамоном, 200г",
+                "masterData": {
+                    "slug": "bulocki-kolomenskoe-s-kardamonom-200g",
+                    "plu": "3682240",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Лепёшка пшеничная Delicados тортильи мексиканские, 400г",
+                "masterData": {
+                    "slug": "lepeska-psenicnaa-delicados-tortili-meksikanskie-400g",
+                    "plu": "2039589",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лепешка с сыром и ветчиной, 110г",
+                "masterData": {
+                    "slug": "lepeska-s-syrom-i-vetcinoj-110g",
+                    "plu": "78035725",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Сайка с изюмом, 70г",
+                "masterData": {
+                    "slug": "sajka-s-izumom-70g",
+                    "plu": "78035707",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Рижский Хлеб Бородинский формовой, 300г",
+                "masterData": {
+                    "slug": "hleb-rizskij-hleb-borodinskij-formovoj-300g",
+                    "plu": "3484091",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Альфредо кусок, 110г",
+                "masterData": {
+                    "slug": "picca-alfredo-kusok-110g",
+                    "plu": "4383008",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Коломенское тостовый злаковый часть изделия нарезка, 250г",
+                "masterData": {
+                    "slug": "hleb-kolomenskoe-tostovyj-zlakovyj-cast-izdelia-narezka-250g",
+                    "plu": "4050775",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебец Хлебный Дом Стройный рецепт бездрожжевой нарезанный, 350г",
+                "masterData": {
+                    "slug": "hlebec-hlebnyj-dom-strojnyj-recept-bezdrozzevoj-narezannyj-350g",
+                    "plu": "4287370",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Конвертик Мастер Пироговъ с вишнёвой начинкой, 70г",
+                "masterData": {
+                    "slug": "konvertik-master-pirogov-s-visnevoj-nacinkoj-70g",
+                    "plu": "3640932",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Коломенское тостовый пшеничный, 320г",
+                "masterData": {
+                    "slug": "hleb-kolomenskoe-tostovyj-psenicnyj-320g",
+                    "plu": "3911583",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Багет Рустикальный пшеничный, 240г",
+                "masterData": {
+                    "slug": "baget-rustikalnyj-psenicnyj-240g",
+                    "plu": "78035491",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом Марьин заварной, 350г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-marin-zavarnoj-350g",
+                    "plu": "3372334",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Хлебозавод №22 Нарезной пшеничный высший сорт, 400г",
+                "masterData": {
+                    "slug": "baton-hlebozavod-no22-nareznoj-psenicnyj-vyssij-sort-400g",
+                    "plu": "3985056",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лаваш Рижский Хлеб из пшеничной муки, 200г",
+                "masterData": {
+                    "slug": "lavas-rizskij-hleb-iz-psenicnoj-muki-200g",
+                    "plu": "4296082",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Круазетт ржаные тонкие, 200г",
+                "masterData": {
+                    "slug": "hlebcy-kruazett-rzanye-tonkie-200g",
+                    "plu": "4054469",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлебцы, сухари",
+                    "id": 380
+                }
+            },
+            {
+                "title": "Батон Черемушки Полюшко нарезка, 300г",
+                "masterData": {
+                    "slug": "baton-ceremuski-polusko-narezka-300g",
+                    "plu": "3506194",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Лепёшка пшеничная Delicados тортильи мексиканские сырные, 400г",
+                "masterData": {
+                    "slug": "lepeska-psenicnaa-delicados-tortili-meksikanskie-syrnye-400g",
+                    "plu": "2039592",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Слойка Мастер Пироговъ с сыром, 70г",
+                "masterData": {
+                    "slug": "slojka-master-pirogov-s-syrom-70g",
+                    "plu": "2065139",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом тостовый пшеничный, 350г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-tostovyj-psenicnyj-350g",
+                    "plu": "4050647",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Ветчина-грибы кусок, 115г",
+                "masterData": {
+                    "slug": "picca-vetcina-griby-kusok-115g",
+                    "plu": "4170542",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Бородинский формовой часть изделия нарезка Маркет Перекрёсток, 370г",
+                "masterData": {
+                    "slug": "hleb-borodinskij-formovoj-cast-izdelia-narezka-market-perekrestok-370g",
+                    "plu": "3974719",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Конвертик Мастер Пироговъ Венский с грушей, 70г",
+                "masterData": {
+                    "slug": "konvertik-master-pirogov-venskij-s-grusej-70g",
+                    "plu": "3455634",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Лаваш Черёмушки Армянский по-деревенски, 160г",
+                "masterData": {
+                    "slug": "lavas-ceremuski-armanskij-po-derevenski-160g",
+                    "plu": "4116756",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пончик Перекрёсток Берлинский с варёной сгущёнкой, 2х64г",
+                "masterData": {
+                    "slug": "poncik-perekrestok-berlinskij-s-varenoj-sgusenkoj-2h64g",
+                    "plu": "78010688",
+                    "unitName": "шт",
+                    "weight": 128,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Элеш с курицей и картофелем, 140г",
+                "masterData": {
+                    "slug": "eles-s-kuricej-i-kartofelem-140g",
+                    "plu": "78034572",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пирожок Перекрёсток с капустой и яйцом, 70г",
+                "masterData": {
+                    "slug": "pirozok-perekrestok-s-kapustoj-i-ajcom-70g",
+                    "plu": "78003204",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лепешка Шоти тандыр, 290г",
+                "masterData": {
+                    "slug": "lepeska-soti-tandyr-290g",
+                    "plu": "78033856",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Хлебный Дом Геркулес зерновой половинка нарезка, 250г",
+                "masterData": {
+                    "slug": "hleb-hlebnyj-dom-gerkules-zernovoj-polovinka-narezka-250g",
+                    "plu": "3424506",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Улитка Черемушки с кремом и изюмом, 100г",
+                "masterData": {
+                    "slug": "ulitka-ceremuski-s-kremom-i-izumom-100g",
+                    "plu": "3635611",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Булочка Bagerstat для хот-дога, 240г",
+                "masterData": {
+                    "slug": "bulocka-bagerstat-dla-hot-doga-240g",
+                    "plu": "4256836",
+                    "unitName": "шт",
+                    "weight": 241,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца BBQ кусок, 120г",
+                "masterData": {
+                    "slug": "picca-bbq-kusok-120g",
+                    "plu": "4170535",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лепёшка Узбекская с чесноком тандыр, 270г",
+                "masterData": {
+                    "slug": "lepeska-uzbekskaa-s-cesnokom-tandyr-270g",
+                    "plu": "78033860",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Лепёшка Узбекская с сыром тандыр, 270г",
+                "masterData": {
+                    "slug": "lepeska-uzbekskaa-s-syrom-tandyr-270g",
+                    "plu": "78033859",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Лепёшки пшеничные Mission оригинальные, 250г",
+                "masterData": {
+                    "slug": "lepeski-psenicnye-mission-originalnye-250g",
+                    "plu": "3439566",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Тартин пшенично-ржаной, 330г",
+                "masterData": {
+                    "slug": "tartin-psenicno-rzanoj-330g",
+                    "plu": "78034651",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Черемушки Бородинский половинка нарезка, 390г",
+                "masterData": {
+                    "slug": "hleb-ceremuski-borodinskij-polovinka-narezka-390g",
+                    "plu": "2149541",
+                    "unitName": "шт",
+                    "weight": 390,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пицца Четыре сыра кусок, 100г",
+                "masterData": {
+                    "slug": "picca-cetyre-syra-kusok-100g",
+                    "plu": "4164770",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Черемушки Зерновик нарезка, 460г",
+                "masterData": {
+                    "slug": "hleb-ceremuski-zernovik-narezka-460g",
+                    "plu": "3498077",
+                    "unitName": "шт",
+                    "weight": 460,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Слойка с малиной, 70г",
+                "masterData": {
+                    "slug": "slojka-s-malinoj-70g",
+                    "plu": "78033835",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Плюшка Московская сахарная Маркет Перекрёсток, 100г",
+                "masterData": {
+                    "slug": "pluska-moskovskaa-saharnaa-market-perekrestok-100g",
+                    "plu": "3974717",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Круассан миндальный с малиной, 135г",
+                "masterData": {
+                    "slug": "kruassan-mindalnyj-s-malinoj-135g",
+                    "plu": "78034827",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лепёшка Перекрёсток томаты с базиликом, 165г",
+                "masterData": {
+                    "slug": "lepeska-perekrestok-tomaty-s-bazilikom-165g",
+                    "plu": "88505",
+                    "unitName": "шт",
+                    "weight": 165,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Самса с говядиной, 100г",
+                "masterData": {
+                    "slug": "samsa-s-govadinoj-100g",
+                    "plu": "78033652",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Слойка с сыром, 70г",
+                "masterData": {
+                    "slug": "slojka-s-syrom-70g",
+                    "plu": "78033837",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ватрушка Мастер Пироговъ с творогом, 100г",
+                "masterData": {
+                    "slug": "vatruska-master-pirogov-s-tvorogom-100g",
+                    "plu": "3455631",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Выпечка, сдоба",
+                    "id": 379
+                }
+            },
+            {
+                "title": "Хлеб Черемушки Столичный часть изделия нарезка, 330г",
+                "masterData": {
+                    "slug": "hleb-ceremuski-stolicnyj-cast-izdelia-narezka-330g",
+                    "plu": "4049144",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Слойка с вишней, 70г",
+                "masterData": {
+                    "slug": "slojka-s-visnej-70g",
+                    "plu": "78033834",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Щелковохлеб Дарницкий нарезка, 320г",
+                "masterData": {
+                    "slug": "hleb-selkovohleb-darnickij-narezka-320g",
+                    "plu": "2053660",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Кекс Маффин, 2х120г",
+                "masterData": {
+                    "slug": "keks-maffin-2h120g",
+                    "plu": "78007940",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Лаваш тонкий Коломенское армянский, 360г",
+                "masterData": {
+                    "slug": "lavas-tonkij-kolomenskoe-armanskij-360g",
+                    "plu": "3497959",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Пиццетта Перекрёсток с салями, 90г",
+                "masterData": {
+                    "slug": "piccetta-perekrestok-s-salami-90g",
+                    "plu": "78010960",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Плюшка, 200г",
+                "masterData": {
+                    "slug": "pluska-200g",
+                    "plu": "78035632",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Дарницкий формовой нарезка Маркет Перекрёсток, 350г",
+                "masterData": {
+                    "slug": "hleb-darnickij-formovoj-narezka-market-perekrestok-350g",
+                    "plu": "3974720",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Нарезной нарезанный Маркет Перекрёсток, 190г",
+                "masterData": {
+                    "slug": "baton-nareznoj-narezannyj-market-perekrestok-190g",
+                    "plu": "4102687",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Коломенское с отрубями, 300г",
+                "masterData": {
+                    "slug": "baton-kolomenskoe-s-otrubami-300g",
+                    "plu": "2065127",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Круассан Миндальный, 105г",
+                "masterData": {
+                    "slug": "kruassan-mindalnyj-105g",
+                    "plu": "78034635",
+                    "unitName": "шт",
+                    "weight": 105,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Чиабатта со ржаной мукой бездрожжевая, 240г",
+                "masterData": {
+                    "slug": "ciabatta-so-rzanoj-mukoj-bezdrozzevaa-240g",
+                    "plu": "78033782",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Круассан Классический, 70г",
+                "masterData": {
+                    "slug": "kruassan-klassiceskij-70g",
+                    "plu": "78035523",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Harry's American Sandwich сандвичный пшеничный, 470г",
+                "masterData": {
+                    "slug": "hleb-harrys-american-sandwich-sandvicnyj-psenicnyj-470g",
+                    "plu": "2061861",
+                    "unitName": "шт",
+                    "weight": 470,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Коломенское Дарницкий формовой нарезка, 350г",
+                "masterData": {
+                    "slug": "hleb-kolomenskoe-darnickij-formovoj-narezka-350g",
+                    "plu": "3953836",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Улитка Перекрёсток Греческая с мясом, 160г",
+                "masterData": {
+                    "slug": "ulitka-perekrestok-greceskaa-s-masom-160g",
+                    "plu": "74414",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Ватрушка Венгерская, 60г",
+                "masterData": {
+                    "slug": "vatruska-vengerskaa-60g",
+                    "plu": "78032959",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Пиццетта Пикантная, 90г",
+                "masterData": {
+                    "slug": "piccetta-pikantnaa-90g",
+                    "plu": "78010958",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Улитка Перекрёсток Греческая со шпинатом и сыром, 160г",
+                "masterData": {
+                    "slug": "ulitka-perekrestok-greceskaa-so-spinatom-i-syrom-160g",
+                    "plu": "74710",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Коломенское Даниловский зерновой, 300г",
+                "masterData": {
+                    "slug": "hleb-kolomenskoe-danilovskij-zernovoj-300g",
+                    "plu": "3696941",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлебцы Коломенское зерновые, 260г",
+                "masterData": {
+                    "slug": "hlebcy-kolomenskoe-zernovye-260g",
+                    "plu": "3643557",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Хлеб Коломенский Даниловский ржано-пшеничный нарезка, 350г",
+                "masterData": {
+                    "slug": "hleb-kolomenskij-danilovskij-rzano-psenicnyj-narezka-350g",
+                    "plu": "4276930",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Фламиш с ветчиной и сыром, 90г",
+                "masterData": {
+                    "slug": "flamis-s-vetcinoj-i-syrom-90g",
+                    "plu": "78028935",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Батон Щелковохлеб Щелковский нарезка, 380г",
+                "masterData": {
+                    "slug": "baton-selkovohleb-selkovskij-narezka-380g",
+                    "plu": "31014",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Багет Парижский классический, 290г",
+                "masterData": {
+                    "slug": "baget-parizskij-klassiceskij-290g",
+                    "plu": "78010991",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Свежая выпечка",
+                    "id": 377
+                }
+            },
+            {
+                "title": "Хлеб Ржаной Край зерновой нарезка, 300г",
+                "masterData": {
+                    "slug": "hleb-rzanoj-kraj-zernovoj-narezka-300g",
+                    "plu": "3455615",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Брецель Дог, 140г",
+                "masterData": {
+                    "slug": "brecel-dog-140g",
+                    "plu": "78032128",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Вся готовая еда",
+                    "id": 1619
+                }
+            },
+            {
+                "title": "Хлеб Ржаной Край заварной нарезка, 300г",
+                "masterData": {
+                    "slug": "hleb-rzanoj-kraj-zavarnoj-narezka-300g",
+                    "plu": "3455614",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Нарезной нарезка Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "baton-nareznoj-narezka-market-perekrestok-400g",
+                    "plu": "3974714",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Черемушки нарезка высший сорт, 400г",
+                "masterData": {
+                    "slug": "baton-ceremuski-narezka-vyssij-sort-400g",
+                    "plu": "2149542",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            },
+            {
+                "title": "Батон Коломенское Нарезной, 400г",
+                "masterData": {
+                    "slug": "baton-kolomenskoe-nareznoj-400g",
+                    "plu": "2065120",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хлеб, лаваш",
+                    "id": 378
+                }
+            }
+        ]
+    }
+}
