@@ -1,0 +1,3297 @@
+{
+    "cat_name": {
+        "cat_id": 162,
+        "items": [
+            {
+                "title": "Тарелка детская Пластишка глубокая с декором в ассортименте",
+                "masterData": {
+                    "slug": "tarelka-detskaa-plastiska-glubokaa-s-dekorom-v-assortimente",
+                    "plu": "3688723",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Детское питание",
+                    "id": 436
+                }
+            },
+            {
+                "title": "Тарелка Непревзойденное Качество, 7779490",
+                "masterData": {
+                    "slug": "tarelka-neprevzojdennoe-kacestvo-7779490",
+                    "plu": "4309217",
+                    "unitName": "шт",
+                    "weight": 565,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор стаканов Repast для воды, 2х450мл",
+                "masterData": {
+                    "slug": "nabor-stakanov-repast-dla-vody-2h450ml",
+                    "plu": "4383204",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Союзмультфильм эмалированная, 400мл",
+                "masterData": {
+                    "slug": "kruzka-souzmultfilm-emalirovannaa-400ml",
+                    "plu": "4320338",
+                    "unitName": "шт",
+                    "weight": 36,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор колец Apollo Milagro для салфеток, 2 предмета",
+                "masterData": {
+                    "slug": "nabor-kolec-apollo-milagro-dla-salfetok-2-predmeta",
+                    "plu": "4372024",
+                    "unitName": "шт",
+                    "weight": 11,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Пробка Apollo Milagro для бутылки в ассортименте",
+                "masterData": {
+                    "slug": "probka-apollo-milagro-dla-butylki-v-assortimente",
+                    "plu": "4372025",
+                    "unitName": "шт",
+                    "weight": 48,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор для специй Olux Ideas в ассортименте",
+                "masterData": {
+                    "slug": "nabor-dla-specij-olux-ideas-v-assortimente",
+                    "plu": "4169296",
+                    "unitName": "шт",
+                    "weight": 706,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Hunan Blue&White фарфор 12971, 470мл",
+                "masterData": {
+                    "slug": "kruzka-hunan-blue-white-farfor-12971-470ml",
+                    "plu": "4301362",
+                    "unitName": "шт",
+                    "weight": 407,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор Idi Land для пикника с декором на 4 персоны салатовый 25предметов",
+                "masterData": {
+                    "slug": "nabor-idi-land-dla-piknika-s-dekorom-na-4-persony-salatovyj-25predmetov",
+                    "plu": "4278740",
+                    "unitName": "шт",
+                    "weight": 640,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Black Swan фарфоровая, 340мл",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-black-swan-farforovaa-340ml",
+                    "plu": "4085568",
+                    "unitName": "шт",
+                    "weight": 326,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода-гриль Vari с противопригарным покрытием, 26х26см",
+                "masterData": {
+                    "slug": "skovoroda-gril-vari-s-protivoprigarnym-pokrytiem-26h26sm",
+                    "plu": "4265690",
+                    "unitName": "шт",
+                    "weight": 1200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор пробок Apollo Bonarda с дозаторами BON-02, 2шт",
+                "masterData": {
+                    "slug": "nabor-probok-apollo-bonarda-s-dozatorami-bon-02-2st",
+                    "plu": "4357353",
+                    "unitName": "шт",
+                    "weight": 26,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Чайник Apollo Genio Grape-Shape, 820мл",
+                "masterData": {
+                    "slug": "cajnik-apollo-genio-grape-shape-820ml",
+                    "plu": "4375712",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор измельчителей для мяса WD Lifestyle",
+                "masterData": {
+                    "slug": "nabor-izmelcitelej-dla-masa-wd-lifestyle",
+                    "plu": "4399842",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Крышки Маринадия закаточные металлические для стеклянных банок СКО I- 82, 50шт",
+                "masterData": {
+                    "slug": "kryski-marinadia-zakatocnye-metalliceskie-dla-steklannyh-banok-sko-i-82-50st",
+                    "plu": "4287936",
+                    "unitName": "шт",
+                    "weight": 660,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хозяйственные мелочи",
+                    "id": 450
+                }
+            },
+            {
+                "title": "Половник Apollo Acacia",
+                "masterData": {
+                    "slug": "polovnik-apollo-acacia",
+                    "plu": "4123023",
+                    "unitName": "шт",
+                    "weight": 56,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ложка Apollo акация перфорированная",
+                "masterData": {
+                    "slug": "lozka-apollo-akacia-perforirovannaa",
+                    "plu": "4135175",
+                    "unitName": "шт",
+                    "weight": 52,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бокал в ассортименте, 200мл",
+                "masterData": {
+                    "slug": "bokal-v-assortimente-200ml",
+                    "plu": "4391258",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Genio FLD/DLV-370 в ассортименте, 370мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-genio-fld-dlv-370-v-assortimente-370ml",
+                    "plu": "4347942",
+                    "unitName": "шт",
+                    "weight": 299,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Grand Chef кухонный топорик",
+                "masterData": {
+                    "slug": "noz-grand-chef-kuhonnyj-toporik",
+                    "plu": "4399846",
+                    "unitName": "шт",
+                    "weight": 506,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Доска разделочная, 30х40см",
+                "masterData": {
+                    "slug": "doska-razdelocnaa-30h40sm",
+                    "plu": "4393317",
+                    "unitName": "шт",
+                    "weight": 1500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бокал в ассортименте, 500мл",
+                "masterData": {
+                    "slug": "bokal-v-assortimente-500ml",
+                    "plu": "4391257",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ножи одноразовые неокрашенные 180мм Маркет, 30шт",
+                "masterData": {
+                    "slug": "nozi-odnorazovye-neokrasennye-180mm-market-30st",
+                    "plu": "4397463",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термокружка Modi Объектив, в ассортименте",
+                "masterData": {
+                    "slug": "termokruzka-modi-obektiv-v-assortimente",
+                    "plu": "4395508",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бокал в ассортименте, 275мл",
+                "masterData": {
+                    "slug": "bokal-v-assortimente-275ml",
+                    "plu": "4391256",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Keylink, 19 см",
+                "masterData": {
+                    "slug": "tarelka-keylink-19-sm",
+                    "plu": "4147505",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки одноразовые Хамелеон из картона 23см VPH312, 6шт",
+                "masterData": {
+                    "slug": "tarelki-odnorazovye-hameleon-iz-kartona-23sm-vph312-6st",
+                    "plu": "3911066",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сезонные товары",
+                    "id": 456
+                }
+            },
+            {
+                "title": "Ложка Apollo Mint барная",
+                "masterData": {
+                    "slug": "lozka-apollo-mint-barnaa",
+                    "plu": "4357365",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Каплеулавливатель Apollo Sofos для вина SOF-01",
+                "masterData": {
+                    "slug": "kapleulavlivatel-apollo-sofos-dla-vina-sof-01",
+                    "plu": "4357352",
+                    "unitName": "шт",
+                    "weight": 17,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка SD122618 в ассортименте, 400мл",
+                "masterData": {
+                    "slug": "kruzka-sd122618-v-assortimente-400ml",
+                    "plu": "4301775",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": 400
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка фарфор зелёная, 26.8см",
+                "masterData": {
+                    "slug": "tarelka-farfor-zelenaa-26-8sm",
+                    "plu": "4384960",
+                    "unitName": "шт",
+                    "weight": 680,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Attribute Quadro столовый",
+                "masterData": {
+                    "slug": "noz-attribute-quadro-stolovyj",
+                    "plu": "4265817",
+                    "unitName": "шт",
+                    "weight": 10,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор ножей Tramontina Multicolor для овощей 2 предмета в ассортименте, 7.5см",
+                "masterData": {
+                    "slug": "nabor-nozej-tramontina-multicolor-dla-ovosej-2-predmeta-v-assortimente-7-5sm",
+                    "plu": "3668378",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Unsa глубокая керамическая PT042121F, 21см",
+                "masterData": {
+                    "slug": "tarelka-unsa-glubokaa-keramiceskaa-pt042121f-21sm",
+                    "plu": "4297193",
+                    "unitName": "шт",
+                    "weight": 410,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Доска Apollo Ferenza сервировочная, 44х12х1см",
+                "masterData": {
+                    "slug": "doska-apollo-ferenza-servirovocnaa-44h12h1sm",
+                    "plu": "4357347",
+                    "unitName": "шт",
+                    "weight": 515,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Atmosphere Black Swan W консервный",
+                "masterData": {
+                    "slug": "noz-atmosphere-black-swan-w-konservnyj",
+                    "plu": "4094223",
+                    "unitName": "шт",
+                    "weight": 152,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Банка Apollo Spices для сыпучих продуктов, 300мл",
+                "masterData": {
+                    "slug": "banka-apollo-spices-dla-sypucih-produktov-300ml",
+                    "plu": "4376092",
+                    "unitName": "шт",
+                    "weight": 211,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термометр Apollo Pinot для вина PIN-01",
+                "masterData": {
+                    "slug": "termometr-apollo-pinot-dla-vina-pin-01",
+                    "plu": "4357356",
+                    "unitName": "шт",
+                    "weight": 14,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Пробка Apollo Tenace вакуумная TNC-01",
+                "masterData": {
+                    "slug": "probka-apollo-tenace-vakuumnaa-tnc-01",
+                    "plu": "4357364",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Декантер Union Source, 900мл",
+                "masterData": {
+                    "slug": "dekanter-union-source-900ml",
+                    "plu": "4326086",
+                    "unitName": "шт",
+                    "weight": 580,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов Repast для мартини, 2х260мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-repast-dla-martini-2h260ml",
+                    "plu": "4383203",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Аэратор Apollo Lion для вина LIO-01",
+                "masterData": {
+                    "slug": "aerator-apollo-lion-dla-vina-lio-01",
+                    "plu": "4357357",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма МФК для выпечки разъемная с АПП, 23 cм",
+                "masterData": {
+                    "slug": "forma-mfk-dla-vypecki-razemnaa-s-app-23-cm",
+                    "plu": "3449190",
+                    "unitName": "шт",
+                    "weight": 383,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма Apollo Jule Verne для выпекания, 250 мл",
+                "masterData": {
+                    "slug": "forma-apollo-jule-verne-dla-vypekania-250-ml",
+                    "plu": "4209254",
+                    "unitName": "шт",
+                    "weight": 219,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор Apollo Passion для вина PAS-02, 4 предмета",
+                "masterData": {
+                    "slug": "nabor-apollo-passion-dla-vina-pas-02-4-predmeta",
+                    "plu": "4357361",
+                    "unitName": "шт",
+                    "weight": 122,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Luna LUN-400, 400мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-luna-lun-400-400ml",
+                    "plu": "4285740",
+                    "unitName": "шт",
+                    "weight": 361,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термометр для мяса WD Lifestyle",
+                "masterData": {
+                    "slug": "termometr-dla-masa-wd-lifestyle",
+                    "plu": "4399841",
+                    "unitName": "шт",
+                    "weight": 64,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Пробка Apollo Nantes NNT-01",
+                "masterData": {
+                    "slug": "probka-apollo-nantes-nnt-01",
+                    "plu": "4357349",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Шейкер Apollo Vanilla VNL-02",
+                "masterData": {
+                    "slug": "sejker-apollo-vanilla-vnl-02",
+                    "plu": "4357362",
+                    "unitName": "шт",
+                    "weight": 208,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Пробка Apollo Rioja для шампанского RIO-01",
+                "masterData": {
+                    "slug": "probka-apollo-rioja-dla-sampanskogo-rio-01",
+                    "plu": "4357366",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор столовых ножей Apollo Zeus, 2 предмета",
+                "masterData": {
+                    "slug": "nabor-stolovyh-nozej-apollo-zeus-2-predmeta",
+                    "plu": "3372547",
+                    "unitName": "шт",
+                    "weight": 167,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Миска Phibo с крышкой в ассортименте, 1.55л",
+                "masterData": {
+                    "slug": "miska-phibo-s-kryskoj-v-assortimente-1-55l",
+                    "plu": "4393046",
+                    "unitName": "шт",
+                    "weight": 99,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые бумажные Пр!ст, 6шт",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-bumaznye-pr-st-6st",
+                    "plu": "4262146",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термокружка Atmosphere Of Art Arcada стальная, 380мл",
+                "masterData": {
+                    "slug": "termokruzka-atmosphere-of-art-arcada-stalnaa-380ml",
+                    "plu": "4377098",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Fioretta Scandy Olive суповая TDP532, 20,5см",
+                "masterData": {
+                    "slug": "tarelka-fioretta-scandy-olive-supovaa-tdp532-20-5sm",
+                    "plu": "4305133",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов Repast для шампанского, 2х270мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-repast-dla-sampanskogo-2h270ml",
+                    "plu": "4383202",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор ножей столовых 23см HZX-0387, 2шт",
+                "masterData": {
+                    "slug": "nabor-nozej-stolovyh-23sm-hzx-0387-2st",
+                    "plu": "4296517",
+                    "unitName": "шт",
+                    "weight": 162,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Модуль сменный Аквафор фильтрующий В100-8",
+                "masterData": {
+                    "slug": "modul-smennyj-akvafor-filtruusij-v100-8",
+                    "plu": "3437904",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Формы Домашняя Кухня пекарские бумажные, 50шт",
+                "masterData": {
+                    "slug": "formy-domasnaa-kuhna-pekarskie-bumaznye-50st",
+                    "plu": "4342840",
+                    "unitName": "шт",
+                    "weight": 22,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые неокрашенные 500мл Маркет, 30шт",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-neokrasennye-500ml-market-30st",
+                    "plu": "4397451",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор стаканов Тюлип 565мл Пр!ст, 2шт",
+                "masterData": {
+                    "slug": "nabor-stakanov-tulip-565ml-pr-st-2st",
+                    "plu": "4318149",
+                    "unitName": "шт",
+                    "weight": 680,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор приборов Apollo Honey Bunny детских столовых 2 предмета",
+                "masterData": {
+                    "slug": "nabor-priborov-apollo-honey-bunny-detskih-stolovyh-2-predmeta",
+                    "plu": "4375123",
+                    "unitName": "шт",
+                    "weight": 58,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Luminarc Diwali black, 19см",
+                "masterData": {
+                    "slug": "tarelka-luminarc-diwali-black-19sm",
+                    "plu": "4268842",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода-гриль Tefal Delicio, 26см",
+                "masterData": {
+                    "slug": "skovoroda-gril-tefal-delicio-26sm",
+                    "plu": "4311145",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор стаканов Пр!ст, 3х240мл",
+                "masterData": {
+                    "slug": "nabor-stakanov-pr-st-3h240ml",
+                    "plu": "4289408",
+                    "unitName": "шт",
+                    "weight": 927,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Дуршлаг Shri Impex, 24см",
+                "masterData": {
+                    "slug": "durslag-shri-impex-24sm",
+                    "plu": "3497234",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Модуль сменный Аквафор D5 фильтрующий",
+                "masterData": {
+                    "slug": "modul-smennyj-akvafor-d5-filtruusij",
+                    "plu": "3500565",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор Apollo Stripe-type чайник 950мл и 2 стакана 320мл",
+                "masterData": {
+                    "slug": "nabor-apollo-stripe-type-cajnik-950ml-i-2-stakana-320ml",
+                    "plu": "4375147",
+                    "unitName": "шт",
+                    "weight": 560,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов Пр!ст, 2х280мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-pr-st-2h280ml",
+                    "plu": "4289412",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ведро Apollo Mosel для льда, 2.7л",
+                "masterData": {
+                    "slug": "vedro-apollo-mosel-dla-lda-2-7l",
+                    "plu": "4357350",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Hunan Wishes фарфор 13489, 450мл",
+                "masterData": {
+                    "slug": "kruzka-hunan-wishes-farfor-13489-450ml",
+                    "plu": "4301360",
+                    "unitName": "шт",
+                    "weight": 361,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ложки одноразовые неокрашенные 180мм Маркет, 50шт",
+                "masterData": {
+                    "slug": "lozki-odnorazovye-neokrasennye-180mm-market-50st",
+                    "plu": "4397461",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Fioretta Scandy Milk TDМ539, 355мл",
+                "masterData": {
+                    "slug": "kruzka-fioretta-scandy-milk-tdm539-355ml",
+                    "plu": "4305140",
+                    "unitName": "шт",
+                    "weight": 344,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан с крышкой и трубочкой в ассортименте, 350мл",
+                "masterData": {
+                    "slug": "stakan-s-kryskoj-i-trubockoj-v-assortimente-350ml",
+                    "plu": "4392829",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор для сервировки Apollo Tapas доска сервировочная 20x10см соусник 10х7х3см, 2шт",
+                "masterData": {
+                    "slug": "nabor-dla-servirovki-apollo-tapas-doska-servirovocnaa-20x10sm-sousnik-10h7h3sm-2st",
+                    "plu": "4357346",
+                    "unitName": "шт",
+                    "weight": 564,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ложки столовые с металлизацией Маркет Home, 6шт",
+                "masterData": {
+                    "slug": "lozki-stolovye-s-metallizaciej-market-home-6st",
+                    "plu": "4292409",
+                    "unitName": "шт",
+                    "weight": 48,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Доска разделочная Phibo гибкая в ассортименте, 210х290мм",
+                "masterData": {
+                    "slug": "doska-razdelocnaa-phibo-gibkaa-v-assortimente-210h290mm",
+                    "plu": "4393052",
+                    "unitName": "шт",
+                    "weight": 71,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Phibo глубокая в ассортименте, 185мм",
+                "masterData": {
+                    "slug": "tarelka-phibo-glubokaa-v-assortimente-185mm",
+                    "plu": "4393047",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор для сервировки Apollo Tapas доска сервировочная 18x14см нож для сыра 10см, 2шт",
+                "masterData": {
+                    "slug": "nabor-dla-servirovki-apollo-tapas-doska-servirovocnaa-18x14sm-noz-dla-syra-10sm-2st",
+                    "plu": "4357345",
+                    "unitName": "шт",
+                    "weight": 596,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор стаканов Хамелеон, 6х200мл",
+                "masterData": {
+                    "slug": "nabor-stakanov-hameleon-6h200ml",
+                    "plu": "4393224",
+                    "unitName": "шт",
+                    "weight": 34,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термокружка Attribute Latte с двойными стенками ATM102-6, 400мл",
+                "masterData": {
+                    "slug": "termokruzka-attribute-latte-s-dvojnymi-stenkami-atm102-6-400ml",
+                    "plu": "4277274",
+                    "unitName": "шт",
+                    "weight": 347,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термобокал Attribute Hills с двойными стенками ATG104-6, 320мл",
+                "masterData": {
+                    "slug": "termobokal-attribute-hills-s-dvojnymi-stenkami-atg104-6-320ml",
+                    "plu": "4277275",
+                    "unitName": "шт",
+                    "weight": 263,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор тарелок Хамелеон, 6х23см",
+                "masterData": {
+                    "slug": "nabor-tarelok-hameleon-6h23sm",
+                    "plu": "4393225",
+                    "unitName": "шт",
+                    "weight": 84,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Чайник заварочный, 1л",
+                "masterData": {
+                    "slug": "cajnik-zavarocnyj-1l",
+                    "plu": "4362340",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан Modi с крышкой и трубочкой, 450мл",
+                "masterData": {
+                    "slug": "stakan-modi-s-kryskoj-i-trubockoj-450ml",
+                    "plu": "4395500",
+                    "unitName": "шт",
+                    "weight": 158,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Geometry W фарфоровая, 360мл в ассортименте",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-geometry-w-farforovaa-360ml-v-assortimente",
+                    "plu": "4091719",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов для вина Repast, 2х620мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-dla-vina-repast-2h620ml",
+                    "plu": "4383200",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Modi Корона с крышкой",
+                "masterData": {
+                    "slug": "kruzka-modi-korona-s-kryskoj",
+                    "plu": "4376462",
+                    "unitName": "шт",
+                    "weight": 264,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Of Art Lonely Tree фарфоровая в ассортименте, 400мл",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-of-art-lonely-tree-farforovaa-v-assortimente-400ml",
+                    "plu": "4377096",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов Пр!ст, 2х170мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-pr-st-2h170ml",
+                    "plu": "4289413",
+                    "unitName": "шт",
+                    "weight": 315,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Colette в ассортименте, 330мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-colette-v-assortimente-330ml",
+                    "plu": "4404997",
+                    "unitName": "шт",
+                    "weight": 322,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кастрюля Tefal Primary с крышкой, 24см",
+                "masterData": {
+                    "slug": "kastrula-tefal-primary-s-kryskoj-24sm",
+                    "plu": "4190808",
+                    "unitName": "шт",
+                    "weight": 1900,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Luminarc Diwali granit, 19см",
+                "masterData": {
+                    "slug": "tarelka-luminarc-diwali-granit-19sm",
+                    "plu": "4268839",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор универсальных ножей для барбекю WD Lifestyle, 4шт",
+                "masterData": {
+                    "slug": "nabor-universalnyh-nozej-dla-barbeku-wd-lifestyle-4st",
+                    "plu": "4399847",
+                    "unitName": "шт",
+                    "weight": 209,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор аксессуаров для вина L'Atelier Du Vin",
+                "masterData": {
+                    "slug": "nabor-aksessuarov-dla-vina-latelier-du-vin",
+                    "plu": "4390213",
+                    "unitName": "шт",
+                    "weight": 423,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы L'Atelier Du Vin для воды, 2х330мл",
+                "masterData": {
+                    "slug": "stakany-latelier-du-vin-dla-vody-2h330ml",
+                    "plu": "4390217",
+                    "unitName": "шт",
+                    "weight": 252,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор тарелок Хамелеон, 6х23см",
+                "masterData": {
+                    "slug": "nabor-tarelok-hameleon-6h23sm",
+                    "plu": "4393222",
+                    "unitName": "шт",
+                    "weight": 84,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Seashell, 340мл",
+                "masterData": {
+                    "slug": "kruzka-seashell-340ml",
+                    "plu": "4305157",
+                    "unitName": "шт",
+                    "weight": 312,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Куроми стеклянная в ассортименте, 230мл",
+                "masterData": {
+                    "slug": "kruzka-kuromi-steklannaa-v-assortimente-230ml",
+                    "plu": "4366857",
+                    "unitName": "шт",
+                    "weight": 226,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Of Art Sense Mix в ассортименте, 340мл",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-of-art-sense-mix-v-assortimente-340ml",
+                    "plu": "4330166",
+                    "unitName": "шт",
+                    "weight": 322,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки одноразовые окрашенные 165мм Маркет, 30шт",
+                "masterData": {
+                    "slug": "tarelki-odnorazovye-okrasennye-165mm-market-30st",
+                    "plu": "4397452",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бокалы Good Sale для шампанского 10362, 2х240мл",
+                "masterData": {
+                    "slug": "bokaly-good-sale-dla-sampanskogo-10362-2h240ml",
+                    "plu": "4357719",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Чайник заварочный Apollo Genio Bombori, 1.2л",
+                "masterData": {
+                    "slug": "cajnik-zavarocnyj-apollo-genio-bombori-1-2l",
+                    "plu": "4375149",
+                    "unitName": "шт",
+                    "weight": 314,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Click, 290мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-click-290ml",
+                    "plu": "4404998",
+                    "unitName": "шт",
+                    "weight": 273,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов Repast Excellence Optic для вина, 2x560мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-repast-excellence-optic-dla-vina-2x560ml",
+                    "plu": "4394284",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Of Art Felicity керамическая в ассортименте, 350мл",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-of-art-felicity-keramiceskaa-v-assortimente-350ml",
+                    "plu": "4330168",
+                    "unitName": "шт",
+                    "weight": 333,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Of Art Scenery, 350мл",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-of-art-scenery-350ml",
+                    "plu": "4330167",
+                    "unitName": "шт",
+                    "weight": 319,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож для сыра Маркет Home",
+                "masterData": {
+                    "slug": "noz-dla-syra-market-home",
+                    "plu": "4320194",
+                    "unitName": "шт",
+                    "weight": 56,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Вилки одноразовые неокрашенные 180мм Маркет, 50шт",
+                "masterData": {
+                    "slug": "vilki-odnorazovye-neokrasennye-180mm-market-50st",
+                    "plu": "4397462",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ножи с металлизацией Маркет Home, 6шт",
+                "masterData": {
+                    "slug": "nozi-s-metallizaciej-market-home-6st",
+                    "plu": "4292412",
+                    "unitName": "шт",
+                    "weight": 48,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Liling Jingtao в ассортименте, 330мл",
+                "masterData": {
+                    "slug": "kruzka-liling-jingtao-v-assortimente-330ml",
+                    "plu": "4394325",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Точилка Apollo Rock для ножей",
+                "masterData": {
+                    "slug": "tocilka-apollo-rock-dla-nozej",
+                    "plu": "4269192",
+                    "unitName": "шт",
+                    "weight": 139,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Colosse, 600мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-colosse-600ml",
+                    "plu": "4404996",
+                    "unitName": "шт",
+                    "weight": 512,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бутылка для напитков Архимед из тритана, 600мл",
+                "masterData": {
+                    "slug": "butylka-dla-napitkov-arhimed-iz-tritana-600ml",
+                    "plu": "4388268",
+                    "unitName": "шт",
+                    "weight": 107,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов Repast Excellence Optic для вина, 2x460мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-repast-excellence-optic-dla-vina-2x460ml",
+                    "plu": "4394282",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор стаканов для воды Маркет Home, 2х300мл",
+                "masterData": {
+                    "slug": "nabor-stakanov-dla-vody-market-home-2h300ml",
+                    "plu": "4308181",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Domenik Emboss&Coffee DMM024, 540мл",
+                "masterData": {
+                    "slug": "kruzka-domenik-emboss-coffee-dmm024-540ml",
+                    "plu": "4396059",
+                    "unitName": "шт",
+                    "weight": 461,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Пробка APOLLO GENIO Davinci силиконовая DVC-06",
+                "masterData": {
+                    "slug": "probka-apollo-genio-davinci-silikonovaa-dvc-06",
+                    "plu": "4278590",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода Маркет Home 24см",
+                "masterData": {
+                    "slug": "skovoroda-market-home-24sm",
+                    "plu": "4254009",
+                    "unitName": "шт",
+                    "weight": 1100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термостакан Phibo Карта с клапаном и декором, 350мл",
+                "masterData": {
+                    "slug": "termostakan-phibo-karta-s-klapanom-i-dekorom-350ml",
+                    "plu": "4278067",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Лопатка Apollo акация перфорированная",
+                "masterData": {
+                    "slug": "lopatka-apollo-akacia-perforirovannaa",
+                    "plu": "4123022",
+                    "unitName": "шт",
+                    "weight": 5,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Фужер с металлизацией Маркет Home, 6х180мл",
+                "masterData": {
+                    "slug": "fuzer-s-metallizaciej-market-home-6h180ml",
+                    "plu": "4292422",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Liling Jingtao в ассортименте, 340мл",
+                "masterData": {
+                    "slug": "kruzka-liling-jingtao-v-assortimente-340ml",
+                    "plu": "4394323",
+                    "unitName": "шт",
+                    "weight": 298,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Чайник МФК стеклянный с бамбуковой крышкой в подарочной упаковке НВ07 1000мл",
+                "masterData": {
+                    "slug": "cajnik-mfk-steklannyj-s-bambukovoj-kryskoj-v-podarocnoj-upakovke-nv07-1000ml",
+                    "plu": "4283487",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки детские одноразовые бумажные 23см Маркет Kids, 6шт",
+                "masterData": {
+                    "slug": "tarelki-detskie-odnorazovye-bumaznye-23sm-market-kids-6st",
+                    "plu": "4294649",
+                    "unitName": "шт",
+                    "weight": 94,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Grand Chef для очистки овощей, 9см",
+                "masterData": {
+                    "slug": "noz-grand-chef-dla-ocistki-ovosej-9sm",
+                    "plu": "4393303",
+                    "unitName": "шт",
+                    "weight": 99,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода Tefal блинная с антипригарным покрытием, 22см",
+                "masterData": {
+                    "slug": "skovoroda-tefal-blinnaa-s-antiprigarnym-pokrytiem-22sm",
+                    "plu": "4330087",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Tefal Essential для шинковки, 20см",
+                "masterData": {
+                    "slug": "noz-tefal-essential-dla-sinkovki-20sm",
+                    "plu": "4172590",
+                    "unitName": "шт",
+                    "weight": 109,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Толкушка Apollo Acacia для картофеля",
+                "masterData": {
+                    "slug": "tolkuska-apollo-acacia-dla-kartofela",
+                    "plu": "4123024",
+                    "unitName": "шт",
+                    "weight": 66,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка Apollo Raffinato десертная RFN-20D, 20см",
+                "masterData": {
+                    "slug": "tarelka-apollo-raffinato-desertnaa-rfn-20d-20sm",
+                    "plu": "4345936",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Термос Hitt, 1л",
+                "masterData": {
+                    "slug": "termos-hitt-1l",
+                    "plu": "4025538",
+                    "unitName": "шт",
+                    "weight": 602,
+                    "volume": 1000
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Терка для сыра Маркет Home",
+                "masterData": {
+                    "slug": "terka-dla-syra-market-home",
+                    "plu": "4320195",
+                    "unitName": "шт",
+                    "weight": 115,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Доска разделочная Home Story в ассортименте",
+                "masterData": {
+                    "slug": "doska-razdelocnaa-home-story-v-assortimente",
+                    "plu": "3689164",
+                    "unitName": "шт",
+                    "weight": 164,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки для детей одноразовые бумажные 23см Маркет Kids в ассортименте, 6шт",
+                "masterData": {
+                    "slug": "tarelki-dla-detej-odnorazovye-bumaznye-23sm-market-kids-v-assortimente-6st",
+                    "plu": "4294646",
+                    "unitName": "шт",
+                    "weight": 77,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан Union Source с крышкой и трубочкой в ассортименте, 400мл",
+                "masterData": {
+                    "slug": "stakan-union-source-s-kryskoj-i-trubockoj-v-assortimente-400ml",
+                    "plu": "4326087",
+                    "unitName": "шт",
+                    "weight": 310,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор столовых вилок Apollo Zeus, 3 предмета",
+                "masterData": {
+                    "slug": "nabor-stolovyh-vilok-apollo-zeus-3-predmeta",
+                    "plu": "3372544",
+                    "unitName": "шт",
+                    "weight": 109,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Пробка для бутылки вакуумная для игристых вин Маркет Home",
+                "masterData": {
+                    "slug": "probka-dla-butylki-vakuumnaa-dla-igristyh-vin-market-home",
+                    "plu": "4380594",
+                    "unitName": "шт",
+                    "weight": 48,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хозяйственные мелочи",
+                    "id": 450
+                }
+            },
+            {
+                "title": "Пробка для бутылки вакуумная Маркет Home",
+                "masterData": {
+                    "slug": "probka-dla-butylki-vakuumnaa-market-home",
+                    "plu": "4380596",
+                    "unitName": "шт",
+                    "weight": 54,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Хозяйственные мелочи",
+                    "id": 450
+                }
+            },
+            {
+                "title": "Бокалы Good Sale для вина 10360, 2х580мл",
+                "masterData": {
+                    "slug": "bokaly-good-sale-dla-vina-10360-2h580ml",
+                    "plu": "4357718",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож для пиццы Маркет Home",
+                "masterData": {
+                    "slug": "noz-dla-piccy-market-home",
+                    "plu": "4320196",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор кухонных принадлежностей Маркет",
+                "masterData": {
+                    "slug": "nabor-kuhonnyh-prinadleznostej-market",
+                    "plu": "4387571",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма фуршетная Маркет Home, 6шт",
+                "masterData": {
+                    "slug": "forma-fursetnaa-market-home-6st",
+                    "plu": "4292408",
+                    "unitName": "шт",
+                    "weight": 73,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма Никис для выпечки разъемная с замком",
+                "masterData": {
+                    "slug": "forma-nikis-dla-vypecki-razemnaa-s-zamkom",
+                    "plu": "4396070",
+                    "unitName": "шт",
+                    "weight": 290,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор посуды Пикник одноразовой на 6 персон Маркет Home",
+                "masterData": {
+                    "slug": "nabor-posudy-piknik-odnorazovoj-na-6-person-market-home",
+                    "plu": "4351984",
+                    "unitName": "шт",
+                    "weight": 235,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бутылка для воды с ручкой, 650мл",
+                "masterData": {
+                    "slug": "butylka-dla-vody-s-ruckoj-650ml",
+                    "plu": "4394318",
+                    "unitName": "шт",
+                    "weight": 167,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Ningbo Royal в ассортименте, 260мл",
+                "masterData": {
+                    "slug": "kruzka-ningbo-royal-v-assortimente-260ml",
+                    "plu": "4344678",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан с металлизацией Маркет Home, 6х200мл",
+                "masterData": {
+                    "slug": "stakan-s-metallizaciej-market-home-6h200ml",
+                    "plu": "4292427",
+                    "unitName": "шт",
+                    "weight": 63,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы 240мл Маркет Home Eco, 6шт",
+                "masterData": {
+                    "slug": "stakany-240ml-market-home-eco-6st",
+                    "plu": "4265711",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые бумажные 250мл Маркет Kids в ассортименте, 6шт",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-bumaznye-250ml-market-kids-v-assortimente-6st",
+                    "plu": "4294650",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан, 395мл",
+                "masterData": {
+                    "slug": "stakan-395ml",
+                    "plu": "4358050",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кувшин Plast Team мерный натуральный, 500мл",
+                "masterData": {
+                    "slug": "kuvsin-plast-team-mernyj-naturalnyj-500ml",
+                    "plu": "4265616",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода Tefal Natural Cook с крышкой, 26см",
+                "masterData": {
+                    "slug": "skovoroda-tefal-natural-cook-s-kryskoj-26sm",
+                    "plu": "4311958",
+                    "unitName": "шт",
+                    "weight": 1320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Чашки одноразовые кофейные окрашенные Пр!ст, 12шт",
+                "masterData": {
+                    "slug": "caski-odnorazovye-kofejnye-okrasennye-pr-st-12st",
+                    "plu": "3629676",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан с трубочкой и крышкой в ассортименте, 450мл",
+                "masterData": {
+                    "slug": "stakan-s-trubockoj-i-kryskoj-v-assortimente-450ml",
+                    "plu": "4396505",
+                    "unitName": "шт",
+                    "weight": 285,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов для шампанского Rona Lord из хрустального стекла, 340мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-dla-sampanskogo-rona-lord-iz-hrustalnogo-stekla-340ml",
+                    "plu": "4343557",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Tefal Essential универсальный, 12см",
+                "masterData": {
+                    "slug": "noz-tefal-essential-universalnyj-12sm",
+                    "plu": "4172592",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Скатерть из полиэтиленовой пленки одноразовая Маркет, 120х180см",
+                "masterData": {
+                    "slug": "skatert-iz-polietilenovoj-plenki-odnorazovaa-market-120h180sm",
+                    "plu": "4392217",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сезонные товары",
+                    "id": 456
+                }
+            },
+            {
+                "title": "Нож поварской APL-13 Маркет Home, 20см",
+                "masterData": {
+                    "slug": "noz-povarskoj-apl-13-market-home-20sm",
+                    "plu": "4290724",
+                    "unitName": "шт",
+                    "weight": 127,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка в ассортименте, 300мл",
+                "masterData": {
+                    "slug": "kruzka-v-assortimente-300ml",
+                    "plu": "4412792",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма для выпечки маффинов 29х17х3см Маркет Home",
+                "masterData": {
+                    "slug": "forma-dla-vypecki-maffinov-29h17h3sm-market-home",
+                    "plu": "4321770",
+                    "unitName": "шт",
+                    "weight": 105,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан с трубочкой и крышкой, 450мл",
+                "masterData": {
+                    "slug": "stakan-s-trubockoj-i-kryskoj-450ml",
+                    "plu": "4396504",
+                    "unitName": "шт",
+                    "weight": 164,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ножи одноразовые на основе кукурузного крахмала Маркет, 6шт",
+                "masterData": {
+                    "slug": "nozi-odnorazovye-na-osnove-kukuruznogo-krahmala-market-6st",
+                    "plu": "4394817",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Салатник Luminarc Космос, 17см",
+                "masterData": {
+                    "slug": "salatnik-luminarc-kosmos-17sm",
+                    "plu": "3688780",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Matt в ассортименте, 400 мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-matt-v-assortimente-400-ml",
+                    "plu": "4202368",
+                    "unitName": "шт",
+                    "weight": 315,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка окрашенная с металлизацией Маркет Home, 6х230мм",
+                "masterData": {
+                    "slug": "tarelka-okrasennaa-s-metallizaciej-market-home-6h230mm",
+                    "plu": "4292420",
+                    "unitName": "шт",
+                    "weight": 218,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Салатник Luminarc Космос, 20см",
+                "masterData": {
+                    "slug": "salatnik-luminarc-kosmos-20sm",
+                    "plu": "3688728",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода Tefal Ultra+, 26см",
+                "masterData": {
+                    "slug": "skovoroda-tefal-ultra-26sm",
+                    "plu": "4311953",
+                    "unitName": "шт",
+                    "weight": 1070,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма для запекания Маркет Home, 2л",
+                "masterData": {
+                    "slug": "forma-dla-zapekania-market-home-2l",
+                    "plu": "4334015",
+                    "unitName": "шт",
+                    "weight": 1092,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож для овощей APL-16 Маркет Home, 9см",
+                "masterData": {
+                    "slug": "noz-dla-ovosej-apl-16-market-home-9sm",
+                    "plu": "4290722",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Ribb в ассортименте, 370 мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-ribb-v-assortimente-370-ml",
+                    "plu": "4202369",
+                    "unitName": "шт",
+                    "weight": 245,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кувшин в ассортименте, 1.4л",
+                "masterData": {
+                    "slug": "kuvsin-v-assortimente-1-4l",
+                    "plu": "4412787",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Салатник Domenik Basic, 15см",
+                "masterData": {
+                    "slug": "salatnik-domenik-basic-15sm",
+                    "plu": "4403221",
+                    "unitName": "шт",
+                    "weight": 374,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Royal Rabbit Cup в ассортименте, 340мл",
+                "masterData": {
+                    "slug": "kruzka-royal-rabbit-cup-v-assortimente-340ml",
+                    "plu": "4420949",
+                    "unitName": "шт",
+                    "weight": 331,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Банка, 950мл",
+                "masterData": {
+                    "slug": "banka-950ml",
+                    "plu": "4356491",
+                    "unitName": "шт",
+                    "weight": 549,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Салатник Royal Rabbit Cup в ассортименте, 14х7.5см",
+                "masterData": {
+                    "slug": "salatnik-royal-rabbit-cup-v-assortimente-14h7-5sm",
+                    "plu": "4420948",
+                    "unitName": "шт",
+                    "weight": 422,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ложки одноразовые столовые Пр!ст, 12шт",
+                "masterData": {
+                    "slug": "lozki-odnorazovye-stolovye-pr-st-12st",
+                    "plu": "3466614",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Миска для супа одноразовая белая 600 мл Пр!ст, 12шт",
+                "masterData": {
+                    "slug": "miska-dla-supa-odnorazovaa-belaa-600-ml-pr-st-12st",
+                    "plu": "4291922",
+                    "unitName": "шт",
+                    "weight": 7,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Бутылка для воды в ассортименте, 600мл",
+                "masterData": {
+                    "slug": "butylka-dla-vody-v-assortimente-600ml",
+                    "plu": "4394317",
+                    "unitName": "шт",
+                    "weight": 153,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Три кота стеклянная в ассортименте, 230мл",
+                "masterData": {
+                    "slug": "kruzka-tri-kota-steklannaa-v-assortimente-230ml",
+                    "plu": "4366856",
+                    "unitName": "шт",
+                    "weight": 226,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов для вина Rona Lord из хрустального стекла, 420мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-dla-vina-rona-lord-iz-hrustalnogo-stekla-420ml",
+                    "plu": "4343556",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка МФК в ассортименте, 350мл",
+                "masterData": {
+                    "slug": "kruzka-mfk-v-assortimente-350ml",
+                    "plu": "4423823",
+                    "unitName": "шт",
+                    "weight": 415,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Чайник, 1.3л",
+                "masterData": {
+                    "slug": "cajnik-1-3l",
+                    "plu": "4412795",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож Grand Chef универсальный, 13см",
+                "masterData": {
+                    "slug": "noz-grand-chef-universalnyj-13sm",
+                    "plu": "4393304",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка ОСЗ Вертикаль, 320мл",
+                "masterData": {
+                    "slug": "kruzka-osz-vertikal-320ml",
+                    "plu": "4399509",
+                    "unitName": "шт",
+                    "weight": 335,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Доска разделочная 27х19см Маркет Home",
+                "masterData": {
+                    "slug": "doska-razdelocnaa-27h19sm-market-home",
+                    "plu": "4380968",
+                    "unitName": "шт",
+                    "weight": 212,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сито для муки, 10х9.4 см",
+                "masterData": {
+                    "slug": "sito-dla-muki-10h9-4-sm",
+                    "plu": "4095823",
+                    "unitName": "шт",
+                    "weight": 129,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов для вина Rona Lord из хрустального стекла, 670мл",
+                "masterData": {
+                    "slug": "nabor-bokalov-dla-vina-rona-lord-iz-hrustalnogo-stekla-670ml",
+                    "plu": "4343555",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Банка, 650мл",
+                "masterData": {
+                    "slug": "banka-650ml",
+                    "plu": "4356490",
+                    "unitName": "шт",
+                    "weight": 463,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кассета сменная Барьер №6 Жесткость для фильтра",
+                "masterData": {
+                    "slug": "kasseta-smennaa-barer-no6-zestkost-dla-filtra",
+                    "plu": "1032",
+                    "unitName": "шт",
+                    "weight": 900,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Контейнер одноразовый с крышкой на основе кукурузного крахмала Маркет, 3х700мл",
+                "masterData": {
+                    "slug": "kontejner-odnorazovyj-s-kryskoj-na-osnove-kukuruznogo-krahmala-market-3h700ml",
+                    "plu": "4394813",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма для запекания Маркет Home, 2.6л",
+                "masterData": {
+                    "slug": "forma-dla-zapekania-market-home-2-6l",
+                    "plu": "4334016",
+                    "unitName": "шт",
+                    "weight": 1420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож многоцелевой APL-14 Маркет Home, 15см",
+                "masterData": {
+                    "slug": "noz-mnogocelevoj-apl-14-market-home-15sm",
+                    "plu": "4290723",
+                    "unitName": "шт",
+                    "weight": 78,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Apollo Raffinato, 420мл",
+                "masterData": {
+                    "slug": "kruzka-apollo-raffinato-420ml",
+                    "plu": "4345930",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Нож универсальный APL-15 Маркет Home, 12см",
+                "masterData": {
+                    "slug": "noz-universalnyj-apl-15-market-home-12sm",
+                    "plu": "4290725",
+                    "unitName": "шт",
+                    "weight": 64,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Atmosphere Of Art Coffee-Coffee фарфоровая, 340мл",
+                "masterData": {
+                    "slug": "kruzka-atmosphere-of-art-coffee-coffee-farforovaa-340ml",
+                    "plu": "4330165",
+                    "unitName": "шт",
+                    "weight": 347,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Салатник МФК в ассортименте, 14см",
+                "masterData": {
+                    "slug": "salatnik-mfk-v-assortimente-14sm",
+                    "plu": "4423822",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Доска разделочная 32х23см Маркет Home в ассортименте",
+                "masterData": {
+                    "slug": "doska-razdelocnaa-32h23sm-market-home-v-assortimente",
+                    "plu": "4380969",
+                    "unitName": "шт",
+                    "weight": 326,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Распылитель Ningbo Home для масла, 100мл",
+                "masterData": {
+                    "slug": "raspylitel-ningbo-home-dla-masla-100ml",
+                    "plu": "4320994",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов для вина 440мл, 2шт",
+                "masterData": {
+                    "slug": "nabor-bokalov-dla-vina-440ml-2st",
+                    "plu": "4394328",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Luminarc, 320мл",
+                "masterData": {
+                    "slug": "kruzka-luminarc-320ml",
+                    "plu": "3694530",
+                    "unitName": "шт",
+                    "weight": 338,
+                    "volume": 320
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки одноразовые 24см Маркет, 6шт",
+                "masterData": {
+                    "slug": "tarelki-odnorazovye-24sm-market-6st",
+                    "plu": "4392215",
+                    "unitName": "шт",
+                    "weight": 77,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стакан Liling Jingtao с крышкой в ассортименте, 405мл",
+                "masterData": {
+                    "slug": "stakan-liling-jingtao-s-kryskoj-v-assortimente-405ml",
+                    "plu": "4418246",
+                    "unitName": "шт",
+                    "weight": 325,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Терка Маркет Home",
+                "masterData": {
+                    "slug": "terka-market-home",
+                    "plu": "4320197",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки одноразовые картонные Маркет Home, 6шт",
+                "masterData": {
+                    "slug": "tarelki-odnorazovye-kartonnye-market-home-6st",
+                    "plu": "4303830",
+                    "unitName": "шт",
+                    "weight": 94,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор одноразового применения 5 предметов Пр!ст",
+                "masterData": {
+                    "slug": "nabor-odnorazovogo-primenenia-5-predmetov-pr-st",
+                    "plu": "4291924",
+                    "unitName": "шт",
+                    "weight": 4,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Liling Jingtao в ассортименте, 380мл",
+                "masterData": {
+                    "slug": "kruzka-liling-jingtao-v-assortimente-380ml",
+                    "plu": "4410002",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Салатник Pasabahce Аврора, 304мм",
+                "masterData": {
+                    "slug": "salatnik-pasabahce-avrora-304mm",
+                    "plu": "4423332",
+                    "unitName": "шт",
+                    "weight": 1560,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода Блинная c антипригарным покрытием Маркет Home, 24см",
+                "masterData": {
+                    "slug": "skovoroda-blinnaa-c-antiprigarnym-pokrytiem-market-home-24sm",
+                    "plu": "4374581",
+                    "unitName": "шт",
+                    "weight": 610,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор бокалов для вина 620мл, 2шт",
+                "masterData": {
+                    "slug": "nabor-bokalov-dla-vina-620ml-2st",
+                    "plu": "4394329",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кокотница Ningbo Home Dollar в ассортименте, 80мл",
+                "masterData": {
+                    "slug": "kokotnica-ningbo-home-dollar-v-assortimente-80ml",
+                    "plu": "4410990",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые прозрачные 12х100мл Пр!ст",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-prozracnye-12h100ml-pr-st",
+                    "plu": "3629677",
+                    "unitName": "шт",
+                    "weight": 11,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кассета сменная Барьер Жесткость и железо фильтрующая",
+                "masterData": {
+                    "slug": "kasseta-smennaa-barer-zestkost-i-zelezo-filtruusaa",
+                    "plu": "3635764",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые 250мл в ассортименте Маркет, 6шт",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-250ml-v-assortimente-market-6st",
+                    "plu": "4392209",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Миски одноразовые на основе кукурузного крахмала Маркет, 6х470мл",
+                "masterData": {
+                    "slug": "miski-odnorazovye-na-osnove-kukuruznogo-krahmala-market-6h470ml",
+                    "plu": "4394823",
+                    "unitName": "шт",
+                    "weight": 84,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор столовых приборов одноразовых на основе кукурузного крахмала Маркет в ассортименте, 3шт",
+                "masterData": {
+                    "slug": "nabor-stolovyh-priborov-odnorazovyh-na-osnove-kukuruznogo-krahmala-market-v-assortimente-3st",
+                    "plu": "4394816",
+                    "unitName": "шт",
+                    "weight": 18,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кассета сменная Барьер №4 Классик",
+                "masterData": {
+                    "slug": "kasseta-smennaa-barer-no4-klassik",
+                    "plu": "3200459",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода Глубокая c антипригарным покрытием Маркет, 28см",
+                "masterData": {
+                    "slug": "skovoroda-glubokaa-c-antiprigarnym-pokrytiem-market-28sm",
+                    "plu": "4374582",
+                    "unitName": "шт",
+                    "weight": 1150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые картонные Маркет Home в ассортименте, 6шт",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-kartonnye-market-home-v-assortimente-6st",
+                    "plu": "4303829",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор одноразовой посуды на 6 персон Пр!ст",
+                "masterData": {
+                    "slug": "nabor-odnorazovoj-posudy-na-6-person-pr-st",
+                    "plu": "4291926",
+                    "unitName": "шт",
+                    "weight": 68,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки одноразовые на основе кукурузного крахмала 18 см Маркет, 6шт",
+                "masterData": {
+                    "slug": "tarelki-odnorazovye-na-osnove-kukuruznogo-krahmala-18-sm-market-6st",
+                    "plu": "4394814",
+                    "unitName": "шт",
+                    "weight": 72,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода c антипригарным покрытием Маркет Home, 26см",
+                "masterData": {
+                    "slug": "skovoroda-c-antiprigarnym-pokrytiem-market-home-26sm",
+                    "plu": "4374580",
+                    "unitName": "шт",
+                    "weight": 986,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Сковорода c антипригарным покрытием Маркет, 24см",
+                "masterData": {
+                    "slug": "skovoroda-c-antiprigarnym-pokrytiem-market-24sm",
+                    "plu": "4374579",
+                    "unitName": "шт",
+                    "weight": 840,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Кружка Liling Jingtao в ассортименте, 700мл",
+                "masterData": {
+                    "slug": "kruzka-liling-jingtao-v-assortimente-700ml",
+                    "plu": "4410003",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма для выпечки маффинов, 29х17х3см",
+                "masterData": {
+                    "slug": "forma-dla-vypecki-maffinov-29h17h3sm",
+                    "plu": "4410202",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма Golden Opal для запекания круглая, 26x4.5см",
+                "masterData": {
+                    "slug": "forma-golden-opal-dla-zapekania-kruglaa-26x4-5sm",
+                    "plu": "4404765",
+                    "unitName": "шт",
+                    "weight": 720,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Ложки одноразовые на основе кукурузного крахмала Маркет, 6шт",
+                "masterData": {
+                    "slug": "lozki-odnorazovye-na-osnove-kukuruznogo-krahmala-market-6st",
+                    "plu": "4394818",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Форма для запекания, 27х15см",
+                "masterData": {
+                    "slug": "forma-dla-zapekania-27h15sm",
+                    "plu": "4410004",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Набор для десерта НТ040301 4 предмета в ассортименте",
+                "masterData": {
+                    "slug": "nabor-dla-deserta-nt040301-4-predmeta-v-assortimente",
+                    "plu": "4352299",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые на основе кукурузного крахмала в ассортименте Маркет, 6х240мл",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-na-osnove-kukuruznogo-krahmala-v-assortimente-market-6h240ml",
+                    "plu": "4394822",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка белая одноразовая 165 мм Пр!ст, 12шт",
+                "masterData": {
+                    "slug": "tarelka-belaa-odnorazovaa-165-mm-pr-st-12st",
+                    "plu": "4291923",
+                    "unitName": "шт",
+                    "weight": 5,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелки одноразовые на основе кукурузного крахмала 23см Маркет, 6шт",
+                "masterData": {
+                    "slug": "tarelki-odnorazovye-na-osnove-kukuruznogo-krahmala-23sm-market-6st",
+                    "plu": "4394824",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые прозрачные Пр!ст, 12x200мл",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-prozracnye-pr-st-12x200ml",
+                    "plu": "3466618",
+                    "unitName": "шт",
+                    "weight": 24,
+                    "volume": 200
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Тарелка белая одноразовая 210 мм Пр!ст, 12шт",
+                "masterData": {
+                    "slug": "tarelka-belaa-odnorazovaa-210-mm-pr-st-12st",
+                    "plu": "4291921",
+                    "unitName": "шт",
+                    "weight": 84,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Вилки одноразовые на основе кукурузного крахмала Маркет, 6шт",
+                "masterData": {
+                    "slug": "vilki-odnorazovye-na-osnove-kukuruznogo-krahmala-market-6st",
+                    "plu": "4394820",
+                    "unitName": "шт",
+                    "weight": 39,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            },
+            {
+                "title": "Стаканы одноразовые из ламинированной бумаги Пр!ст, 6x250мл",
+                "masterData": {
+                    "slug": "stakany-odnorazovye-iz-laminirovannoj-bumagi-pr-st-6x250ml",
+                    "plu": "3466619",
+                    "unitName": "шт",
+                    "weight": 41,
+                    "volume": 250
+                },
+                "primaryCategory": {
+                    "title": "Посуда",
+                    "id": 452
+                }
+            }
+        ]
+    }
+}

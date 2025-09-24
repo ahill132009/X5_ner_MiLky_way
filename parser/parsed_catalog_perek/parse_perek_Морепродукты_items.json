@@ -1,0 +1,1729 @@
+{
+    "cat_name": {
+        "cat_id": 793,
+        "items": [
+            {
+                "title": "Краб Новая Аляска камчатский в собственном соку, 190г",
+                "masterData": {
+                    "slug": "krab-novaa-alaska-kamcatskij-v-sobstvennom-soku-190g",
+                    "plu": "4323496",
+                    "unitName": "шт",
+                    "weight": 190,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра кеты Камчатское Море лососёвая зернистая солёная, 200г",
+                "masterData": {
+                    "slug": "ikra-kety-kamcatskoe-more-lososevaa-zernistaa-solenaa-200g",
+                    "plu": "4376718",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра горбуши зернистая лососёвая солёная охлаждённая, 200г",
+                "masterData": {
+                    "slug": "ikra-gorbusi-zernistaa-lososevaa-solenaa-ohlazdennaa-200g",
+                    "plu": "4321221",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Мясо краба Русское Море имитация в заливке пастеризованное, 250г",
+                "masterData": {
+                    "slug": "maso-kraba-russkoe-more-imitacia-v-zalivke-pasterizovannoe-250g",
+                    "plu": "4408721",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Milegrin с трюфелем в масле, 270г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-milegrin-s-trufelem-v-masle-270g",
+                    "plu": "4411057",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Консервы Chatka из мяса краба стригуна-опилио первая фаланга в солевой заливке, 220г",
+                "masterData": {
+                    "slug": "konservy-chatka-iz-masa-kraba-striguna-opilio-pervaa-falanga-v-solevoj-zalivke-220g",
+                    "plu": "4389047",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Шарики Меридиан Сурими с мягким сыром и лесными грибами со вкусом краба, 100г",
+                "masterData": {
+                    "slug": "sariki-meridian-surimi-s-magkim-syrom-i-lesnymi-gribami-so-vkusom-kraba-100g",
+                    "plu": "4320473",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Лапша Меридиан из сурими со вкусом угря, 130г",
+                "masterData": {
+                    "slug": "lapsa-meridian-iz-surimi-so-vkusom-ugra-130g",
+                    "plu": "4221829",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Балтийский Берег имитированная лососёвая, 220г",
+                "masterData": {
+                    "slug": "ikra-baltijskij-bereg-imitirovannaa-lososevaa-220g",
+                    "plu": "3607173",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан в масле с зеленью, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-v-masle-s-zelenu-200g",
+                    "plu": "48142",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Риет Delicatesse De Mare натуральный овощной из морской капусты, 150г",
+                "masterData": {
+                    "slug": "riet-delicatesse-de-mare-naturalnyj-ovosnoj-iz-morskoj-kapusty-150g",
+                    "plu": "4281412",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра минтая Санта Бремор Pate, 90г",
+                "masterData": {
+                    "slug": "ikra-mintaa-santa-bremor-pate-90g",
+                    "plu": "3640621",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Палочки крабовые Путина Эко пастеризованные охлаждённые, 200г",
+                "masterData": {
+                    "slug": "palocki-krabovye-putina-eko-pasterizovannye-ohlazdennye-200g",
+                    "plu": "4382596",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра лососёвая Красное золото, 500г",
+                "masterData": {
+                    "slug": "ikra-lososevaa-krasnoe-zoloto-500g",
+                    "plu": "2046679",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Консервы Chatka из мяса краба камчатского коленце в солевой заливке, 220г",
+                "masterData": {
+                    "slug": "konservy-chatka-iz-masa-kraba-kamcatskogo-kolence-v-solevoj-zalivke-220g",
+                    "plu": "4389048",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Кальмар Меридиан соломка в соусе карри, 180г",
+                "masterData": {
+                    "slug": "kalmar-meridian-solomka-v-souse-karri-180g",
+                    "plu": "4325226",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Краб-ролл Русское Море имитация с сыром и зеленью, 50г",
+                "masterData": {
+                    "slug": "krab-roll-russkoe-more-imitacia-s-syrom-i-zelenu-50g",
+                    "plu": "4216090",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мидии чилийские отварные в масле с перцем халапеньо Люди Любят, 180г",
+                "masterData": {
+                    "slug": "midii-cilijskie-otvarnye-v-masle-s-percem-halapeno-ludi-lubat-180g",
+                    "plu": "4371410",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовое мясо Vici замороженное, 220г",
+                "masterData": {
+                    "slug": "krabovoe-maso-vici-zamorozennoe-220g",
+                    "plu": "3406480",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Астраханская Икра стерляди зернистая, 50г",
+                "masterData": {
+                    "slug": "ikra-astrahanskaa-ikra-sterladi-zernistaa-50g",
+                    "plu": "4324176",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Краб-ролл Русское Море имитация с сыром, 50г",
+                "masterData": {
+                    "slug": "krab-roll-russkoe-more-imitacia-s-syrom-50g",
+                    "plu": "4216087",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мясо мидий Milegrin чилийских в масле с перцем чили, 415г",
+                "masterData": {
+                    "slug": "maso-midij-milegrin-cilijskih-v-masle-s-percem-cili-415g",
+                    "plu": "4323675",
+                    "unitName": "шт",
+                    "weight": 415,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Два Капитана отварной в рассоле, 310г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-dva-kapitana-otvarnoj-v-rassole-310g",
+                    "plu": "4045872",
+                    "unitName": "шт",
+                    "weight": 310,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Лапша Меридиан из сурими со вкусом устрицы, 130г",
+                "masterData": {
+                    "slug": "lapsa-meridian-iz-surimi-so-vkusom-ustricy-130g",
+                    "plu": "4221827",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль De Lux из морепродуктов отварных в масле с каперсами Люди Любят, 180г",
+                "masterData": {
+                    "slug": "koktejl-de-lux-iz-moreproduktov-otvarnyh-v-masle-s-kapersami-ludi-lubat-180g",
+                    "plu": "4371411",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Краб камчатский в собственном соку Маркет Collection, 330г",
+                "masterData": {
+                    "slug": "krab-kamcatskij-v-sobstvennom-soku-market-collection-330g",
+                    "plu": "4345608",
+                    "unitName": "шт",
+                    "weight": 330,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Астраханская Икра белуги гибрид зернистая, 50г",
+                "masterData": {
+                    "slug": "ikra-astrahanskaa-ikra-belugi-gibrid-zernistaa-50g",
+                    "plu": "4324179",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Паста Европром Крем-фиш Снежный краб из крабового мяса пастеризованная, 150г",
+                "masterData": {
+                    "slug": "pasta-evroprom-krem-fis-sneznyj-krab-iz-krabovogo-masa-pasterizovannaa-150g",
+                    "plu": "4277389",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан отварной в желе с оливками и лимоном, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-otvarnoj-v-zele-s-olivkami-i-limonom-200g",
+                    "plu": "3467797",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Креветки Королевские белоногие варёные неразделанные 50, 60",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-belonogie-varenye-nerazdelannye-50-60",
+                    "plu": "4324977",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Риет Delicatesse De Mare овощной из морской капусты с баклажанами, 150г",
+                "masterData": {
+                    "slug": "riet-delicatesse-de-mare-ovosnoj-iz-morskoj-kapusty-s-baklazanami-150g",
+                    "plu": "4281414",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра горбуши Русское море зернистая, 210г",
+                "masterData": {
+                    "slug": "ikra-gorbusi-russkoe-more-zernistaa-210g",
+                    "plu": "3436389",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Риет Русское Море из морских водорослей с овощами, 150г",
+                "masterData": {
+                    "slug": "riet-russkoe-more-iz-morskih-vodoroslej-s-ovosami-150g",
+                    "plu": "4420556",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мидии чилийские отварные в масле с вялеными томатами Люди Любят, 180г",
+                "masterData": {
+                    "slug": "midii-cilijskie-otvarnye-v-masle-s-valenymi-tomatami-ludi-lubat-180g",
+                    "plu": "4371409",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Русское Море Стольная лососевая имитированная, 230г",
+                "masterData": {
+                    "slug": "ikra-russkoe-more-stolnaa-lososevaa-imitirovannaa-230g",
+                    "plu": "4230409",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Кальмар командорский Polar замороженный неочищенная тушка, 500г",
+                "masterData": {
+                    "slug": "kalmar-komandorskij-polar-zamorozennyj-neocisennaa-tuska-500g",
+                    "plu": "3690396",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Осьминог Два Капитана обыкновенный целый отварной в рассоле, 300г",
+                "masterData": {
+                    "slug": "osminog-dva-kapitana-obyknovennyj-celyj-otvarnoj-v-rassole-300g",
+                    "plu": "4045870",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Щупальца кальмара Балтийский Берег в чесночном соусе, 210г",
+                "masterData": {
+                    "slug": "supalca-kalmara-baltijskij-bereg-v-cesnocnom-souse-210g",
+                    "plu": "3275674",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра трески Формула ГОСТа стерилизованная, 220г",
+                "masterData": {
+                    "slug": "ikra-treski-formula-gosta-sterilizovannaa-220g",
+                    "plu": "4029978",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Путина сельди тихоокеанской ястычная соленая в пряной заливке, 160г",
+                "masterData": {
+                    "slug": "ikra-putina-seldi-tihookeanskoj-astycnaa-solenaa-v-pranoj-zalivke-160g",
+                    "plu": "4333302",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Мидии Vici маринованные в масле, 200г",
+                "masterData": {
+                    "slug": "midii-vici-marinovannye-v-masle-200g",
+                    "plu": "4416095",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мидии",
+                    "id": 787
+                }
+            },
+            {
+                "title": "Икра Русское Море Люкс Оригинальная сельди деликатесная, 100г",
+                "masterData": {
+                    "slug": "ikra-russkoe-more-luks-originalnaa-seldi-delikatesnaa-100g",
+                    "plu": "4289576",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Креветки северные Fish & More варёно-мороженые, 750г",
+                "masterData": {
+                    "slug": "krevetki-severnye-fish-more-vareno-morozenye-750g",
+                    "plu": "3686756",
+                    "unitName": "шт",
+                    "weight": 750,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Кальмар Сухогруз гигантский сушено-вяленый, 50г",
+                "masterData": {
+                    "slug": "kalmar-suhogruz-gigantskij-suseno-valenyj-50g",
+                    "plu": "4296513",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Салат Русское Море из мяса мидии чилийской вареного с овощами, 150г",
+                "masterData": {
+                    "slug": "salat-russkoe-more-iz-masa-midii-cilijskoj-varenogo-s-ovosami-150g",
+                    "plu": "4289255",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра трески Smak стерилизованная, 120г",
+                "masterData": {
+                    "slug": "ikra-treski-smak-sterilizovannaa-120g",
+                    "plu": "3681680",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра нерки Камчатское Море лососёвая зернистая солёная, 180г",
+                "masterData": {
+                    "slug": "ikra-nerki-kamcatskoe-more-lososevaa-zernistaa-solenaa-180g",
+                    "plu": "4369541",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Коктейль Milegrin из морепродуктов в масле, 415г",
+                "masterData": {
+                    "slug": "koktejl-milegrin-iz-moreproduktov-v-masle-415g",
+                    "plu": "4130407",
+                    "unitName": "шт",
+                    "weight": 415,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Паста Санта Бремор Кальмар в сливочном соусе с авокадо, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-kalmar-v-slivocnom-souse-s-avokado-150g",
+                    "plu": "4208170",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра трески 5 Морей атлантической пробойная стерилизованная, 120г",
+                "masterData": {
+                    "slug": "ikra-treski-5-morej-atlanticeskoj-probojnaa-sterilizovannaa-120g",
+                    "plu": "4396103",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Паста Санта Бремор Сальса из мяса мидии чилийской, 150г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-salsa-iz-masa-midii-cilijskoj-150g",
+                    "plu": "4381625",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан Мехико в масле с пряностями, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-mehiko-v-masle-s-pranostami-200g",
+                    "plu": "48143",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра минтая Smak стерилизованная, 120г",
+                "masterData": {
+                    "slug": "ikra-mintaa-smak-sterilizovannaa-120g",
+                    "plu": "3681679",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Русское Море Люкс Оригинальная мойвы деликатесная, 100г",
+                "masterData": {
+                    "slug": "ikra-russkoe-more-luks-originalnaa-mojvy-delikatesnaa-100g",
+                    "plu": "4289575",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Меридиан в масле, 200г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-meridian-v-masle-200g",
+                    "plu": "48140",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Креветки Два Капитан ванамей отварные в рассоле, 300г",
+                "masterData": {
+                    "slug": "krevetki-dva-kapitan-vanamej-otvarnye-v-rassole-300g",
+                    "plu": "4323674",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра трески тихоокеанской стерилизованная Люди Любят, 160г",
+                "masterData": {
+                    "slug": "ikra-treski-tihookeanskoj-sterilizovannaa-ludi-lubat-160g",
+                    "plu": "4307642",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Крабовые палочки Русское Море Краб-ролл с сыром пастеризованные охлаждённые, 180г",
+                "masterData": {
+                    "slug": "krabovye-palocki-russkoe-more-krab-roll-s-syrom-pasterizovannye-ohlazdennye-180g",
+                    "plu": "4125939",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мясо мидий Два Капитана чилийских отварное в рассоле, 300г",
+                "masterData": {
+                    "slug": "maso-midij-dva-kapitana-cilijskih-otvarnoe-v-rassole-300g",
+                    "plu": "4045864",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Палочки Vici снежный краб, 250г",
+                "masterData": {
+                    "slug": "palocki-vici-sneznyj-krab-250g",
+                    "plu": "4417821",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мидии Vici варёно-копчёные маринованные в масле, 200г",
+                "masterData": {
+                    "slug": "midii-vici-vareno-kopcenye-marinovannye-v-masle-200g",
+                    "plu": "4167221",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Камчатское море структурированная, 120г",
+                "masterData": {
+                    "slug": "ikra-kamcatskoe-more-strukturirovannaa-120g",
+                    "plu": "4261947",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Камчатское Море лососёвая структурированная пастеризованная, 200г",
+                "masterData": {
+                    "slug": "ikra-kamcatskoe-more-lososevaa-strukturirovannaa-pasterizovannaa-200g",
+                    "plu": "4372386",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Паста Санта Бремор с тунцом и лососем, 140г",
+                "masterData": {
+                    "slug": "pasta-santa-bremor-s-tuncom-i-lososem-140g",
+                    "plu": "4336168",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра лососёвая горбуши, 95г",
+                "masterData": {
+                    "slug": "ikra-lososevaa-gorbusi-95g",
+                    "plu": "3465904",
+                    "unitName": "шт",
+                    "weight": 95,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Крабовые палочки Меридиан Снежный краб, 200г",
+                "masterData": {
+                    "slug": "krabovye-palocki-meridian-sneznyj-krab-200g",
+                    "plu": "86385",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мясо Русское Море креветки в заливке, 180г",
+                "masterData": {
+                    "slug": "maso-russkoe-more-krevetki-v-zalivke-180g",
+                    "plu": "4289266",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки Русское Море Снежный краб имитация охлаждённые, 150г",
+                "masterData": {
+                    "slug": "krabovye-palocki-russkoe-more-sneznyj-krab-imitacia-ohlazdennye-150g",
+                    "plu": "4425909",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Креветки аргентинские красные Vici Luxury 41/50 свежемороженые, 750г",
+                "masterData": {
+                    "slug": "krevetki-argentinskie-krasnye-vici-luxury-41-50-svezemorozenye-750g",
+                    "plu": "3627766",
+                    "unitName": "шт",
+                    "weight": 750,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Мясо мидий чилийских солёное в рассоле Люди Любят, 180г",
+                "masterData": {
+                    "slug": "maso-midij-cilijskih-solenoe-v-rassole-ludi-lubat-180g",
+                    "plu": "4353633",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Царская имитированная лососёвая, 220г",
+                "masterData": {
+                    "slug": "ikra-carskaa-imitirovannaa-lososevaa-220g",
+                    "plu": "3659871",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Путина минтая вяленая ястычная, 40г",
+                "masterData": {
+                    "slug": "ikra-putina-mintaa-valenaa-astycnaa-40g",
+                    "plu": "4350474",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Путина сельди тихоокеанская вяленая ястычная, 40г",
+                "masterData": {
+                    "slug": "ikra-putina-seldi-tihookeanskaa-valenaa-astycnaa-40g",
+                    "plu": "4350475",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Крабовые палочки Русское море Салатные имитация охлаждённые, 200г",
+                "masterData": {
+                    "slug": "krabovye-palocki-russkoe-more-salatnye-imitacia-ohlazdennye-200g",
+                    "plu": "3993018",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки Vici замороженные, 220г",
+                "masterData": {
+                    "slug": "krabovye-palocki-vici-zamorozennye-220g",
+                    "plu": "3406474",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мидии Меридиан с вялеными томатами чесноком и зеленью в масле, 270 г",
+                "masterData": {
+                    "slug": "midii-meridian-s-valenymi-tomatami-cesnokom-i-zelenu-v-masle-270-g",
+                    "plu": "4006328",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки имитация охлаждённые Пр!ст, 200г",
+                "masterData": {
+                    "slug": "krabovye-palocki-imitacia-ohlazdennye-pr-st-200g",
+                    "plu": "3659730",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра осетровая Русский Икорный Дом Стандарт зернистая пастеризованная, 50г",
+                "masterData": {
+                    "slug": "ikra-osetrovaa-russkij-ikornyj-dom-standart-zernistaa-pasterizovannaa-50g",
+                    "plu": "3231966",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра осетровая Царская Особая имитированная, 220г",
+                "masterData": {
+                    "slug": "ikra-osetrovaa-carskaa-osobaa-imitirovannaa-220g",
+                    "plu": "3659872",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра горбуши зернистая солёная Маркет Collection, 160г",
+                "masterData": {
+                    "slug": "ikra-gorbusi-zernistaa-solenaa-market-collection-160g",
+                    "plu": "4326862",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Рулет Европром Снежный Краб пастеризованный из фарша рыбного сурими, 350г",
+                "masterData": {
+                    "slug": "rulet-evroprom-sneznyj-krab-pasterizovannyj-iz-farsa-rybnogo-surimi-350g",
+                    "plu": "4287387",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Коктейль Русское Море Морской Микс из морепродуктов в заливке, 300г",
+                "masterData": {
+                    "slug": "koktejl-russkoe-more-morskoj-miks-iz-moreproduktov-v-zalivke-300g",
+                    "plu": "4290706",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра минтая Русское море Дальневосточная пробойная, 130г",
+                "masterData": {
+                    "slug": "ikra-mintaa-russkoe-more-dalnevostocnaa-probojnaa-130g",
+                    "plu": "2173652",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Щупальца кальмара командорского Люди Любят солёные в рассоле, 180г",
+                "masterData": {
+                    "slug": "supalca-kalmara-komandorskogo-ludi-lubat-solenye-v-rassole-180g",
+                    "plu": "4353629",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Красное Золото горбуша зернистая, 500г",
+                "masterData": {
+                    "slug": "ikra-krasnoe-zoloto-gorbusa-zernistaa-500g",
+                    "plu": "4424458",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Креветка Veraz аргентинская целая свежемороженая 21/30 L2, 2кг",
+                "masterData": {
+                    "slug": "krevetka-veraz-argentinskaa-celaa-svezemorozenaa-21-30-l2-2kg",
+                    "plu": "4277440",
+                    "unitName": "шт",
+                    "weight": 2000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Икра лососёвая Тунгутун, 95г",
+                "masterData": {
+                    "slug": "ikra-lososevaa-tungutun-95g",
+                    "plu": "3274709",
+                    "unitName": "шт",
+                    "weight": 95,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Коктейль из морепродуктов Люди Любят солёный в рассоле, 180г",
+                "masterData": {
+                    "slug": "koktejl-iz-moreproduktov-ludi-lubat-solenyj-v-rassole-180g",
+                    "plu": "4353637",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра Зернистая Лососёвая горбуши соленая Маркет Collection, 240г",
+                "masterData": {
+                    "slug": "ikra-zernistaa-lososevaa-gorbusi-solenaa-market-collection-240g",
+                    "plu": "4323783",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Красное Золото нерка зернистая, 100г",
+                "masterData": {
+                    "slug": "ikra-krasnoe-zoloto-nerka-zernistaa-100g",
+                    "plu": "4424926",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра Красное Золото горбуша зернистая, 100г",
+                "masterData": {
+                    "slug": "ikra-krasnoe-zoloto-gorbusa-zernistaa-100g",
+                    "plu": "4424461",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра нерки Мормер зернистая, 200г",
+                "masterData": {
+                    "slug": "ikra-nerki-mormer-zernistaa-200g",
+                    "plu": "4414635",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра стерляди Русский икорный дом Стандарт зернистая, 100г",
+                "masterData": {
+                    "slug": "ikra-sterladi-russkij-ikornyj-dom-standart-zernistaa-100g",
+                    "plu": "3930321",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Мидии в створках Agama в собственном соку варёно-мороженые, 450г",
+                "masterData": {
+                    "slug": "midii-v-stvorkah-agama-v-sobstvennom-soku-vareno-morozenye-450g",
+                    "plu": "3359360",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Кальмар гигантский стружка сушено-вяленый Люди Любят, 70г",
+                "masterData": {
+                    "slug": "kalmar-gigantskij-struzka-suseno-valenyj-ludi-lubat-70g",
+                    "plu": "4357088",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки Русское море охлаждённые, 400г",
+                "masterData": {
+                    "slug": "krabovye-palocki-russkoe-more-ohlazdennye-400g",
+                    "plu": "3931923",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Палочки крабовые Vici Surimi Kama имитация пастеризованные, 200г",
+                "masterData": {
+                    "slug": "palocki-krabovye-vici-surimi-kama-imitacia-pasterizovannye-200g",
+                    "plu": "4311581",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Улитка Азов Трейд По-бургундскив чесночном соусе, 170г",
+                "masterData": {
+                    "slug": "ulitka-azov-trejd-po-burgundskiv-cesnocnom-souse-170g",
+                    "plu": "3366608",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки Люди Любят белоногие очищенные солёные в рассоле, 180г",
+                "masterData": {
+                    "slug": "krevetki-ludi-lubat-belonogie-ocisennye-solenye-v-rassole-180g",
+                    "plu": "4353635",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Креветки королевские Vici Приорити 50/70 варёно-мороженые, 1кг",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-vici-prioriti-50-70-vareno-morozenye-1kg",
+                    "plu": "3432111",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Икра горбуши Люди Любят лососевая зернистая солёная, 200г",
+                "masterData": {
+                    "slug": "ikra-gorbusi-ludi-lubat-lososevaa-zernistaa-solenaa-200g",
+                    "plu": "4386122",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Икра сельди Русское Море к картошке традиционная, 150г",
+                "masterData": {
+                    "slug": "ikra-seldi-russkoe-more-k-kartoske-tradicionnaa-150g",
+                    "plu": "4404425",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Кальмар гигантский полоски сушено-вяленый Люди Любят, 70г",
+                "masterData": {
+                    "slug": "kalmar-gigantskij-poloski-suseno-valenyj-ludi-lubat-70g",
+                    "plu": "4357089",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Мясо крабовое Снежный краб имитированное Люди Любят, 200г",
+                "masterData": {
+                    "slug": "maso-krabovoe-sneznyj-krab-imitirovannoe-ludi-lubat-200g",
+                    "plu": "4354523",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки Vici охлажденные, 500г",
+                "masterData": {
+                    "slug": "krabovye-palocki-vici-ohlazdennye-500g",
+                    "plu": "3131715",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовое мясо Vici имитация охлаждённое, 220г",
+                "masterData": {
+                    "slug": "krabovoe-maso-vici-imitacia-ohlazdennoe-220g",
+                    "plu": "3447878",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра нерки зернистая солёная охлажденная Market Collection, 240г",
+                "masterData": {
+                    "slug": "ikra-nerki-zernistaa-solenaa-ohlazdennaa-market-collection-240g",
+                    "plu": "4411674",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Креветки Vici Королевские варено-мороженные 450 г",
+                "masterData": {
+                    "slug": "krevetki-vici-korolevskie-vareno-morozennye-450-g",
+                    "plu": "3970776",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Икра Красное Золото горбуша зернистая, 200г",
+                "masterData": {
+                    "slug": "ikra-krasnoe-zoloto-gorbusa-zernistaa-200g",
+                    "plu": "4424459",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Крабовые палочки Меридиан Фудзи краб, 200г",
+                "masterData": {
+                    "slug": "krabovye-palocki-meridian-fudzi-krab-200g",
+                    "plu": "4074412",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Икра мойвы Санта Бремор с копчёным лососем, 180г",
+                "masterData": {
+                    "slug": "ikra-mojvy-santa-bremor-s-kopcenym-lososem-180g",
+                    "plu": "3976387",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Икра",
+                    "id": 1002
+                }
+            },
+            {
+                "title": "Креветка Ваннамей Fish & More свежемороженая, 500г",
+                "masterData": {
+                    "slug": "krevetka-vannamej-fish-more-svezemorozenaa-500g",
+                    "plu": "4078304",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Крабовое мясо Русское море имитация охлаждённое, 200г",
+                "masterData": {
+                    "slug": "krabovoe-maso-russkoe-more-imitacia-ohlazdennoe-200g",
+                    "plu": "3445265",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Креветки королевские очищенные с хвостом варёно-мороженые 31/40 Люди Любят, 500г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-ocisennye-s-hvostom-vareno-morozenye-31-40-ludi-lubat-500g",
+                    "plu": "4385594",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки королевские Fish & More очищенные с хвостом, 860г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-fish-more-ocisennye-s-hvostom-860g",
+                    "plu": "4012971",
+                    "unitName": "шт",
+                    "weight": 860,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Крабовые палочки Русское море охлаждённые, 200г",
+                "masterData": {
+                    "slug": "krabovye-palocki-russkoe-more-ohlazdennye-200g",
+                    "plu": "3337825",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Палочки крабовые Снежный краб имитированные Люди Любят, 200г",
+                "masterData": {
+                    "slug": "palocki-krabovye-sneznyj-krab-imitirovannye-ludi-lubat-200g",
+                    "plu": "4354524",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки Vici имитация охлаждённые, 220г",
+                "masterData": {
+                    "slug": "krabovye-palocki-vici-imitacia-ohlazdennye-220g",
+                    "plu": "3447879",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Крабовые палочки Русское море Королевский краб имитация охлаждённые, 250г",
+                "masterData": {
+                    "slug": "krabovye-palocki-russkoe-more-korolevskij-krab-imitacia-ohlazdennye-250g",
+                    "plu": "3993014",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Палочки крабовые Vici Снежный краб, 250г",
+                "masterData": {
+                    "slug": "palocki-krabovye-vici-sneznyj-krab-250g",
+                    "plu": "4166323",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Креветки Polar 70/90 варёно-мороженые, 1кг",
+                "masterData": {
+                    "slug": "krevetki-polar-70-90-vareno-morozenye-1kg",
+                    "plu": "3495300",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки королевские Бухта Изобилия варёно-мороженые очищенные, 300г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-buhta-izobilia-vareno-morozenye-ocisennye-300g",
+                    "plu": "3641931",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки королевские 50/70 замороженные неразделанные",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-50-70-zamorozennye-nerazdelannye",
+                    "plu": "69215",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            }
+        ]
+    }
+}

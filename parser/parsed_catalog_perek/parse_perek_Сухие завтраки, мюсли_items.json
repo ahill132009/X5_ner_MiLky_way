@@ -1,0 +1,2499 @@
+{
+    "cat_name": {
+        "cat_id": 224,
+        "items": [
+            {
+                "title": "Гранола Ясно Солнышко клубника-персик-миндаль хрустящая, 250г",
+                "masterData": {
+                    "slug": "granola-asno-solnysko-klubnika-persik-mindal-hrustasaa-250g",
+                    "plu": "4364808",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Maxi Vita гречневые, 300г",
+                "masterData": {
+                    "slug": "hlopa-maxi-vita-grecnevye-300g",
+                    "plu": "4330462",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша полбяная Yelli Клюква & Ягоды Годжи быстрого приготовления, 60г",
+                "masterData": {
+                    "slug": "kasa-polbanaa-yelli-klukva-agody-godzi-bystrogo-prigotovlenia-60g",
+                    "plu": "4300493",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Delika гречневая с курицей моментального приготовления, 43г",
+                "masterData": {
+                    "slug": "kasa-delika-grecnevaa-s-kuricej-momentalnogo-prigotovlenia-43g",
+                    "plu": "4277057",
+                    "unitName": "шт",
+                    "weight": 43,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Крупы, бобовые",
+                    "id": 464
+                }
+            },
+            {
+                "title": "Каша Delika гречневая с грибами моментального приготовления, 43г",
+                "masterData": {
+                    "slug": "kasa-delika-grecnevaa-s-gribami-momentalnogo-prigotovlenia-43g",
+                    "plu": "4274738",
+                    "unitName": "шт",
+                    "weight": 43,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко Ассорти абрикос-яблоко-изюм, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-assorti-abrikos-abloko-izum-6h45g",
+                    "plu": "3232199",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Увелка сливочно-банановые глазированные сахарным сиропом, 200г",
+                "masterData": {
+                    "slug": "sariki-uvelka-slivocno-bananovye-glazirovannye-saharnym-siropom-200g",
+                    "plu": "4131236",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша LÖn Овсяно-льняная яблоко-чернослив-корица моментальная, 30г",
+                "masterData": {
+                    "slug": "kasa-lon-ovsano-lnanaa-abloko-cernosliv-korica-momentalnaa-30g",
+                    "plu": "4391929",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко с курагой, 300г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-s-kuragoj-300g",
+                    "plu": "2017671",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Bikki шоколад-кокос-фундук, 150г",
+                "masterData": {
+                    "slug": "granola-bikki-sokolad-kokos-funduk-150g",
+                    "plu": "4371473",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Завтрак готовый Хрутка Алфавит шоколадный обогащенный кальцием, 230г",
+                "masterData": {
+                    "slug": "zavtrak-gotovyj-hrutka-alfavit-sokoladnyj-obogasennyj-kalciem-230g",
+                    "plu": "4274494",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Granolife клубника-малина, 50г",
+                "masterData": {
+                    "slug": "granola-granolife-klubnika-malina-50g",
+                    "plu": "4169256",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Мистраль манго-персик, 6х40г",
+                "masterData": {
+                    "slug": "kasa-mistral-mango-persik-6h40g",
+                    "plu": "4130485",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Scandi овсяные, 400г",
+                "masterData": {
+                    "slug": "hlopa-scandi-ovsanye-400g",
+                    "plu": "4235994",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ого с черникой, 40г",
+                "masterData": {
+                    "slug": "granola-ogo-s-cernikoj-40g",
+                    "plu": "4415606",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Unicorn кукурузные со вкусом Клубничный коктейль, 220г",
+                "masterData": {
+                    "slug": "hlopa-unicorn-kukuruznye-so-vkusom-klubnicnyj-koktejl-220g",
+                    "plu": "4299218",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с малиной, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-malinoj-35g",
+                    "plu": "4411295",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ого с клубникой, 40г",
+                "masterData": {
+                    "slug": "granola-ogo-s-klubnikoj-40g",
+                    "plu": "4415605",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Yelli Земляника & Чиа быстрого приготовления, 60г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-yelli-zemlanika-cia-bystrogo-prigotovlenia-60g",
+                    "plu": "4300492",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Овёс Myllyn Paras Steel Cut Oats резаный, 500г",
+                "masterData": {
+                    "slug": "oves-myllyn-paras-steel-cut-oats-rezanyj-500g",
+                    "plu": "3928272",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Scandi овсяные классические, 450г",
+                "masterData": {
+                    "slug": "hlopa-scandi-ovsanye-klassiceskie-450g",
+                    "plu": "4235993",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с яблоком черникой и малиной моментального приготовления, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-ablokom-cernikoj-i-malinoj-momentalnogo-prigotovlenia-35g",
+                    "plu": "4411299",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Ясно Солнышко 7 злаков, 400г",
+                "masterData": {
+                    "slug": "hlopa-asno-solnysko-7-zlakov-400g",
+                    "plu": "3378880",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша гречневая Ясно Солнышко ассорти, 6х45г",
+                "masterData": {
+                    "slug": "kasa-grecnevaa-asno-solnysko-assorti-6h45g",
+                    "plu": "4082349",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша пшенная Myllyn Paras, 400г",
+                "masterData": {
+                    "slug": "kasa-psennaa-myllyn-paras-400g",
+                    "plu": "7315",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Gerber молочная мультизлаковая с бананом и черникой с 6 месяцев, 180г",
+                "masterData": {
+                    "slug": "kasa-gerber-molocnaa-multizlakovaa-s-bananom-i-cernikoj-s-6-mesacev-180g",
+                    "plu": "4116967",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Mini Mills кукурузные карамельные обогащённые витаминами и железом, 200г",
+                "masterData": {
+                    "slug": "hlopa-mini-mills-kukuruznye-karamelnye-obogasennye-vitaminami-i-zelezom-200g",
+                    "plu": "4324974",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Delika пшённая с тыквой, орехом и изюмом, 43г",
+                "masterData": {
+                    "slug": "kasa-delika-psennaa-s-tykvoj-orehom-i-izumom-43g",
+                    "plu": "4274734",
+                    "unitName": "шт",
+                    "weight": 43,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Любятово манго, 220г",
+                "masterData": {
+                    "slug": "podusecki-lubatovo-mango-220g",
+                    "plu": "4426498",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Polba Сибирская, 200г",
+                "masterData": {
+                    "slug": "granola-polba-sibirskaa-200g",
+                    "plu": "4373763",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Oatsmith овсяные резаные, 400г",
+                "masterData": {
+                    "slug": "hlopa-oatsmith-ovsanye-rezanye-400g",
+                    "plu": "4348940",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Oatsmith овсяные цельные, 400г",
+                "masterData": {
+                    "slug": "hlopa-oatsmith-ovsanye-celnye-400g",
+                    "plu": "4348942",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Три Кота кукурузные, 170 г",
+                "masterData": {
+                    "slug": "sariki-tri-kota-kukuruznye-170-g",
+                    "plu": "4214208",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Увелка клубнично-йогуртовые, 200г",
+                "masterData": {
+                    "slug": "sariki-uvelka-klubnicno-jogurtovye-200g",
+                    "plu": "4070024",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша гречневая Здоровое Меню Павловская с нутом, 400г",
+                "masterData": {
+                    "slug": "kasa-grecnevaa-zdorovoe-menu-pavlovskaa-s-nutom-400g",
+                    "plu": "4294982",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная с молоком Ясно Солнышко ассорти: с клубникой, яблоком, грушей, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-s-molokom-asno-solnysko-assorti-s-klubnikoj-ablokom-grusej-6h45g",
+                    "plu": "4082504",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола R.A.W. Life Кокос-Банан, 220г",
+                "masterData": {
+                    "slug": "granola-r-a-w-life-kokos-banan-220g",
+                    "plu": "4155472",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Скоро готово 5 Злаков с цельным зерном, 250г",
+                "masterData": {
+                    "slug": "kasa-skoro-gotovo-5-zlakov-s-celnym-zernom-250g",
+                    "plu": "4348262",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Granolife кокос-семена чиа, 400г",
+                "masterData": {
+                    "slug": "granola-granolife-kokos-semena-cia-400g",
+                    "plu": "4019921",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки злаковые Хрутка со вкусом клубники, 220г",
+                "masterData": {
+                    "slug": "podusecki-zlakovye-hrutka-so-vkusom-klubniki-220g",
+                    "plu": "4261140",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Wizzy Boo Хочу Это шоколадные, 200г",
+                "masterData": {
+                    "slug": "sariki-wizzy-boo-hocu-eto-sokoladnye-200g",
+                    "plu": "4366957",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Champ Черника протеиновая со льном, 40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-champ-cernika-proteinovaa-so-lnom-40g",
+                    "plu": "4382296",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Ягодные запечённые Маркет, 270г",
+                "masterData": {
+                    "slug": "musli-agodnye-zapecennye-market-270g",
+                    "plu": "4316063",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Autograph Красные Ягоды хрустящие запечённые, 300г",
+                "masterData": {
+                    "slug": "musli-autograph-krasnye-agody-hrustasie-zapecennye-300g",
+                    "plu": "4385319",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Ясно солнышко Ягодное утро овсяная ассорти с молоком малина-клубника-черника, 240г",
+                "masterData": {
+                    "slug": "kasa-asno-solnysko-agodnoe-utro-ovsanaa-assorti-s-molokom-malina-klubnika-cernika-240g",
+                    "plu": "4357387",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Рис Prosto для гарнира шлифованный, 8х62.5г",
+                "masterData": {
+                    "slug": "ris-prosto-dla-garnira-slifovannyj-8h62-5g",
+                    "plu": "4353605",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Крупы, бобовые",
+                    "id": 464
+                }
+            },
+            {
+                "title": "Мюсли 4Life White chocolate & biscuits, 350г",
+                "masterData": {
+                    "slug": "musli-4life-white-chocolate-biscuits-350g",
+                    "plu": "4411246",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic ягодное ассорти моментального приготовления, 210г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-agodnoe-assorti-momentalnogo-prigotovlenia-210g",
+                    "plu": "4411300",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Autograph Шоколад и Кокос хрустящие запечённые, 300г",
+                "masterData": {
+                    "slug": "musli-autograph-sokolad-i-kokos-hrustasie-zapecennye-300g",
+                    "plu": "4385320",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Champ Малина протеиновая со льном, 40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-champ-malina-proteinovaa-so-lnom-40g",
+                    "plu": "4382295",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Bikki малина-клубника-черника, 150г",
+                "masterData": {
+                    "slug": "granola-bikki-malina-klubnika-cernika-150g",
+                    "plu": "4371175",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Delika овсяная с клубникой моментального приготовления, 43г",
+                "masterData": {
+                    "slug": "kasa-delika-ovsanaa-s-klubnikoj-momentalnogo-prigotovlenia-43g",
+                    "plu": "4274742",
+                    "unitName": "шт",
+                    "weight": 43,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ол Лайт медовые с ягодами хрустящие, 280г",
+                "masterData": {
+                    "slug": "granola-ol-lajt-medovye-s-agodami-hrustasie-280g",
+                    "plu": "3457471",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки злаковые Хрутка со вкусом банана, 220г",
+                "masterData": {
+                    "slug": "podusecki-zlakovye-hrutka-so-vkusom-banana-220g",
+                    "plu": "4261139",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ол Лайт медовые с тропическими фруктами хрустящие, 280г",
+                "masterData": {
+                    "slug": "granola-ol-lajt-medovye-s-tropiceskimi-fruktami-hrustasie-280g",
+                    "plu": "3457461",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Увелка быстрые, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-uvelka-bystrye-400g",
+                    "plu": "3632788",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Колечки Di&Di Умные сладости амарантовые с какао, 150г",
+                "masterData": {
+                    "slug": "kolecki-di-di-umnye-sladosti-amarantovye-s-kakao-150g",
+                    "plu": "4291183",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Без глютена",
+                    "id": 130
+                }
+            },
+            {
+                "title": "Гранола Amarancho Ягодная амарантово-овсяная, 270г",
+                "masterData": {
+                    "slug": "granola-amarancho-agodnaa-amarantovo-ovsanaa-270g",
+                    "plu": "4397140",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Каша овсяная Мистраль Протеиновая цельнозерновая быстрого приготовления, 40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-mistral-proteinovaa-celnozernovaa-bystrogo-prigotovlenia-40g",
+                    "plu": "3950378",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Nordic 4 вида зерновых, 500г",
+                "masterData": {
+                    "slug": "hlopa-nordic-4-vida-zernovyh-500g",
+                    "plu": "4277784",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола R.A.W. Life Ягоды, 220г",
+                "masterData": {
+                    "slug": "granola-r-a-w-life-agody-220g",
+                    "plu": "4155475",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша Champ Клубничная с коэнзимом Q10 протеиновая льняная, 40г",
+                "masterData": {
+                    "slug": "kasa-champ-klubnicnaa-s-koenzimom-q10-proteinovaa-lnanaa-40g",
+                    "plu": "4000298",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная с вишней моментальная Маркет, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-s-visnej-momentalnaa-market-35g",
+                    "plu": "4312717",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Wizzy Boo Хочу Это шоколадные, 220г",
+                "masterData": {
+                    "slug": "podusecki-wizzy-boo-hocu-eto-sokoladnye-220g",
+                    "plu": "4366956",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Fit Parad кукурузные, 200г",
+                "masterData": {
+                    "slug": "hlopa-fit-parad-kukuruznye-200g",
+                    "plu": "4212591",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Гранола Polba Тропикана, 200г",
+                "masterData": {
+                    "slug": "granola-polba-tropikana-200g",
+                    "plu": "4373762",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко черника с молоком, 45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-cernika-s-molokom-45g",
+                    "plu": "3468060",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Мистраль Стройность и детокс цельнозерновая быстрого приготовления, 40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-mistral-strojnost-i-detoks-celnozernovaa-bystrogo-prigotovlenia-40g",
+                    "plu": "3950379",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Matti орех-яблоко, 250г",
+                "masterData": {
+                    "slug": "musli-matti-oreh-abloko-250g",
+                    "plu": "3398286",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Champ Банановая с коэнзимом Q10 быстрого приготовления, 40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-champ-bananovaa-s-koenzimom-q10-bystrogo-prigotovlenia-40g",
+                    "plu": "4000297",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная с малиной моментальная Маркет, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-s-malinoj-momentalnaa-market-35g",
+                    "plu": "4312718",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко Ассорти клубника-малина-изюм, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-assorti-klubnika-malina-izum-6h45g",
+                    "plu": "3232214",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый шоколадный завтрак Хрутка DUO обогащенный кальцием, 350г",
+                "masterData": {
+                    "slug": "gotovyj-sokoladnyj-zavtrak-hrutka-duo-obogasennyj-kalciem-350g",
+                    "plu": "4239004",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Быстров Цветочное ассорти без варки, 210г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-bystrov-cvetocnoe-assorti-bez-varki-210g",
+                    "plu": "4396156",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Polba Фитнес, 200г",
+                "masterData": {
+                    "slug": "granola-polba-fitnes-200g",
+                    "plu": "4373760",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли 4LIFE Strawberry хрустящие с клубникой, 350г",
+                "masterData": {
+                    "slug": "musli-4life-strawberry-hrustasie-s-klubnikoj-350g",
+                    "plu": "4205357",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко клюква-яблоко, 300г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-klukva-abloko-300g",
+                    "plu": "3451689",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Крупа овсяная Алтайская Сказка недробленая, 700г",
+                "masterData": {
+                    "slug": "krupa-ovsanaa-altajskaa-skazka-nedroblenaa-700g",
+                    "plu": "3500125",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья кукурузные глазированные Маркет, 300г",
+                "masterData": {
+                    "slug": "hlopa-kukuruznye-glazirovannye-market-300g",
+                    "plu": "4270442",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Nordic овсяные с овсяными отрубями, 500г",
+                "masterData": {
+                    "slug": "hlopa-nordic-ovsanye-s-ovsanymi-otrubami-500g",
+                    "plu": "4286020",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья кукурузные Mini Mills медовые, 200г",
+                "masterData": {
+                    "slug": "hlopa-kukuruznye-mini-mills-medovye-200g",
+                    "plu": "4267901",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Fit Parad кукурузные с шоколадом, 200г",
+                "masterData": {
+                    "slug": "hlopa-fit-parad-kukuruznye-s-sokoladom-200g",
+                    "plu": "4212592",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Полента кукурузная Bravolli, 300г",
+                "masterData": {
+                    "slug": "polenta-kukuruznaa-bravolli-300g",
+                    "plu": "3694899",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко с абрикосом, 45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-s-abrikosom-45g",
+                    "plu": "3468062",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Nordic Ленивая овсянка, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-nordic-lenivaa-ovsanka-400g",
+                    "plu": "4355178",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Granolife банан-шоколад, 300г",
+                "masterData": {
+                    "slug": "granola-granolife-banan-sokolad-300g",
+                    "plu": "4281376",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с кокосом и семенами чиа моментального приготовления, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-kokosom-i-semenami-cia-momentalnogo-prigotovlenia-35g",
+                    "plu": "4411296",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с клубникой моментального приготовления, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-klubnikoj-momentalnogo-prigotovlenia-35g",
+                    "plu": "4411297",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Быстров Ассорти Для Гурманов не требующие варки, 228г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-bystrov-assorti-dla-gurmanov-ne-trebuusie-varki-228g",
+                    "plu": "4349400",
+                    "unitName": "шт",
+                    "weight": 228,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Древо Жизни с какао и бананом, 250г",
+                "masterData": {
+                    "slug": "granola-drevo-zizni-s-kakao-i-bananom-250g",
+                    "plu": "4265472",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Matti Солёная Карамель, 250г",
+                "masterData": {
+                    "slug": "musli-matti-solenaa-karamel-250g",
+                    "plu": "4175519",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко классическая с молоком, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-klassiceskaa-s-molokom-6h45g",
+                    "plu": "3404963",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Увелка Ассорти быстрого приготовления, 5х40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-uvelka-assorti-bystrogo-prigotovlenia-5h40g",
+                    "plu": "3424764",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Завтрак сухой Любятово Медовые шарики и звездочки, 420г",
+                "masterData": {
+                    "slug": "zavtrak-suhoj-lubatovo-medovye-sariki-i-zvezdocki-420g",
+                    "plu": "3659064",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Granolife молочный шоколад-фундук, 300г",
+                "masterData": {
+                    "slug": "granola-granolife-molocnyj-sokolad-funduk-300g",
+                    "plu": "4281832",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Сухой завтрак Ого! Мюсли запеченные с шоколадом и орехом, 300г",
+                "masterData": {
+                    "slug": "suhoj-zavtrak-ogo-musli-zapecennye-s-sokoladom-i-orehom-300g",
+                    "plu": "4096958",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Русский Продукт Геркулес с малиной и молоком, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-russkij-produkt-gerkules-s-malinoj-i-molokom-35g",
+                    "plu": "3453946",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Быстров овсяные не требующие варки с лесными ягодами, 40г",
+                "masterData": {
+                    "slug": "hlopa-bystrov-ovsanye-ne-trebuusie-varki-s-lesnymi-agodami-40g",
+                    "plu": "4349399",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Завтраки Любятово Шарики шоколадные готовые, 200г",
+                "masterData": {
+                    "slug": "zavtraki-lubatovo-sariki-sokoladnye-gotovye-200g",
+                    "plu": "4123127",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Русский Продукт Геркулес с вишней, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-russkij-produkt-gerkules-s-visnej-35g",
+                    "plu": "3453942",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Мистраль Смесь Злаковый коктейль, 400г",
+                "masterData": {
+                    "slug": "hlopa-mistral-smes-zlakovyj-koktejl-400g",
+                    "plu": "4105013",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Nordic кукурузные, 400г",
+                "masterData": {
+                    "slug": "hlopa-nordic-kukuruznye-400g",
+                    "plu": "4355180",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Хрутка с молочной начинкой, 250г",
+                "masterData": {
+                    "slug": "podusecki-hrutka-s-molocnoj-nacinkoj-250g",
+                    "plu": "3498889",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Крупа кукурузная Увелка в пакетиках, 5х80г",
+                "masterData": {
+                    "slug": "krupa-kukuruznaa-uvelka-v-paketikah-5h80g",
+                    "plu": "2070142",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Мистраль Ягодный Мусс быстрого приготовления, 40г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-mistral-agodnyj-muss-bystrogo-prigotovlenia-40g",
+                    "plu": "3635648",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Палочки гречневые Зелёная Линия, 55г",
+                "masterData": {
+                    "slug": "palocki-grecnevye-zelenaa-linia-55g",
+                    "plu": "4381598",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Nordic овсяные из цельного зерна без глютена, 500г",
+                "masterData": {
+                    "slug": "hlopa-nordic-ovsanye-iz-celnogo-zerna-bez-glutena-500g",
+                    "plu": "4286419",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Любятово Дуо Микс шоколадные, 200г",
+                "masterData": {
+                    "slug": "sariki-lubatovo-duo-miks-sokoladnye-200g",
+                    "plu": "4263849",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Любятово с банановой начинкой, 220г",
+                "masterData": {
+                    "slug": "podusecki-lubatovo-s-bananovoj-nacinkoj-220g",
+                    "plu": "4187957",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый шоколадный завтрак Хрутка DUO обогащённый кальцием, 230г",
+                "masterData": {
+                    "slug": "gotovyj-sokoladnyj-zavtrak-hrutka-duo-obogasennyj-kalciem-230g",
+                    "plu": "4239009",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики кукурузные Happy Mallow глазированные обогащённые витаминами и железом с Crispy, 240г",
+                "masterData": {
+                    "slug": "sariki-kukuruznye-happy-mallow-glazirovannye-obogasennye-vitaminami-i-zelezom-s-crispy-240g",
+                    "plu": "4127886",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко №3, 350г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-no3-350g",
+                    "plu": "2122919",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные быстрого приготовления Пр!ст, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-bystrogo-prigotovlenia-pr-st-400g",
+                    "plu": "3503161",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Русский Продукт Геркулес с клубникой, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-russkij-produkt-gerkules-s-klubnikoj-35g",
+                    "plu": "3453945",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли 4LIFE Chocolate Trio хрустящие с тремя видами шоколада, 350 г",
+                "masterData": {
+                    "slug": "musli-4life-chocolate-trio-hrustasie-s-trema-vidami-sokolada-350-g",
+                    "plu": "4205358",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Granolife клубника-малина, 400г",
+                "masterData": {
+                    "slug": "granola-granolife-klubnika-malina-400g",
+                    "plu": "4019918",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяная Быстров По-новому семена льна-лесные ягоды-клубника-семена чиа, 210г",
+                "masterData": {
+                    "slug": "hlopa-ovsanaa-bystrov-po-novomu-semena-lna-lesnye-agody-klubnika-semena-cia-210g",
+                    "plu": "3975758",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Myllyn Paras, 500г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-myllyn-paras-500g",
+                    "plu": "10234",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Chocozavr хрустящие с шоколадно-ореховой начинкой, 220г",
+                "masterData": {
+                    "slug": "podusecki-chocozavr-hrustasie-s-sokoladno-orehovoj-nacinkoj-220g",
+                    "plu": "4272344",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Отруби Мистраль овсяные, 400г",
+                "masterData": {
+                    "slug": "otrubi-mistral-ovsanye-400g",
+                    "plu": "3637464",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Ого с бананом запечённые, 350г",
+                "masterData": {
+                    "slug": "musli-ogo-s-bananom-zapecennye-350g",
+                    "plu": "2137586",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Nordic  5 видов зерновых, 400г",
+                "masterData": {
+                    "slug": "hlopa-nordic-5-vidov-zernovyh-400g",
+                    "plu": "4355181",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша гречневая Ясно Солнышко с грибами и жареным луком, 45г",
+                "masterData": {
+                    "slug": "kasa-grecnevaa-asno-solnysko-s-gribami-i-zarenym-lukom-45g",
+                    "plu": "3602260",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Ого! с малиной и черникой, 300г",
+                "masterData": {
+                    "slug": "musli-ogo-s-malinoj-i-cernikoj-300g",
+                    "plu": "3688246",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый завтрак Unicorn Радужные колечки с фруктовым вкусом, 375г",
+                "masterData": {
+                    "slug": "gotovyj-zavtrak-unicorn-raduznye-kolecki-s-fruktovym-vkusom-375g",
+                    "plu": "4250506",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Быстров овсяные не требующие варки с клубникой и молоком, 40г",
+                "masterData": {
+                    "slug": "hlopa-bystrov-ovsanye-ne-trebuusie-varki-s-klubnikoj-i-molokom-40g",
+                    "plu": "4349401",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ореховая Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "granola-orehovaa-zelenaa-linia-300g",
+                    "plu": "4123609",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Unicorn с хрустящим маршмеллоу со вкусом манго и ананаса, 160г",
+                "masterData": {
+                    "slug": "hlopa-unicorn-s-hrustasim-marsmellou-so-vkusom-mango-i-ananasa-160g",
+                    "plu": "4366806",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Nestlé Хрутка мультизлаковые медовые, 230г",
+                "masterData": {
+                    "slug": "sariki-nestle-hrutka-multizlakovye-medovye-230g",
+                    "plu": "3363324",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья геркулесовые Мистраль алтайские цельнозерновые, 400г",
+                "masterData": {
+                    "slug": "hlopa-gerkulesovye-mistral-altajskie-celnozernovye-400g",
+                    "plu": "3633279",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Matti ежевика-малина, 250г",
+                "masterData": {
+                    "slug": "musli-matti-ezevika-malina-250g",
+                    "plu": "3398285",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Хрутка с шоколадной начинкой, 250г",
+                "masterData": {
+                    "slug": "podusecki-hrutka-s-sokoladnoj-nacinkoj-250g",
+                    "plu": "3498890",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый шоколадный завтрак Хрутка обогащённый кальцием, 350г",
+                "masterData": {
+                    "slug": "gotovyj-sokoladnyj-zavtrak-hrutka-obogasennyj-kalciem-350g",
+                    "plu": "4239005",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Мистраль Геркулес Фермерский цельнозерновой, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-mistral-gerkules-fermerskij-celnozernovoj-400g",
+                    "plu": "3933387",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Быстров овсяные не требующие варки с черникой, 40г",
+                "masterData": {
+                    "slug": "hlopa-bystrov-ovsanye-ne-trebuusie-varki-s-cernikoj-40g",
+                    "plu": "4349402",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Ого с тропическими фруктами запечённые, 350г",
+                "masterData": {
+                    "slug": "musli-ogo-s-tropiceskimi-fruktami-zapecennye-350g",
+                    "plu": "3417240",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Schar кукурузные без глютена, 250г",
+                "masterData": {
+                    "slug": "hlopa-schar-kukuruznye-bez-glutena-250g",
+                    "plu": "3668253",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Без глютена",
+                    "id": 130
+                }
+            },
+            {
+                "title": "Хлопья овсяные Быстров с малиной и молоком не требующие варки, 240г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-bystrov-s-malinoj-i-molokom-ne-trebuusie-varki-240g",
+                    "plu": "4349396",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Nordic 5 минут варки, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-nordic-5-minut-varki-400g",
+                    "plu": "4355183",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Завтрак готовый Unicorn Радужные колечки с фруктовым вкусом, 195г",
+                "masterData": {
+                    "slug": "zavtrak-gotovyj-unicorn-raduznye-kolecki-s-fruktovym-vkusom-195g",
+                    "plu": "3986719",
+                    "unitName": "шт",
+                    "weight": 195,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Мистраль пшённые, 400г",
+                "masterData": {
+                    "slug": "hlopa-mistral-psennye-400g",
+                    "plu": "3633798",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Палочки кукурузные Зелёная Линия, 65г",
+                "masterData": {
+                    "slug": "palocki-kukuruznye-zelenaa-linia-65g",
+                    "plu": "4381599",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные из голозёрного овса Зелёная Линия, 375г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-iz-golozernogo-ovsa-zelenaa-linia-375g",
+                    "plu": "4078263",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья рисовые Увелка, 400г",
+                "masterData": {
+                    "slug": "hlopa-risovye-uvelka-400g",
+                    "plu": "3613391",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Bionova хрустящие запечённые шоколадные с клубникой и бананом, 400г",
+                "masterData": {
+                    "slug": "musli-bionova-hrustasie-zapecennye-sokoladnye-s-klubnikoj-i-bananom-400g",
+                    "plu": "4132259",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ягодная Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "granola-agodnaa-zelenaa-linia-300g",
+                    "plu": "4123610",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Ого с яблоком запечённые, 350г",
+                "masterData": {
+                    "slug": "musli-ogo-s-ablokom-zapecennye-350g",
+                    "plu": "2137654",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья кукурузные Хрутка хрустящие, 700г",
+                "masterData": {
+                    "slug": "hlopa-kukuruznye-hrutka-hrustasie-700g",
+                    "plu": "3628506",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый шоколадный завтрак Хрутка обогащённый кальцием, 650г",
+                "masterData": {
+                    "slug": "gotovyj-sokoladnyj-zavtrak-hrutka-obogasennyj-kalciem-650g",
+                    "plu": "4239011",
+                    "unitName": "шт",
+                    "weight": 650,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Любятово кукурузные, 300г",
+                "masterData": {
+                    "slug": "hlopa-lubatovo-kukuruznye-300g",
+                    "plu": "3659060",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Любятово кукурузные, 600г",
+                "masterData": {
+                    "slug": "hlopa-lubatovo-kukuruznye-600g",
+                    "plu": "3659059",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Любятово с молочной начинкой, 220г",
+                "masterData": {
+                    "slug": "podusecki-lubatovo-s-molocnoj-nacinkoj-220g",
+                    "plu": "4187953",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый шоколадный завтрак Chocozavr Шоксики, 195г",
+                "masterData": {
+                    "slug": "gotovyj-sokoladnyj-zavtrak-chocozavr-soksiki-195g",
+                    "plu": "4315453",
+                    "unitName": "шт",
+                    "weight": 195,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Chocozavr хрустящие с шоколадно-молочной начинкой, 220г",
+                "masterData": {
+                    "slug": "podusecki-chocozavr-hrustasie-s-sokoladno-molocnoj-nacinkoj-220g",
+                    "plu": "4272345",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Шарики Любятово шоколадные, 500г",
+                "masterData": {
+                    "slug": "sariki-lubatovo-sokoladnye-500g",
+                    "plu": "3659063",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Любятово с шоколадной начинкой, 220г",
+                "masterData": {
+                    "slug": "podusecki-lubatovo-s-sokoladnoj-nacinkoj-220g",
+                    "plu": "4187950",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Matti банан-шоколад, 250г",
+                "masterData": {
+                    "slug": "musli-matti-banan-sokolad-250g",
+                    "plu": "3398284",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Завтрак сухой Русский десерт, 30г",
+                "masterData": {
+                    "slug": "zavtrak-suhoj-russkij-desert-30g",
+                    "plu": "3495199",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Мистраль 5 злаков, 400г",
+                "masterData": {
+                    "slug": "hlopa-mistral-5-zlakov-400g",
+                    "plu": "3635643",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Мистраль Нежные овсяные, 400г",
+                "masterData": {
+                    "slug": "hlopa-mistral-neznye-ovsanye-400g",
+                    "plu": "4105014",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Мистраль цельнозерновые, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-mistral-celnozernovye-400g",
+                    "plu": "3634076",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Ол Лайт медовые шоколадные с орехами хрустящие, 280г",
+                "masterData": {
+                    "slug": "granola-ol-lajt-medovye-sokoladnye-s-orehami-hrustasie-280g",
+                    "plu": "3457476",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Готовый шоколадный завтрак Хрутка обогащённый кальцием, 650г",
+                "masterData": {
+                    "slug": "gotovyj-sokoladnyj-zavtrak-hrutka-obogasennyj-kalciem-650g",
+                    "plu": "4239008",
+                    "unitName": "шт",
+                    "weight": 650,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья пшенные Nordic, 500г",
+                "masterData": {
+                    "slug": "hlopa-psennye-nordic-500g",
+                    "plu": "3019670",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Nordic Геркулес финский овсяные, 500г",
+                "masterData": {
+                    "slug": "hlopa-nordic-gerkules-finskij-ovsanye-500g",
+                    "plu": "4253849",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Мюсли Bionova шоколадные запечённые, 400г",
+                "masterData": {
+                    "slug": "granola-musli-bionova-sokoladnye-zapecennye-400g",
+                    "plu": "3457477",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Быстров овсяные без варки ассорти с клубникой-персиком-черникой, 240г",
+                "masterData": {
+                    "slug": "hlopa-bystrov-ovsanye-bez-varki-assorti-s-klubnikoj-persikom-cernikoj-240g",
+                    "plu": "4349398",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Русский Продукт Геркулес быстрого приготовления, 420г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-russkij-produkt-gerkules-bystrogo-prigotovlenia-420g",
+                    "plu": "23772",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Мюсли Ого с орехом запечённые, 350г",
+                "masterData": {
+                    "slug": "musli-ogo-s-orehom-zapecennye-350g",
+                    "plu": "2137587",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Подушечки Любятово шоколадные, 500г",
+                "masterData": {
+                    "slug": "podusecki-lubatovo-sokoladnye-500g",
+                    "plu": "3691087",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко №2, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-no2-500g",
+                    "plu": "2122915",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Мюсли Bionova ореховые запечённые хрустящие, 400г",
+                "masterData": {
+                    "slug": "granola-musli-bionova-orehovye-zapecennye-hrustasie-400g",
+                    "plu": "3457480",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Русский Продукт Геркулес Монастырский, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-russkij-produkt-gerkules-monastyrskij-500g",
+                    "plu": "3421663",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья гречневые Nordic, 550г",
+                "masterData": {
+                    "slug": "hlopa-grecnevye-nordic-550g",
+                    "plu": "3245999",
+                    "unitName": "шт",
+                    "weight": 550,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Русский Продукт Геркулес традиционный, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-russkij-produkt-gerkules-tradicionnyj-500g",
+                    "plu": "6752",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Гранола Мюсли Bionova ягодные запечённые хрустящие, 400г",
+                "masterData": {
+                    "slug": "granola-musli-bionova-agodnye-zapecennye-hrustasie-400g",
+                    "plu": "3457479",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Nordic, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-nordic-500g",
+                    "plu": "9056",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Экстра Геркулес, 1кг",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-ekstra-gerkules-1kg",
+                    "plu": "24926",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            }
+        ]
+    }
+}

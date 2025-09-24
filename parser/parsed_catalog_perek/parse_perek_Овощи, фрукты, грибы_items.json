@@ -1,0 +1,3283 @@
+{
+    "cat_name": {
+        "cat_id": 148,
+        "items": [
+            {
+                "title": "Букет цветов Хризантемы стандарт сборный",
+                "masterData": {
+                    "slug": "buket-cvetov-hrizantemy-standart-sbornyj",
+                    "plu": "4104479",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Цветы",
+                    "id": 1281
+                }
+            },
+            {
+                "title": "Букет Хризантема и Статица микс, в ассортименте",
+                "masterData": {
+                    "slug": "buket-hrizantema-i-statica-miks-v-assortimente",
+                    "plu": "4308330",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Цветы",
+                    "id": 1281
+                }
+            },
+            {
+                "title": "Яблоки Синап",
+                "masterData": {
+                    "slug": "abloki-sinap",
+                    "plu": "2168511",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Нектарин инжирный",
+                "masterData": {
+                    "slug": "nektarin-inzirnyj",
+                    "plu": "4342929",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты сливовидные, 600г",
+                "masterData": {
+                    "slug": "tomaty-slivovidnye-600g",
+                    "plu": "2100224",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Кумкват свежий, 200г",
+                "masterData": {
+                    "slug": "kumkvat-svezij-200g",
+                    "plu": "4373693",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Салат Superfood Мини-романо, 185г",
+                "masterData": {
+                    "slug": "salat-superfood-mini-romano-185g",
+                    "plu": "4151815",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Яблоки Джонаголд",
+                "masterData": {
+                    "slug": "abloki-dzonagold",
+                    "plu": "3366346",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Свекла на подложке, 600г",
+                "masterData": {
+                    "slug": "svekla-na-podlozke-600g",
+                    "plu": "3368257",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук репчатый в сетке",
+                "masterData": {
+                    "slug": "luk-repcatyj-v-setke",
+                    "plu": "3969",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель Кримм Дольки с соусом Нежный пастеризованный, 500г",
+                "masterData": {
+                    "slug": "kartofel-krimm-dolki-s-sousom-neznyj-pasterizovannyj-500g",
+                    "plu": "4286757",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Редис Дайкон белый",
+                "masterData": {
+                    "slug": "redis-dajkon-belyj",
+                    "plu": "5565",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Мята в горшочке",
+                "masterData": {
+                    "slug": "mata-v-gorsocke",
+                    "plu": "4248889",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Перец Палермо высшего сорта",
+                "masterData": {
+                    "slug": "perec-palermo-vyssego-sorta",
+                    "plu": "3929715",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Сельдерей корневой импортный",
+                "masterData": {
+                    "slug": "selderej-kornevoj-importnyj",
+                    "plu": "1552",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Грибы Crafting Foods Муэр в устрично-соевом маринаде, 250г",
+                "masterData": {
+                    "slug": "griby-crafting-foods-muer-v-ustricno-soevom-marinade-250g",
+                    "plu": "4413037",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Салат Трио Микс в горшке, 1шт",
+                "masterData": {
+                    "slug": "salat-trio-miks-v-gorske-1st",
+                    "plu": "3369403",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Виноград чёрный",
+                "masterData": {
+                    "slug": "vinograd-cernyj",
+                    "plu": "48662",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Базилик Греческий",
+                "masterData": {
+                    "slug": "bazilik-greceskij",
+                    "plu": "4251157",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Груша Аббат Россия",
+                "masterData": {
+                    "slug": "grusa-abbat-rossia",
+                    "plu": "4370831",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Кокос Артфрут свежий, 1шт",
+                "masterData": {
+                    "slug": "kokos-artfrut-svezij-1st",
+                    "plu": "4425016",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Базилик фиолетовый в горшочке",
+                "masterData": {
+                    "slug": "bazilik-fioletovyj-v-gorsocke",
+                    "plu": "4251159",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель Гамма Вкуса отварной кубик, 500г",
+                "masterData": {
+                    "slug": "kartofel-gamma-vkusa-otvarnoj-kubik-500g",
+                    "plu": "3635886",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Листья Ecofood виноградные, 500г",
+                "masterData": {
+                    "slug": "lista-ecofood-vinogradnye-500g",
+                    "plu": "4320850",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Нектарины, 2шт",
+                "masterData": {
+                    "slug": "nektariny-2st",
+                    "plu": "4394309",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Чеснок Фермерский Чеснок тёртый, 80г",
+                "masterData": {
+                    "slug": "cesnok-fermerskij-cesnok-tertyj-80g",
+                    "plu": "3677358",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Нектарин, 4шт",
+                "masterData": {
+                    "slug": "nektarin-4st",
+                    "plu": "4353563",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Яблоки Гренни смит Маркет Перекрёсток, 4шт",
+                "masterData": {
+                    "slug": "abloki-grenni-smit-market-perekrestok-4st",
+                    "plu": "4097664",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Базилик Зеленый",
+                "masterData": {
+                    "slug": "bazilik-zelenyj",
+                    "plu": "4251158",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Огурцы маринованные Маркет, 680г",
+                "masterData": {
+                    "slug": "ogurcy-marinovannye-market-680g",
+                    "plu": "4343529",
+                    "unitName": "шт",
+                    "weight": 680,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Салат шпинат в горшочке",
+                "masterData": {
+                    "slug": "salat-spinat-v-gorsocke",
+                    "plu": "4354591",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Смородина красная, 125г",
+                "masterData": {
+                    "slug": "smorodina-krasnaa-125g",
+                    "plu": "48624",
+                    "unitName": "шт",
+                    "weight": 125,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Огурцы Станичные солёные бочковые, 840г",
+                "masterData": {
+                    "slug": "ogurcy-stanicnye-solenye-bockovye-840g",
+                    "plu": "4379607",
+                    "unitName": "шт",
+                    "weight": 840,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Физалис свежий, 70г",
+                "masterData": {
+                    "slug": "fizalis-svezij-70g",
+                    "plu": "4391860",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Имбирь маринованный Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "imbir-marinovannyj-market-perekrestok-400g",
+                    "plu": "4187188",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Слива Анжелино",
+                "masterData": {
+                    "slug": "sliva-anzelino",
+                    "plu": "4184919",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Имбирь Wike маринованный, 100г",
+                "masterData": {
+                    "slug": "imbir-wike-marinovannyj-100g",
+                    "plu": "3482300",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Укроп в горшке, 1шт",
+                "masterData": {
+                    "slug": "ukrop-v-gorske-1st",
+                    "plu": "32791",
+                    "unitName": "шт",
+                    "weight": 850,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Груша Дево Россия",
+                "masterData": {
+                    "slug": "grusa-devo-rossia",
+                    "plu": "4370830",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Микрозелень Солнечная Планета гороха, 50г",
+                "masterData": {
+                    "slug": "mikrozelen-solnecnaa-planeta-goroha-50g",
+                    "plu": "4260165",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук Ялтинский белый",
+                "masterData": {
+                    "slug": "luk-altinskij-belyj",
+                    "plu": "3022862",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Чеснок Фермерский Чеснок отборный 1 сорта, 1шт",
+                "masterData": {
+                    "slug": "cesnok-fermerskij-cesnok-otbornyj-1-sorta-1st",
+                    "plu": "4018137",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Помело розовое",
+                "masterData": {
+                    "slug": "pomelo-rozovoe",
+                    "plu": "3296890",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста Радужная цветная, 500г",
+                "masterData": {
+                    "slug": "kapusta-raduznaa-cvetnaa-500g",
+                    "plu": "4368230",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Имбирь Takemura маринованный, 300г",
+                "masterData": {
+                    "slug": "imbir-takemura-marinovannyj-300g",
+                    "plu": "3665698",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Грибы Экопродукт Ассорти сушёные, 50г",
+                "masterData": {
+                    "slug": "griby-ekoprodukt-assorti-susenye-50g",
+                    "plu": "59754",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Медовые черри красные круглые, 200г",
+                "masterData": {
+                    "slug": "tomaty-medovye-cerri-krasnye-kruglye-200g",
+                    "plu": "3676649",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Проростки фасоли Солнечная Планета маш, 150г",
+                "masterData": {
+                    "slug": "prorostki-fasoli-solnecnaa-planeta-mas-150g",
+                    "plu": "3638922",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Виноград Киш-Миш Узбекистан, 500г",
+                "masterData": {
+                    "slug": "vinograd-kis-mis-uzbekistan-500g",
+                    "plu": "4414426",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Мята в горшочке",
+                "masterData": {
+                    "slug": "mata-v-gorsocke",
+                    "plu": "4348809",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель Кримм Классический Шарики пастеризованный, 500г",
+                "masterData": {
+                    "slug": "kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g",
+                    "plu": "4011560",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Чеснок белый ФЭГ солёный, 250г",
+                "masterData": {
+                    "slug": "cesnok-belyj-feg-solenyj-250g",
+                    "plu": "4394966",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Капуста",
+                "masterData": {
+                    "slug": "kapusta",
+                    "plu": "45661",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Свекла варёная нарезанная кубиком, 500г",
+                "masterData": {
+                    "slug": "svekla-varenaa-narezannaa-kubikom-500g",
+                    "plu": "3635806",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Капуста цветная + брокколи, 300г",
+                "masterData": {
+                    "slug": "kapusta-cvetnaa-brokkoli-300g",
+                    "plu": "3698689",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Грибы опята ФЭГ солёные, 250г",
+                "masterData": {
+                    "slug": "griby-opata-feg-solenye-250g",
+                    "plu": "4394694",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Картофель Батат сладкий, 400г",
+                "masterData": {
+                    "slug": "kartofel-batat-sladkij-400g",
+                    "plu": "4187884",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Свекла мытая фасованная, 1кг",
+                "masterData": {
+                    "slug": "svekla-mytaa-fasovannaa-1kg",
+                    "plu": "19768",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Гранат",
+                "masterData": {
+                    "slug": "granat",
+                    "plu": "50828",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Перец острый зеленый целый маринованный Market Collection, 340г",
+                "masterData": {
+                    "slug": "perec-ostryj-zelenyj-celyj-marinovannyj-market-collection-340g",
+                    "plu": "4290602",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Капуста квашеная с хреном, 650г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-s-hrenom-650g",
+                    "plu": "4325073",
+                    "unitName": "шт",
+                    "weight": 650,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Томаты Artfood очищенные в собственном соку, 670г",
+                "masterData": {
+                    "slug": "tomaty-artfood-ocisennye-v-sobstvennom-soku-670g",
+                    "plu": "4379098",
+                    "unitName": "шт",
+                    "weight": 670,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Баклажаны Граффити, 600г",
+                "masterData": {
+                    "slug": "baklazany-graffiti-600g",
+                    "plu": "4100630",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Базилик зелёный Маркет Fresh, 30г",
+                "masterData": {
+                    "slug": "bazilik-zelenyj-market-fresh-30g",
+                    "plu": "4294976",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Джекфрут, 150г",
+                "masterData": {
+                    "slug": "dzekfrut-150g",
+                    "plu": "4340664",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты Черри маринованные с зеленью и чесноком Маркет, 680г",
+                "masterData": {
+                    "slug": "tomaty-cerri-marinovannye-s-zelenu-i-cesnokom-market-680g",
+                    "plu": "4316983",
+                    "unitName": "шт",
+                    "weight": 680,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Имбирь маринованный Маркет Перекрёсток, 100г",
+                "masterData": {
+                    "slug": "imbir-marinovannyj-market-perekrestok-100g",
+                    "plu": "4187203",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Огурцы Ken маринованные целые, 670г",
+                "masterData": {
+                    "slug": "ogurcy-ken-marinovannye-celye-670g",
+                    "plu": "4307368",
+                    "unitName": "шт",
+                    "weight": 670,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Орхидея Фаленопсис в ассортименте, 1шт",
+                "masterData": {
+                    "slug": "orhidea-falenopsis-v-assortimente-1st",
+                    "plu": "3228206",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Цветы",
+                    "id": 1281
+                }
+            },
+            {
+                "title": "Яблоки Ред чиф Маркет Перекрёсток",
+                "masterData": {
+                    "slug": "abloki-red-cif-market-perekrestok",
+                    "plu": "79341",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Кабачки фасованные, 600г",
+                "masterData": {
+                    "slug": "kabacki-fasovannye-600g",
+                    "plu": "4195054",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Кизил, 500г",
+                "masterData": {
+                    "slug": "kizil-500g",
+                    "plu": "3687490",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Опята культивируемые, 200г",
+                "masterData": {
+                    "slug": "opata-kultiviruemye-200g",
+                    "plu": "3993588",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Эко-Культура Черри вау! красные, 200г",
+                "masterData": {
+                    "slug": "tomaty-eko-kultura-cerri-vau-krasnye-200g",
+                    "plu": "4371254",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель Бэби, 2кг",
+                "masterData": {
+                    "slug": "kartofel-bebi-2kg",
+                    "plu": "2083095",
+                    "unitName": "шт",
+                    "weight": 2000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук репчатый красный, 500г",
+                "masterData": {
+                    "slug": "luk-repcatyj-krasnyj-500g",
+                    "plu": "3016771",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Чёрный Принц, 500г",
+                "masterData": {
+                    "slug": "tomaty-cernyj-princ-500g",
+                    "plu": "4423888",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Капуста квашеная с клюквой, 650г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-s-klukvoj-650g",
+                    "plu": "4325074",
+                    "unitName": "шт",
+                    "weight": 650,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Капуста квашеная кислая, 650г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-kislaa-650g",
+                    "plu": "4325076",
+                    "unitName": "шт",
+                    "weight": 650,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Яблоки Гольден, 4шт",
+                "masterData": {
+                    "slug": "abloki-golden-4st",
+                    "plu": "4097665",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста квашеная Белая Дача фитнес, 450г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-belaa-daca-fitnes-450g",
+                    "plu": "4400340",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Вешенки культивируемые Маркет Fresh, 300г",
+                "masterData": {
+                    "slug": "vesenki-kultiviruemye-market-fresh-300g",
+                    "plu": "2029404",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Салат Фриллис, 1шт",
+                "masterData": {
+                    "slug": "salat-frillis-1st",
+                    "plu": "4339287",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Огурцы ФЭГ солёные, 1кг",
+                "masterData": {
+                    "slug": "ogurcy-feg-solenye-1kg",
+                    "plu": "4393200",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Баклажаны Премиум, 650г",
+                "masterData": {
+                    "slug": "baklazany-premium-650g",
+                    "plu": "3660639",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Бананы красные",
+                "masterData": {
+                    "slug": "banany-krasnye",
+                    "plu": "2084703",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Свекла варёная тёртая 500г",
+                "masterData": {
+                    "slug": "svekla-varenaa-tertaa-500g",
+                    "plu": "3635807",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Огурцы, 600г",
+                "masterData": {
+                    "slug": "ogurcy-600g",
+                    "plu": "2131726",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Персик, 4шт",
+                "masterData": {
+                    "slug": "persik-4st",
+                    "plu": "4353564",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Морковь свежая мытая Маркет Fresh, 200г",
+                "masterData": {
+                    "slug": "morkov-svezaa-mytaa-market-fresh-200g",
+                    "plu": "4299784",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Яблоки Крипс Пинк",
+                "masterData": {
+                    "slug": "abloki-krips-pink",
+                    "plu": "4287238",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты жёлтые сливовидные, 350г",
+                "masterData": {
+                    "slug": "tomaty-zeltye-slivovidnye-350g",
+                    "plu": "3657325",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Груши Форелл",
+                "masterData": {
+                    "slug": "grusi-forell",
+                    "plu": "48674",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Картофель в сетке",
+                "masterData": {
+                    "slug": "kartofel-v-setke",
+                    "plu": "3987",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Капуста пекинская Yu Mei квашеная с приправами, 500г",
+                "masterData": {
+                    "slug": "kapusta-pekinskaa-yu-mei-kvasenaa-s-pripravami-500g",
+                    "plu": "4390710",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Картофель варёный очищенный, 500г",
+                "masterData": {
+                    "slug": "kartofel-varenyj-ocisennyj-500g",
+                    "plu": "59403",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Яблоки Симиренко",
+                "masterData": {
+                    "slug": "abloki-simirenko",
+                    "plu": "3171926",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста Белая Дача Деревенская квашеная, 450г",
+                "masterData": {
+                    "slug": "kapusta-belaa-daca-derevenskaa-kvasenaa-450g",
+                    "plu": "4400341",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Лук репчатый белый",
+                "masterData": {
+                    "slug": "luk-repcatyj-belyj",
+                    "plu": "79135",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Манго Египет",
+                "masterData": {
+                    "slug": "mango-egipet",
+                    "plu": "4088772",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Перец в ассортименте, 2шт",
+                "masterData": {
+                    "slug": "perec-v-assortimente-2st",
+                    "plu": "4228843",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук репчатый, 600г",
+                "masterData": {
+                    "slug": "luk-repcatyj-600g",
+                    "plu": "3368253",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Морковь на подложке, 600г",
+                "masterData": {
+                    "slug": "morkov-na-podlozke-600g",
+                    "plu": "3368256",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Кабачки цуккини зелёные",
+                "masterData": {
+                    "slug": "kabacki-cukkini-zelenye",
+                    "plu": "48632",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Морковь отечественная",
+                "masterData": {
+                    "slug": "morkov-otecestvennaa",
+                    "plu": "60529",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Помело",
+                "masterData": {
+                    "slug": "pomelo",
+                    "plu": "77264",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты Эко-Культура Черри вау! красные на ветке, 200г",
+                "masterData": {
+                    "slug": "tomaty-eko-kultura-cerri-vau-krasnye-na-vetke-200g",
+                    "plu": "4381951",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Огурцы длинные, 1шт",
+                "masterData": {
+                    "slug": "ogurcy-dlinnye-1st",
+                    "plu": "3301324",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Рост Фламенко красные сливовидные",
+                "masterData": {
+                    "slug": "tomaty-rost-flamenko-krasnye-slivovidnye",
+                    "plu": "4214021",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Голубика Маркет Fresh, 125г",
+                "masterData": {
+                    "slug": "golubika-market-fresh-125g",
+                    "plu": "48663",
+                    "unitName": "шт",
+                    "weight": 125,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Салат Романо, 1шт",
+                "masterData": {
+                    "slug": "salat-romano-1st",
+                    "plu": "67334",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Морковь Белая Дача Классическая по-корейски, 350г",
+                "masterData": {
+                    "slug": "morkov-belaa-daca-klassiceskaa-po-korejski-350g",
+                    "plu": "4400339",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Салат Дуболистный зеленый в горшке, 1шт",
+                "masterData": {
+                    "slug": "salat-dubolistnyj-zelenyj-v-gorske-1st",
+                    "plu": "2173934",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Грибы еноки, 100г",
+                "masterData": {
+                    "slug": "griby-enoki-100g",
+                    "plu": "2143004",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Яблоки Гренни смит Маркет Перекрёсток",
+                "masterData": {
+                    "slug": "abloki-grenni-smit-market-perekrestok",
+                    "plu": "3366327",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Яблоки Гала Маркет Перекрёсток, 4шт",
+                "masterData": {
+                    "slug": "abloki-gala-market-perekrestok-4st",
+                    "plu": "4047904",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста квашеная шинкованная с морковью и клюквой Зелёная Линия, 500г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-sinkovannaa-s-morkovu-i-klukvoj-zelenaa-linia-500g",
+                    "plu": "4336625",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Огурцы корнишоны солёные острые Маркет Перекрёсток, 500г",
+                "masterData": {
+                    "slug": "ogurcy-kornisony-solenye-ostrye-market-perekrestok-500g",
+                    "plu": "4022883",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Яблоки Гольден Маркет Перекрёсток",
+                "masterData": {
+                    "slug": "abloki-golden-market-perekrestok",
+                    "plu": "3366324",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты Бакинские, 350г",
+                "masterData": {
+                    "slug": "tomaty-bakinskie-350g",
+                    "plu": "4327843",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Базилик микс в горшочке, 1шт",
+                "masterData": {
+                    "slug": "bazilik-miks-v-gorsocke-1st",
+                    "plu": "4394782",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Перец жгучий смешанный, 100г",
+                "masterData": {
+                    "slug": "perec-zgucij-smesannyj-100g",
+                    "plu": "2143028",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томат Панамера, 500г",
+                "masterData": {
+                    "slug": "tomat-panamera-500g",
+                    "plu": "4335744",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Киви, 3шт",
+                "masterData": {
+                    "slug": "kivi-3st",
+                    "plu": "4045962",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Смесь салатная айсберг-романо-радичио мытая Маркет Fresh, 100г",
+                "masterData": {
+                    "slug": "smes-salatnaa-ajsberg-romano-radicio-mytaa-market-fresh-100g",
+                    "plu": "4301537",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты коктейльные на ветке, 350г",
+                "masterData": {
+                    "slug": "tomaty-koktejlnye-na-vetke-350g",
+                    "plu": "4375133",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Шампиньоны Королевские Маркет Collection, 300г",
+                "masterData": {
+                    "slug": "sampinony-korolevskie-market-collection-300g",
+                    "plu": "4280106",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Морковь мытая Маркет Fresh, 1кг",
+                "masterData": {
+                    "slug": "morkov-mytaa-market-fresh-1kg",
+                    "plu": "19345",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Розмарин Маркет Fresh, 30г",
+                "masterData": {
+                    "slug": "rozmarin-market-fresh-30g",
+                    "plu": "4294975",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Дыня Торпеда, 2-6кг",
+                "masterData": {
+                    "slug": "dyna-torpeda-2-6kg",
+                    "plu": "79041",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Голубика Артфрут свежая, 300г",
+                "masterData": {
+                    "slug": "golubika-artfrut-svezaa-300g",
+                    "plu": "4129944",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Салат Кудрявый в горшке, 1шт",
+                "masterData": {
+                    "slug": "salat-kudravyj-v-gorske-1st",
+                    "plu": "3369399",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Пинк Парадайз Оренбург, 350г",
+                "masterData": {
+                    "slug": "tomaty-pink-paradajz-orenburg-350g",
+                    "plu": "4343698",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томат Голубая леди, 500г",
+                "masterData": {
+                    "slug": "tomat-golubaa-ledi-500g",
+                    "plu": "4335741",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Тыква Оранжевое солнце",
+                "masterData": {
+                    "slug": "tykva-oranzevoe-solnce",
+                    "plu": "4088824",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Груши Конференс",
+                "masterData": {
+                    "slug": "grusi-konferens",
+                    "plu": "6223",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Груши китайские",
+                "masterData": {
+                    "slug": "grusi-kitajskie",
+                    "plu": "48673",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Мята премиум бокс Маркет Fresh, 50г",
+                "masterData": {
+                    "slug": "mata-premium-boks-market-fresh-50g",
+                    "plu": "4297658",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Чеснок ранний",
+                "masterData": {
+                    "slug": "cesnok-rannij",
+                    "plu": "77278",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Нектарины отборные",
+                "masterData": {
+                    "slug": "nektariny-otbornye",
+                    "plu": "82050",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Лук Ялтинский, 350г",
+                "masterData": {
+                    "slug": "luk-altinskij-350g",
+                    "plu": "3623836",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Свекла варёная очищенная целая, 500г",
+                "masterData": {
+                    "slug": "svekla-varenaa-ocisennaa-celaa-500g",
+                    "plu": "3635805",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Капуста квашеная шинкованная с морковью и хреном Зелёная Линия, 500г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-sinkovannaa-s-morkovu-i-hrenom-zelenaa-linia-500g",
+                    "plu": "4336624",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Чеснок, 3шт",
+                "masterData": {
+                    "slug": "cesnok-3st",
+                    "plu": "17662",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты черри отечественные, 250г",
+                "masterData": {
+                    "slug": "tomaty-cerri-otecestvennye-250g",
+                    "plu": "3634714",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Яблоки Медовый хруст",
+                "masterData": {
+                    "slug": "abloki-medovyj-hrust",
+                    "plu": "3691532",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Салат Мини Шпинат Маркет Fresh, 65г",
+                "masterData": {
+                    "slug": "salat-mini-spinat-market-fresh-65g",
+                    "plu": "4295871",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель Сладкий батат",
+                "masterData": {
+                    "slug": "kartofel-sladkij-batat",
+                    "plu": "81796",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Авокадо",
+                "masterData": {
+                    "slug": "avokado",
+                    "plu": "49622",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Тыква Баттернат",
+                "masterData": {
+                    "slug": "tykva-batternat",
+                    "plu": "82036",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Петрушка Маркет Fresh, 50г",
+                "masterData": {
+                    "slug": "petruska-market-fresh-50g",
+                    "plu": "4295470",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Баклажаны",
+                "masterData": {
+                    "slug": "baklazany",
+                    "plu": "4414",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лимон Маркет Fresh, 2шт",
+                "masterData": {
+                    "slug": "limon-market-fresh-2st",
+                    "plu": "3677353",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста китайская",
+                "masterData": {
+                    "slug": "kapusta-kitajskaa",
+                    "plu": "78682",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Клубника Маркет Fresh, 250г",
+                "masterData": {
+                    "slug": "klubnika-market-fresh-250g",
+                    "plu": "11034",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Клубника Market Collection, 200г",
+                "masterData": {
+                    "slug": "klubnika-market-collection-200g",
+                    "plu": "4097821",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Лук порей",
+                "masterData": {
+                    "slug": "luk-porej",
+                    "plu": "1561",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Капуста квашеная шинкованная с морковью Зелёная Линия, 800г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-sinkovannaa-s-morkovu-zelenaa-linia-800g",
+                    "plu": "4116723",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Питахайя крупная",
+                "masterData": {
+                    "slug": "pitahaja-krupnaa",
+                    "plu": "3966803",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Шампиньоны, 250г",
+                "masterData": {
+                    "slug": "sampinony-250g",
+                    "plu": "6176",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Рукола мытая Маркет Fresh, 50г",
+                "masterData": {
+                    "slug": "rukola-mytaa-market-fresh-50g",
+                    "plu": "3358128",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Flamenco сливовидные красные, 450г",
+                "masterData": {
+                    "slug": "tomaty-flamenco-slivovidnye-krasnye-450g",
+                    "plu": "4217380",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Бакинские",
+                "masterData": {
+                    "slug": "tomaty-bakinskie",
+                    "plu": "3017019",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Киви",
+                "masterData": {
+                    "slug": "kivi",
+                    "plu": "1532",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Петрушка Укроп свежие Маркет Fresh, 30г",
+                "masterData": {
+                    "slug": "petruska-ukrop-svezie-market-fresh-30g",
+                    "plu": "4294974",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук зеленый Маркет Fresh, 50г",
+                "masterData": {
+                    "slug": "luk-zelenyj-market-fresh-50g",
+                    "plu": "4295466",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Зелень Кинзы Маркет Fresh, 30г",
+                "masterData": {
+                    "slug": "zelen-kinzy-market-fresh-30g",
+                    "plu": "4294979",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Перец Ласточка",
+                "masterData": {
+                    "slug": "perec-lastocka",
+                    "plu": "3231963",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Свекла",
+                "masterData": {
+                    "slug": "svekla",
+                    "plu": "45532",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Огурцы Ботаника фасованные, 420г",
+                "masterData": {
+                    "slug": "ogurcy-botanika-fasovannye-420g",
+                    "plu": "4391463",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Редис красный, 500г",
+                "masterData": {
+                    "slug": "redis-krasnyj-500g",
+                    "plu": "25180",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук репчатый красный",
+                "masterData": {
+                    "slug": "luk-repcatyj-krasnyj",
+                    "plu": "79012",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Банан Organic Зелёная Линия",
+                "masterData": {
+                    "slug": "banan-organic-zelenaa-linia",
+                    "plu": "4208494",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Шампиньоны",
+                "masterData": {
+                    "slug": "sampinony",
+                    "plu": "59120",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты Краснодар розовые, 500г",
+                "masterData": {
+                    "slug": "tomaty-krasnodar-rozovye-500g",
+                    "plu": "4418238",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Капуста квашеная кисло-сладкая, 650г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-kislo-sladkaa-650g",
+                    "plu": "4325075",
+                    "unitName": "шт",
+                    "weight": 650,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Салат Выгодно Айсберг свежий мытый, 200г",
+                "masterData": {
+                    "slug": "salat-vygodno-ajsberg-svezij-mytyj-200g",
+                    "plu": "4312456",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Персики отборные",
+                "masterData": {
+                    "slug": "persiki-otbornye",
+                    "plu": "73914",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Слива Ростовская",
+                "masterData": {
+                    "slug": "sliva-rostovskaa",
+                    "plu": "4254416",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста квашеная шинкованная с морковью Зелёная Линия, 500г",
+                "masterData": {
+                    "slug": "kapusta-kvasenaa-sinkovannaa-s-morkovu-zelenaa-linia-500g",
+                    "plu": "4336623",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Консервы, соленья",
+                    "id": 1288
+                }
+            },
+            {
+                "title": "Имбирь",
+                "masterData": {
+                    "slug": "imbir",
+                    "plu": "3218215",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Грейпфрут красный",
+                "masterData": {
+                    "slug": "grejpfrut-krasnyj",
+                    "plu": "1530",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста цветная",
+                "masterData": {
+                    "slug": "kapusta-cvetnaa",
+                    "plu": "79224",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лисички, 250г",
+                "masterData": {
+                    "slug": "lisicki-250g",
+                    "plu": "3683540",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты розовые отборные",
+                "masterData": {
+                    "slug": "tomaty-rozovye-otbornye",
+                    "plu": "4087773",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Голубика Маркет Fresh, 500г",
+                "masterData": {
+                    "slug": "golubika-market-fresh-500g",
+                    "plu": "3641622",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Укроп зеленый Маркет Fresh, 100г",
+                "masterData": {
+                    "slug": "ukrop-zelenyj-market-fresh-100g",
+                    "plu": "4295468",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Сельдерей черешковый, 1шт",
+                "masterData": {
+                    "slug": "selderej-cereskovyj-1st",
+                    "plu": "2065179",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Инжир Турция, 4шт",
+                "masterData": {
+                    "slug": "inzir-turcia-4st",
+                    "plu": "4414637",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Лук зеленый Маркет Fresh, 100г",
+                "masterData": {
+                    "slug": "luk-zelenyj-market-fresh-100g",
+                    "plu": "4295465",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Нектарины",
+                "masterData": {
+                    "slug": "nektariny",
+                    "plu": "79108",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Огурцы Хрустящие, 450г",
+                "masterData": {
+                    "slug": "ogurcy-hrustasie-450g",
+                    "plu": "3682401",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Кукуруза",
+                "masterData": {
+                    "slug": "kukuruza",
+                    "plu": "53477",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук Ялтинский",
+                "masterData": {
+                    "slug": "luk-altinskij",
+                    "plu": "3368252",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты розовые грунтовые",
+                "masterData": {
+                    "slug": "tomaty-rozovye-gruntovye",
+                    "plu": "21292",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Шампиньоны Маркет Fresh, 400г",
+                "masterData": {
+                    "slug": "sampinony-market-fresh-400g",
+                    "plu": "3210027",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель для варки, 3кг",
+                "masterData": {
+                    "slug": "kartofel-dla-varki-3kg",
+                    "plu": "3142878",
+                    "unitName": "шт",
+                    "weight": 3000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Чеснок",
+                "masterData": {
+                    "slug": "cesnok",
+                    "plu": "45692",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Укроп Маркет Fresh, 50г",
+                "masterData": {
+                    "slug": "ukrop-market-fresh-50g",
+                    "plu": "4295467",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Мандарины с листом Китай",
+                "masterData": {
+                    "slug": "mandariny-s-listom-kitaj",
+                    "plu": "3254317",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Персики",
+                "masterData": {
+                    "slug": "persiki",
+                    "plu": "3759",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Огурцы Фасованные, 450г",
+                "masterData": {
+                    "slug": "ogurcy-fasovannye-450g",
+                    "plu": "44569",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Огурцы корнишоны, 300г",
+                "masterData": {
+                    "slug": "ogurcy-kornisony-300g",
+                    "plu": "3368258",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель молодой Азербайджан",
+                "masterData": {
+                    "slug": "kartofel-molodoj-azerbajdzan",
+                    "plu": "4278509",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Перец красный сладкий",
+                "masterData": {
+                    "slug": "perec-krasnyj-sladkij",
+                    "plu": "6177",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Морковь мытая",
+                "masterData": {
+                    "slug": "morkov-mytaa",
+                    "plu": "52112",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Малина Маркет Fresh, 250г",
+                "masterData": {
+                    "slug": "malina-market-fresh-250g",
+                    "plu": "3641616",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Яблоки Гала Маркет",
+                "masterData": {
+                    "slug": "abloki-gala-market",
+                    "plu": "3366336",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Капуста брокколи",
+                "masterData": {
+                    "slug": "kapusta-brokkoli",
+                    "plu": "1557",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Яблоки сезонные",
+                "masterData": {
+                    "slug": "abloki-sezonnye",
+                    "plu": "47795",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Огурцы Хрустящие",
+                "masterData": {
+                    "slug": "ogurcy-hrustasie",
+                    "plu": "3632205",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лимон",
+                "masterData": {
+                    "slug": "limon",
+                    "plu": "1536",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Виноград Киш-миш",
+                "masterData": {
+                    "slug": "vinograd-kis-mis",
+                    "plu": "48660",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Виноград Киш-миш чёрный",
+                "masterData": {
+                    "slug": "vinograd-kis-mis-cernyj",
+                    "plu": "57580",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Салат Айсберг Маркет Fresh, 1шт",
+                "masterData": {
+                    "slug": "salat-ajsberg-market-fresh-1st",
+                    "plu": "77107",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Инжир",
+                "masterData": {
+                    "slug": "inzir",
+                    "plu": "4831",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты Махитос красные",
+                "masterData": {
+                    "slug": "tomaty-mahitos-krasnye",
+                    "plu": "1566",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель крупный отборный",
+                "masterData": {
+                    "slug": "kartofel-krupnyj-otbornyj",
+                    "plu": "43968",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Апельсины",
+                "masterData": {
+                    "slug": "apelsiny",
+                    "plu": "1535",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Томаты черри на ветке, 250г",
+                "masterData": {
+                    "slug": "tomaty-cerri-na-vetke-250g",
+                    "plu": "3673307",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Салат листовой в горшке, 1шт",
+                "masterData": {
+                    "slug": "salat-listovoj-v-gorske-1st",
+                    "plu": "31895",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Малина Маркет Fresh, 125г",
+                "masterData": {
+                    "slug": "malina-market-fresh-125g",
+                    "plu": "21151",
+                    "unitName": "шт",
+                    "weight": 125,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Бананы фасованные",
+                "masterData": {
+                    "slug": "banany-fasovannye",
+                    "plu": "3639749",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Мандарины",
+                "masterData": {
+                    "slug": "mandariny",
+                    "plu": "1537",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Кабачки",
+                "masterData": {
+                    "slug": "kabacki",
+                    "plu": "44110",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель",
+                "masterData": {
+                    "slug": "kartofel",
+                    "plu": "769",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Слива сезонная",
+                "masterData": {
+                    "slug": "sliva-sezonnaa",
+                    "plu": "2145881",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Огурцы короткоплодные",
+                "masterData": {
+                    "slug": "ogurcy-korotkoplodnye",
+                    "plu": "4072",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Томаты сливовидные грунтовые",
+                "masterData": {
+                    "slug": "tomaty-slivovidnye-gruntovye",
+                    "plu": "14546",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Картофель мытый",
+                "masterData": {
+                    "slug": "kartofel-mytyj",
+                    "plu": "2099571",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Лук репчатый",
+                "masterData": {
+                    "slug": "luk-repcatyj",
+                    "plu": "45463",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, зелень, грибы",
+                    "id": 366
+                }
+            },
+            {
+                "title": "Виноград Шайн Мускат нефритовый",
+                "masterData": {
+                    "slug": "vinograd-sajn-muskat-nefritovyj",
+                    "plu": "4327381",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Бананы",
+                "masterData": {
+                    "slug": "banany",
+                    "plu": "3757",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            },
+            {
+                "title": "Арбуз, 4-12кг",
+                "masterData": {
+                    "slug": "arbuz-4-12kg",
+                    "plu": "77410",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Фрукты, ягоды",
+                    "id": 367
+                }
+            }
+        ]
+    }
+}

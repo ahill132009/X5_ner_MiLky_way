@@ -1,0 +1,2037 @@
+{
+    "cat_name": {
+        "cat_id": 168,
+        "items": [
+            {
+                "title": "Лапша Кока Сингапурская быстрого приготовления Силк морепродукты, 70г",
+                "masterData": {
+                    "slug": "lapsa-koka-singapurskaa-bystrogo-prigotovlenia-silk-moreprodukty-70g",
+                    "plu": "4260616",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко Ассорти абрикос-яблоко-изюм, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-assorti-abrikos-abloko-izum-6h45g",
+                    "plu": "3232199",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко с курагой, 300г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-s-kuragoj-300g",
+                    "plu": "2017671",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Крем-суп Bionova протеиновый с брокколи, 20г",
+                "masterData": {
+                    "slug": "krem-sup-bionova-proteinovyj-s-brokkoli-20g",
+                    "plu": "4013368",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Рис Honglu самонагревающийся с жареным куриным филе и грибами, 295г",
+                "masterData": {
+                    "slug": "ris-honglu-samonagrevausijsa-s-zarenym-kurinym-file-i-gribami-295g",
+                    "plu": "4361598",
+                    "unitName": "шт",
+                    "weight": 295,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша Мистраль манго-персик, 6х40г",
+                "masterData": {
+                    "slug": "kasa-mistral-mango-persik-6h40g",
+                    "plu": "4130485",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с малиной, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-malinoj-35g",
+                    "plu": "4411295",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с яблоком черникой и малиной моментального приготовления, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-ablokom-cernikoj-i-malinoj-momentalnogo-prigotovlenia-35g",
+                    "plu": "4411299",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья Ясно Солнышко 7 злаков, 400г",
+                "masterData": {
+                    "slug": "hlopa-asno-solnysko-7-zlakov-400g",
+                    "plu": "3378880",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша гречневая Ясно Солнышко ассорти, 6х45г",
+                "masterData": {
+                    "slug": "kasa-grecnevaa-asno-solnysko-assorti-6h45g",
+                    "plu": "4082349",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша пшенная Myllyn Paras, 400г",
+                "masterData": {
+                    "slug": "kasa-psennaa-myllyn-paras-400g",
+                    "plu": "7315",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Крем-суп Yelli лёгкий овощной с цуккини, 70г",
+                "masterData": {
+                    "slug": "krem-sup-yelli-legkij-ovosnoj-s-cukkini-70g",
+                    "plu": "4253779",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Рис Honglu самонагревающийся с говядиной тушёной в красном соусе, 295г",
+                "masterData": {
+                    "slug": "ris-honglu-samonagrevausijsa-s-govadinoj-tusenoj-v-krasnom-souse-295g",
+                    "plu": "4361599",
+                    "unitName": "шт",
+                    "weight": 295,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Easy Base Гороховый Барбекю моментального приготовления, 50г",
+                "masterData": {
+                    "slug": "krem-sup-easy-base-gorohovyj-barbeku-momentalnogo-prigotovlenia-50g",
+                    "plu": "4257517",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная с молоком Ясно Солнышко ассорти: с клубникой, яблоком, грушей, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-s-molokom-asno-solnysko-assorti-s-klubnikoj-ablokom-grusej-6h45g",
+                    "plu": "4082504",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Крем-суп Easy Base Куриный гороховый, 50г",
+                "masterData": {
+                    "slug": "krem-sup-easy-base-kurinyj-gorohovyj-50g",
+                    "plu": "4323361",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Asian Fusion с морским гребешком быстрого приготовления, 12г",
+                "masterData": {
+                    "slug": "sup-asian-fusion-s-morskim-grebeskom-bystrogo-prigotovlenia-12g",
+                    "plu": "3407794",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Everyday из шпината с сельдереем и пшеничными сухариками, 15x26г",
+                "masterData": {
+                    "slug": "krem-sup-everyday-iz-spinata-s-seldereem-i-psenicnymi-suharikami-15x26g",
+                    "plu": "4109120",
+                    "unitName": "шт",
+                    "weight": 26,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Asian Fusion грибной со шпинатом и яйцом, 12г",
+                "masterData": {
+                    "slug": "sup-asian-fusion-gribnoj-so-spinatom-i-ajcom-12g",
+                    "plu": "3407791",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Jongga Real Kimchi Ramen быстрого приготовления, 144г",
+                "masterData": {
+                    "slug": "lapsa-jongga-real-kimchi-ramen-bystrogo-prigotovlenia-144g",
+                    "plu": "4409847",
+                    "unitName": "шт",
+                    "weight": 144,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic ягодное ассорти моментального приготовления, 210г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-agodnoe-assorti-momentalnogo-prigotovlenia-210g",
+                    "plu": "4411300",
+                    "unitName": "шт",
+                    "weight": 210,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Суп Kingthai Kitchen Том Кха быстрого приготовления, 35г",
+                "masterData": {
+                    "slug": "sup-kingthai-kitchen-tom-kha-bystrogo-prigotovlenia-35g",
+                    "plu": "4308803",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Yelli нежный грибной с нутом, 70г",
+                "masterData": {
+                    "slug": "krem-sup-yelli-neznyj-gribnoj-s-nutom-70g",
+                    "plu": "4253777",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Asian Fusion из морепродуктов с креветками, 12г",
+                "masterData": {
+                    "slug": "sup-asian-fusion-iz-moreproduktov-s-krevetkami-12g",
+                    "plu": "3407792",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Bionova протеиновый томатный, 20г",
+                "masterData": {
+                    "slug": "krem-sup-bionova-proteinovyj-tomatnyj-20g",
+                    "plu": "4013370",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Everyday По-восточному пряный тыквенный, 30г",
+                "masterData": {
+                    "slug": "krem-sup-everyday-po-vostocnomu-pranyj-tykvennyj-30g",
+                    "plu": "4121696",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Шин Рэд Супер Острая быстрого приготовления, 120г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-sin-red-super-ostraa-bystrogo-prigotovlenia-120g",
+                    "plu": "4250742",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Набор Чим Чим для салата из фунчозы, 160г",
+                "masterData": {
+                    "slug": "nabor-cim-cim-dla-salata-iz-funcozy-160g",
+                    "plu": "3383218",
+                    "unitName": "шт",
+                    "weight": 160,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Fusion грибной с яйцом, 12г",
+                "masterData": {
+                    "slug": "sup-fusion-gribnoj-s-ajcom-12g",
+                    "plu": "3407793",
+                    "unitName": "шт",
+                    "weight": 12,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша Champ Клубничная с коэнзимом Q10 протеиновая льняная, 40г",
+                "masterData": {
+                    "slug": "kasa-champ-klubnicnaa-s-koenzimom-q10-proteinovaa-lnanaa-40g",
+                    "plu": "4000298",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Omachi со вкусом супа на рёбрышках быстрого приготовления, 79г",
+                "masterData": {
+                    "slug": "lapsa-omachi-so-vkusom-supa-na-rebryskah-bystrogo-prigotovlenia-79g",
+                    "plu": "4404126",
+                    "unitName": "шт",
+                    "weight": 79,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Bionova протеиновый грибной, 20г",
+                "masterData": {
+                    "slug": "krem-sup-bionova-proteinovyj-gribnoj-20g",
+                    "plu": "4013369",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко черника с молоком, 45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-cernika-s-molokom-45g",
+                    "plu": "3468060",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко Ассорти клубника-малина-изюм, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-assorti-klubnika-malina-izum-6h45g",
+                    "plu": "3232214",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Nongshim Чапагетти быстрого приготовления, 140г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-capagetti-bystrogo-prigotovlenia-140g",
+                    "plu": "4357064",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Kingthai Kitchen Сливочный Том Ям быстрого приготовления, 35г",
+                "masterData": {
+                    "slug": "sup-kingthai-kitchen-slivocnyj-tom-am-bystrogo-prigotovlenia-35g",
+                    "plu": "4308802",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Omachi со вкусом говядины быстрого приготовления, 79г",
+                "masterData": {
+                    "slug": "lapsa-omachi-so-vkusom-govadiny-bystrogo-prigotovlenia-79g",
+                    "plu": "4404129",
+                    "unitName": "шт",
+                    "weight": 79,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко клюква-яблоко, 300г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-klukva-abloko-300g",
+                    "plu": "3451689",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Cуп Харчо Маркет, 150г",
+                "masterData": {
+                    "slug": "cup-harco-market-150g",
+                    "plu": "4326674",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп-пюре Гороховый Маркет, 200г",
+                "masterData": {
+                    "slug": "sup-pure-gorohovyj-market-200g",
+                    "plu": "4326676",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Доширак картофельное со вкусом тушенки, 40г",
+                "masterData": {
+                    "slug": "pure-dosirak-kartofelnoe-so-vkusom-tusenki-40g",
+                    "plu": "3684581",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Полента кукурузная Bravolli, 300г",
+                "masterData": {
+                    "slug": "polenta-kukuruznaa-bravolli-300g",
+                    "plu": "3694899",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко с абрикосом, 45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-s-abrikosom-45g",
+                    "plu": "3468062",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с кокосом и семенами чиа моментального приготовления, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-kokosom-i-semenami-cia-momentalnogo-prigotovlenia-35g",
+                    "plu": "4411296",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Nordic с клубникой моментального приготовления, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-nordic-s-klubnikoj-momentalnogo-prigotovlenia-35g",
+                    "plu": "4411297",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья овсяные Быстров Ассорти Для Гурманов не требующие варки, 228г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-bystrov-assorti-dla-gurmanov-ne-trebuusie-varki-228g",
+                    "plu": "4349400",
+                    "unitName": "шт",
+                    "weight": 228,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Omachi со вкусом креветок острая быстрого приготовления, 79г",
+                "masterData": {
+                    "slug": "lapsa-omachi-so-vkusom-krevetok-ostraa-bystrogo-prigotovlenia-79g",
+                    "plu": "4404125",
+                    "unitName": "шт",
+                    "weight": 79,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Крем-суп Everyday грибной с лисичками и пшеничными сухариками, 25г",
+                "masterData": {
+                    "slug": "krem-sup-everyday-gribnoj-s-lisickami-i-psenicnymi-suharikami-25g",
+                    "plu": "4109121",
+                    "unitName": "шт",
+                    "weight": 25,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная Ясно Солнышко классическая с молоком, 6х45г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-asno-solnysko-klassiceskaa-s-molokom-6h45g",
+                    "plu": "3404963",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Пюре Доширак картофельное со вкусом сыра, 40г",
+                "masterData": {
+                    "slug": "pure-dosirak-kartofelnoe-so-vkusom-syra-40g",
+                    "plu": "3684580",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Naruto рамен говядина, 93г",
+                "masterData": {
+                    "slug": "lapsa-naruto-ramen-govadina-93g",
+                    "plu": "4416659",
+                    "unitName": "шт",
+                    "weight": 93,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Суперсуп мясной, 70г",
+                "masterData": {
+                    "slug": "sup-supersup-masnoj-70g",
+                    "plu": "3294699",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Русский Продукт Алфавит на 5+, 70г",
+                "masterData": {
+                    "slug": "sup-russkij-produkt-alfavit-na-5-70g",
+                    "plu": "4231556",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная Русский Продукт Геркулес с малиной и молоком, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-russkij-produkt-gerkules-s-malinoj-i-molokom-35g",
+                    "plu": "3453946",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Русский Продукт Геркулес с вишней, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-russkij-produkt-gerkules-s-visnej-35g",
+                    "plu": "3453942",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Суп Суперсуп харчо по-кавказски, 70г",
+                "masterData": {
+                    "slug": "sup-supersup-harco-po-kavkazski-70g",
+                    "plu": "3294701",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Кнорр куриный с лапшой, 13г",
+                "masterData": {
+                    "slug": "sup-knorr-kurinyj-s-lapsoj-13g",
+                    "plu": "3190232",
+                    "unitName": "шт",
+                    "weight": 13,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Naruto рамен морепродукты, 65г",
+                "masterData": {
+                    "slug": "lapsa-naruto-ramen-moreprodukty-65g",
+                    "plu": "4416663",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Русский продукт куриный со звёздочками, 70г",
+                "masterData": {
+                    "slug": "sup-russkij-produkt-kurinyj-so-zvezdockami-70g",
+                    "plu": "4087460",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Maggi Горячая кружка куриный с сухариками, 19г",
+                "masterData": {
+                    "slug": "sup-maggi-goracaa-kruzka-kurinyj-s-suharikami-19g",
+                    "plu": "40686",
+                    "unitName": "шт",
+                    "weight": 19,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша ZikZik Том Ям рисовая, 78г",
+                "masterData": {
+                    "slug": "lapsa-zikzik-tom-am-risovaa-78g",
+                    "plu": "4399541",
+                    "unitName": "шт",
+                    "weight": 78,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Суперсуп борщ с настоящим мясом, 70г",
+                "masterData": {
+                    "slug": "sup-supersup-bors-s-nastoasim-masom-70g",
+                    "plu": "3646305",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша рисовая Мама Чанд Фо Бо быстрого приготовления тайская со вкусом говядины, 55г",
+                "masterData": {
+                    "slug": "lapsa-risovaa-mama-cand-fo-bo-bystrogo-prigotovlenia-tajskaa-so-vkusom-govadiny-55g",
+                    "plu": "4151201",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко №3, 350г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-no3-350g",
+                    "plu": "2122919",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Naruto рамен телятина, 65г",
+                "masterData": {
+                    "slug": "lapsa-naruto-ramen-telatina-65g",
+                    "plu": "4416661",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша овсяная Русский Продукт Геркулес с клубникой, 35г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-russkij-produkt-gerkules-s-klubnikoj-35g",
+                    "plu": "3453945",
+                    "unitName": "шт",
+                    "weight": 35,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Каша овсяная Myllyn Paras, 500г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-myllyn-paras-500g",
+                    "plu": "10234",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша O'Food со вкусом Морских водорослей, 103г",
+                "masterData": {
+                    "slug": "lapsa-ofood-so-vkusom-morskih-vodoroslej-103g",
+                    "plu": "4389602",
+                    "unitName": "шт",
+                    "weight": 103,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Maggi Звёздочки, 54г",
+                "masterData": {
+                    "slug": "sup-maggi-zvezdocki-54g",
+                    "plu": "37653",
+                    "unitName": "шт",
+                    "weight": 54,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Суперсуп куриный, 70г",
+                "masterData": {
+                    "slug": "sup-supersup-kurinyj-70g",
+                    "plu": "3294696",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Siyuan со вкусом тушёной говядины с маринованными овощами, 185г",
+                "masterData": {
+                    "slug": "lapsa-siyuan-so-vkusom-tusenoj-govadiny-s-marinovannymi-ovosami-185g",
+                    "plu": "4361606",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Cung Dinh Kool Барбекю быстрого приготовления, 105г",
+                "masterData": {
+                    "slug": "lapsa-cung-dinh-kool-barbeku-bystrogo-prigotovlenia-105g",
+                    "plu": "4399538",
+                    "unitName": "шт",
+                    "weight": 105,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Каша гречневая Ясно Солнышко с грибами и жареным луком, 45г",
+                "masterData": {
+                    "slug": "kasa-grecnevaa-asno-solnysko-s-gribami-i-zarenym-lukom-45g",
+                    "plu": "3602260",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Naruto рамен курица, 93г",
+                "masterData": {
+                    "slug": "lapsa-naruto-ramen-kurica-93g",
+                    "plu": "4416658",
+                    "unitName": "шт",
+                    "weight": 93,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Суперсуп гороховый с беконом, 70г",
+                "masterData": {
+                    "slug": "sup-supersup-gorohovyj-s-bekonom-70g",
+                    "plu": "2072497",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Картошечка картофельное, 250г",
+                "masterData": {
+                    "slug": "pure-kartosecka-kartofelnoe-250g",
+                    "plu": "78561",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Шин Рамен Том Ям, 123г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-sin-ramen-tom-am-123g",
+                    "plu": "4383529",
+                    "unitName": "шт",
+                    "weight": 123,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Naruto рамен курица-грибы, 65г",
+                "masterData": {
+                    "slug": "lapsa-naruto-ramen-kurica-griby-65g",
+                    "plu": "4416662",
+                    "unitName": "шт",
+                    "weight": 65,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Суперсуп куриный с гренками, 40г",
+                "masterData": {
+                    "slug": "sup-supersup-kurinyj-s-grenkami-40g",
+                    "plu": "3015652",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Hezhai пшеничная с перцем Малакета, 145г",
+                "masterData": {
+                    "slug": "lapsa-hezhai-psenicnaa-s-percem-malaketa-145g",
+                    "plu": "4374693",
+                    "unitName": "шт",
+                    "weight": 145,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Роллтон картофельное с мясным вкусом, 40г",
+                "masterData": {
+                    "slug": "pure-rollton-kartofelnoe-s-masnym-vkusom-40g",
+                    "plu": "75998",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Бульон Круглые Сутки Костный говяжий, 150г",
+                "masterData": {
+                    "slug": "bulon-kruglye-sutki-kostnyj-govazij-150g",
+                    "plu": "4396213",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Бульон Круглые Сутки Костный куриный, 150г",
+                "masterData": {
+                    "slug": "bulon-kruglye-sutki-kostnyj-kurinyj-150g",
+                    "plu": "4396212",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Шин Стир-Фрай Том Ям, 130г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-sin-stir-fraj-tom-am-130g",
+                    "plu": "4383528",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Быстров с малиной и молоком не требующие варки, 240г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-bystrov-s-malinoj-i-molokom-ne-trebuusie-varki-240g",
+                    "plu": "4349396",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Siyuan со вкусом говяжьего бульона с маринованным яйцом, 180г",
+                "masterData": {
+                    "slug": "lapsa-siyuan-so-vkusom-govazego-bulona-s-marinovannym-ajcom-180g",
+                    "plu": "4362047",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Сун Вегги овощная быстрого приготовления, 112г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-sun-veggi-ovosnaa-bystrogo-prigotovlenia-112g",
+                    "plu": "4179219",
+                    "unitName": "шт",
+                    "weight": 112,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья Мистраль пшённые, 400г",
+                "masterData": {
+                    "slug": "hlopa-mistral-psennye-400g",
+                    "plu": "3633798",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Nongshim Clay Pot со вкусом говядины быстрого приготовления, 70г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-clay-pot-so-vkusom-govadiny-bystrogo-prigotovlenia-70g",
+                    "plu": "4362908",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Hezhai с морепродуктами, 110г",
+                "masterData": {
+                    "slug": "lapsa-hezhai-s-moreproduktami-110g",
+                    "plu": "4374692",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Кимчи Рамен с сырным вкусом быстрого приготовления, 120г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-kimci-ramen-s-syrnym-vkusom-bystrogo-prigotovlenia-120g",
+                    "plu": "4362916",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные из голозёрного овса Зелёная Линия, 375г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-iz-golozernogo-ovsa-zelenaa-linia-375g",
+                    "plu": "4078263",
+                    "unitName": "шт",
+                    "weight": 375,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Nongshim Кимчи Рамен быстрого приготовления, 70г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-kimci-ramen-bystrogo-prigotovlenia-70g",
+                    "plu": "4362910",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Кнорр куриный с сухариками, 16г",
+                "masterData": {
+                    "slug": "sup-knorr-kurinyj-s-suharikami-16g",
+                    "plu": "3190239",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Jongga Кимчи, 129г",
+                "masterData": {
+                    "slug": "lapsa-jongga-kimci-129g",
+                    "plu": "4389605",
+                    "unitName": "шт",
+                    "weight": 129,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Суп Кнорр гороховый с сухариками, 21г",
+                "masterData": {
+                    "slug": "sup-knorr-gorohovyj-s-suharikami-21g",
+                    "plu": "3190246",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья рисовые Увелка, 400г",
+                "masterData": {
+                    "slug": "hlopa-risovye-uvelka-400g",
+                    "plu": "3613391",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Суп Кнорр сырный с сухариками, 15.6г",
+                "masterData": {
+                    "slug": "sup-knorr-syrnyj-s-suharikami-15-6g",
+                    "plu": "3190234",
+                    "unitName": "шт",
+                    "weight": 16,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Daebak Ramen с морскими водорослями, 105г",
+                "masterData": {
+                    "slug": "lapsa-daebak-ramen-s-morskimi-vodoroslami-105g",
+                    "plu": "4394394",
+                    "unitName": "шт",
+                    "weight": 105,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша O'Food со вкусом Морепродуктов, 102г",
+                "masterData": {
+                    "slug": "lapsa-ofood-so-vkusom-moreproduktov-102g",
+                    "plu": "4389603",
+                    "unitName": "шт",
+                    "weight": 102,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Cung Dinh Kool со вкусом курицы пшеничная быстрого приготовления, 63г",
+                "masterData": {
+                    "slug": "lapsa-cung-dinh-kool-so-vkusom-kuricy-psenicnaa-bystrogo-prigotovlenia-63g",
+                    "plu": "4399537",
+                    "unitName": "шт",
+                    "weight": 63,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Кимчи Рамен быстрого приготовления, 120г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-kimci-ramen-bystrogo-prigotovlenia-120g",
+                    "plu": "4362913",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Кимчи Рамен с сырным вкусом быстрого приготовления, 70г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-kimci-ramen-s-syrnym-vkusom-bystrogo-prigotovlenia-70g",
+                    "plu": "4362909",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Доширак Премиум картофельное со вкусом курицы, 52г",
+                "masterData": {
+                    "slug": "pure-dosirak-premium-kartofelnoe-so-vkusom-kuricy-52g",
+                    "plu": "3352976",
+                    "unitName": "шт",
+                    "weight": 52,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Cung Dinh Kool Том Ям пшеничная быстрого приготовления, 64г",
+                "masterData": {
+                    "slug": "lapsa-cung-dinh-kool-tom-am-psenicnaa-bystrogo-prigotovlenia-64g",
+                    "plu": "4399536",
+                    "unitName": "шт",
+                    "weight": 64,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Мама быстрого приготовления со вкусом креветок, 60г",
+                "masterData": {
+                    "slug": "lapsa-mama-bystrogo-prigotovlenia-so-vkusom-krevetok-60g",
+                    "plu": "4007886",
+                    "unitName": "шт",
+                    "weight": 60,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Вермишель Роллтон По-домашнему с говядиной, 85г",
+                "masterData": {
+                    "slug": "vermisel-rollton-po-domasnemu-s-govadinoj-85g",
+                    "plu": "3947754",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре картофельное Big Bon По-домашнему с кусочками тушёной говядины, 110г",
+                "masterData": {
+                    "slug": "pure-kartofelnoe-big-bon-po-domasnemu-s-kusockami-tusenoj-govadiny-110g",
+                    "plu": "4144382",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Шин Рамен быстрого приготовления, 72г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-sin-ramen-bystrogo-prigotovlenia-72g",
+                    "plu": "4362911",
+                    "unitName": "шт",
+                    "weight": 72,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья Мистраль 5 злаков, 400г",
+                "masterData": {
+                    "slug": "hlopa-mistral-5-zlakov-400g",
+                    "plu": "3635643",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Пюре Роллтон картофельное сухариками, 40г",
+                "masterData": {
+                    "slug": "pure-rollton-kartofelnoe-suharikami-40g",
+                    "plu": "76001",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Daebak Рамен с грибами быстрого приготовления, 103г",
+                "masterData": {
+                    "slug": "lapsa-daebak-ramen-s-gribami-bystrogo-prigotovlenia-103g",
+                    "plu": "4397355",
+                    "unitName": "шт",
+                    "weight": 103,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Мистраль цельнозерновые, 400г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-mistral-celnozernovye-400g",
+                    "plu": "3634076",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Nongshim Неогури с морепродуктами быстрого приготовления, 120г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-neoguri-s-moreproduktami-bystrogo-prigotovlenia-120g",
+                    "plu": "4179217",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Роллтон картофельное с куриным вкусом, 40г",
+                "masterData": {
+                    "slug": "pure-rollton-kartofelnoe-s-kurinym-vkusom-40g",
+                    "plu": "75997",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Daebak Рамен Кимчи быстрого приготовления, 103г",
+                "masterData": {
+                    "slug": "lapsa-daebak-ramen-kimci-bystrogo-prigotovlenia-103g",
+                    "plu": "4397354",
+                    "unitName": "шт",
+                    "weight": 103,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья пшенные Nordic, 500г",
+                "masterData": {
+                    "slug": "hlopa-psennye-nordic-500g",
+                    "plu": "3019670",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Daebak Ramen с морепродуктами, 101г",
+                "masterData": {
+                    "slug": "lapsa-daebak-ramen-s-moreproduktami-101g",
+                    "plu": "4394393",
+                    "unitName": "шт",
+                    "weight": 101,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак быстрого приготовления со вкусом свинины, 90г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-bystrogo-prigotovlenia-so-vkusom-svininy-90g",
+                    "plu": "53021",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Ясно Солнышко №2, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-asno-solnysko-no2-500g",
+                    "plu": "2122915",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Бизнес Меню с тушёной говядиной в пряном соусе и овощами, 110г",
+                "masterData": {
+                    "slug": "lapsa-biznes-menu-s-tusenoj-govadinoj-v-pranom-souse-i-ovosami-110g",
+                    "plu": "74946",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Роллтон Горячая порция картофельное с курицей, 55г",
+                "masterData": {
+                    "slug": "pure-rollton-goracaa-porcia-kartofelnoe-s-kuricej-55g",
+                    "plu": "3296248",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Пюре Бизнес Меню с куриным филе, приправами и овощами, 110г",
+                "masterData": {
+                    "slug": "pure-biznes-menu-s-kurinym-file-pripravami-i-ovosami-110g",
+                    "plu": "2110732",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Биг Ланч Рагу с говядиной и перцем чили, 90г",
+                "masterData": {
+                    "slug": "lapsa-big-lanc-ragu-s-govadinoj-i-percem-cili-90g",
+                    "plu": "4390025",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Оттоги Рамен со вкусом сыра, 111г",
+                "masterData": {
+                    "slug": "lapsa-ottogi-ramen-so-vkusom-syra-111g",
+                    "plu": "4329562",
+                    "unitName": "шт",
+                    "weight": 111,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Мама со вкусом кремовый том-ям, 55г",
+                "masterData": {
+                    "slug": "lapsa-mama-so-vkusom-kremovyj-tom-am-55g",
+                    "plu": "4007887",
+                    "unitName": "шт",
+                    "weight": 55,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак Квисти со вкусом говядины, 70г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-kvisti-so-vkusom-govadiny-70g",
+                    "plu": "96983",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Биг Ланч Соте с курицей и пряными травами, 90г",
+                "masterData": {
+                    "slug": "lapsa-big-lanc-sote-s-kuricej-i-pranymi-travami-90g",
+                    "plu": "4386717",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак Квисти быстрого приготовления со вкусом курицы, 70г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-kvisti-bystrogo-prigotovlenia-so-vkusom-kuricy-70g",
+                    "plu": "96982",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак быстрого приготовления со вкусом грибов, 90г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-bystrogo-prigotovlenia-so-vkusom-gribov-90g",
+                    "plu": "53017",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Русский Продукт Геркулес Монастырский, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-russkij-produkt-gerkules-monastyrskij-500g",
+                    "plu": "3421663",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Хлопья гречневые Nordic, 550г",
+                "masterData": {
+                    "slug": "hlopa-grecnevye-nordic-550g",
+                    "plu": "3245999",
+                    "unitName": "шт",
+                    "weight": 550,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Samyang Хот Чикен Карбонара острая со вкусом курицы в соусе Карбонара, 140г",
+                "masterData": {
+                    "slug": "lapsa-samyang-hot-ciken-karbonara-ostraa-so-vkusom-kuricy-v-souse-karbonara-140g",
+                    "plu": "4347547",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Samyang Хот Чикен Чиз острая со вкусом курицы и сыра, 145г",
+                "masterData": {
+                    "slug": "lapsa-samyang-hot-ciken-ciz-ostraa-so-vkusom-kuricy-i-syra-145g",
+                    "plu": "4347548",
+                    "unitName": "шт",
+                    "weight": 145,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Nongshim Шин Рамен быстрого приготовления, 120г",
+                "masterData": {
+                    "slug": "lapsa-nongshim-sin-ramen-bystrogo-prigotovlenia-120g",
+                    "plu": "4362914",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Big Bon Wok Острая говядина в соусе по-китайски, 85г",
+                "masterData": {
+                    "slug": "lapsa-big-bon-wok-ostraa-govadina-v-souse-po-kitajski-85g",
+                    "plu": "4192760",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Big Bon Wok быстрого приготовления Курица в соусе терияки, 85г",
+                "masterData": {
+                    "slug": "lapsa-big-bon-wok-bystrogo-prigotovlenia-kurica-v-souse-teriaki-85g",
+                    "plu": "4192784",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Хлопья овсяные Nordic, 500г",
+                "masterData": {
+                    "slug": "hlopa-ovsanye-nordic-500g",
+                    "plu": "9056",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Сухие завтраки",
+                    "id": 398
+                }
+            },
+            {
+                "title": "Лапша Доширак Чачжан Мен Корейская с оригинальным соусом, 200г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-caczan-men-korejskaa-s-originalnym-sousom-200g",
+                    "plu": "3623327",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Вермишель Роллтон По-домашнему с курицей, 85г",
+                "masterData": {
+                    "slug": "vermisel-rollton-po-domasnemu-s-kuricej-85g",
+                    "plu": "3947753",
+                    "unitName": "шт",
+                    "weight": 85,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак Чан рамен быстрого приготовления с острой говядиной, 120г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-can-ramen-bystrogo-prigotovlenia-s-ostroj-govadinoj-120g",
+                    "plu": "3664094",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Чан Рамен Корейская быстрого приготовления с приправами, 120г",
+                "masterData": {
+                    "slug": "lapsa-can-ramen-korejskaa-bystrogo-prigotovlenia-s-pripravami-120g",
+                    "plu": "3402845",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша яичная Роллтон Куриная по-домашнему быстрого приготовления, 90г",
+                "masterData": {
+                    "slug": "lapsa-aicnaa-rollton-kurinaa-po-domasnemu-bystrogo-prigotovlenia-90g",
+                    "plu": "3453979",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак быстрого приготовления со вкусом говядины, 90г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-bystrogo-prigotovlenia-so-vkusom-govadiny-90g",
+                    "plu": "53019",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            },
+            {
+                "title": "Лапша Доширак быстрого приготовления со вкусом курицы, 90г",
+                "masterData": {
+                    "slug": "lapsa-dosirak-bystrogo-prigotovlenia-so-vkusom-kuricy-90g",
+                    "plu": "53020",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Залить водой",
+                    "id": 465
+                }
+            }
+        ]
+    }
+}

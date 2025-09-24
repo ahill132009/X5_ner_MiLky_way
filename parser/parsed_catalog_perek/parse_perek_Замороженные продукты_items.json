@@ -1,0 +1,5089 @@
+{
+    "cat_name": {
+        "cat_id": 54,
+        "items": [
+            {
+                "title": "Краб стригун-опилио Мясо салатное варено-мороженый, 500г",
+                "masterData": {
+                    "slug": "krab-strigun-opilio-maso-salatnoe-vareno-morozenyj-500g",
+                    "plu": "4389041",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Краб-стригун Nord Mile Опилио варено-мороженный, 300г",
+                "masterData": {
+                    "slug": "krab-strigun-nord-mile-opilio-vareno-morozennyj-300g",
+                    "plu": "4362194",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пуноппан Bibigo со сладкой кукурузой замороженные, 300г",
+                "masterData": {
+                    "slug": "punoppan-bibigo-so-sladkoj-kukuruzoj-zamorozennye-300g",
+                    "plu": "4384813",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Основа Gorchakov Group с морепродуктами в соусе терияке замороженные, 300г",
+                "masterData": {
+                    "slug": "osnova-gorchakov-group-s-moreproduktami-v-souse-teriake-zamorozennye-300g",
+                    "plu": "4362603",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пуноппан Bibigo с заварным кремом замороженные, 300г",
+                "masterData": {
+                    "slug": "punoppan-bibigo-s-zavarnym-kremom-zamorozennye-300g",
+                    "plu": "4384815",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Кутабы Gorchakov Group с камчатским крабом замороженные, 260г",
+                "masterData": {
+                    "slug": "kutaby-gorchakov-group-s-kamcatskim-krabom-zamorozennye-260g",
+                    "plu": "4361800",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Gorchakov Group с лангустинами сливочным сыром и базиликом, 350г",
+                "masterData": {
+                    "slug": "pelmeni-gorchakov-group-s-langustinami-slivocnym-syrom-i-bazilikom-350g",
+                    "plu": "4361811",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Gorchakov Group с камчатским крабом, 350г",
+                "masterData": {
+                    "slug": "pelmeni-gorchakov-group-s-kamcatskim-krabom-350g",
+                    "plu": "4361824",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Палтус стрелозубый филе порционное мороженое Люди Любят, 400г",
+                "masterData": {
+                    "slug": "paltus-strelozubyj-file-porcionnoe-morozenoe-ludi-lubat-400g",
+                    "plu": "4351940",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пирожное Аманти замороженное, 80г",
+                "masterData": {
+                    "slug": "piroznoe-amanti-zamorozennoe-80g",
+                    "plu": "4279938",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Десерт Mojo Моти со вкусом ананаса, 228г",
+                "masterData": {
+                    "slug": "desert-mojo-moti-so-vkusom-ananasa-228g",
+                    "plu": "4414196",
+                    "unitName": "шт",
+                    "weight": 228,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Десерт Mojo Моти со вкусом манго, 228г",
+                "masterData": {
+                    "slug": "desert-mojo-moti-so-vkusom-mango-228g",
+                    "plu": "4414199",
+                    "unitName": "шт",
+                    "weight": 228,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Крылышки Горячая штучка хрустящие, 300г",
+                "masterData": {
+                    "slug": "krylyski-goracaa-stucka-hrustasie-300g",
+                    "plu": "3427843",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Люля-кебаб Север-Метрополь с кус-кус и кавказским соусом замороженные, 250г",
+                "masterData": {
+                    "slug": "lula-kebab-sever-metropol-s-kus-kus-i-kavkazskim-sousom-zamorozennye-250g",
+                    "plu": "4379333",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Котлета Север-Метрополь со стручковой фасолью гриль и сливочным соусом замороженная, 235г",
+                "masterData": {
+                    "slug": "kotleta-sever-metropol-so-struckovoj-fasolu-gril-i-slivocnym-sousom-zamorozennaa-235g",
+                    "plu": "4379339",
+                    "unitName": "шт",
+                    "weight": 235,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Каша овсяная Dostaевский с черникой, 220г",
+                "masterData": {
+                    "slug": "kasa-ovsanaa-dostaevskij-s-cernikoj-220g",
+                    "plu": "4425436",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Брусника замороженная Маркет, 300г",
+                "masterData": {
+                    "slug": "brusnika-zamorozennaa-market-300g",
+                    "plu": "4349265",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Ризотто Фросток с морепродуктами замороженное, 270г",
+                "masterData": {
+                    "slug": "rizotto-frostok-s-moreproduktami-zamorozennoe-270g",
+                    "plu": "4360076",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Десерт Mojo Моти со вкусом дыни, 76г",
+                "masterData": {
+                    "slug": "desert-mojo-moti-so-vkusom-dyni-76g",
+                    "plu": "4414197",
+                    "unitName": "шт",
+                    "weight": 76,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Десерт Mojo Моти со вкусом клубники, 76г",
+                "masterData": {
+                    "slug": "desert-mojo-moti-so-vkusom-klubniki-76g",
+                    "plu": "4414200",
+                    "unitName": "шт",
+                    "weight": 76,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Люля из свинины и курицы Милти с фаршированным перцем, 250г",
+                "masterData": {
+                    "slug": "lula-iz-svininy-i-kuricy-milti-s-farsirovannym-percem-250g",
+                    "plu": "4424032",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Каша Фросток рисовая с яблочно-апельсиновым соусом замороженная, 320г",
+                "masterData": {
+                    "slug": "kasa-frostok-risovaa-s-ablocno-apelsinovym-sousom-zamorozennaa-320g",
+                    "plu": "4340916",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Треска Север-Метрополь запеченная с соусом ромеско-рисом- зелёным маслом замороженная, 300г",
+                "masterData": {
+                    "slug": "treska-sever-metropol-zapecennaa-s-sousom-romesko-risom-zelenym-maslom-zamorozennaa-300g",
+                    "plu": "4379334",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Мясо краба Gorchakov Group камчатского салатное замороженное, 250г",
+                "masterData": {
+                    "slug": "maso-kraba-gorchakov-group-kamcatskogo-salatnoe-zamorozennoe-250g",
+                    "plu": "4380655",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Каша Фросток овсяная с карамельным арахисом замороженная, 305г",
+                "masterData": {
+                    "slug": "kasa-frostok-ovsanaa-s-karamelnym-arahisom-zamorozennaa-305g",
+                    "plu": "4345481",
+                    "unitName": "шт",
+                    "weight": 305,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Краб кейк Милти с ароматным рисом, 250г",
+                "masterData": {
+                    "slug": "krab-kejk-milti-s-aromatnym-risom-250g",
+                    "plu": "4424031",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Говядина Милти по-бургундски с пшеницей, 250г",
+                "masterData": {
+                    "slug": "govadina-milti-po-burgundski-s-psenicej-250g",
+                    "plu": "4424029",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Набор замороженных десертов Mojo Моти Манго-Личи-Маракуйя, 228г",
+                "masterData": {
+                    "slug": "nabor-zamorozennyh-desertov-mojo-moti-mango-lici-marakuja-228g",
+                    "plu": "4416188",
+                    "unitName": "шт",
+                    "weight": 228,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Блинчики Мясной Дворик Халяль с мясом замороженные, 350г",
+                "masterData": {
+                    "slug": "blinciki-masnoj-dvorik-halal-s-masom-zamorozennye-350g",
+                    "plu": "4386626",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Грудка куриная Милти на гриле с пенне маринара, 250г",
+                "masterData": {
+                    "slug": "grudka-kurinaa-milti-na-grile-s-penne-marinara-250g",
+                    "plu": "4424033",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Биточек картофельный Милти с куриным фаршем и грибным соусом, 250г",
+                "masterData": {
+                    "slug": "bitocek-kartofelnyj-milti-s-kurinym-farsem-i-gribnym-sousom-250g",
+                    "plu": "4424030",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Блинчики Мясной Дворик Халяль с малиной замороженные, 350г",
+                "masterData": {
+                    "slug": "blinciki-masnoj-dvorik-halal-s-malinoj-zamorozennye-350g",
+                    "plu": "4386668",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Блинчики Мясной Дворик Халяль с курицей замороженные, 350г",
+                "masterData": {
+                    "slug": "blinciki-masnoj-dvorik-halal-s-kuricej-zamorozennye-350g",
+                    "plu": "4386628",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Бэнто-торт Мишка с ароматом ванили и сливочного шоколада с карамельной прослойкой, 300г",
+                "masterData": {
+                    "slug": "bento-tort-miska-s-aromatom-vanili-i-slivocnogo-sokolada-s-karamelnoj-proslojkoj-300g",
+                    "plu": "4361902",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Мясо перепелов Qegg для жаркого, 500г",
+                "masterData": {
+                    "slug": "maso-perepelov-qegg-dla-zarkogo-500g",
+                    "plu": "4413357",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Фрикадельки мини Веско из индейки, 450г",
+                "masterData": {
+                    "slug": "frikadelki-mini-vesko-iz-indejki-450g",
+                    "plu": "4391486",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Бульон ProBulion овощной замороженный, 500мл",
+                "masterData": {
+                    "slug": "bulon-probulion-ovosnoj-zamorozennyj-500ml",
+                    "plu": "4418692",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Суп Зелёный берег с фрикадельками замороженный, 300г",
+                "masterData": {
+                    "slug": "sup-zelenyj-bereg-s-frikadelkami-zamorozennyj-300g",
+                    "plu": "4330817",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Тушка утки Утиная Ферма потрошеная замороженная",
+                "masterData": {
+                    "slug": "tuska-utki-utinaa-ferma-potrosenaa-zamorozennaa",
+                    "plu": "4038222",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Блинчики Мясной Дворик Халяль с яблоком и корицей замороженные, 350г",
+                "masterData": {
+                    "slug": "blinciki-masnoj-dvorik-halal-s-ablokom-i-koricej-zamorozennye-350g",
+                    "plu": "4386667",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Грудка куриная Милти с хашбрауном и грибным соусом, 250г",
+                "masterData": {
+                    "slug": "grudka-kurinaa-milti-s-hasbraunom-i-gribnym-sousom-250g",
+                    "plu": "4424034",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Суп Зелёный берег гороховый замороженный, 300г",
+                "masterData": {
+                    "slug": "sup-zelenyj-bereg-gorohovyj-zamorozennyj-300g",
+                    "plu": "4330801",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Десерт-шарик Motime Матча-малина замороженный, 120г",
+                "masterData": {
+                    "slug": "desert-sarik-motime-matca-malina-zamorozennyj-120g",
+                    "plu": "4410356",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Желудок мышечный Мираторг замороженный, 1кг",
+                "masterData": {
+                    "slug": "zeludok-mysecnyj-miratorg-zamorozennyj-1kg",
+                    "plu": "4410954",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Тушки перепелов Qegg 1 сорт замороженные, 420г",
+                "masterData": {
+                    "slug": "tuski-perepelov-qegg-1-sort-zamorozennye-420g",
+                    "plu": "4264778",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Пельмени лососевые из филе горбуши Зелёная Линия, 500г",
+                "masterData": {
+                    "slug": "pelmeni-lososevye-iz-file-gorbusi-zelenaa-linia-500g",
+                    "plu": "4290709",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Абрикос Планета Витаминов Фаралия без косточки быстрозамороженный, 250г",
+                "masterData": {
+                    "slug": "abrikos-planeta-vitaminov-faralia-bez-kostocki-bystrozamorozennyj-250g",
+                    "plu": "4399719",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Филе куриной грудки в соусе с итальянскими травами замороженное, 340г",
+                "masterData": {
+                    "slug": "file-kurinoj-grudki-v-souse-s-italanskimi-travami-zamorozennoe-340g",
+                    "plu": "4402369",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Вареники с яблоком и корицей без глютена Зелёная Линия, 350г",
+                "masterData": {
+                    "slug": "vareniki-s-ablokom-i-koricej-bez-glutena-zelenaa-linia-350g",
+                    "plu": "4306429",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Мини-торт Торт Внутри Шоколад в шоколаде замороженный, 135г",
+                "masterData": {
+                    "slug": "mini-tort-tort-vnutri-sokolad-v-sokolade-zamorozennyj-135g",
+                    "plu": "4406983",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Говядина томлёная с черносливом замороженная, 260г",
+                "masterData": {
+                    "slug": "govadina-tomlenaa-s-cernoslivom-zamorozennaa-260g",
+                    "plu": "4402372",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Петушок суповой замороженный Зелёная Линия",
+                "masterData": {
+                    "slug": "petusok-supovoj-zamorozennyj-zelenaa-linia",
+                    "plu": "4388173",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Тесто песочное для имбирного печенья замороженное Маркет Collection, 400г",
+                "masterData": {
+                    "slug": "testo-pesocnoe-dla-imbirnogo-pecena-zamorozennoe-market-collection-400g",
+                    "plu": "4385874",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Форель Agama слабосоленая филе-кусок с кожей замороженная, 200г",
+                "masterData": {
+                    "slug": "forel-agama-slabosolenaa-file-kusok-s-kozej-zamorozennaa-200g",
+                    "plu": "4104871",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пирог Дагестанские Фермерские Продукты Чуду творог-курага-вяленая хурма замороженный, 400г",
+                "masterData": {
+                    "slug": "pirog-dagestanskie-fermerskie-produkty-cudu-tvorog-kuraga-valenaa-hurma-zamorozennyj-400g",
+                    "plu": "4383926",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Краб камчатский мясо розочки варено-мороженный, 250г",
+                "masterData": {
+                    "slug": "krab-kamcatskij-maso-rozocki-vareno-morozennyj-250g",
+                    "plu": "4389034",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Тушка Francote Корнишон цыплёнка-бройлера потрошёная замороженная, 1кг",
+                "masterData": {
+                    "slug": "tuska-francote-kornison-cyplenka-brojlera-potrosenaa-zamorozennaa-1kg",
+                    "plu": "4339445",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Бульон ProBulion говяжий замороженный, 500мл",
+                "masterData": {
+                    "slug": "bulon-probulion-govazij-zamorozennyj-500ml",
+                    "plu": "4418694",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Минтай Люди любят тушка потрошеная замороженный, 600г",
+                "masterData": {
+                    "slug": "mintaj-ludi-lubat-tuska-potrosenaa-zamorozennyj-600g",
+                    "plu": "4352277",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Эклер манго-маракуйя замороженный, 150г",
+                "masterData": {
+                    "slug": "ekler-mango-marakuja-zamorozennyj-150g",
+                    "plu": "4279936",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Медальоны Владимир Рыба из форели радужной замороженные, 300г",
+                "masterData": {
+                    "slug": "medalony-vladimir-ryba-iz-foreli-raduznoj-zamorozennye-300g",
+                    "plu": "4403228",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Печенье Karlusha’s Четыре Шоколада замороженное, 280г",
+                "masterData": {
+                    "slug": "pecene-karlushas-cetyre-sokolada-zamorozennoe-280g",
+                    "plu": "4080417",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Стейк денвер мелкокусковой бескостный категории А замороженный, 250г",
+                "masterData": {
+                    "slug": "stejk-denver-melkokuskovoj-beskostnyj-kategorii-a-zamorozennyj-250g",
+                    "plu": "4351383",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Вок Dostaевский курица терияки-рис, 320г",
+                "masterData": {
+                    "slug": "vok-dostaevskij-kurica-teriaki-ris-320g",
+                    "plu": "4424334",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Эклер шоколадный замороженный, 150г",
+                "masterData": {
+                    "slug": "ekler-sokoladnyj-zamorozennyj-150g",
+                    "plu": "4279937",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Торт Торт Внутри Вишнёвое настроение замороженный, 500г",
+                "masterData": {
+                    "slug": "tort-tort-vnutri-visnevoe-nastroenie-zamorozennyj-500g",
+                    "plu": "4406980",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Суп Фросток карри куриный замороженный, 300г",
+                "masterData": {
+                    "slug": "sup-frostok-karri-kurinyj-zamorozennyj-300g",
+                    "plu": "4363335",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Набор для бульона из мяса цыплёнка замороженный",
+                "masterData": {
+                    "slug": "nabor-dla-bulona-iz-masa-cyplenka-zamorozennyj",
+                    "plu": "4413696",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Пельмени с цыпленком без глютена Зелёная Линия, 350г",
+                "masterData": {
+                    "slug": "pelmeni-s-cyplenkom-bez-glutena-zelenaa-linia-350g",
+                    "plu": "4306428",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Щёки телячьи томлёные замороженные, 300г",
+                "masterData": {
+                    "slug": "seki-telaci-tomlenye-zamorozennye-300g",
+                    "plu": "4402370",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Вок Dostaевский со свининой и лапшой удон, 320г",
+                "masterData": {
+                    "slug": "vok-dostaevskij-so-svininoj-i-lapsoj-udon-320g",
+                    "plu": "4424335",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Эклер крем чиз замороженный, 150г",
+                "masterData": {
+                    "slug": "ekler-krem-ciz-zamorozennyj-150g",
+                    "plu": "4279939",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Бульон ProBulion куриный замороженный, 500мл",
+                "masterData": {
+                    "slug": "bulon-probulion-kurinyj-zamorozennyj-500ml",
+                    "plu": "4418693",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Навага потрошёная обезглавленная замороженная, 800г",
+                "masterData": {
+                    "slug": "navaga-potrosenaa-obezglavlennaa-zamorozennaa-800g",
+                    "plu": "4415070",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Печень Наш Кролик кролика замороженная, 500г",
+                "masterData": {
+                    "slug": "pecen-nas-krolik-krolika-zamorozennaa-500g",
+                    "plu": "4299241",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Кета Москва на Волне стейк слабосолёный замороженный, 1кг",
+                "masterData": {
+                    "slug": "keta-moskva-na-volne-stejk-slabosolenyj-zamorozennyj-1kg",
+                    "plu": "4352790",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Говядина томлёная с кавказскими травами замороженная, 260г",
+                "masterData": {
+                    "slug": "govadina-tomlenaa-s-kavkazskimi-travami-zamorozennaa-260g",
+                    "plu": "4402371",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Вок Dostaевский с тигровыми креветками и лапшой удон, 320г",
+                "masterData": {
+                    "slug": "vok-dostaevskij-s-tigrovymi-krevetkami-i-lapsoj-udon-320g",
+                    "plu": "4424337",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Курица Фросток карри с рисом, 250г",
+                "masterData": {
+                    "slug": "kurica-frostok-karri-s-risom-250g",
+                    "plu": "4405232",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Вок Dostaевский курица терияки-удон, 320г",
+                "masterData": {
+                    "slug": "vok-dostaevskij-kurica-teriaki-udon-320g",
+                    "plu": "4424333",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Тофники Fitdelice кокосовые замороженные, 260г",
+                "masterData": {
+                    "slug": "tofniki-fitdelice-kokosovye-zamorozennye-260g",
+                    "plu": "4355381",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Тесто Брауни для печенья замороженое, 300г",
+                "masterData": {
+                    "slug": "testo-brauni-dla-pecena-zamorozenoe-300g",
+                    "plu": "4387094",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Дамплинги Bibigo Plantable с грибами замороженные, 420г",
+                "masterData": {
+                    "slug": "damplingi-bibigo-plantable-s-gribami-zamorozennye-420g",
+                    "plu": "4380628",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветка Fish & More Ваннамей в панировке, 500г",
+                "masterData": {
+                    "slug": "krevetka-fish-more-vannamej-v-panirovke-500g",
+                    "plu": "4418458",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Вок Dostaевский с говядиной и лапшой удон, 320г",
+                "masterData": {
+                    "slug": "vok-dostaevskij-s-govadinoj-i-lapsoj-udon-320g",
+                    "plu": "4424327",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Зубатка пестрая замороженная Люди Любят",
+                "masterData": {
+                    "slug": "zubatka-pestraa-zamorozennaa-ludi-lubat",
+                    "plu": "4352488",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Хачапури Dostaевский лодочка, 410г",
+                "masterData": {
+                    "slug": "hacapuri-dostaevskij-lodocka-410g",
+                    "plu": "4423525",
+                    "unitName": "шт",
+                    "weight": 410,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Нерка Москва на Волне стейк слабосолёный замороженный, 1кг",
+                "masterData": {
+                    "slug": "nerka-moskva-na-volne-stejk-slabosolenyj-zamorozennyj-1kg",
+                    "plu": "4352792",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Сырники Фросток с соусом яблоко-апельсин, 250г",
+                "masterData": {
+                    "slug": "syrniki-frostok-s-sousom-abloko-apelsin-250g",
+                    "plu": "4405237",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Основа для коктейля Nice Ice пьяная вишня безалкогольная, 200г",
+                "masterData": {
+                    "slug": "osnova-dla-koktejla-nice-ice-panaa-visna-bezalkogolnaa-200g",
+                    "plu": "4389615",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Креветки неразделанные варёно-мороженые 70/90, 1кг",
+                "masterData": {
+                    "slug": "krevetki-nerazdelannye-vareno-morozenye-70-90-1kg",
+                    "plu": "4357329",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Плов Фросток с курицей замороженный, 240г",
+                "masterData": {
+                    "slug": "plov-frostok-s-kuricej-zamorozennyj-240g",
+                    "plu": "4405231",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Тушка цыплёнка-бройлера 1 сорт потрошёная замороженная зерновой откорм",
+                "masterData": {
+                    "slug": "tuska-cyplenka-brojlera-1-sort-potrosenaa-zamorozennaa-zernovoj-otkorm",
+                    "plu": "4341461",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Фрикадельки Веско Мини из мяса цыплёнка бройлера замороженные, 450г",
+                "masterData": {
+                    "slug": "frikadelki-vesko-mini-iz-masa-cyplenka-brojlera-zamorozennye-450g",
+                    "plu": "4384676",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Пирог Дагестанские Фермерские Продукты Дагестанский Чуду с домашним сыром замороженный, 400г",
+                "masterData": {
+                    "slug": "pirog-dagestanskie-fermerskie-produkty-dagestanskij-cudu-s-domasnim-syrom-zamorozennyj-400g",
+                    "plu": "4383924",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Крабовое мясо Vici замороженное, 220г",
+                "masterData": {
+                    "slug": "krabovoe-maso-vici-zamorozennoe-220g",
+                    "plu": "3406480",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Морепродукты Agama Паэлья с морепродуктами рисом и овощами, 320г",
+                "masterData": {
+                    "slug": "moreprodukty-agama-paela-s-moreproduktami-risom-i-ovosami-320g",
+                    "plu": "4269452",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Креветки северные Aurora 70-90 неразделанные варёно-мороженные, 500г",
+                "masterData": {
+                    "slug": "krevetki-severnye-aurora-70-90-nerazdelannye-vareno-morozennye-500g",
+                    "plu": "4236464",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Торт Шоколадно-малиновый замороженный, 550г",
+                "masterData": {
+                    "slug": "tort-sokoladno-malinovyj-zamorozennyj-550g",
+                    "plu": "4279940",
+                    "unitName": "шт",
+                    "weight": 550,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Тыква резаная быстрозамороженная Маркет, 400г",
+                "masterData": {
+                    "slug": "tykva-rezanaa-bystrozamorozennaa-market-400g",
+                    "plu": "4273103",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Мясо трубача Nord Mile в вакуумной упаковке замороженное, 300г",
+                "masterData": {
+                    "slug": "maso-trubaca-nord-mile-v-vakuumnoj-upakovke-zamorozennoe-300g",
+                    "plu": "4362120",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Язык говяжий замороженный",
+                "masterData": {
+                    "slug": "azyk-govazij-zamorozennyj",
+                    "plu": "4088926",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Голубцы Домашние категории Д замороженные, 1кг",
+                "masterData": {
+                    "slug": "golubcy-domasnie-kategorii-d-zamorozennye-1kg",
+                    "plu": "4356114",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Крем-суп Фросток томатный с базиликом замороженный, 300г",
+                "masterData": {
+                    "slug": "krem-sup-frostok-tomatnyj-s-bazilikom-zamorozennyj-300g",
+                    "plu": "4345485",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Курица Фросток По-Итальянски замороженная, 260г",
+                "masterData": {
+                    "slug": "kurica-frostok-po-italanski-zamorozennaa-260g",
+                    "plu": "4348785",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пирог Дагестанские Фермерские Продукты Дагестанский Чуду с говядиной категории Б замороженны, 400г",
+                "masterData": {
+                    "slug": "pirog-dagestanskie-fermerskie-produkty-dagestanskij-cudu-s-govadinoj-kategorii-b-zamorozenny-400g",
+                    "plu": "4383925",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Головы цыплят-бройлеров замороженные",
+                "masterData": {
+                    "slug": "golovy-cyplat-brojlerov-zamorozennye",
+                    "plu": "4229139",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Торт Топ Шеф Медовик замороженный, 450г",
+                "masterData": {
+                    "slug": "tort-top-sef-medovik-zamorozennyj-450g",
+                    "plu": "3923137",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Осьминоги целые очищенные мороженые Люди Любят, 300г",
+                "masterData": {
+                    "slug": "osminogi-celye-ocisennye-morozenye-ludi-lubat-300g",
+                    "plu": "4404458",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Краб Стригун-Опилио варено-мороженный, 250г",
+                "masterData": {
+                    "slug": "krab-strigun-opilio-vareno-morozennyj-250g",
+                    "plu": "4389046",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Кольца кальмара Fish & More в панировке обжаренные, 500г",
+                "masterData": {
+                    "slug": "kolca-kalmara-fish-more-v-panirovke-obzarennye-500g",
+                    "plu": "4323528",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Курица Фросток в кисло-сладком соусе замороженная, 300г",
+                "masterData": {
+                    "slug": "kurica-frostok-v-kislo-sladkom-souse-zamorozennaa-300g",
+                    "plu": "4359353",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Чизкейк Cheeseberry New York замороженный, 400г",
+                "masterData": {
+                    "slug": "cizkejk-cheeseberry-new-york-zamorozennyj-400g",
+                    "plu": "4371297",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Малина Agama быстрозамороженная, 200г",
+                "masterData": {
+                    "slug": "malina-agama-bystrozamorozennaa-200g",
+                    "plu": "4379649",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Медальоны Владимир Рыба из форели радужной и филе минтая мороженые, 300г",
+                "masterData": {
+                    "slug": "medalony-vladimir-ryba-iz-foreli-raduznoj-i-file-mintaa-morozenye-300g",
+                    "plu": "4406213",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Роллы Bibigo со стеклянной лапшой в темпуре замороженные, 400г",
+                "masterData": {
+                    "slug": "rolly-bibigo-so-steklannoj-lapsoj-v-tempure-zamorozennye-400g",
+                    "plu": "4375460",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Улитка Азов Трейд в раковинах в соусе Песто варено-мороженная, 170г",
+                "masterData": {
+                    "slug": "ulitka-azov-trejd-v-rakovinah-v-souse-pesto-vareno-morozennaa-170g",
+                    "plu": "4322732",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Смесь Планета Витаминов Римская овощная быстрозамороженная, 400г",
+                "masterData": {
+                    "slug": "smes-planeta-vitaminov-rimskaa-ovosnaa-bystrozamorozennaa-400g",
+                    "plu": "4275364",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Уха Фросток По-Фински замороженная, 300г",
+                "masterData": {
+                    "slug": "uha-frostok-po-finski-zamorozennaa-300g",
+                    "plu": "4359665",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Паэлья И Зимой И Летом с курицей и морепродуктами, 400г",
+                "masterData": {
+                    "slug": "paela-i-zimoj-i-letom-s-kuricej-i-moreproduktami-400g",
+                    "plu": "4341142",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Клемы Вонголе в раковине варёно-мороженые, 500г",
+                "masterData": {
+                    "slug": "klemy-vongole-v-rakovine-vareno-morozenye-500g",
+                    "plu": "4380440",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Мини дамплинги Bibigo со свининой и огурцом замороженные, 250г",
+                "masterData": {
+                    "slug": "mini-damplingi-bibigo-so-svininoj-i-ogurcom-zamorozennye-250g",
+                    "plu": "4406751",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Сибас Fish & More филе с кожей замороженное категории А, 240г",
+                "masterData": {
+                    "slug": "sibas-fish-more-file-s-kozej-zamorozennoe-kategorii-a-240g",
+                    "plu": "4309038",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пангасиус Fish & More филе без кожи замороженное, 500г",
+                "masterData": {
+                    "slug": "pangasius-fish-more-file-bez-kozi-zamorozennoe-500g",
+                    "plu": "4410633",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Ролл Кимбап с вешенками-овощами-фунчозой, 230г",
+                "masterData": {
+                    "slug": "roll-kimbap-s-vesenkami-ovosami-funcozoj-230g",
+                    "plu": "4413415",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Шарики Papa Boba из тапиоки для бабл-ти замороженные, 200г",
+                "masterData": {
+                    "slug": "sariki-papa-boba-iz-tapioki-dla-babl-ti-zamorozennye-200g",
+                    "plu": "4407312",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Рис Bibigo жареный с кимчи и сыром замороженный, 510г",
+                "masterData": {
+                    "slug": "ris-bibigo-zarenyj-s-kimci-i-syrom-zamorozennyj-510g",
+                    "plu": "4380626",
+                    "unitName": "шт",
+                    "weight": 510,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Изделие макаронное Scro Lasagne Шпинат Рикотта замороженное, 300г",
+                "masterData": {
+                    "slug": "izdelie-makaronnoe-scro-lasagne-spinat-rikotta-zamorozennoe-300g",
+                    "plu": "4385708",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пельмени из мяса кролика Зелёная Линия, 500г",
+                "masterData": {
+                    "slug": "pelmeni-iz-masa-krolika-zelenaa-linia-500g",
+                    "plu": "4281829",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветки Vici Премиум По-Средиземноморски белоногие очищенные в соусе замороженные, 500г",
+                "masterData": {
+                    "slug": "krevetki-vici-premium-po-sredizemnomorski-belonogie-ocisennye-v-souse-zamorozennye-500g",
+                    "plu": "4407730",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Филе морского гребешка Delight мороженое очищенное, 185г",
+                "masterData": {
+                    "slug": "file-morskogo-grebeska-delight-morozenoe-ocisennoe-185g",
+                    "plu": "4284171",
+                    "unitName": "шт",
+                    "weight": 185,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Ролл Кимбап свинина-овощи, 230г",
+                "masterData": {
+                    "slug": "roll-kimbap-svinina-ovosi-230g",
+                    "plu": "4413413",
+                    "unitName": "шт",
+                    "weight": 230,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Шеи Озёрка утят замороженные, 1кг",
+                "masterData": {
+                    "slug": "sei-ozerka-utat-zamorozennye-1kg",
+                    "plu": "4339506",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Чизкейк Cheeseberry New York с клубникой замороженный, 400г",
+                "masterData": {
+                    "slug": "cizkejk-cheeseberry-new-york-s-klubnikoj-zamorozennyj-400g",
+                    "plu": "4371296",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Нерка Фландерр медальоны мороженые, 300г",
+                "masterData": {
+                    "slug": "nerka-flanderr-medalony-morozenye-300g",
+                    "plu": "4341605",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Крем-суп Фросток из грибов замороженный, 280г",
+                "masterData": {
+                    "slug": "krem-sup-frostok-iz-gribov-zamorozennyj-280g",
+                    "plu": "4359350",
+                    "unitName": "шт",
+                    "weight": 280,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Палтус синекорый филе порционное мороженое Люди Любят, 400г",
+                "masterData": {
+                    "slug": "paltus-sinekoryj-file-porcionnoe-morozenoe-ludi-lubat-400g",
+                    "plu": "4422809",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки Agama Королевские ХХL белоногие неразделанные варено-мороженые, 700г",
+                "masterData": {
+                    "slug": "krevetki-agama-korolevskie-hhl-belonogie-nerazdelannye-vareno-morozenye-700g",
+                    "plu": "4376373",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Фрикадельки Novoferma Классические из мяса птицы замороженные, 500г",
+                "masterData": {
+                    "slug": "frikadelki-novoferma-klassiceskie-iz-masa-pticy-zamorozennye-500g",
+                    "plu": "4374606",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мясо, птица",
+                    "id": 420
+                }
+            },
+            {
+                "title": "Угорь жареный ломтики в соусе унаги мороженый, 200г",
+                "masterData": {
+                    "slug": "ugor-zarenyj-lomtiki-v-souse-unagi-morozenyj-200g",
+                    "plu": "4370405",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветки Polar Королевские белоногие неразделанные сыромороженые 40/50, 500г",
+                "masterData": {
+                    "slug": "krevetki-polar-korolevskie-belonogie-nerazdelannye-syromorozenye-40-50-500g",
+                    "plu": "4364088",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Суп Фросток Фо-Бо замороженный, 300г",
+                "masterData": {
+                    "slug": "sup-frostok-fo-bo-zamorozennyj-300g",
+                    "plu": "4358443",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Спагетти Фросток Болоньезе замороженные, 270г",
+                "masterData": {
+                    "slug": "spagetti-frostok-boloneze-zamorozennye-270g",
+                    "plu": "4345482",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Феттучини Фросток в томатном соусе с моцареллой замороженное, 260г",
+                "masterData": {
+                    "slug": "fettucini-frostok-v-tomatnom-souse-s-mocarelloj-zamorozennoe-260g",
+                    "plu": "4360079",
+                    "unitName": "шт",
+                    "weight": 260,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Крем-суп Фросток тыквенный замороженный, 300г",
+                "masterData": {
+                    "slug": "krem-sup-frostok-tykvennyj-zamorozennyj-300g",
+                    "plu": "4359668",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Тесто песочное для ванильного печенья замороженное Маркет Collection, 400г",
+                "masterData": {
+                    "slug": "testo-pesocnoe-dla-vanilnogo-pecena-zamorozennoe-market-collection-400g",
+                    "plu": "4385876",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Креветки Polar северные неразделанные с пряностями 60/80 замороженные, 400г",
+                "masterData": {
+                    "slug": "krevetki-polar-severnye-nerazdelannye-s-pranostami-60-80-zamorozennye-400g",
+                    "plu": "4344842",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Шашлык Кинг Фрост из креветок, 400г",
+                "masterData": {
+                    "slug": "saslyk-king-frost-iz-krevetok-400g",
+                    "plu": "4210605",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Кальмар командорский Polar замороженный неочищенная тушка, 500г",
+                "masterData": {
+                    "slug": "kalmar-komandorskij-polar-zamorozennyj-neocisennaa-tuska-500g",
+                    "plu": "3690396",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Основа Nice Ice Бодрый Русский безалкогольная для коктейля, 200г",
+                "masterData": {
+                    "slug": "osnova-nice-ice-bodryj-russkij-bezalkogolnaa-dla-koktejla-200g",
+                    "plu": "4379842",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Лапша Фросток куриная замороженная, 300г",
+                "masterData": {
+                    "slug": "lapsa-frostok-kurinaa-zamorozennaa-300g",
+                    "plu": "4358141",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пицца Римская с гребешком и авокадо в соусе Юдзу замороженная Маркет Collection, 440г",
+                "masterData": {
+                    "slug": "picca-rimskaa-s-grebeskom-i-avokado-v-souse-udzu-zamorozennaa-market-collection-440g",
+                    "plu": "4386593",
+                    "unitName": "шт",
+                    "weight": 440,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Лапша Фросток куриная замороженная, 1кг",
+                "masterData": {
+                    "slug": "lapsa-frostok-kurinaa-zamorozennaa-1kg",
+                    "plu": "4359031",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пельмени Мельников из курицы с сыром замороженные, 500г",
+                "masterData": {
+                    "slug": "pelmeni-melnikov-iz-kuricy-s-syrom-zamorozennye-500g",
+                    "plu": "4400124",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Десерт Monterra Sorbet Passion Fruit & Mango взбитый с маракуйя и кусочками манго замороженный, 300г",
+                "masterData": {
+                    "slug": "desert-monterra-sorbet-passion-fruit-mango-vzbityj-s-marakuja-i-kusockami-mango-zamorozennyj-300g",
+                    "plu": "4252325",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Клецки Токпокки рисовые со сладко-острым соусом, 373г",
+                "masterData": {
+                    "slug": "klecki-tokpokki-risovye-so-sladko-ostrym-sousom-373g",
+                    "plu": "4413418",
+                    "unitName": "шт",
+                    "weight": 373,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветки северные Fish & More варёно-мороженые, 750г",
+                "masterData": {
+                    "slug": "krevetki-severnye-fish-more-vareno-morozenye-750g",
+                    "plu": "3686756",
+                    "unitName": "шт",
+                    "weight": 750,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Полуфабрикат Hipelly растительный замороженный в тесте, 700г",
+                "masterData": {
+                    "slug": "polufabrikat-hipelly-rastitelnyj-zamorozennyj-v-teste-700g",
+                    "plu": "4252995",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Чизкейк Cheeseberry New-York с малиной замороженный, 1кг",
+                "masterData": {
+                    "slug": "cizkejk-cheeseberry-new-york-s-malinoj-zamorozennyj-1kg",
+                    "plu": "4356615",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Блинчики Sибирская Коллекция с картофелем и грибами замороженные, 225г",
+                "masterData": {
+                    "slug": "blinciki-sibirskaa-kollekcia-s-kartofelem-i-gribami-zamorozennye-225g",
+                    "plu": "4376285",
+                    "unitName": "шт",
+                    "weight": 225,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Микс овощей с шампиньонами для итальянской фриттаты замороженный Маркет, 300г",
+                "masterData": {
+                    "slug": "miks-ovosej-s-sampinonami-dla-italanskoj-frittaty-zamorozennyj-market-300g",
+                    "plu": "4372350",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Корн-дог в картофельной панировке с сосиской с сыром, 100г",
+                "masterData": {
+                    "slug": "korn-dog-v-kartofelnoj-panirovke-s-sosiskoj-s-syrom-100g",
+                    "plu": "4413421",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Треска Borealis Бакаляо По-Мурмански атлантическая филе с кожей замороженная, 600г",
+                "masterData": {
+                    "slug": "treska-borealis-bakalao-po-murmanski-atlanticeskaa-file-s-kozej-zamorozennaa-600g",
+                    "plu": "4406364",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Смесь грибов лесных резаных быстрозамороженных Маркет, 300г",
+                "masterData": {
+                    "slug": "smes-gribov-lesnyh-rezanyh-bystrozamorozennyh-market-300g",
+                    "plu": "4278476",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Спагетти Фросток Карбонара замороженные, 275г",
+                "masterData": {
+                    "slug": "spagetti-frostok-karbonara-zamorozennye-275g",
+                    "plu": "4359035",
+                    "unitName": "шт",
+                    "weight": 275,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Суп Фросток Харчо замороженный, 300г",
+                "masterData": {
+                    "slug": "sup-frostok-harco-zamorozennyj-300g",
+                    "plu": "4359667",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Изделие макаронное Scro Lasagne Четыре Сыра замороженное, 300г",
+                "masterData": {
+                    "slug": "izdelie-makaronnoe-scro-lasagne-cetyre-syra-zamorozennoe-300g",
+                    "plu": "4385706",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Дамплинги Bibigo с Чапче замороженные, 250г",
+                "masterData": {
+                    "slug": "damplingi-bibigo-s-capce-zamorozennye-250g",
+                    "plu": "4409764",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Смесь овощная Bonduelle Фасулье овощи по-турецки замороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-bonduelle-fasule-ovosi-po-turecki-zamorozennaa-400g",
+                    "plu": "4087616",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Мидии Vici чилийские мясо варено-мороженые, 500г",
+                "masterData": {
+                    "slug": "midii-vici-cilijskie-maso-vareno-morozenye-500g",
+                    "plu": "4363513",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Лёд Nice Ice Мохито, 500мл",
+                "masterData": {
+                    "slug": "led-nice-ice-mohito-500ml",
+                    "plu": "4317722",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Смесь овощная Овощи для жарки быстрозамороженная Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-ovosi-dla-zarki-bystrozamorozennaa-market-perekrestok-400g",
+                    "plu": "3489168",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пиццы Дальрыбпром Ассорти Маргарита - 4 Сыра - Пепперони замороженные, 450г",
+                "masterData": {
+                    "slug": "piccy-dalrybprom-assorti-margarita-4-syra-pepperoni-zamorozennye-450g",
+                    "plu": "4387832",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Наггетсы Сытый Папа рыбные тресковые с сыром, 250г",
+                "masterData": {
+                    "slug": "naggetsy-sytyj-papa-rybnye-treskovye-s-syrom-250g",
+                    "plu": "4273495",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Окунь морской филе на коже мороженый Люди Любят, 500г",
+                "masterData": {
+                    "slug": "okun-morskoj-file-na-koze-morozenyj-ludi-lubat-500g",
+                    "plu": "4334005",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Основа Nice Ice Чикибамбони для коктейля безалкогольная, 200г",
+                "masterData": {
+                    "slug": "osnova-nice-ice-cikibamboni-dla-koktejla-bezalkogolnaa-200g",
+                    "plu": "4389614",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Сырники Фросток Классические замороженные, 270г",
+                "masterData": {
+                    "slug": "syrniki-frostok-klassiceskie-zamorozennye-270g",
+                    "plu": "4405236",
+                    "unitName": "шт",
+                    "weight": 270,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Котлеты Vici рыбные в хрустящей корочке замороженные, 480г",
+                "masterData": {
+                    "slug": "kotlety-vici-rybnye-v-hrustasej-korocke-zamorozennye-480g",
+                    "plu": "4032674",
+                    "unitName": "шт",
+                    "weight": 480,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Тунец желтоперый филе-кусочки без кожи мороженый Люди Любят, 500г",
+                "masterData": {
+                    "slug": "tunec-zeltoperyj-file-kusocki-bez-kozi-morozenyj-ludi-lubat-500g",
+                    "plu": "4364734",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Круассаны Nutella с начинкой замороженные, 340г",
+                "masterData": {
+                    "slug": "kruassany-nutella-s-nacinkoj-zamorozennye-340g",
+                    "plu": "4410504",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Креветки Королевские Ваннамей без головы в панцире мороженые 16/20 Люди Любят, 500г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-vannamej-bez-golovy-v-pancire-morozenye-16-20-ludi-lubat-500g",
+                    "plu": "4385593",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Бобы Эдамаме замороженные Маркет Collection, 300г",
+                "masterData": {
+                    "slug": "boby-edamame-zamorozennye-market-collection-300g",
+                    "plu": "4372351",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Хек ВкусАрт тушка замороженная, 800г",
+                "masterData": {
+                    "slug": "hek-vkusart-tuska-zamorozennaa-800g",
+                    "plu": "4252873",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Перец Домашний фаршированный категории Д замороженный, 1кг",
+                "masterData": {
+                    "slug": "perec-domasnij-farsirovannyj-kategorii-d-zamorozennyj-1kg",
+                    "plu": "4356113",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Картофель Батат сладкий резаный быстрозамороженный Маркет Collection, 300г",
+                "masterData": {
+                    "slug": "kartofel-batat-sladkij-rezanyj-bystrozamorozennyj-market-collection-300g",
+                    "plu": "4391826",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Римская с форелью, креветкой и брокколи с лимонно-горчичным соусом замороженная Маркет Collection, 480г",
+                "masterData": {
+                    "slug": "picca-rimskaa-s-forelu-krevetkoj-i-brokkoli-s-limonno-gorcicnym-sousom-zamorozennaa-market-collection-480g",
+                    "plu": "4386599",
+                    "unitName": "шт",
+                    "weight": 480,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Брусника замороженная Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "brusnika-zamorozennaa-zelenaa-linia-300g",
+                    "plu": "4390834",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Креветки Люди Любят Королевские белоногие неразделанные варёно-мороженые 50/70, 850г",
+                "masterData": {
+                    "slug": "krevetki-ludi-lubat-korolevskie-belonogie-nerazdelannye-vareno-morozenye-50-70-850g",
+                    "plu": "4379877",
+                    "unitName": "шт",
+                    "weight": 850,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Наггетсы Мираторг Классические сырные замороженные, 250г",
+                "masterData": {
+                    "slug": "naggetsy-miratorg-klassiceskie-syrnye-zamorozennye-250g",
+                    "plu": "4256888",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Наггетсы Сибирская коллекция из мяса птицы детские запечённые замороженные, 250г",
+                "masterData": {
+                    "slug": "naggetsy-sibirskaa-kollekcia-iz-masa-pticy-detskie-zapecennye-zamorozennye-250g",
+                    "plu": "4345741",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Черешня Планета Витаминов без косточки быстрозамороженная, 250г",
+                "masterData": {
+                    "slug": "ceresna-planeta-vitaminov-bez-kostocki-bystrozamorozennaa-250g",
+                    "plu": "4225271",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Дамплинги Бибиго кинг-сайз со вкусом барбекю замороженные, 390г",
+                "masterData": {
+                    "slug": "damplingi-bibigo-king-sajz-so-vkusom-barbeku-zamorozennye-390g",
+                    "plu": "4380633",
+                    "unitName": "шт",
+                    "weight": 390,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Блинчики Сибирская коллекция с творогом замороженные, 400г",
+                "masterData": {
+                    "slug": "blinciki-sibirskaa-kollekcia-s-tvorogom-zamorozennye-400g",
+                    "plu": "4111251",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветка  Nord Mile Магаданская северная неразделанная варено-мороженая 50/80, 500г",
+                "masterData": {
+                    "slug": "krevetka-nord-mile-magadanskaa-severnaa-nerazdelannaa-vareno-morozenaa-50-80-500g",
+                    "plu": "4362236",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пирожки спиральные Loniki фило с сыром фета шпинатом и оливковым маслом замороженные, 500г",
+                "masterData": {
+                    "slug": "pirozki-spiralnye-loniki-filo-s-syrom-feta-spinatom-i-olivkovym-maslom-zamorozennye-500g",
+                    "plu": "3986701",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Опята быстрозамороженные Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "opata-bystrozamorozennye-market-perekrestok-400g",
+                    "plu": "3489171",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Наггетсы Золотой петушок Традиционные из мяса цыплёнка, 300г",
+                "masterData": {
+                    "slug": "naggetsy-zolotoj-petusok-tradicionnye-iz-masa-cyplenka-300g",
+                    "plu": "3219069",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Микс овощей Шакшука для восточного завтрака замороженный Маркет, 300г",
+                "masterData": {
+                    "slug": "miks-ovosej-saksuka-dla-vostocnogo-zavtraka-zamorozennyj-market-300g",
+                    "plu": "4372349",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Римская Четыре Сыра с ароматом трюфеля замороженная Маркет Collection, 380г",
+                "masterData": {
+                    "slug": "picca-rimskaa-cetyre-syra-s-aromatom-trufela-zamorozennaa-market-collection-380g",
+                    "plu": "4370550",
+                    "unitName": "шт",
+                    "weight": 380,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Основа Zotman для римской пиццы, 250г",
+                "masterData": {
+                    "slug": "osnova-zotman-dla-rimskoj-piccy-250g",
+                    "plu": "4408954",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Блины Морозко с мясом замороженные, 370г",
+                "masterData": {
+                    "slug": "bliny-morozko-s-masom-zamorozennye-370g",
+                    "plu": "3342904",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветки аргентинские красные Vici Luxury 41/50 свежемороженые, 750г",
+                "masterData": {
+                    "slug": "krevetki-argentinskie-krasnye-vici-luxury-41-50-svezemorozenye-750g",
+                    "plu": "3627766",
+                    "unitName": "шт",
+                    "weight": 750,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Котлеты Hi растительные замороженные, 200г",
+                "masterData": {
+                    "slug": "kotlety-hi-rastitelnye-zamorozennye-200g",
+                    "plu": "4377352",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Основа Nice Ice Манго-Маракуйя безалкогольная для коктейля, 200г",
+                "masterData": {
+                    "slug": "osnova-nice-ice-mango-marakuja-bezalkogolnaa-dla-koktejla-200g",
+                    "plu": "4423722",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Борщ Фросток замороженный, 300г",
+                "masterData": {
+                    "slug": "bors-frostok-zamorozennyj-300g",
+                    "plu": "4358140",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Торт Топ Шеф Миндальный замороженный, 350г",
+                "masterData": {
+                    "slug": "tort-top-sef-mindalnyj-zamorozennyj-350g",
+                    "plu": "3653170",
+                    "unitName": "шт",
+                    "weight": 350,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Треска атлантическая Borealis стейк замороженный, 600г",
+                "masterData": {
+                    "slug": "treska-atlanticeskaa-borealis-stejk-zamorozennyj-600g",
+                    "plu": "4023639",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Смесь овощная Бондюэль Вок овощи по-азиатски замороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-bonduel-vok-ovosi-po-aziatski-zamorozennaa-400g",
+                    "plu": "4087615",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Крабовые палочки Vici замороженные, 220г",
+                "masterData": {
+                    "slug": "krabovye-palocki-vici-zamorozennye-220g",
+                    "plu": "3406474",
+                    "unitName": "шт",
+                    "weight": 220,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Морепродукты",
+                    "id": 387
+                }
+            },
+            {
+                "title": "Пирог Ioniki Филло с сыром фета шпинатом и оливковом маслом спиральный замороженный, 850г",
+                "masterData": {
+                    "slug": "pirog-ioniki-fillo-s-syrom-feta-spinatom-i-olivkovom-maslom-spiralnyj-zamorozennyj-850g",
+                    "plu": "4358755",
+                    "unitName": "шт",
+                    "weight": 850,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Цыпленок 4 Сезона По-мексикански быстрозамороженный, 600г",
+                "masterData": {
+                    "slug": "cyplenok-4-sezona-po-meksikanski-bystrozamorozennyj-600g",
+                    "plu": "697",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Спаржа целая замороженная Маркет Collection, 300г",
+                "masterData": {
+                    "slug": "sparza-celaa-zamorozennaa-market-collection-300g",
+                    "plu": "4369295",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Том ям Фросток с креветками замороженный, 300г",
+                "masterData": {
+                    "slug": "tom-am-frostok-s-krevetkami-zamorozennyj-300g",
+                    "plu": "4359664",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Скумбрия атлантическая Borealis неразделанная замороженная, 1000г",
+                "masterData": {
+                    "slug": "skumbria-atlanticeskaa-borealis-nerazdelannaa-zamorozennaa-1000g",
+                    "plu": "4135488",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Минтай Vici Fish Day филе порции в нежном кляре обжаренные замороженные, 240г",
+                "masterData": {
+                    "slug": "mintaj-vici-fish-day-file-porcii-v-neznom-klare-obzarennye-zamorozennye-240g",
+                    "plu": "4097746",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Фарш Люди любят из минтая замороженный, 400г",
+                "masterData": {
+                    "slug": "fars-ludi-lubat-iz-mintaa-zamorozennyj-400g",
+                    "plu": "4350399",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Блинчики Sибирская Коллекция с куриным филе и сыром замороженные, 400г",
+                "masterData": {
+                    "slug": "blinciki-sibirskaa-kollekcia-s-kurinym-file-i-syrom-zamorozennye-400g",
+                    "plu": "4408479",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Чебурек с ветчиной и сыром Маркет, 125г",
+                "masterData": {
+                    "slug": "ceburek-s-vetcinoj-i-syrom-market-125g",
+                    "plu": "4402483",
+                    "unitName": "шт",
+                    "weight": 125,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Судак филе на коже мороженый Люди Любят, 400г",
+                "masterData": {
+                    "slug": "sudak-file-na-koze-morozenyj-ludi-lubat-400g",
+                    "plu": "4334006",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Хачапури Давняя Традиция По-Аджарски замороженное, 400г",
+                "masterData": {
+                    "slug": "hacapuri-davnaa-tradicia-po-adzarski-zamorozennoe-400g",
+                    "plu": "4321906",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Кутабы Давняя Традиция с сыром замороженные, 300г",
+                "masterData": {
+                    "slug": "kutaby-davnaa-tradicia-s-syrom-zamorozennye-300g",
+                    "plu": "4321911",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Креветки Люди Любят Королевские белоногие неразделанные варёно-мороженые 50/70, 500г",
+                "masterData": {
+                    "slug": "krevetki-ludi-lubat-korolevskie-belonogie-nerazdelannye-vareno-morozenye-50-70-500g",
+                    "plu": "4379876",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Торт Almondy Milka шоколадный с фундуком замороженный, 400г",
+                "masterData": {
+                    "slug": "tort-almondy-milka-sokoladnyj-s-fundukom-zamorozennyj-400g",
+                    "plu": "4410503",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Коктейль морской Ассорти подсоленный Люди Любят, 400г",
+                "masterData": {
+                    "slug": "koktejl-morskoj-assorti-podsolennyj-ludi-lubat-400g",
+                    "plu": "4364732",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени Мираторг Мясные категории Б, 700г",
+                "masterData": {
+                    "slug": "pelmeni-miratorg-masnye-kategorii-b-700g",
+                    "plu": "4329097",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Кольца кальмара командорского замороженные Люди Любят, 500г",
+                "masterData": {
+                    "slug": "kolca-kalmara-komandorskogo-zamorozennye-ludi-lubat-500g",
+                    "plu": "4384756",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Булочки Bibigo Бао со свининой замороженные, 320г",
+                "masterData": {
+                    "slug": "bulocki-bibigo-bao-so-svininoj-zamorozennye-320g",
+                    "plu": "4372071",
+                    "unitName": "шт",
+                    "weight": 320,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Лазанья Золотой Петушок с соусом Болоньез, 370г",
+                "masterData": {
+                    "slug": "lazana-zolotoj-petusok-s-sousom-bolonez-370g",
+                    "plu": "2120574",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Блинчики С Пылу с Жару фаршированные с малиной замороженные, 360г",
+                "masterData": {
+                    "slug": "blinciki-s-pylu-s-zaru-farsirovannye-s-malinoj-zamorozennye-360g",
+                    "plu": "4371228",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Малина быстрозамороженная Маркет, 300г",
+                "masterData": {
+                    "slug": "malina-bystrozamorozennaa-market-300g",
+                    "plu": "4315997",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Шпинат резаный быстрозамороженный Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "spinat-rezanyj-bystrozamorozennyj-market-perekrestok-400g",
+                    "plu": "4150062",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Римская Крудо Мясная замороженная Маркет Collection, 450г",
+                "masterData": {
+                    "slug": "picca-rimskaa-krudo-masnaa-zamorozennaa-market-collection-450g",
+                    "plu": "4370544",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Мидии в створках Agama в собственном соку варёно-мороженые, 450г",
+                "masterData": {
+                    "slug": "midii-v-stvorkah-agama-v-sobstvennom-soku-vareno-morozenye-450g",
+                    "plu": "3359360",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Котлеты кальмаровые Доброфлот, 340г",
+                "masterData": {
+                    "slug": "kotlety-kalmarovye-dobroflot-340g",
+                    "plu": "4217548",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветки Вкус Арт Ваннамей в панцире без вены замороженные, 500г",
+                "masterData": {
+                    "slug": "krevetki-vkus-art-vannamej-v-pancire-bez-veny-zamorozennye-500g",
+                    "plu": "4371402",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени Мельников Сибирские замороженные, 500г",
+                "masterData": {
+                    "slug": "pelmeni-melnikov-sibirskie-zamorozennye-500g",
+                    "plu": "4192522",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Малина Franui в белом и тёмном шоколаде замороженная, 150г",
+                "masterData": {
+                    "slug": "malina-franui-v-belom-i-temnom-sokolade-zamorozennaa-150g",
+                    "plu": "4402363",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Блины С Пылу с Жару с вишней, 360г",
+                "masterData": {
+                    "slug": "bliny-s-pylu-s-zaru-s-visnej-360g",
+                    "plu": "3269961",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Картофель Fry Me По-деревенски ароматная паприка замороженный, 700г",
+                "masterData": {
+                    "slug": "kartofel-fry-me-po-derevenski-aromatnaa-paprika-zamorozennyj-700g",
+                    "plu": "4130924",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Черника замороженная Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "cernika-zamorozennaa-zelenaa-linia-300g",
+                    "plu": "4390796",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Улитка Азов Трейд По-бургундскив чесночном соусе, 170г",
+                "masterData": {
+                    "slug": "ulitka-azov-trejd-po-burgundskiv-cesnocnom-souse-170g",
+                    "plu": "3366608",
+                    "unitName": "шт",
+                    "weight": 170,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Тунец желтоперый филе-кусок без кожи мороженый Люди Любят, 400г",
+                "masterData": {
+                    "slug": "tunec-zeltoperyj-file-kusok-bez-kozi-morozenyj-ludi-lubat-400g",
+                    "plu": "4364733",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Круассаны La Reine для выпечки замороженные, 420г",
+                "masterData": {
+                    "slug": "kruassany-la-reine-dla-vypecki-zamorozennye-420g",
+                    "plu": "3490441",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Палтус Borealis синекорый стейк, 400г",
+                "masterData": {
+                    "slug": "paltus-borealis-sinekoryj-stejk-400g",
+                    "plu": "4318710",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Вареники с творогом замороженные Маркет Перекрёсток, 450г",
+                "masterData": {
+                    "slug": "vareniki-s-tvorogom-zamorozennye-market-perekrestok-450g",
+                    "plu": "3641576",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Мидии Люди Любят чилийские варёно-мороженые, 500г",
+                "masterData": {
+                    "slug": "midii-ludi-lubat-cilijskie-vareno-morozenye-500g",
+                    "plu": "4385335",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки аргентинские очищенные свежемороженые 60/80 Люди Любят, 400г",
+                "masterData": {
+                    "slug": "krevetki-argentinskie-ocisennye-svezemorozenye-60-80-ludi-lubat-400g",
+                    "plu": "4367793",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Наггетсы Мираторг куриные, 250г",
+                "masterData": {
+                    "slug": "naggetsy-miratorg-kurinye-250g",
+                    "plu": "4279631",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Лазанья Золотой Петушок Четыре сыра, 370г",
+                "masterData": {
+                    "slug": "lazana-zolotoj-petusok-cetyre-syra-370g",
+                    "plu": "2120576",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветки королевские Vici Приорити 50/70 варёно-мороженые, 1кг",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-vici-prioriti-50-70-vareno-morozenye-1kg",
+                    "plu": "3432111",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Наггетсы Вязанка Сливушки с филе индейки, 250г",
+                "masterData": {
+                    "slug": "naggetsy-vazanka-slivuski-s-file-indejki-250g",
+                    "plu": "4057693",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Гребешок Люди Любят дальневосточный мороженый филе, 250г",
+                "masterData": {
+                    "slug": "grebesok-ludi-lubat-dalnevostocnyj-morozenyj-file-250g",
+                    "plu": "4371008",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Лед Nice Ice пищевой, 500мл",
+                "masterData": {
+                    "slug": "led-nice-ice-pisevoj-500ml",
+                    "plu": "4298521",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": 500
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Вареники с вишней замороженные Маркет Перекрёсток, 450г",
+                "masterData": {
+                    "slug": "vareniki-s-visnej-zamorozennye-market-perekrestok-450g",
+                    "plu": "3641577",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Кальмар Borealis Командорский тушка без кожи замороженный, 500г",
+                "masterData": {
+                    "slug": "kalmar-borealis-komandorskij-tuska-bez-kozi-zamorozennyj-500g",
+                    "plu": "4122013",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Зразы От Ильиной картофельные с грибами, 500г",
+                "masterData": {
+                    "slug": "zrazy-ot-ilinoj-kartofelnye-s-gribami-500g",
+                    "plu": "70727",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Камбала желтоперая филе порционное мороженое Люди Любят, 400г",
+                "masterData": {
+                    "slug": "kambala-zeltoperaa-file-porcionnoe-morozenoe-ludi-lubat-400g",
+                    "plu": "4351941",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени Цезарь Гордость Сибири, 800г",
+                "masterData": {
+                    "slug": "pelmeni-cezar-gordost-sibiri-800g",
+                    "plu": "3666702",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Филе минтая в панировке мороженое Люди Любят, 228г",
+                "masterData": {
+                    "slug": "file-mintaa-v-panirovke-morozenoe-ludi-lubat-228g",
+                    "plu": "4383527",
+                    "unitName": "шт",
+                    "weight": 228,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Тилапия Люди Любят филе без кожи мороженое, 500г",
+                "masterData": {
+                    "slug": "tilapia-ludi-lubat-file-bez-kozi-morozenoe-500g",
+                    "plu": "4362606",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Форель замороженная стейк",
+                "masterData": {
+                    "slug": "forel-zamorozennaa-stejk",
+                    "plu": "4410128",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки Люди Любят Королевские белоногие без головы свежемороженые 31/40, 850г",
+                "masterData": {
+                    "slug": "krevetki-ludi-lubat-korolevskie-belonogie-bez-golovy-svezemorozenye-31-40-850g",
+                    "plu": "4379878",
+                    "unitName": "шт",
+                    "weight": 850,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Капуста брюссельская быстрозамороженная Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "kapusta-brusselskaa-bystrozamorozennaa-market-perekrestok-400g",
+                    "plu": "3489150",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Сырники От Ильиной По-Домашнему, 300г",
+                "masterData": {
+                    "slug": "syrniki-ot-ilinoj-po-domasnemu-300g",
+                    "plu": "3225220",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Чебуреки Горячая штучка со свининой и говядиной, 360г",
+                "masterData": {
+                    "slug": "cebureki-goracaa-stucka-so-svininoj-i-govadinoj-360g",
+                    "plu": "3454946",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Мясной Дворик сибирские деликатесные халяль, 800г",
+                "masterData": {
+                    "slug": "pelmeni-masnoj-dvorik-sibirskie-delikatesnye-halal-800g",
+                    "plu": "3508003",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветки Королевские очищенные без пищевода с хвостом 26/30 замороженные, 500г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-ocisennye-bez-pisevoda-s-hvostom-26-30-zamorozennye-500g",
+                    "plu": "4359390",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Смесь овощная Vитамин Итальянская быстрозамороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-vitamin-italanskaa-bystrozamorozennaa-400g",
+                    "plu": "3415969",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Zotman Четыре сыра замороженная, 295г",
+                "masterData": {
+                    "slug": "picca-zotman-cetyre-syra-zamorozennaa-295g",
+                    "plu": "4386158",
+                    "unitName": "шт",
+                    "weight": 295,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Пицца Zotman Ice Груша и горгонзола, 415г",
+                "masterData": {
+                    "slug": "picca-zotman-ice-grusa-i-gorgonzola-415g",
+                    "plu": "4216530",
+                    "unitName": "шт",
+                    "weight": 415,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Пирог Давняя Традиция Осетинский с сыром замороженный, 450г",
+                "masterData": {
+                    "slug": "pirog-davnaa-tradicia-osetinskij-s-syrom-zamorozennyj-450g",
+                    "plu": "4321913",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Клюква дикорастущая замороженная Зелёная Линия, 300г",
+                "masterData": {
+                    "slug": "klukva-dikorastusaa-zamorozennaa-zelenaa-linia-300g",
+                    "plu": "4390795",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пельмени Sибирская Коллекция Сочные со сливочным маслом категории В, 360г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-socnye-so-slivocnym-maslom-kategorii-v-360g",
+                    "plu": "4395601",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Облепиха быстрозамороженная Маркет Перекрёсток, 300г",
+                "masterData": {
+                    "slug": "oblepiha-bystrozamorozennaa-market-perekrestok-300g",
+                    "plu": "4135307",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Cибирская коллекция Classic замороженная, 365г",
+                "masterData": {
+                    "slug": "picca-cibirskaa-kollekcia-classic-zamorozennaa-365g",
+                    "plu": "4308776",
+                    "unitName": "шт",
+                    "weight": 365,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Малина Franui в белом и молочном шоколаде замороженная, 150г",
+                "masterData": {
+                    "slug": "malina-franui-v-belom-i-molocnom-sokolade-zamorozennaa-150g",
+                    "plu": "4402362",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Креветки Vici Королевские варено-мороженные 450 г",
+                "masterData": {
+                    "slug": "krevetki-vici-korolevskie-vareno-morozennye-450-g",
+                    "plu": "3970776",
+                    "unitName": "шт",
+                    "weight": 450,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени Горячая штучка Бульмени Мини с мясом и оливковым маслом, 700г",
+                "masterData": {
+                    "slug": "pelmeni-goracaa-stucka-bulmeni-mini-s-masom-i-olivkovym-maslom-700g",
+                    "plu": "4402090",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Горбуша Люди Любят филе порционное замороженое, 400г",
+                "masterData": {
+                    "slug": "gorbusa-ludi-lubat-file-porcionnoe-zamorozenoe-400g",
+                    "plu": "4351939",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Тесто дрожжевое замороженное Маркет, 500г",
+                "masterData": {
+                    "slug": "testo-drozzevoe-zamorozennoe-market-500g",
+                    "plu": "4359637",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Вареники От Ильиной Элитные с картофелем и грибами, 400г",
+                "masterData": {
+                    "slug": "vareniki-ot-ilinoj-elitnye-s-kartofelem-i-gribami-400g",
+                    "plu": "4024126",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Гедза Yoshimi со свининой замороженные, 520г",
+                "masterData": {
+                    "slug": "gedza-yoshimi-so-svininoj-zamorozennye-520g",
+                    "plu": "4233661",
+                    "unitName": "шт",
+                    "weight": 520,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пельмени Cибирская Коллекция со сливками категория В, 700г",
+                "masterData": {
+                    "slug": "pelmeni-cibirskaa-kollekcia-so-slivkami-kategoria-v-700g",
+                    "plu": "4075006",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Палочки рыбные из филе минтая в панировке мороженые Люди Любят, 250г",
+                "masterData": {
+                    "slug": "palocki-rybnye-iz-file-mintaa-v-panirovke-morozenye-ludi-lubat-250g",
+                    "plu": "4383526",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Форель Люди Любят радужная филе-кусок с кожей замороженная, 400г",
+                "masterData": {
+                    "slug": "forel-ludi-lubat-raduznaa-file-kusok-s-kozej-zamorozennaa-400g",
+                    "plu": "4340995",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пицца Сибирская коллекция Meat Lovers мясная замороженная, 420г",
+                "masterData": {
+                    "slug": "picca-sibirskaa-kollekcia-meat-lovers-masnaa-zamorozennaa-420g",
+                    "plu": "4315697",
+                    "unitName": "шт",
+                    "weight": 420,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Филе минтая в кляре замороженное Люди Любят, 300г",
+                "masterData": {
+                    "slug": "file-mintaa-v-klare-zamorozennoe-ludi-lubat-300g",
+                    "plu": "4387324",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Малина Frambini в белом и темном шоколаде замороженная, 130г",
+                "masterData": {
+                    "slug": "malina-frambini-v-belom-i-temnom-sokolade-zamorozennaa-130g",
+                    "plu": "4390418",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Блины С Пылу с Жару с творогом, 360г",
+                "masterData": {
+                    "slug": "bliny-s-pylu-s-zaru-s-tvorogom-360g",
+                    "plu": "3273892",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветки Бухта изобилия Королевские 50/70 варено-мороженые, 1кг",
+                "masterData": {
+                    "slug": "krevetki-buhta-izobilia-korolevskie-50-70-vareno-morozenye-1kg",
+                    "plu": "3642960",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Смесь овощей Agama По-Деревенски замороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosej-agama-po-derevenski-zamorozennaa-400g",
+                    "plu": "4379635",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Смесь овощная Vитамин Испанская с соусом Ривейра быстрозамороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-vitamin-ispanskaa-s-sousom-rivejra-bystrozamorozennaa-400g",
+                    "plu": "3377662",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Zotman Цыпленок Барбекю замороженная, 360г",
+                "masterData": {
+                    "slug": "picca-zotman-cyplenok-barbeku-zamorozennaa-360g",
+                    "plu": "4409556",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Пельмени с говядиной и свининой Зелёная Линия, 800г",
+                "masterData": {
+                    "slug": "pelmeni-s-govadinoj-i-svininoj-zelenaa-linia-800g",
+                    "plu": "4105908",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Сибирская Коллекция Сочные с фаршем на молоке категории В замороженные, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-socnye-s-farsem-na-moloke-kategorii-v-zamorozennye-700g",
+                    "plu": "4117267",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Цезарь отборные категория Б замороженные, 700г",
+                "masterData": {
+                    "slug": "pelmeni-cezar-otbornye-kategoria-b-zamorozennye-700g",
+                    "plu": "4020035",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Капуста цветная быстрозамороженная Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "kapusta-cvetnaa-bystrozamorozennaa-market-perekrestok-400g",
+                    "plu": "3489152",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Наггетсы Вязанка Сливушки с куриным филе, 250г",
+                "masterData": {
+                    "slug": "naggetsy-vazanka-slivuski-s-kurinym-file-250g",
+                    "plu": "4057687",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Тушка кальмара командорского очищенная замороженная Люди Любят, 500г",
+                "masterData": {
+                    "slug": "tuska-kalmara-komandorskogo-ocisennaa-zamorozennaa-ludi-lubat-500g",
+                    "plu": "4355942",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Смородина черная быстрозамороженная Маркет, 300г",
+                "masterData": {
+                    "slug": "smorodina-cernaa-bystrozamorozennaa-market-300g",
+                    "plu": "4272209",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца La Trattoria 4 сыра, 335г",
+                "masterData": {
+                    "slug": "picca-la-trattoria-4-syra-335g",
+                    "plu": "3477959",
+                    "unitName": "шт",
+                    "weight": 335,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Котлеты Мираторг со сливочным маслом и зеленью из мяса кур запеченные замороженные, 360г",
+                "masterData": {
+                    "slug": "kotlety-miratorg-so-slivocnym-maslom-i-zelenu-iz-masa-kur-zapecennye-zamorozennye-360g",
+                    "plu": "4376978",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветка Ваннамей Fish & More свежемороженая, 500г",
+                "masterData": {
+                    "slug": "krevetka-vannamej-fish-more-svezemorozenaa-500g",
+                    "plu": "4078304",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Стрипсы куриные Мираторг с сыром и розмарином, 340г",
+                "masterData": {
+                    "slug": "stripsy-kurinye-miratorg-s-syrom-i-rozmarinom-340g",
+                    "plu": "3434308",
+                    "unitName": "шт",
+                    "weight": 340,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Лазанья мясная Золотой Петушок, 370г",
+                "masterData": {
+                    "slug": "lazana-masnaa-zolotoj-petusok-370g",
+                    "plu": "2157530",
+                    "unitName": "шт",
+                    "weight": 370,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Смесь овощная Agama Овощной Квартет замороженна, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-agama-ovosnoj-kvartet-zamorozenna-400g",
+                    "plu": "4379636",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Треска атлантическая филе без кожи замороженная Люди Любят",
+                "masterData": {
+                    "slug": "treska-atlanticeskaa-file-bez-kozi-zamorozennaa-ludi-lubat",
+                    "plu": "4352492",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Лёд Коктейльная Вечеринка  Premium Quality в термопакете для коктейлей, 1кг",
+                "masterData": {
+                    "slug": "led-koktejlnaa-vecerinka-premium-quality-v-termopakete-dla-koktejlej-1kg",
+                    "plu": "4114833",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Лёд",
+                    "id": 422
+                }
+            },
+            {
+                "title": "Фондю 4 Сезона Эменталь, 600г",
+                "masterData": {
+                    "slug": "fondu-4-sezona-emental-600g",
+                    "plu": "3054891",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Смесь овощная Мексиканская быстрозамороженная Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-meksikanskaa-bystrozamorozennaa-market-perekrestok-400g",
+                    "plu": "3489165",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Блины С Пылу с Жару с мясом, 360г",
+                "masterData": {
+                    "slug": "bliny-s-pylu-s-zaru-s-masom-360g",
+                    "plu": "3273891",
+                    "unitName": "шт",
+                    "weight": 360,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пельмени Мясной Дворик таёжные халяль, 800г",
+                "masterData": {
+                    "slug": "pelmeni-masnoj-dvorik-taeznye-halal-800g",
+                    "plu": "3508004",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Смесь овощная Agama Брокколи и Цветная замороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-agama-brokkoli-i-cvetnaa-zamorozennaa-400g",
+                    "plu": "4379638",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Креветки королевские очищенные с хвостом варёно-мороженые 31/40 Люди Любят, 500г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-ocisennye-s-hvostom-vareno-morozenye-31-40-ludi-lubat-500g",
+                    "plu": "4385594",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пицца Zotman Ice Маргарита, 390г",
+                "masterData": {
+                    "slug": "picca-zotman-ice-margarita-390g",
+                    "plu": "4216525",
+                    "unitName": "шт",
+                    "weight": 390,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Клубника быстрозамороженная Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "klubnika-bystrozamorozennaa-market-perekrestok-400g",
+                    "plu": "3489160",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Треска атлантическая филе порционное мороженое Люди Любят, 400г",
+                "masterData": {
+                    "slug": "treska-atlanticeskaa-file-porcionnoe-morozenoe-ludi-lubat-400g",
+                    "plu": "4358015",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени с индейкой Зелёная Линия, 800г",
+                "masterData": {
+                    "slug": "pelmeni-s-indejkoj-zelenaa-linia-800g",
+                    "plu": "4105907",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пицца La Trattoria Пепперони, 335г",
+                "masterData": {
+                    "slug": "picca-la-trattoria-pepperoni-335g",
+                    "plu": "3477958",
+                    "unitName": "шт",
+                    "weight": 335,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Фасоль стручковая резаная быстрозамороженная Маркет Перекрёсток, 400г",
+                "masterData": {
+                    "slug": "fasol-struckovaa-rezanaa-bystrozamorozennaa-market-perekrestok-400g",
+                    "plu": "3489153",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Филе рыбное Vici Дальневосточное в панировке, 300г",
+                "masterData": {
+                    "slug": "file-rybnoe-vici-dalnevostocnoe-v-panirovke-300g",
+                    "plu": "3492203",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Креветки королевские Fish & More очищенные с хвостом, 860г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-fish-more-ocisennye-s-hvostom-860g",
+                    "plu": "4012971",
+                    "unitName": "шт",
+                    "weight": 860,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Картофель Fry Me Классический Фри замороженный, 700г",
+                "masterData": {
+                    "slug": "kartofel-fry-me-klassiceskij-fri-zamorozennyj-700g",
+                    "plu": "4138523",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Наггетсы Мираторг куриные хрустящие замороженные, 250г",
+                "masterData": {
+                    "slug": "naggetsy-miratorg-kurinye-hrustasie-zamorozennye-250g",
+                    "plu": "4409829",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пицца Zotman Ice Баварская мясная, 465г",
+                "masterData": {
+                    "slug": "picca-zotman-ice-bavarskaa-masnaa-465g",
+                    "plu": "4216527",
+                    "unitName": "шт",
+                    "weight": 465,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Гедза Yoshimi с курицей замороженные, 520г",
+                "masterData": {
+                    "slug": "gedza-yoshimi-s-kuricej-zamorozennye-520g",
+                    "plu": "4233662",
+                    "unitName": "шт",
+                    "weight": 520,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Паэлья 4 Сезона, 600г",
+                "masterData": {
+                    "slug": "paela-4-sezona-600g",
+                    "plu": "728",
+                    "unitName": "шт",
+                    "weight": 600,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Картофель Фри замороженный Маркет, 700г",
+                "masterData": {
+                    "slug": "kartofel-fri-zamorozennyj-market-700g",
+                    "plu": "4326042",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Малина Frambini в белом и молочном шоколаде замороженная, 130г",
+                "masterData": {
+                    "slug": "malina-frambini-v-belom-i-molocnom-sokolade-zamorozennaa-130g",
+                    "plu": "4390417",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Мороженое, десерты",
+                    "id": 421
+                }
+            },
+            {
+                "title": "Креветка Вкус Арт Ваннамей очищенная без вены с хвостом замороженная, 500г",
+                "masterData": {
+                    "slug": "krevetka-vkus-art-vannamej-ocisennaa-bez-veny-s-hvostom-zamorozennaa-500g",
+                    "plu": "4292180",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Чебупели Горячая Штучка сочные с мясом, 240г",
+                "masterData": {
+                    "slug": "cebupeli-goracaa-stucka-socnye-s-masom-240g",
+                    "plu": "4396957",
+                    "unitName": "шт",
+                    "weight": 240,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пельмени с курицей Зелёная Линия, 500г",
+                "masterData": {
+                    "slug": "pelmeni-s-kuricej-zelenaa-linia-500g",
+                    "plu": "4105906",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Смесь овощная Agama Гавайская с рисом замороженная, 400г",
+                "masterData": {
+                    "slug": "smes-ovosnaa-agama-gavajskaa-s-risom-zamorozennaa-400g",
+                    "plu": "4379639",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Брокколи быстрозамороженная Маркет, 400г",
+                "masterData": {
+                    "slug": "brokkoli-bystrozamorozennaa-market-400g",
+                    "plu": "3489151",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пельмени Сибирская Коллекция фирменные категория В, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-firmennye-kategoria-v-700g",
+                    "plu": "3693418",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Наггетсы Мираторг куриные с сыром замороженные, 250г",
+                "masterData": {
+                    "slug": "naggetsy-miratorg-kurinye-s-syrom-zamorozennye-250g",
+                    "plu": "4409830",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Кордон блю Мираторг с ветчиной и сыром, 405г",
+                "masterData": {
+                    "slug": "kordon-blu-miratorg-s-vetcinoj-i-syrom-405g",
+                    "plu": "3434303",
+                    "unitName": "шт",
+                    "weight": 405,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Пельмени Мираторг Black Angus из мраморной говядины, 700г",
+                "masterData": {
+                    "slug": "pelmeni-miratorg-black-angus-iz-mramornoj-govadiny-700g",
+                    "plu": "4409833",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Sибирская Коллекция с мраморной говядиной категории В замороженные, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-s-mramornoj-govadinoj-kategorii-v-zamorozennye-700g",
+                    "plu": "4376302",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Хотстеры Горячая штучка, 250г",
+                "masterData": {
+                    "slug": "hotstery-goracaa-stucka-250g",
+                    "plu": "3435321",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Готовые блюда",
+                    "id": 1226
+                }
+            },
+            {
+                "title": "Вареники Сибирская Коллекция с картофелем и лисичками замороженные, 700г",
+                "masterData": {
+                    "slug": "vareniki-sibirskaa-kollekcia-s-kartofelem-i-lisickami-zamorozennye-700g",
+                    "plu": "4025422",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Сибирская Коллекция классические категория В, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-klassiceskie-kategoria-v-700g",
+                    "plu": "3693404",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Чебурек с мясом замороженный Маркет, 180г",
+                "masterData": {
+                    "slug": "ceburek-s-masom-zamorozennyj-market-180g",
+                    "plu": "4034848",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Тесто слоёное Звёздное дрожжевое, 500г",
+                "masterData": {
+                    "slug": "testo-sloenoe-zvezdnoe-drozzevoe-500g",
+                    "plu": "35541",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Пельмени Сибирская Коллекция телячьи категория Б, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-telaci-kategoria-b-700g",
+                    "plu": "3985043",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Вишня без косточки замороженная Маркет, 300г",
+                "masterData": {
+                    "slug": "visna-bez-kostocki-zamorozennaa-market-300g",
+                    "plu": "4342877",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Овощи, фрукты",
+                    "id": 418
+                }
+            },
+            {
+                "title": "Пицца Zotman Ice Пепперони, 400г",
+                "masterData": {
+                    "slug": "picca-zotman-ice-pepperoni-400g",
+                    "plu": "4216524",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Дамплинги Bibigo королевские замороженные, 385г",
+                "masterData": {
+                    "slug": "damplingi-bibigo-korolevskie-zamorozennye-385g",
+                    "plu": "3933167",
+                    "unitName": "шт",
+                    "weight": 385,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Мясной Дворик фирменные халяль, 800г",
+                "masterData": {
+                    "slug": "pelmeni-masnoj-dvorik-firmennye-halal-800g",
+                    "plu": "3508006",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветки Polar 70/90 варёно-мороженые, 1кг",
+                "masterData": {
+                    "slug": "krevetki-polar-70-90-vareno-morozenye-1kg",
+                    "plu": "3495300",
+                    "unitName": "шт",
+                    "weight": 1000,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени Sибирская Коллекция Иркутские Традиции категории Б замороженные мини, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-irkutskie-tradicii-kategorii-b-zamorozennye-mini-700g",
+                    "plu": "4404676",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Треска атлантическая филе спинки без кожи замороженная Люди Любят",
+                "masterData": {
+                    "slug": "treska-atlanticeskaa-file-spinki-bez-kozi-zamorozennaa-ludi-lubat",
+                    "plu": "4352493",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Пельмени Горячая Штучка Бульмени с говядиной и свининой, 700г",
+                "masterData": {
+                    "slug": "pelmeni-goracaa-stucka-bulmeni-s-govadinoj-i-svininoj-700g",
+                    "plu": "4354319",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Тесто слоёное Звёздное бездрожжевое, 500г",
+                "masterData": {
+                    "slug": "testo-sloenoe-zvezdnoe-bezdrozzevoe-500g",
+                    "plu": "7314",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Пельмени Сибирская Коллекция мини с телятиной категория Б, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-mini-s-telatinoj-kategoria-b-700g",
+                    "plu": "3693337",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Сибирская Коллекция домашние категория В, 700г",
+                "masterData": {
+                    "slug": "pelmeni-sibirskaa-kollekcia-domasnie-kategoria-v-700g",
+                    "plu": "3985042",
+                    "unitName": "шт",
+                    "weight": 700,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Наггетсы Мираторг Классические куриные, 250г",
+                "masterData": {
+                    "slug": "naggetsy-miratorg-klassiceskie-kurinye-250g",
+                    "plu": "4410803",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Пельмени Цезарь Классика, 800г",
+                "masterData": {
+                    "slug": "pelmeni-cezar-klassika-800g",
+                    "plu": "3666703",
+                    "unitName": "шт",
+                    "weight": 800,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пельмени, котлеты",
+                    "id": 417
+                }
+            },
+            {
+                "title": "Креветки королевские Бухта Изобилия варёно-мороженые очищенные, 300г",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-buhta-izobilia-vareno-morozenye-ocisennye-300g",
+                    "plu": "3641931",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Филе Люди любят минтая без кожи порционное мороженое, 400г",
+                "masterData": {
+                    "slug": "file-ludi-lubat-mintaa-bez-kozi-porcionnoe-morozenoe-400g",
+                    "plu": "4350402",
+                    "unitName": "шт",
+                    "weight": 400,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Чебупицца Горячая штучка пепперони, 250г",
+                "masterData": {
+                    "slug": "cebupicca-goracaa-stucka-pepperoni-250g",
+                    "plu": "3416332",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Пицца, тесто",
+                    "id": 847
+                }
+            },
+            {
+                "title": "Креветки северные неразделанные варено-мороженые",
+                "masterData": {
+                    "slug": "krevetki-severnye-nerazdelannye-vareno-morozenye",
+                    "plu": "4343270",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            },
+            {
+                "title": "Креветки королевские 50/70 замороженные неразделанные",
+                "masterData": {
+                    "slug": "krevetki-korolevskie-50-70-zamorozennye-nerazdelannye",
+                    "plu": "69215",
+                    "unitName": "кг",
+                    "weight": null,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Рыба, креветки",
+                    "id": 419
+                }
+            }
+        ]
+    }
+}
