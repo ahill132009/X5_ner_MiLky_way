@@ -12,3 +12,5 @@ __MACOSX
 __pycache__
 venv3.10/
 catboost_info/%  
+nlp_models/
+models/
