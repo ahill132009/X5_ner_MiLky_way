@@ -8,5 +8,5 @@ class RequestPredict(BaseModel):
 class NerEntity(BaseModel):
     entity: Tuple[int, int, str]
 
-class Entities(BaseModel):
-    entities: List[Optional[Tuple[int, int, str]]]
+# class Entities(BaseModel):
+#     entities: List[Optional[Tuple[int, int, str]]]
