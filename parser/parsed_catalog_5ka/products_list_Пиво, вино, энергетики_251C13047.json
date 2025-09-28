@@ -1,0 +1,1588 @@
+{
+    "category_id": "251C13047",
+    "category_name": "Пиво, вино, энергетики",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 4225898,
+                "name": "Вино Free Feather безалкогольное газированное сладкое белое 0.75л",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225897,
+                "name": "Вино Free Feather Chardonnay безалкогольное полусладкое белое 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3638866,
+                "name": "Пиво безалкогольное Афанасий Марочное светлое 0.5%, 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3655527,
+                "name": "Пиво Bud светлое безалкогольное 0.5% 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4306104,
+                "name": "Напиток энергетический Aziano Energy Fly тонизирующий газированный 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4306102,
+                "name": "Напиток энергетический Aziano Energy Power тонизирующий газированный 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4309989,
+                "name": "Напиток энергетический Gorilla Lychee pear газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3980643,
+                "name": "Напиток XXI Power Isotonic со вкусом ананаса для спортивного питания негазированный 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4235564,
+                "name": "Напиток пивной безалкогольный Доктор Дизель Премиум Лагер 0.43л",
+                "property": "430 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4166844,
+                "name": "Вино игристое OddBird Spumante Veneto белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124247,
+                "name": "Вино игристое Rimuss Rosato розовое сухое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359260,
+                "name": "Вино игристое Carl Jung Mousseux Riesling безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4335963,
+                "name": "Напиток Carl Jung Blanc De Blancs газированный безалкогольный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124248,
+                "name": "Напиток Rimuss Bianco белый сухой безалкогольный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4197666,
+                "name": "Вино Hans Bear Reisling белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3279839,
+                "name": "Шампанское Rimuss Litchi Perl полусухое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124251,
+                "name": "Вино Carl Jung Riesling белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4277323,
+                "name": "Вино Mucho Mas безалкогольное красное полусухое 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124252,
+                "name": "Вино Carl Jung Chardonnay белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124253,
+                "name": "Вино Carl Jung Merllot красное полусухое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4122685,
+                "name": "Вино Vina Albali Sparkling White белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4197670,
+                "name": "Вино Hans Baer Pinot Noir розовое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329407,
+                "name": "Вино Via Mia Сhardonnay полусладкое белое безалкогольное 0.75л",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4122687,
+                "name": "Вино Vina Albali Cabernet Tempranillo красное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4122686,
+                "name": "Вино Vina Albali Sauvignon Blanc белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337125,
+                "name": "Вино Deinhard Green Label Riesling белое полусладкое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4128930,
+                "name": "Вино Bon Voyage Pinot Noir Rose розовое безалкогольный газированный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4277317,
+                "name": "Вино Mucho Mas белое полусухое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4301346,
+                "name": "Напиток Santo Stefano Bianco безалкогольный газированный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337283,
+                "name": "Вино Mio Angelo Bianco белое сладкое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358416,
+                "name": "Напиток Santo Stefano Brut Rose газированный безалкогольный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358415,
+                "name": "Напиток Santo Stefano Bianco газированный безалкогольный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3613206,
+                "name": "Напиток энергетический Red Bull Tropical Edition 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4301344,
+                "name": "Напиток безалкогольный Santo Stefano Rosso газированный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336388,
+                "name": "Напиток Абрау Лайт Розовый газированный безалкогольный  750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3173468,
+                "name": "Напиток энергетический Red Bull 0.473л",
+                "property": "473 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359344,
+                "name": "Пивной напиток Бакунин Каденс Alco-free Pilssner 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4117993,
+                "name": "Пиво Stella Artois светлое безалкогольное 440мл",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2103012,
+                "name": "Напиток энергетический Red Bull без сахара 0.25л",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3931839,
+                "name": "Напиток энергетический Adrenaline Energy Power Game Fuel 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236626,
+                "name": "Пиво Wolpertinger Alcoholfrei светлое фильтрованное пастеризованное безалкогольное 0.5л",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2119252,
+                "name": "Напиток энергетический Red Bull 0.355л",
+                "property": "355 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4368481,
+                "name": "Напиток энергетический Adrenaline Extra 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4206324,
+                "name": "Напиток энергетический Adrenaline Rush без сахара 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39229,
+                "name": "Напиток энергетический Red Bull 0.25л",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3484418,
+                "name": "Пиво Bakalar светлое фильтрованное пастеризованное безалкогольное 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3931836,
+                "name": "Напиток энергетический Adrenaline Rush 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3963457,
+                "name": "Напиток энергетический Flash Up Max 1л",
+                "property": "1 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4315664,
+                "name": "Напиток энергетический Lit Energy Classic газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4315665,
+                "name": "Напиток энергетический Lit Energy Original газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4318100,
+                "name": "Напиток энергетический Lit Energy Blueberry газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3635572,
+                "name": "Напиток энергетический Red Bull Tropical Edition 0.355л",
+                "property": "355 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3931838,
+                "name": "Напиток энергетический Adrenaline Rush Red Ягодная энергия 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3680076,
+                "name": "Напиток энергетический Gorilla 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4369790,
+                "name": "Пивной напиток Two Peaks Back To Balance нефильтрованный неосветленный пастеризованный безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4346917,
+                "name": "Напиток энергетический Flash Up Energy Киви и Карамбола витаминизированный газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4357175,
+                "name": "Напиток энергетический Burn Сочная Энергия газированный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4306615,
+                "name": "Напиток Gorilla Mango Coconut тонизирующий газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3900099,
+                "name": "Напиток энергетический Tornado Max Storm 1л",
+                "property": "1 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4315389,
+                "name": "Напиток энергетический Burn Оригинальный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3441345,
+                "name": "Пиво Clausthaler светлое безалкогольное 0.5% 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199222,
+                "name": "Напиток энергетический Flash Up Ultra Energy газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274186,
+                "name": "Напиток энергетический Volt Energy Голубика-Гранат газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4344713,
+                "name": "Пивной напиток Крушовице Non-Alco Royal безалкогольный 430мл",
+                "property": "430 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4298569,
+                "name": "Напиток энергетический 100кВт Tropic flavor 1л",
+                "property": "1 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3963455,
+                "name": "Напиток энергетический Flash Up 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114990,
+                "name": "Пиво Furstkeg alkoholfrei светлое фильтрованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4307748,
+                "name": "Напиток энергетический 100 KWT Raw Energy газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360726,
+                "name": "Напиток энергетический Jaguar Extra Urban Energy Питахайя и гуава газированный 0.44л",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3503452,
+                "name": "Напиток энергетический Burn яблоко и киви 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4229369,
+                "name": "Напиток Flash Energy со вкусом мятного лайма безалкогольный тонизирующий 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250365,
+                "name": "Напиток Fitness Food Factory WK UP Малина-Мята 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340832,
+                "name": "Напиток Gorilla Сherry berry тонизирующий газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4381431,
+                "name": "Напиток энергетический Tornado Max Energy Original 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4308460,
+                "name": "Напиток энергетический Flash Up Energy Bubble Gum со вкусом банана и клубники безалкогольный газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4380013,
+                "name": "Напиток Lit Energy Cola безалкогольный тонизирующий энергетический 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3653180,
+                "name": "Напиток энергетический Flash Up Energy 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4206144,
+                "name": "Напиток энергетический Red Bull The Blue Edition со вкусом черники 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4335605,
+                "name": "Напиток энергетический Pulseup Energy газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4307763,
+                "name": "Напиток энергетический 100 KWT Energy Berry газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250361,
+                "name": "Напиток энергетический Wk Up Cherry Cola Energy безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 58772,
+                "name": "Напиток энергетический Adrenaline Rush 0.25л",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3963456,
+                "name": "Напиток энергетический Flash Up Energy Ягодный микс газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 51176,
+                "name": "Напиток XXI Power L-Carnitine Ананас газированный 0.5л",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305932,
+                "name": "Напиток энергетический 100кВт Energy газированный 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4017525,
+                "name": "Пиво Жигули Барное Безалкогольное светлое пастеризованное фильтрованное 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4350458,
+                "name": "Напиток пивной Hoegaarden нефильтрованный осветлённый пастеризованный безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4068403,
+                "name": "Пиво Arcobrau Urfass Alkoholfrei светлое фильтрованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339323,
+                "name": "Напиток энергетический Volt Energy Кокос и манго газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4068402,
+                "name": "Пиво Arcobrau Weissbier Hell Alkoholfrei светлое пшеничное нефильтрованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4381429,
+                "name": "Напиток энергетический Tornado Max Energy Coconut 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3983198,
+                "name": "Пиво безалкогольное Stella Artois светлое 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3636389,
+                "name": "Напиток пивной Балтика №0 Пшеничный нефильтрованный безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337314,
+                "name": "Напиток пивной Балтика Безалкогольное малина №0 безалкогольный пастеризованный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295578,
+                "name": "Пиво Жигулевское фирменное светлое фильтрованное пастеризованное безалкогольное 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3909463,
+                "name": "Напиток пивной Балтика №0 Грейпфрут нефильтрованный безалкогольный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4299956,
+                "name": "Напиток энергетический Gorilla Extra Energy тонизирующий газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359345,
+                "name": "Пиво Gletcher Brain Storm светлое фильтрованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4260444,
+                "name": "Пиво Stella Artois светлое пастеризованное безалкогольное 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 8375,
+                "name": "Пиво Clausthaler Classic светлое фильтрованное безалкогольное 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4363397,
+                "name": "Напиток энергетический Tornado Energy Greenapple со вкусом яблока газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4240775,
+                "name": "Пиво Grotwerg светлое фильтрованное пастеризованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250362,
+                "name": "Напиток энергетический Wk Up Guava peach energy безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236632,
+                "name": "Пиво Otto Von Schrodder светлое нефильтрованное безалкогольное 0.5л",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339157,
+                "name": "Напиток энергетический Pulseup Berry Energy газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402313,
+                "name": "Напиток энергетический Gorilla Green Boost газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274184,
+                "name": "Напиток энергетический Volt Energy газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3502293,
+                "name": "Пиво Балтика №0 светлое безалкогольное 0.5% 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4414653,
+                "name": "Напиток энергетический Lit Energy Strawberry bubblegum тонизирующий газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391720,
+                "name": "Напиток энергетический Tornado Max Energy Black 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400625,
+                "name": "Напиток энергетический Drive Me Original газированный 449мл",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3931669,
+                "name": "Напиток энергетический Drive Me Оригинальный 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4397548,
+                "name": "Напиток энергетический Adrenaline Rush Breeze Energy Ice Effect газированный 449мл",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4411409,
+                "name": "Напиток энергетический Volt Energy со вкусом киви и фейхоа пастеризованный газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359262,
+                "name": "Напиток Santo Stefano Rosso газированный безалкогольный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4346918,
+                "name": "Напиток пивной Krone Blanche Biere Alcohol Free пастеризованный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4426030,
+                "name": "Напиток энергетический Lit Energy Raspberry со вкусом малины газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402316,
+                "name": "Напиток энергетический Gorilla Berry Blast 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4413979,
+                "name": "Напиток энергетический Tornado Max Energy Tornadoboots газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400937,
+                "name": "Напиток энергетический Jaguar Extra Urban Energy Йошта и Черника газированный 440мл",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392143,
+                "name": "Напиток тонизирующий Volt Energy Виноград и гуава 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392151,
+                "name": "Пиво Red Finch светлое пастеризованное безалкогольное 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4381430,
+                "name": "Напиток энергетический Tornado Max Energy Razzberry 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4346972,
+                "name": "Напиток энергетический Adrenaline Rush Гуанабана Лайм 449мл",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3661462,
+                "name": "Пиво безалкогольное Жигули Барное светлое 0.5% 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420846,
+                "name": "Напиток энергетический Vulkan Ягодная магма со вкусом малины и граната газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402391,
+                "name": "Напиток энергетический Lit Energy Granat газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4267331,
+                "name": "Пиво Konix Moose Just Moose осветленное нефильтрованное безалкогольное 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4357174,
+                "name": "Напиток энергетический Burn Манго газированный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420848,
+                "name": "Напиток энергетический Vulkan Тропическая лава со вкусом манго и маракуйи газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4348563,
+                "name": "Напиток Volt Energy со вкусом клубники и банана тонизирующий газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4414204,
+                "name": "Напиток энергетический PulseUp Energy тонизирующий газированный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4421109,
+                "name": "Напиток энергетический Flash Up Energy со вкусом банана и фейхоа газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4318099,
+                "name": "Напиток энергетический Lit Energy Mango Coconut безалкогольный тонизирующий газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274175,
+                "name": "Напиток энергетический Volt Energy со вкусом манго и лайма газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4404496,
+                "name": "Напиток энергетический Энергия Руки ВВерх! Ягодный микс газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4373462,
+                "name": "Напиток энергетический Flash Up Energy с кофеином и таурином газированный 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4417529,
+                "name": "Пивной напиток Corona Cero безалкогольный 355мл",
+                "property": "355 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4386114,
+                "name": "Напиток энергетический X-Turbo Active Энергия ягод ежевика-малина 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4404495,
+                "name": "Напиток энергетический Энергия Руки ВВерх! Бабл-Гам газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4386113,
+                "name": "Напиток энергетический X-Turbo Focus energy газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392150,
+                "name": "Пивной напиток Essa Cocolada кокос-манго безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4369823,
+                "name": "Напиток энергетический Adrenaline Rush Игристая энергия 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4414205,
+                "name": "Напиток энергетический PulseUp Frozen Energy тонизирующий газированный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4401813,
+                "name": "Напиток энергетический Burn со вкусом Гуавы газированный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391715,
+                "name": "Напиток энергетический Tornado Max Energy Lemoncake 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374978,
+                "name": "Напиток пивной Балтика Вишня №0 пастеризованный безалкогольный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420850,
+                "name": "Энергетический напиток Vulkan без сахара 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 70862,
+                "name": "Пиво Балтика №0 безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4396119,
+                "name": "Напиток энергетический Jaguar Extra Urban Energy газированный 440мл",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392145,
+                "name": "Напиток энергетический Volt Energy Грейпфрут-Клубника 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4410382,
+                "name": "Пиво Горьковская пивоварня IPA светлое нефильтрованное пастеризованное безалкогольное 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400746,
+                "name": "Напиток энергетический Red Bull The Summer Edition со вкусом белого персика 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391713,
+                "name": "Напиток энергетический Tornado Max Energy Mango тонизирующий газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4371673,
+                "name": "Напиток Abrau Light Pinc газированный безалкогольный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392148,
+                "name": "Напиток пивной Essa Яблоко-Груша безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392144,
+                "name": "Напиток тонизирующий Volt Energy Попкорн 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360725,
+                "name": "Напиток энергетический Jaguar Exstra Urban Energy Маракуйя апельсин газированный 0.44л",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4394859,
+                "name": "Пивной напиток Горьковская Пивоварня Stay Clean Mango&Passion Fruit нефильтрованный безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4144979,
+                "name": "Напиток энергетический Adrenaline Game Fuel Манго 0.449л",
+                "property": "449 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225894,
+                "name": "Напиток Free Feather Merlot красный сладкий безалкогольный 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391719,
+                "name": "Напиток энергетический Tornado Max Energy Bubble тонизирующий газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4371667,
+                "name": "Напиток Abrau Light газированный безалкогольный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4394864,
+                "name": "Пивной напиток Горьковская Пивоварня Rest Day Guava нефильтрованный осветленный безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274174,
+                "name": "Напиток энергетический Volt Energy со вкусом апельсина и маракуйи газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4404497,
+                "name": "Напиток энергетический Энергия Руки ВВерх! Классический газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420849,
+                "name": "Энергетический напиток Vulkan 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4239531,
+                "name": "Пиво Белый Кремль светлое безалкогольное 0% 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4399087,
+                "name": "Вино безалкогольное Доппио Пассо Альтернатива Россо красное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4293058,
+                "name": "Напиток энергетический Gorilla Dragon Fruit Pineapple со вкусом питайи и ананаса газированный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4309746,
+                "name": "Напиток Volt Energy безалкогольный тонизирующий без сахара 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3628377,
+                "name": "Напиток энергетический Red Bull Черника 0.355л",
+                "property": "355 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4385704,
+                "name": "Напиток пивной Open Mind фильтрованный пастеризованный безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3484416,
+                "name": "Пиво Bakalar светлое холодного охмеления безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4308505,
+                "name": "Напиток Flash Up Energy со вкусом манго и ананаса безалкогольный тонизирующий газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4373512,
+                "name": "Напиток энергетический Tassay Energy Гранат 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4373506,
+                "name": "Напиток энергетический Tassay Energy 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352985,
+                "name": "Напиток энергетический Alligator Guava Lime Mint 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3986685,
+                "name": "Пиво Белый Кремль светлое фильтрованное безалкогольное 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070186,
+                "name": "Пиво Горьковская Пивоварня IPA 0.0 светлое нефильтрованное безалкогольное 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400745,
+                "name": "Энергетический напиток Red Bull The Sea Blue Edition со вкусом Ирги газированный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4119292,
+                "name": "Напиток энергетический Red Bull Кокос и ягоды 0.25л",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4396118,
+                "name": "Напиток энергетический Jaguar Extra Urban Energy Ягодный Микс газированный 440мл",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352984,
+                "name": "Напиток энергетический Alligator Mango Coconut 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352982,
+                "name": "Напиток энергетический Alligator Original 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4399089,
+                "name": "Вино Doppio Passo Alternativa Bianco белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402626,
+                "name": "Напиток энергетический Ninja Star Energy Вишня 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4364702,
+                "name": "Вино ZxZ Hiraz красное полусладкое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402840,
+                "name": "Пивной напиток Zatecky Gus безалкогольный 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402627,
+                "name": "Напиток энергетический Ninja Star Energy Персик-Личи 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345560,
+                "name": "Пивной напиток Доктор Дизель Малина и Лайм 0.0 пастеризованный 0.43л",
+                "property": "430 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4135190,
+                "name": "Напиток энергетический Adrenaline Rush 0.33л",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4119291,
+                "name": "Напиток энергетический Red Bull Арбуз 0.25л",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4369880,
+                "name": "Напиток энергетический Jaguar Wild Energy тонизирующий 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345559,
+                "name": "Напиток пивной Dr. Diesel Вишня и персик безалкогольный пастеризованный 0.0% 0.43л",
+                "property": "430 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4351226,
+                "name": "Напиток энергетический Solar Energy Coco Punch Кокос и ананас газированный 430мл",
+                "property": "430 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329411,
+                "name": "Вино Via Mia Rose розовое полусладкое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4412039,
+                "name": "Пиво Горьковская Пивоварня Hoppy Lager светлое нефильтрованное осветленное пастеризованное безалкогольное 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391716,
+                "name": "Напиток энергетический Tornado Max Energy Watermelon 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358414,
+                "name": "Напиток Santo Stefano Brut Rose газированный безалкогольный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391718,
+                "name": "Напиток энергетический Tornado Max Energy Banana 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4369881,
+                "name": "Напиток энергетический Jaguar Live New Energy тонизирующий 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339322,
+                "name": "Напиток энергетический Volt Energy Вишня и кола 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391717,
+                "name": "Напиток энергетический Tornado Max Energy Iceberry 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4391714,
+                "name": "Напиток энергетический Tornado Max Energy Skill 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329412,
+                "name": "Вино Via Mia Rose розовое полусладкое газированное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372315,
+                "name": "Напиток энергетический Tornado Energy Black газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4369879,
+                "name": "Напиток энергетический Jaguar Free Energy тонизирующий 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329410,
+                "name": "Вино Via Mia Cabernet Sauvignon красное полусладкое газированное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4349334,
+                "name": "Напиток энергетический Эу, Пацан со вкусом малина-мята тонизирующий газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340993,
+                "name": "Пиво Free Damm светлое пастеризованное фильтрованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352072,
+                "name": "Напиток энергетический Tornado energy watermelon 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250848,
+                "name": "Пиво Apostel Weissbier Non Alcoholic светлое нефильтрованное безалкогольное 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420847,
+                "name": "Напиток тонизирующий Vulkan со вкусом цитруса и ананаса 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362962,
+                "name": "Напиток энергетический Jaguar Extra Urban Energyсо вкусом киви и кактуса газированный 0.44л",
+                "property": "440 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279866,
+                "name": "Напиток энергетический Tornado Energy Малина газированный 0.45л",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4369882,
+                "name": "Напиток энергетический Jaguar Cult Energy тонизирующий с ягодным вкусом 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321672,
+                "name": "Напиток энергетический E-On Black Power 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329409,
+                "name": "Вино Via Mia Cabernet Sauvignon красное полусладкое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329408,
+                "name": "Вино Via Mia Сhardonnay белое полусладкое газированное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4224002,
+                "name": "Вино Vallformosa белое сладкое газированное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124254,
+                "name": "Вино Carl Jung Cuvée Rot красное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4124255,
+                "name": "Вино Carl Jung Rosé розовое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4149209,
+                "name": "Вино Carl Jung Cabernet Sauvignon красное безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4335965,
+                "name": "Вино Carl Jung Cuvee White белое безалкогольное 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4254269,
+                "name": "Напиток Абрау Лайт Зеро безалкогольный газированный 750мл",
+                "property": "750 мл"
+            }
+        }
+    ]
+}

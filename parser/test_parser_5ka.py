@@ -1,32 +1,48 @@
 from pyaterochka_api import PyaterochkaAPI, PurchaseMode
 import asyncio
-
+import json
+import pickle
 
 async def main():
     async with PyaterochkaAPI(proxy="") as API:
         # RUS: Вводим геоточку (самого магазина или рядом с ним) и получаем инфу о магазине
         # ENG: Enter a geolocation (of the store or near it) and get info about the store
-        # find_store = await API.find_store(longitude=37.63156, latitude=55.73768)
+        # find_store = await API.Geolocation.find_store(longitude=37.63156, latitude=55.73768)
         # print(f"Store info output: {find_store!s:.100s}...\n")
 
         # RUS: Выводит список всех категорий на сайте
         # ENG: Outputs a list of all categories on the site
-        catalog = await API.Catalog.tree(subcategories=True, mode=PurchaseMode.DELIVERY)
-        rjson = catalog.json()
-        print(f"Categories list output: {catalog!s:.100s}...\n")
+        # catalog = await API.Catalog.tree(subcategories=True, mode=PurchaseMode.DELIVERY)
+        # rjson = catalog.json()
+        # with open("parser/5ka_catalog.json", 'w+', encoding="utf-8") as f:
+        #     json.dump(rjson, f, ensure_ascii=False, indent=4)
+        # # print(f"Categories list output: {catalog!s:.100s}...\n")
 
         # RUS: Выводит список всех товаров выбранной категории (ограничение 100 элементов, если превышает - запрашивайте через дополнительные страницы)
         # ENG: Outputs a list of all items in the selected category (limiting to 100 elements, if exceeds - request through additional pages)
         # Страниц не сущетвует, использовать желаемый лимит (до 499) / Pages do not exist, use the desired limit (up to 499)
-        items = await API.Catalog.products_list(rjson[0]['id'], limit=5)
-        print(f"Items list output: {items!s:.100s}...\n")
+        items_raw = await API.Catalog.products_list("251C39483", limit=3)
+        print(items_raw)
+        # ✅ Get the actual data
+        try:
+            items_data = items_raw.json()  # or items_raw if it's already a dict
+        except Exception as e:
+            print(f"Failed to parse: {e}")
+            
+
+        # ✅ Save as JSON (recommended)
+        with open(f"/home/mikhail/Documents/Хакатоны/X5_ner_MiLky_way/parser/test_error.json", "w", encoding="utf-8") as f:
+            json.dump(items_data, f, ensure_ascii=False, indent=2)
+
 
         # RUS: Выводит информацию о товаре (по его plu - id товара).
         # Функция в первый раз достаточно долгая, порядка 5-9 секунды, последующие запросы около 2 секунд (если браузер не был закрыт)
         # ENG: Outputs information about the product (by its plu - product id).
         # The function is quite long the first time, about 5-9 seconds, subsequent requests take about 2 seconds (if the browser was not closed)
-        info = await API.Catalog.Product.info(43347)
-        print(f"Product output: {info["props"]["pageProps"]["props"]['productStore']!s:.100s}...\n")
+        # info = await API.Catalog.Product.info(43347)
+        # with open("parser/5ka_product.json", 'w+', encoding="utf-8") as f:
+        #     json.dump(info, f, ensure_ascii=False, indent=4)
+        # print(f"Product output: {info["props"]["pageProps"]["props"]['productStore']!s:.100s}...\n")
 
         # RUS: Влияет исключительно на функцию выше (product_info), если включено, то после отработки запроса браузер закроется и кеши очищаются.
         # Не рекомендую включать, если вам все же нужно освободить память, лучше использовать API.close(session=False, browser=True)

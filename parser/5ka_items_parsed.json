@@ -1,0 +1,426 @@
+{
+    "parent_id": "251C12884",
+    "name": "Только в доставке",
+    "filters": [
+        {
+            "name": "Цена, ₽",
+            "field_name": "price",
+            "filter_type": "range",
+            "list_values": null,
+            "range_min_val": "34.99",
+            "range_max_val": "1699.00"
+        },
+        {
+            "name": "Бренд",
+            "field_name": "brand",
+            "filter_type": "list",
+            "list_values": {
+                "all": [
+                    "Перекрёсток Select",
+                    "Умное решение",
+                    "Много Лосося",
+                    "У Палыча",
+                    "Fresh Secret",
+                    "Зеленая Линия",
+                    "Alphachef",
+                    "Оранжевая марка",
+                    "Перекусов",
+                    "Арамье",
+                    "Русское море",
+                    "Свели",
+                    "А.Ростагрокомплекс",
+                    "Мираторг",
+                    "Creative Kitchen",
+                    "Арамэ",
+                    "Без бренда",
+                    "Рязанское Мороженое",
+                    "СытоЕдов",
+                    "Шеф Перекресток"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        },
+        {
+            "name": "Со скидкой",
+            "field_name": "special_offers",
+            "filter_type": "toggle",
+            "list_values": {
+                "all": null,
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        }
+    ],
+    "products": [
+        {
+            "plu": 4330128,
+            "name": "Оливье с курицей Fresh Secret 1кг",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1619552-main/320x320.jpeg?updated_at=2025-09-24T17:36:01.084Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1619552-main/800x800.jpeg?updated_at=2025-09-24T17:36:01.084Z",
+                    "https://catalog-images.x5static.net/product/94a1dc85ab5e9f2769577e8fad0fcc4f-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "649.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "3.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 420,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4325199,
+            "name": "Голубцы ленивые Fresh Secret 1кг",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1619556-main/320x320.jpeg?updated_at=2024-10-31T19:32:56.294Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1619556-main/800x800.jpeg?updated_at=2024-10-31T19:32:56.294Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "659.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 420,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 98323,
+            "name": "Хумус Перекусов Классический 150г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1159335-main/320x320.jpeg?updated_at=2025-03-11T20:12:21.063Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1159335-main/800x800.jpeg?updated_at=2025-03-11T20:12:21.063Z",
+                    "https://catalog-images.x5static.net/product/0e0f234c28196b1d5f10a5cbb6503c17-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/53c7db50161d04fac6af74e1909a8f59-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/0806be42c926584651da1b387709e9b6-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/2433b0378a7ce17a193288f770b280aa-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "109.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "150 г",
+            "has_age_restriction": false,
+            "stock_limit": "14.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4317584,
+            "name": "Салат Капуста по-корейски FreshSecret 200г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1622629-main/320x320.jpeg?updated_at=2024-10-31T19:32:56.294Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1622629-main/800x800.jpeg?updated_at=2024-10-31T19:32:56.294Z",
+                    "https://catalog-images.x5static.net/product/081145c070ca59e437e865dc382d6dc0-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": {
+                "econombo": {
+                    "include_categories": [
+                        "251C21614",
+                        "251C21613",
+                        "251C15556"
+                    ]
+                }
+            },
+            "prices": {
+                "regular": "119.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Комбо",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4316730,
+            "name": "Манты с говядиной и свининой FreshSecret 230г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1622635-main/320x320.jpeg?updated_at=2024-10-31T19:33:45.024Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1622635-main/800x800.jpeg?updated_at=2024-10-31T19:33:45.024Z",
+                    "https://catalog-images.x5static.net/product/c354f812c9d99b21577fffb808523d96-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/c79d9ab7d09da8f51d4b0cef4a520c94-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": {
+                "econombo": {
+                    "include_categories": [
+                        "251C21616",
+                        "251C38555",
+                        "251C21613",
+                        "251C38553",
+                        "251C15556"
+                    ]
+                }
+            },
+            "prices": {
+                "regular": "199.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Комбо",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "230 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4316736,
+            "name": "Фрикадельки куриные со спагетти под сливочным соусом Свели  200г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1622637-main/320x320.jpeg?updated_at=2025-09-24T17:35:47.687Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1622637-main/800x800.jpeg?updated_at=2025-09-24T17:35:47.687Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": {
+                "econombo": {
+                    "include_categories": [
+                        "251C21616",
+                        "251C38555",
+                        "251C21613",
+                        "251C38553",
+                        "251C15556"
+                    ]
+                }
+            },
+            "prices": {
+                "regular": "179.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Комбо",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "1.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4325198,
+            "name": "Плов из говядины Fresh Secret 1кг",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1619559-main/320x320.jpeg?updated_at=2024-10-31T19:33:39.935Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1619559-main/800x800.jpeg?updated_at=2024-10-31T19:33:39.935Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "759.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "4.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 490,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4325196,
+            "name": "Навага жареная дальневосточная Fresh Secret 500г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1619548-main/320x320.jpeg?updated_at=2024-10-31T19:33:02.439Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1619548-main/800x800.jpeg?updated_at=2024-10-31T19:33:02.439Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "399.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "2.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4335249,
+            "name": "Блины с яблоком, медом и корицей Перекрёсток Select 240г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1834669-main/320x320.jpeg?updated_at=2025-09-24T17:36:22.769Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1834669-main/800x800.jpeg?updated_at=2025-09-24T17:36:22.769Z",
+                    "https://catalog-images.x5static.net/product/b444c8d737b5f0778e7c2593bcfb7b9c-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/7e5dca83fd51774fcbfcc8bc0234e9b9-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "299.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "240 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4201519,
+            "name": "Сырники жареные Перекрёсток Select 440г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1513467-main/320x320.jpeg?updated_at=2025-03-11T20:33:14.149Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1513467-main/800x800.jpeg?updated_at=2025-03-11T20:33:14.149Z",
+                    "https://catalog-images.x5static.net/product/cf4c852d8baf1a2562c0f410ca4bb274-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "549.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "440 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 350,
+            "is_available": true,
+            "price_piece_unit": null
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+  "parent_id": "251C12884",
+  "name": "Только в доставке",
+  "filters": [
+    {
+      "name": "Цена, ₽",
+      "field_name": "price",
+      "filter_type": "range",
+      "list_values": null,
+      "range_min_val": "34.99",
+      "range_max_val": "1699.00"
+    },
+    {
+      "name": "Бренд",
+      "field_name": "brand",
+      "filter_type": "list",
+      "list_values": {
+        "all": [
+          "Перекрёсток Select",
+          "Умное решение",
+          "Много Лосося",
+          "У Палыча",
+          "Fresh Secret",
+          "Зеленая Линия",
+          "Alphachef",
+          "Оранжевая марка",
+          "Перекусов",
+          "Арамье",
+          "Русское море",
+          "Свели",
+          "А.Ростагрокомплекс",
+          "Мираторг",
+          "Creative Kitchen",
+          "Арамэ",
+          "Без бренда",
+          "Рязанское Мороженое",
+          "СытоЕдов",
+          "Шеф Перекресток"
+        ],
+        "actual": null
+      },
+      "range_min_val": null,
+      "range_max_val": null
+    },
+    {
+      "name": "Со скидкой",
+      "field_name": "special_offers",
+      "filter_type": "toggle",
+      "list_values": {
+        "all": null,
+        "actual": null
+      },
+      "range_min_val": null,
+      "range_max_val": null
+    }
+  ],
+  "products": [
+    {
+      "plu": 4330128,
+      "name": "Оливье с курицей Fresh Secret 1кг",
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1619552-main/320x320.jpeg?updated_at=2025-09-24T17:36:01.084Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1619552-main/800x800.jpeg?updated_at=2025-09-24T17:36:01.084Z",
+          "https://catalog-images.x5static.net/product/94a1dc85ab5e9f2769577e8fad0fcc4f-additional/800x800.jpeg"
+        ]
+      },
+      "uom": "шт",
+      "step": "1.0",
+      "rating": null,
+      "promo": null,
+      "prices": {
+        "regular": "649.99",
+        "discount": null,
+        "cpd_promo_price": null
+      },
+      "labels": null,
+      "property_clarification": "1 кг",
+      "has_age_restriction": false,
+      "stock_limit": "3.00",
+      "badges": [],
+      "initial_weight_step": "1.0",
+      "min_weight": "1.0",
+      "orange_loyalty_points": 420,
+      "is_available": true,
+      "price_piece_unit": null
+    },
+    {
+      "plu": 4325199,
+      "name": "Голубцы ленивые Fresh Secret 1кг",
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1619556-main/320x320.jpeg?updated_at=2024-10-31T19:32:56.294Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1619556-main/800x800.jpeg?updated_at=2024-10-31T19:32:56.294Z"
+        ]
+      },
+      "uom": "шт",
+      "step": "1.0",
+      "rating": null,
+      "promo": null,
+      "prices": {
+        "regular": "659.99",
+        "discount": null,
+        "cpd_promo_price": null
+      },
+      "labels": null,
+      "property_clarification": "1 кг",
+      "has_age_restriction": false,
+      "stock_limit": null,
+      "badges": [],
+      "initial_weight_step": "1.0",
+      "min_weight": "1.0",
+      "orange_loyalty_points": 420,
+      "is_available": true,
+      "price_piece_unit": null
+    },
+    {
+      "plu": 98323,
+      "name": "Хумус Перекусов Классический 150г",
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1159335-main/320x320.jpeg?updated_at=2025-03-11T20:12:21.063Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1159335-main/800x800.jpeg?updated_at=2025-03-11T20:12:21.063Z",
+          "https://catalog-images.x5static.net/product/0e0f234c28196b1d5f10a5cbb6503c17-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/53c7db50161d04fac6af74e1909a8f59-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/0806be42c926584651da1b387709e9b6-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/2433b0378a7ce17a193288f770b280aa-additional/800x800.jpeg"
+        ]
+      },
+      "uom": "шт",
+      "step": "1.0",
+      "rating": null,
+      "promo": null,
+      "prices": {
+        "regular": "109.99",
+        "discount": null,
+        "cpd_promo_price": null
+      },
+      "labels": null,
+      "property_clarification": "150 г",
+      "has_age_restriction": false,
+      "stock_limit": "14.00",
+      "badges": [],
+      "initial_weight_step": "1.0",
+      "min_weight": "1.0",
+      "orange_loyalty_points": 70,
+      "is_available": true,
+      "price_piece_unit": null
+    }
+  ]
+}

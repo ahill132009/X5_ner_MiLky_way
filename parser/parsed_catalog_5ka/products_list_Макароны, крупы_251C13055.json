@@ -1,0 +1,3499 @@
+{
+    "category_id": "251C13055",
+    "category_name": "Макароны, крупы",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 5722,
+                "name": "Рис Мистраль Басмати белый ароматный, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438663,
+                "name": "Макароны La Molisana Farfalle №66 бантики 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4106173,
+                "name": "Макароны Pasteroni Фарфалле №170 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332035,
+                "name": "Рис Мистраль Италика белый круглозерный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3603168,
+                "name": "Рис Увелка длиннозерный пропаренный в пакетиках 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 62190,
+                "name": "Макароны Makfa Спирали 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3649025,
+                "name": "Киноа Мистраль 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4324316,
+                "name": "Макароны Federici Cпагетти №3 без глютена из нутовой муки 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3696110,
+                "name": "Лапша Midori ширатаки спагетти 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4293887,
+                "name": "Макароны Barilla Collezione Тальятелле 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 52306,
+                "name": "Макароны De cecco Tagliatelle alluovo n.107 со шпинатом 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3603166,
+                "name": "Гречка Увелка Экстра 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3921010,
+                "name": "Макароны De cecco Paccheri №125 из твердых сортов пшеницы 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438672,
+                "name": "Макароны La Molisana Spaghetto Quadrato №1 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14308,
+                "name": "Смесь риса Агро-Альянс Slim&Fit Бурого и дикого 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3507006,
+                "name": "Суп гороховый Мистраль 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4168910,
+                "name": "Крупа пшено Global Village шлифованное 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276123,
+                "name": "Киноа Global Village 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 75076,
+                "name": "Макароны 3 Glocken Genuss Pur Kelche 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3474261,
+                "name": "Макароны Barilla Collezione Fettuccine 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2085905,
+                "name": "Макароны De cecco Tagliatelle allunovo n.104 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4189682,
+                "name": "Чечевица Yelli По-Израильски 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422637,
+                "name": "Нут Мистраль Турецкий горох 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312307,
+                "name": "Макароны Barilla Campanelle из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4189683,
+                "name": "Суп Yelli Греческий с орзо и пряными травами 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2085890,
+                "name": "Спагетти De cecco Linguine №7 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4034908,
+                "name": "Суп Yelli Сибирский с белыми грибами и перловкой 125г",
+                "property": "125 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4254250,
+                "name": "Рис Shanti Басмати Селла 1кг",
+                "property": "1 кг"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4169027,
+                "name": "Фасоль Global Village белая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 17278,
+                "name": "Лапша 3 Glocken Genuss Pur мелкая 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3436353,
+                "name": "Макароны De cecco Pappardelle alluovo n.101 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3453341,
+                "name": "Рис Агро-Альянс Экстра смесь Басмати и дикого риса 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3447289,
+                "name": "Суп-пюре Yelli из гороха с карри 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3447287,
+                "name": "Суп Yelli Семь бобов, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4268634,
+                "name": "Макаронные изделия Pasteroni Лазанья Классическая 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037668,
+                "name": "Макароны Barilla Mini Farfalle n.64 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4009018,
+                "name": "Рис Мистраль Басмати Экстра белый ароматный, 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3219390,
+                "name": "Макароны Ладные перья группа А 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4182020,
+                "name": "Булгур Мистраль по-турецки с вермишелью 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3436159,
+                "name": "Рис Агро-Альянс Рубин Экстра красный нешлифованный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 57930,
+                "name": "Рис Мистраль Янтарь длиннозерный пропаренный 900г",
+                "property": "900 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39747,
+                "name": "Рис Мистраль Жасмин белый ароматный длиннозёрный, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3439543,
+                "name": "Макароны Rummo Spaghetti №3 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3635865,
+                "name": "Рис Dunar Дейли Басмати длиннозёрный шлифованный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3999922,
+                "name": "Лапша 3 Glocken GE Landnudeln с яйцом 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4281950,
+                "name": "Макароны Barilla Лингвини Ригате из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345309,
+                "name": "Рис Мистраль Индика белый длиннозёрный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3469828,
+                "name": "Лапша Sen Soy Fo-Kho рисовая, 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3227619,
+                "name": "Вермишель Sen Soy Premium фунчоза 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438665,
+                "name": "Макароны La Molisana Penne Lisce №18 перья 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089969,
+                "name": "Рис Global Village шлифованный 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4009020,
+                "name": "Гречка Мистраль Фермерская ядрица пропаренная 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438131,
+                "name": "Булгур Готово! с овощами 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3143475,
+                "name": "Рис Sen Soy для суши 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 38370,
+                "name": "Макароны Dalla Costa Travel фигурные томаты-шпинат 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201745,
+                "name": "Макароны Barilla Penne Rigate 5 Злаков 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438669,
+                "name": "Макароны La Molisana Succhietti №34 пружинки рифленые 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 8639,
+                "name": "Макароны Dalla Costa Zoo фигурные томаты-шпинат 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4238856,
+                "name": "Полба Образ жизни Алтая Правильные гарниры с киноа и овощами 5х60г",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2168210,
+                "name": "Макароны Barilla Cannelloni из твёрдых сортов 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4222512,
+                "name": "Лапша 3 Glocken Gold-Ei Landnudeln с яйцом 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070241,
+                "name": "Гарнир Националь Булгур с томатами и красным киноа 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422644,
+                "name": "Чечевица Мистраль Персидская красная колотая, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438670,
+                "name": "Макароны La Molisana Fusilli Corti Bucati №108 пружинки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438671,
+                "name": "Макароны La Molisana Spaghetti №15 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4353613,
+                "name": "Гречка Prosto для гарнира быстроразваривающаяся 8х62.5г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674166,
+                "name": "Рис Мистраль Янтарь длиннозерный пропаренный 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4002383,
+                "name": "Чечевица Global Village красная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4238858,
+                "name": "Рис Образ жизни Алтая Правильные гарниры бурый с овощами 5х60г",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3461409,
+                "name": "Макароны Delverde Farfalle №222 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3413111,
+                "name": "Рис Националь для плова 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3447286,
+                "name": "Суп Yelli Масурдал из чечевицы, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089968,
+                "name": "Рис Global Village Басмати шлифованный 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204902,
+                "name": "Гречка Националь Камолино 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438666,
+                "name": "Макароны La Molisana Orecchiette №305 облачка 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4351024,
+                "name": "Рис Мистраль Индика Brown коричневый длиннозерный 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2151515,
+                "name": "Лапша Sen Soy Premium Soba гречневая 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4347960,
+                "name": "Рис Мистраль Осман белый круглозерный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3608771,
+                "name": "Рис Националь Золото Таиланда 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3448331,
+                "name": "Кускус Готово! с томатами 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3611795,
+                "name": "Булгур Ярмарка отборная 4х62.5г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3019675,
+                "name": "Пшено Мистраль Золотое шлифованное, 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3999883,
+                "name": "Кускус Global Village 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4189684,
+                "name": "Суп Yelli Тосканский с полбой и томатами 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3256634,
+                "name": "Макароны Delverde Fettuccine allUovo A Nido №89 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3414274,
+                "name": "Макароны Delverde Fusilli №29 спирали, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199594,
+                "name": "Макароны Maltagliati Capellini №002 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3608726,
+                "name": "Рис Националь Гигант 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4338989,
+                "name": "Рис Willette Басмати Creamy Sella длиннозерный индийский пропаренный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199593,
+                "name": "Изделие макаронное Maltagliati Pipe Rigate 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3391534,
+                "name": "Гречка Мистраль зелёная, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3972586,
+                "name": "Фасоль Мистраль Пинто красная пестрая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4222300,
+                "name": "Паста Yelli По-тоскански с копченой паприкой и базиликом, 180 г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674200,
+                "name": "Гречка Мистраль ядрица 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4004466,
+                "name": "Рис Мистраль Басмати Extra Long белый гималайский 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4380066,
+                "name": "Хлопья Вкус & Польза овсяные из голозерного овса без содержания глютена 375г",
+                "property": "375 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4268636,
+                "name": "Макароны Pasteroni Linguine №115 группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674168,
+                "name": "Рис Мистраль Индика 5*80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4266384,
+                "name": "Макароны Pasteroni Рожки Большие №130 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3980622,
+                "name": "Вермишель Домшим фунчоза 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3408218,
+                "name": "Булгур Мистраль 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422624,
+                "name": "Фасоль Мистраль Бланш белая мелкая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4268638,
+                "name": "Макароны Pasteroni Конкилье Ригате 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3623096,
+                "name": "Спагетти Pasteroni Spaghetti №114 группа А 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483037,
+                "name": "Рис Мистраль для плова традиционного, 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305601,
+                "name": "Макароны De Cecco Fusilli №34 из твердых сортов пшеницы 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 24755,
+                "name": "Рис Националь Краснодарский 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4106665,
+                "name": "Киноа Мистраль белое 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4256377,
+                "name": "Смесь Global Village Суп по-итальянски натуральная 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3766,
+                "name": "Рис Мистраль Кубань белый круглозёрный 900г",
+                "property": "900 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4208484,
+                "name": "Макароны Grand Di Pasta Спагетти 450г",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4353603,
+                "name": "Рис Националь Лазер длиннозерный шлифованный для плова и гарниров 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331159,
+                "name": "Лапша Jinmailang Удон японская со вкусом говядины 149г",
+                "property": "149 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4257494,
+                "name": "Макароны Grand Di Pasta Funghetti 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3921009,
+                "name": "Макароны Pasteroni Pipe rigate №126 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4130481,
+                "name": "Фасоль Мистраль красная мелкая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3651907,
+                "name": "Чечевица Мистраль смесь красной и жёлтой, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3991889,
+                "name": "Крупа кускус Увелка 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336100,
+                "name": "Лапша Домшим Рамен пшеничная 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 45954,
+                "name": "Рис Националь Золотистый длиннозерный пропаренный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3019156,
+                "name": "Гречка Мистраль ядрица, 2кг",
+                "property": "2 кг"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674360,
+                "name": "Рис Мистраль Кубань белый круглозерный 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336186,
+                "name": "Макаронные изделия Pasteroni Спагеттони №118 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2167600,
+                "name": "Рис Агро-Альянс Экстра Арборио ризотто 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4266515,
+                "name": "Рис Селяночка длиннозерный первый сорт 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4315670,
+                "name": "Макароны Pasteroni Capellini №102 группы А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4217255,
+                "name": "Рис Националь Бальдо 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358418,
+                "name": "Маш Global Village продовольственный 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2134540,
+                "name": "Рис Агро-Альянс Экстра Супер басмати 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14301,
+                "name": "Гречка Агро-Альянс Экстра элитная 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3620512,
+                "name": "Макароны Barilla Bucatini n.9 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3992161,
+                "name": "Рис Global Village Для плова 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3694322,
+                "name": "Гречка Мистраль Фермерская 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336182,
+                "name": "Макароны Pasteroni Penne Rigate №129 группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4169052,
+                "name": "Пшено Селяночка шлифованное 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199589,
+                "name": "Макароны Maltagliati Conchiglie №040 450г",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3992972,
+                "name": "Ассорти круп Prosto в варочных пакетиках 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4058211,
+                "name": "Паста Fleur Alpine Звездочки для всей семьи 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3435928,
+                "name": "Манка Мистраль, 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3469543,
+                "name": "Горох Мистраль желтый колотый 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4353225,
+                "name": "Рис Global Village бурый 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037648,
+                "name": "Макароны Barilla Spaghettoni n.7 из твёрдых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199588,
+                "name": "Макароны Maltagliati Cavatappi №069 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3439545,
+                "name": "Макароны Rummo Casarecce №88 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3662441,
+                "name": "Макароны Barilla Penne Rigate без глютена 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4217253,
+                "name": "Рис Националь Испанский шлифованный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4100332,
+                "name": "Фунчоза Sen Soy Premium из зеленых бобов 180г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089967,
+                "name": "Рис Global Village Басмати шлифованный 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3663924,
+                "name": "Крупка кукурузная Garnec Кукурузная манка 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037646,
+                "name": "Макароны Barilla Спагеттини n.3 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4002375,
+                "name": "Манка Селяночка 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2049748,
+                "name": "Макароны Makfa гнёзда, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 68212,
+                "name": "Макароны Barilla Collezione Mezze Penne Tricolore 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199590,
+                "name": "Макароны Maltagliati Pennoni Rigati 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4169026,
+                "name": "Чечевица Global Village зеленая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4256957,
+                "name": "Макароны Maltagliati Farfalle 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157666,
+                "name": "Крупа Global Village Булгур пшеничная 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037660,
+                "name": "Макароны Barilla Фузилли 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4354745,
+                "name": "Нут Global Village 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2170845,
+                "name": "Рис Агро-Альянс Кубанский кулон экстра среднезерный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4168907,
+                "name": "Крупа Global Village перловая в пакетиках для варки 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3687623,
+                "name": "Булгур Raisad гарнир с овощами от шеф-повара 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 45105,
+                "name": "Лапша Роллтон яичная классическая 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4003803,
+                "name": "Булгур Global Village 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3505778,
+                "name": "Киноа Националь 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114504,
+                "name": "Спагетти Federici №3 без глютена из красной чечевицы 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114538,
+                "name": "Макароны Barilla Risoni n.26 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305603,
+                "name": "Макароны De Cecco Penne Rigate №41 из твердых сортов пшеницы 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336101,
+                "name": "Лапша Домшим Удон пшеничная 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674167,
+                "name": "Рис Мистраль Жасмин экстра белый ароматный 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2070142,
+                "name": "Крупа кукурузная Увелка в пакетиках для варки 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3687624,
+                "name": "Чечевица Raisad гарнир с овощами от шеф-повара 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3934933,
+                "name": "Рис Селяночка круглозерный 5x80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3447280,
+                "name": "Суп Yelli Итальянский с мелкой пастой, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3387891,
+                "name": "Спагетти Trattoria di Maestro Turatti, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3934932,
+                "name": "Гречка Селяночка ядрица быстроразваривающаяся 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4095769,
+                "name": "Лапша Караван Сарай лагманная 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236683,
+                "name": "Макароны Maltagliati Fusillone 450г",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3660436,
+                "name": "Лапша Шебекинские Лагман высший сорт 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037650,
+                "name": "Макароны Barilla Фарфалле n.65 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 6847,
+                "name": "Крупа Националь гречка ядрица 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4058213,
+                "name": "Паста Fleur Alpine Мини ракушки для всей семьи 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037670,
+                "name": "Макароны Barilla Piccolini Mini Penne Rigate n.66 группа А высший сорт, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2151533,
+                "name": "Лапша Sen Soy Premium Egg Noodles яичная, 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3481102,
+                "name": "Макароны Delverde Tagliatelle Biologica №82, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2134542,
+                "name": "Рис Агро-альянс Экстра Элитный длиннозерный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3931795,
+                "name": "Рис Dunar Festiva Басмати длиннозерный шлифованный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3507002,
+                "name": "Суп Yelli Kids Буковки детский, 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4361230,
+                "name": "Крупа Увелка гречневая 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3020941,
+                "name": "Макароны Barilla Лазанья 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14304,
+                "name": "Рис Агро-Альянс Кубанский Экстра 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3662442,
+                "name": "Макаронные изделия Barilla Fusilli без глютена, 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82772,
+                "name": "Макароны Шебекинские рожок полубублик №202 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422662,
+                "name": "Горох Мистраль Орегон зелёный колотый шлифованный, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3259122,
+                "name": "Макароны Delverde Tagliatelle A Nido №82 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331424,
+                "name": "Булгур Мистраль для плова 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3466348,
+                "name": "Перловка Мистраль 900г",
+                "property": "900 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4245298,
+                "name": "Крупа Селяночка перловая №2 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3637985,
+                "name": "Манка Шебекинская из твердой пшеницы 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 53673,
+                "name": "Гречка Мистраль 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3219401,
+                "name": "Макароны Ладные рожки, 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3655943,
+                "name": "Смесь бобовых Мистраль для супов 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3351727,
+                "name": "Фасоль Мистраль тёмно-красная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4283911,
+                "name": "Рис Global Village Жасмин 5х80г",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4088292,
+                "name": "Вермишель Ешь Здорово из амарантовой муки 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201746,
+                "name": "Макароны Barilla Fusilli 5 Злаков 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4086793,
+                "name": "Булгур Мистраль красный цельнозерновой 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199592,
+                "name": "Макароны Maltagliati Filini №090 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145062,
+                "name": "Макароны Rummo Fettuccine Alluovo №94 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3387887,
+                "name": "Макароны Trattoria di Maestro Turatti Farfalle Бантики 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4075782,
+                "name": "Макароны Baisad Звездочки для супчика 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2070151,
+                "name": "Перловка Увелка быстрого приготовления 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3446523,
+                "name": "Спагетти Makfa цельнозерновые 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 19444,
+                "name": "Макароны 3 Glocken Die mag ich Звездочки 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037666,
+                "name": "Макароны Barilla Джирандоле n.34 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94425,
+                "name": "Макароны Baisad перья 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3934240,
+                "name": "Макароны Шебекинские улитки №295 группа А 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4095768,
+                "name": "Лапша Караван-Сарай бесбармачная 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 68205,
+                "name": "Макароны Barilla Collezione Mafaldine Napoletane 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3500490,
+                "name": "Макароны Makfa перья цельнозерновые 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3408221,
+                "name": "Кускус Мистраль 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4245277,
+                "name": "Крупа Селяночка кукурузная шлифованная 600г",
+                "property": "600 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3603169,
+                "name": "Рис Увелка круглозерный шлифованный в пакетиках 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336184,
+                "name": "Макароны Pasteroni Girandole №124 группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070227,
+                "name": "Смесь Националь Рис Киноа Тыква На завтрак 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4338995,
+                "name": "Рис Willette Permal длиннозерный индийский пропаренный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674169,
+                "name": "Пшено Мистраль Золотое, 5х80г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3662326,
+                "name": "Вермишель Makfa гречневая длинная 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145063,
+                "name": "Макароны Rummo Tagliatelle Alluovo №132 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3991887,
+                "name": "Крупа Увелка гречневая ядрица 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3603211,
+                "name": "Макароны Makfa звездочки 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3618857,
+                "name": "Лапша Чим Чим Удон пшеничная 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147127,
+                "name": "Чечевица Ярмарка красная колотая 700г",
+                "property": "700 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4292987,
+                "name": "Горох Селяночка колотый шлифованный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14305,
+                "name": "Рис Агро-Альянс Экстра для японской кухни шлифованный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037645,
+                "name": "Макароны Barilla Капеллини n.1 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236681,
+                "name": "Макароны Maltagliati Linguine 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037664,
+                "name": "Макароны Barilla Stelline n.27 из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345356,
+                "name": "Рис Националь Пилаф 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037665,
+                "name": "Макароны Barilla Maccheroni из твёрдых сортов пшеницы группа А высший сорт, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336189,
+                "name": "Макароны Pasteroni Сasarecce №123 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3603170,
+                "name": "Пшено Увелка в пакетиках для варки шлифованное 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250582,
+                "name": "Макароны Baisad Гребешки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037657,
+                "name": "Макароны Barilla Филини вермишель n.30 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3667232,
+                "name": "Гречка ядрица Селяночка быстроразваривающаяся пропаренная 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362510,
+                "name": "Рис Националь Интеграле бурый нешлифованный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14123,
+                "name": "Макароны 3 Glocken Die mag ich алфавит 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4361226,
+                "name": "Рис Увелка круглозерный шлифованный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2049747,
+                "name": "Макароны Baisad рожки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82760,
+                "name": "Спагетти Шебекинские №2 тонкие 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037652,
+                "name": "Макароны Barilla Penne Rigate n.73 из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3493526,
+                "name": "Крупа пшеничная Увелка 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3057569,
+                "name": "Макароны Makfa Рожки гладкие 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4268490,
+                "name": "Лапша Imperial Cuisine Удон пшеничная 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94429,
+                "name": "Макароны Baisad спагетти 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3649026,
+                "name": "Рис Мистраль Фитнес Эксперт, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236684,
+                "name": "Макароны Maltagliati Spiraline №102 450г",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037452,
+                "name": "Спагетти Federici №3 из риса и кукурузы без глютена 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037654,
+                "name": "Макароны Barilla Пипе Ригате n.91 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3694899,
+                "name": "Полента кукурузная Bravolli, 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3052127,
+                "name": "Лапша Sen Soy Udon пшеничная, 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14302,
+                "name": "Рис Агро-Альянс Экстра Gold пропаренный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2173528,
+                "name": "Макароны Grand Di Pasta Fettuccine Гнезда 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4266382,
+                "name": "Макароны Pasteroni Спиральки №125 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037673,
+                "name": "Макароны Barilla Киффери ригати из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422626,
+                "name": "Горох Мистраль Айдахо желтый колотый 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4257497,
+                "name": "Макароны Grand Di Pasta Fusilli 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4001360,
+                "name": "Макароны Makfa Триколлини свитки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236682,
+                "name": "Макароны изделия Maltagliati Radiatore 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82765,
+                "name": "Макароны Шебекинские перья №343 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3636425,
+                "name": "Чечевица Увелка тарелочная, 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3613677,
+                "name": "Рис Селяночка длиннозерный шлифованный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3219404,
+                "name": "Макароны Ладные спираль 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3414276,
+                "name": "Макароны Delverde Fettuccine A Nido №81, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3634155,
+                "name": "Рис Увелка Басмати в пакетиках для варки 5x80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3687579,
+                "name": "Гречка Raisad гарнир с овощами по-домашнему 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82761,
+                "name": "Вермишель Шебекинские №111 легкая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3219406,
+                "name": "Вермишель Ладные 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3613676,
+                "name": "Рис Селяночка длиннозерный пропаренный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94424,
+                "name": "Макароны Baisad пружинка 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3921008,
+                "name": "Макароны Pasteroni Tortoglioni №127 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4268639,
+                "name": "Макароны Pasteroni Рожки Витые №187 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3950419,
+                "name": "Крупа пшеничная Увелка Булгур в пакетиках для варки 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2110596,
+                "name": "Макароны Makfa паутинка 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82766,
+                "name": "Макароны Шебекинские спирали №366 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4257496,
+                "name": "Макароны Grand di Pasta Conchiglie rigate 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3387893,
+                "name": "Макароны Trattoria di Maestro Turatti Гнёзда 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037644,
+                "name": "Макароны Barilla Спагетти n.5 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3240461,
+                "name": "Макароны Grand Di Pasta Farfalle 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3439547,
+                "name": "Макароны Rummo Fusilli №48 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3424356,
+                "name": "Крупа Увелка Дружба смесь риса круглозерного и пшена 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39162,
+                "name": "Рис Увелка круглозерный отборный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4300501,
+                "name": "Макароны Pasteroni Ризо №121 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4303679,
+                "name": "Крупа манная Алтайская Сказка из полбы 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3446521,
+                "name": "Вермишель Makfa длинная томатная 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 91302,
+                "name": "Макароны Makfa соломка 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3231230,
+                "name": "Рис длиннозерный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2049750,
+                "name": "Макароны Makfa улитки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3288298,
+                "name": "Макароны Шебекинские Головоломки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4208483,
+                "name": "Макароны Makfa Спагетти 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3685798,
+                "name": "Вермишель Чим-чим Фунчоза бобовая 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438133,
+                "name": "Суп-пюре Готово! из чечевицы 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3202778,
+                "name": "Макароны Makfa спирали экспресс 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2110594,
+                "name": "Макароны Makfa витки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 6788,
+                "name": "Макароны Makfa перья 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4103923,
+                "name": "Макароны Шебекинские Улитка Мезо 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2013077,
+                "name": "Макароны Makfa ракушки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4130483,
+                "name": "Чечевица Мистраль красная колотая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4168909,
+                "name": "Крупа пшеничная Global Village в пакетиках 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145327,
+                "name": "Макароны Grand di Pasta Radiatore 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037662,
+                "name": "Макароны Barilla Tortiglioni n.83 из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3500491,
+                "name": "Макароны Makfa спирали цельнозерновые 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345827,
+                "name": "Макароны Mac&Cheese Чеддер Классический с сырным соусом 143г",
+                "property": "143 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2089062,
+                "name": "Макароны Красная цена Рожки 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39441,
+                "name": "Пшено Увелка шлифованное 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39155,
+                "name": "Гречка Увелка Экстра 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4008045,
+                "name": "Макароны Зерница Улитки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422668,
+                "name": "Рис Агро-Альянс Экстра для плова шлифованный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4119537,
+                "name": "Харчо 25 минут и готово! 175г",
+                "property": "175 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4008044,
+                "name": "Спагетти Зерница высший сорт, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3948495,
+                "name": "Смесь риса Националь Феникс 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4300500,
+                "name": "Макароны Pasteroni Грандине Птитим №122 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3634156,
+                "name": "Рис Увелка Жасмин в пакетиках для варки 5x80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2085836,
+                "name": "Манка 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037647,
+                "name": "Макароны Barilla Баветте n.13 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336096,
+                "name": "Лапша Домшим Соба гречневая 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4257495,
+                "name": "Макароны Grand Di Pasta Campanelle 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4097871,
+                "name": "Макаронные изделия Barilla Bavettine n.11 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3231302,
+                "name": "Перловка 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4008046,
+                "name": "Макароны Зерница Витой рожок 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3232765,
+                "name": "Горох Скайфуд колотый шлифованный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3680627,
+                "name": "Макароны Makfa Макфики Любимые игрушки 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037667,
+                "name": "Макаронные изделия Barilla Conchiglie Rigate n.93 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3446522,
+                "name": "Вермишель Makfa Шпинатная длинная 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3368235,
+                "name": "Лапша Продукты от Масловой По-домашнему яичная, 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3982390,
+                "name": "Паста Мистраль Ризони из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3423529,
+                "name": "Фасоль Агро-Альянс белая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199587,
+                "name": "Макароны Maltagliati Chifferini Rigati 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3500125,
+                "name": "Крупа овсяная Алтайская Сказка недробленая 700г",
+                "property": "700 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3950418,
+                "name": "Крупа Увелка пшеничная полба 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4208526,
+                "name": "Лапша Makfa длинная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 62758,
+                "name": "Макароны Шебекинские №400 Бабочки 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3695589,
+                "name": "Лапша Midori ширатаки феттуччине 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4323035,
+                "name": "Макароны Altalia Спираль из полбы цельнозерновые 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114501,
+                "name": "Макароны Federici Spaghetti без глютена № 3 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3492460,
+                "name": "Лапша Внук бешбармак домашняя 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3231277,
+                "name": "Рис круглозернистый шлифованный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4238264,
+                "name": "Макароны Шебекинские Зити №708 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3632784,
+                "name": "Крупа Увелка рис крупнозерный шлифованный 1.5кг",
+                "property": "1.5 кг"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2110615,
+                "name": "Макароны Makfa Петушиные гребешки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3219402,
+                "name": "Вермишель Ладные длинная 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4046132,
+                "name": "Гречка Агро-Альянс зеленая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3231330,
+                "name": "Пшено шлифованное 1 сорт 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3636044,
+                "name": "Манка Алтайская Сказка с клетчаткой 550г",
+                "property": "550 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336524,
+                "name": "Фасоль продовольственная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4119531,
+                "name": "Каша манная Yelli Kids Розовый фламинго 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312306,
+                "name": "Макароны Barilla Casarecce из твердых сортов пшеницы 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 15939,
+                "name": "Макароны 3 Glocken Genuss Pur спирали, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3601120,
+                "name": "Крупа пшеничная 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3979364,
+                "name": "Макароны Federici №42 спиральки 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3447262,
+                "name": "Лапша Midori Соба гречневая 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3492461,
+                "name": "Лапша Внук лагман 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4208482,
+                "name": "Вермишель Makfa Каппеллини 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3966463,
+                "name": "Рис Националь Здоровье 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 36728,
+                "name": "Рис Националь Жасмин длиннозерный шлифованный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3614600,
+                "name": "Лапша Чим Чим фунчоза бобовая 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3601122,
+                "name": "Крупа ячменная ячневая №2 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3671525,
+                "name": "Макароны Здоровое меню трубочки мультизлаковые группа А высший сорт, 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3493533,
+                "name": "Крупа Увелка Экстра гречневая ядрица 8х80г",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3600910,
+                "name": "Макароны Makfa длинные 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2089060,
+                "name": "Спагетти Красная цена 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3481113,
+                "name": "Макароны Delverde Fettuccine A Nido Biologica №181, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3461203,
+                "name": "Макароны Makfa Кольца 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114500,
+                "name": "Лапша Ameria №120 Яичная 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4399512,
+                "name": "Макароны Шебекинские Сердечки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3231481,
+                "name": "Гречка ядрица 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4119533,
+                "name": "Каша рисовая Yelli Kids с кокосом 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3467823,
+                "name": "Кускус Yelli с ароматными травами 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3473053,
+                "name": "Макароны 3 Glocken Die mag ich вермишель с добавлением яиц 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420682,
+                "name": "Макароны Выручай Рожки 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82769,
+                "name": "Макароны Шебекинские витой рожок №388 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4355408,
+                "name": "Полба Мистраль Фермерская дробленая пропаренная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199595,
+                "name": "Макароны Maltagliati Spaghetti №004 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4109661,
+                "name": "Крупа полба Алтайская Сказка дроблёная 5х80г",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2089059,
+                "name": "Вермишель Красная Цена 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3628270,
+                "name": "Чечевица Агро-Альянс красная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2151530,
+                "name": "Лапша Sen Soy Premium Rice Vermicelli рисовая 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4420591,
+                "name": "Макароны Выручай Перья 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 14256,
+                "name": "Пшено Агро-Альянс Экстра элитное шлифованное 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4034911,
+                "name": "Суп Yelli Мексиканский с фасолью и кукурузой, 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305600,
+                "name": "Макароны De Cecco Farfalle №93 из твердых сортов пшеницы 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3493529,
+                "name": "Крупа ячневая Увелка, 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3982389,
+                "name": "Макароны Мистраль Птитим 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4003617,
+                "name": "Макароны Altalia Перья зз полбы цельнозерновые 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3472078,
+                "name": "Крупа Алтайская сказка Ячменная перловая №1 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 37034,
+                "name": "Макароны Pasta Zara №80 Vermicelli tagliati 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4324204,
+                "name": "Макароны Baisad Рожки с сырным соусом Чеддер 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3629551,
+                "name": "Макароны Шебекинские №1 Спагеттини 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345829,
+                "name": "Макароны Mac&Cheese Карбонара с беконом и сырным соусом 143г",
+                "property": "143 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4037663,
+                "name": "Макароны Barilla Челлентани n.297 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3909188,
+                "name": "Макароны Здоровое меню спиральки 4 злака 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2049749,
+                "name": "Макароны Baisad цветочки 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 15949,
+                "name": "Макароны 3 Glocken Gold-Ei Гнезда 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3608320,
+                "name": "Рис пропаренный шлифованный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4213996,
+                "name": "Лапша Federici №12 Linguine из гречневой муки без глютена 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372906,
+                "name": "Макароны Hasta La Pasta Спиральки группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3256621,
+                "name": "Макароны Delverde Spaghettini №3 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3455458,
+                "name": "Булгур Yelli Kids, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4324226,
+                "name": "Макароны Baisad Пружинка со сливочно-сырным соусом Карбонара 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3391531,
+                "name": "Манка Мистраль Семолина 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4413143,
+                "name": "Гречка Увелка Фермерская 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3991890,
+                "name": "Макаронные изделия Увелка Паста Птитим 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94430,
+                "name": "Макароны Baisad Спираль высший сорт 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372907,
+                "name": "Макароны Hasta La Pasta Тортильони группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 48118,
+                "name": "Рис Prosto длиннозерный отборный 8х62.5г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 66066,
+                "name": "Фасоль Мистраль Кидни тёмно-красная, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372908,
+                "name": "Макароны Hasta La Pasta Спагетти группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3492463,
+                "name": "Лапша Внук Домашняя 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4384526,
+                "name": "Крупа Степь ассорти в пакетиках рисовая, гречневая, булгур, кускус, киноа 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4106662,
+                "name": "Крупа пшеничная Мистраль Булгур 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070240,
+                "name": "Смесь круп Националь Гарнир Зеленая гречка и красное киноа 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4421301,
+                "name": "Макароны Выручай Спагетти 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4376897,
+                "name": "Крупа Степь Ассорти 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2167599,
+                "name": "Рис Агро-Альянс Slim&fit Экстра бурый 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4324220,
+                "name": "Макароны Baisad Перья с томатно-сырным соусом Арабьята 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4088873,
+                "name": "Макаронные изделия Baisad Вермишель паутинка 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4069616,
+                "name": "Лапша Шебекинские Лингвини №011 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3635793,
+                "name": "Макароны Шебекинские Спирали три цвета 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372905,
+                "name": "Макароны Hasta La Pasta Рожки большие группа А высший сорт 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389579,
+                "name": "Суп Yelli Харира По-Мароккански с нутом 180г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 24104,
+                "name": "Макароны Pasta Zara Farfalle №31 группа А высший сорт, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070226,
+                "name": "Смесь Националь Гарнир Киноа, овощи и чечевица 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4046138,
+                "name": "Крупа Агро-Альянс перловая 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 37025,
+                "name": "Макароны Pastazara Gramignone Rigato №27 рифленые 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3473054,
+                "name": "Макароны 3 Glocken Die mag ich лапша с добавлением яиц 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389572,
+                "name": "Суп Yelli из киноа с красным рисом и чечевицей 220г",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4371524,
+                "name": "Суп Yelli Минестроне Della Nonna 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389575,
+                "name": "Паста Yelli Ризони с томатами и базиликом 215г",
+                "property": "215 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389574,
+                "name": "Пилав Yelli из булгура с киноа 220г",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4333465,
+                "name": "Смесь крупы Увелка пшеничной булгур с киноа 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4060774,
+                "name": "Чечевица Мистраль Канадская зеленая крупная 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 18497,
+                "name": "Вермишель Federici №96 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3498485,
+                "name": "Суп Yelli Чаудер с рисом и кукурузой 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3955406,
+                "name": "Лапша Здоровое меню 4 Злака многозерновая 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 82502,
+                "name": "Крупа Увелка Пшеничная отборная 650г",
+                "property": "650 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3493524,
+                "name": "Рис Увелка длиннозерный шлифованный в пакетиках 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3480366,
+                "name": "Макароны Delverde Filini №86 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 24754,
+                "name": "Рис Националь отборный длиннозерный шлифованный 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4202990,
+                "name": "Киноа Befresh Микс 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389573,
+                "name": "Ризотто Yelli по-милански с грибами 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4416082,
+                "name": "Суп Yelli Лентичче с лисичками 180г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 18463,
+                "name": "Макароны Federici спиральки №42 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4061766,
+                "name": "Лапша Домшим яичная 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389576,
+                "name": "Граупен Yelli по-немецки с белыми грибами 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321393,
+                "name": "Крупа Ярмарка кукурузная 600г",
+                "property": "600 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 37019,
+                "name": "Макароны Pasta Zara Spaghettoni №4, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 19440,
+                "name": "Макароны 3 Glocken Die mag ich ракушки мелкие 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4345826,
+                "name": "Макароны Mac&Cheese С томатами и сырным соусом 143г",
+                "property": "143 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3065592,
+                "name": "Манка Агро-Альянс Элитная Экстра, 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3634154,
+                "name": "Рис Увелка бурый в пакетах для варки 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3996273,
+                "name": "Гречка Националь Алтайская 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250864,
+                "name": "Рис Yelli со шпинатом по-гречески 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4300502,
+                "name": "Макароны Pasteroni Таглиателле Корте №132 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250853,
+                "name": "Клецки картофельные De Cecco Gnocchi Di Patate сухие 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4415498,
+                "name": "Суп Yelli по-сицилийски с чечевицей и пастой 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4168906,
+                "name": "Крупа Global Village кукурузная в пакетиках 5х80г",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 37037,
+                "name": "Макароны Pasta Zara Elicoidale №45, 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3388662,
+                "name": "Макароны Шебекинские Букатини №7, 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4254241,
+                "name": "Макароны La Pasta Di Camerino Tagliatelle яичные из твёрдых сортов пшеницы гнёзда 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4366145,
+                "name": "Макароны Delverde Penne Zita Rigate №32 из твердых сортов пшеницы без содержания яиц 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 51409,
+                "name": "Крупа Националь Полтавская пшеничная из твердых сортов пшеницы 700г",
+                "property": "700 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3620584,
+                "name": "Макароны Aida Penne rigate перья, 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 48114,
+                "name": "Рис Prosto Краснодарский круглозерный 8х62.5г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4140741,
+                "name": "Паста Образ жизни Алтая из красной чечевицы 300 г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2070173,
+                "name": "Крупа Увелка Ячневая отборная 600г",
+                "property": "600 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4009019,
+                "name": "Смесь риса Мистраль пропаренного длиннозерного и дикого Акватика Mix 5х80г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3645848,
+                "name": "Лапша Внук Лазанья, 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 37038,
+                "name": "Макароны Pasta Zara Pennine №46 группа А 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4411194,
+                "name": "Лазанья Yelli с мелкой пастой, томатами и базиликом 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 24343,
+                "name": "Макароны Pasta Zara Capellini №1 группа А 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4162098,
+                "name": "Фунчоза Sen Soy Every Day из зеленых бобов 150 г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3481182,
+                "name": "Спагетти Delverde Spaghetti Biologica №4 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3623999,
+                "name": "Макароны Роллтон рожки №13 группа А 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3446736,
+                "name": "Гречка Makfa ядрица быстроразвариваемая 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 47671,
+                "name": "Рис Мистраль Ориент белый длиннозёрный, 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4415499,
+                "name": "Ризотто Yelli по-тирольски с лисичками 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4254238,
+                "name": "Макароны La Pasta Di Camerino Pappardelle яичные из твёрдых сортов пшеницы гнёзда 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3601663,
+                "name": "Гречка Тёплые Традиции, 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4068064,
+                "name": "Паста Casa Rinaldi Лигурийская 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3446744,
+                "name": "Рис Makfa круглозерный шлифованный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3361349,
+                "name": "Спагетти Dalla Costa с чернилами каракатицы 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4415497,
+                "name": "Паста Yelli Римская со шпинатом 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3486034,
+                "name": "Нут Агро-Альянс продовольственный 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3620582,
+                "name": "Лапша Aida Linguine 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 28960,
+                "name": "Гречка Prosto ядрица 8х62.5г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147126,
+                "name": "Полента Ярмарка кукурузная манка 600г",
+                "property": "600 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4068065,
+                "name": "Паста Casa Rinaldi Касаречче из твёрдых сортов пшеницы 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3396590,
+                "name": "Горох Мистраль Экстра элитный шлифованный, 900г",
+                "property": "900 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4265866,
+                "name": "Макароны Rustichella d'Abruzzo Медземанике 500г",
+                "property": "500 г"
+            }
+        }
+    ]
+}

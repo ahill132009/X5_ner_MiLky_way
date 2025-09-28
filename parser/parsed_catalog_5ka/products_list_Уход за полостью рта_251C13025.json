@@ -1,0 +1,2106 @@
+{
+    "category_id": "251C13025",
+    "category_name": "Уход за полостью рта",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 2124239,
+                "name": "Зубная паста Lacalut Sensitive 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3152401,
+                "name": "Зубная паста R.O.C.S. Энергия утра двойная мята 74г",
+                "property": "74 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4090818,
+                "name": "Ополаскиватель для полости рта R.O.C.S. Активный кальций 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2104917,
+                "name": "Зубная паста Splat Актив 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3307675,
+                "name": "Ополаскиватель для полости рта Лесной Бальзам против воспаления десен кедровый орех-шалфей 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082615,
+                "name": "Ополаскиватель для рта Biomed Vitafresh 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378068,
+                "name": "Зубная щетка Perioe Color Bomb мягкая 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3682277,
+                "name": "Зубная паста Perioe Original Pumping Toothpaste Cool Mint 285г",
+                "property": "285 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312704,
+                "name": "Зубная щетка Splat Smilex Ortho+ ортодонтическая мягкая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3998474,
+                "name": "Зубная паста Elmex Защита от кариеса и укрепления эмали 75мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3425421,
+                "name": "Ополаскиватель R.O.C.S. двойная мята для полости рта 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3900622,
+                "name": "Зубная щетка President White Hard 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4153982,
+                "name": "Зубная паста President Four Calcium 75г",
+                "property": "75 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3420440,
+                "name": "Зубочистки №1 пластиковые 300шт.",
+                "property": "57 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3143702,
+                "name": "Паста зубная Colgate тройное действие Натуральная мята 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4207474,
+                "name": "Зубная паста President Classic 75г",
+                "property": "75 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3631420,
+                "name": "Зубная щетка President Smokers Hard 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2124237,
+                "name": "Зубная паста Lacalut Activ 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4347362,
+                "name": "Зубная паста Synergetic Caries Protection защита от кариеса 240г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2157107,
+                "name": "Паста зубная Colgate МаксБлеск кристальная мята 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305092,
+                "name": "Зубная паста Lacalut Perfect white 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2048194,
+                "name": "Паста зубная Colgate МаксФреш взрывная мята 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3631394,
+                "name": "Зубная щетка President Exclusive Medium в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4065833,
+                "name": "Зубная паста Lacalut Multi Еffect укрепление эмали 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3605411,
+                "name": "Зубная паста Colgate Total 12 профессиональная отбеливающая 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4243118,
+                "name": "Набор зубных щеток Koreain средняя жесткость 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4207473,
+                "name": "Зубная паста President Sensitive 75г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4239069,
+                "name": "Зубная паста R.O.C.S. Активный Кальций 64г",
+                "property": "64 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3193165,
+                "name": "Зубная паста R.O.C.S. Белый стих отбеливающая 74г",
+                "property": "74 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3638297,
+                "name": "Зубная щетка President Classic Medium в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974189,
+                "name": "Зубная щетка Красная цена средней жесткости 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4206861,
+                "name": "Ополаскиватель Stardent Комплексная защита для полости рта 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 32120,
+                "name": "Зубная паста Lacalut aktiv 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4347363,
+                "name": "Зубная паста Synergetic Sensitive для чувствительных зубов 240г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313824,
+                "name": "Ершик Splat Smilex Ortho+ межзубный со вкусом мяты мягкий размер S 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3152415,
+                "name": "Зубная паста R.O.C.S. Кофе и табак 74г",
+                "property": "74 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329982,
+                "name": "Зубная паста R.O.C.S. Активный кальций 135г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3152404,
+                "name": "Зубная паста детская R.O.C.S. Kids ягодная фантазия малина-клубника 45г",
+                "property": "45 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279373,
+                "name": "Ополаскиватель Colgate Тройное действие для полости рта 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331206,
+                "name": "Зубная паста LinMin Отбеливающая для взрослых 90г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4071841,
+                "name": "Ополаскиватель для полости рта President Antibacterial Мощная защита от бактерий 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3998472,
+                "name": "Зубная паста Elmex Sensitive для чувствительных зубов 75мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4315058,
+                "name": "Набор Splat Smilex Ortho+ Зубная щетка монопучковая мягкая и 4 сменные насадки в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3482562,
+                "name": "Зубная паста R.O.C.S. Активный кальций 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 13470,
+                "name": "Зубная нить Oral-B Essential Floss вощеная Мята 50м",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4197798,
+                "name": "Зубная паста Colgate кальций-ремин 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2077691,
+                "name": "Зубная паста R.O.C.S. Аромат знойного лета земляника 60мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2085365,
+                "name": "Зубная паста Colgate бережное отбеливание 100мл",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313886,
+                "name": "Зубная щетка Smile Care Nano силиконовая для взрослых мягкая 1 шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4086586,
+                "name": "Зубная нить Stardent мятная 50м",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372270,
+                "name": "Зубная щетка Colgate Классика здоровья средней жесткости 2шт",
+                "property": "21 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279372,
+                "name": "Ополаскиватель Colgate Plax для полости рта освежающая мята 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331236,
+                "name": "Зубная паста LinMin Комплексный уход для взрослых 90г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3945329,
+                "name": "Зубная паста Colgate Тройное действие экстра отбеливание 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4129065,
+                "name": "Щетка зубная Colgate Neo в ассортименте 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313888,
+                "name": "Зубная щетка Smile Care для взрослых средняя 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4243117,
+                "name": "Щетка зубная Koreain мягкая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3633962,
+                "name": "Зубная паста Lacalut White&Repair 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3421798,
+                "name": "Зубная щетка Colgate Эксперт чистоты средняя жесткость 3+1шт.",
+                "property": "4 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313889,
+                "name": "Зубная щетка Smile Care Eco Bamboo с бамбуковым углем для взрослых средняя 1 шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329975,
+                "name": "Ополаскиватель R.O.C.S. Активный магний для полости рта 400 мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4267955,
+                "name": "Ополаскиватель Colgate Plax Свежесть чая для полости рта 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4238394,
+                "name": "Зубная паста Lacalut white multi care 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4243119,
+                "name": "Набор зубных щеток Stardent средняя жесткость 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352478,
+                "name": "Ополаскиватель для полости рта Stardent Комплексная защита 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3444930,
+                "name": "Зубная щетка Colgate Шелковые нити с древесным углем мягкая 1+1шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3651434,
+                "name": "Зубная щетка President Sensitive Soft в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 25156,
+                "name": "Паста зубная Colgate тройное действие 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3482559,
+                "name": "Зубная паста R.O.C.S. Sensitive восстановление и отбеливание 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276640,
+                "name": "Зубная паста President White RDA 100 для ежедневного отбеливания 75г",
+                "property": "75 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4071296,
+                "name": "Зубная щетка Sensodyne Бережный уход мягкая",
+                "property": "20 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4190817,
+                "name": "Зубная паста R.O.C.S. Активный кальций Отбеливающая 94г",
+                "property": "94 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 80270,
+                "name": "Зубная щетка Colgate Массажер средней жесткости в ассортименте 1+1шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4188076,
+                "name": "Зубная паста Colgate максимальная защита от кариеса свежая мята 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370897,
+                "name": "Щетка зубная Colgate Зиг Заг Древесный уголь средней жесткости 4шт.",
+                "property": "4 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4073713,
+                "name": "Зубочистки Econta бамбуковые 180шт.",
+                "property": "180 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4156393,
+                "name": "Зубная паста Lacalut sensitive multi care 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4224743,
+                "name": "Зубная паста Dental Clinic 2080 Fresh Up Освежающая 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4218509,
+                "name": "Зубная паста R.O.C.S. Junior Фруктовая Радуга для детей 74г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4103665,
+                "name": "Зубная щетка R.O.C.S. Junior для детей от 6 до 12 лет мягкая в ассортименте 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3230372,
+                "name": "Зубная паста Splat Special Blackwood отбеливающая 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223886,
+                "name": "Зубная щетка Colgate Extra Density средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495898,
+                "name": "Зубная щетка R.O.C.S. Kids 3-7 лет ультрамягкая детская в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4190879,
+                "name": "Зубная паста Splat Daily Super Fresh для свежести дыхания 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2038357,
+                "name": "Зубная паста Colgate защита от кариеса свежая мята 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3670255,
+                "name": "Зубная паста Новый Жемчуг Кальций 125мл",
+                "property": "125 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279959,
+                "name": "Зубная паста Splat Professional Ультракомплекс 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340895,
+                "name": "Зубная паста Splat Professional Длительная Свежесть 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3298563,
+                "name": "Зубная щетка Splat Professional Whitening medium в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3371294,
+                "name": "Зубная щетка Colgate 360 Суперчистота всей полости рта средней жесткости 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4308236,
+                "name": "Паста зубная Lacalut Basic 65г",
+                "property": "65 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3482560,
+                "name": "Зубная паста R.O.C.S. Sensitive мгновенный эффект для чувствительный зубов 94г",
+                "property": "94 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3605412,
+                "name": "Зубная паста Colgate Total 12 профессиональная чистка гель 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3480375,
+                "name": "Зубная паста Splat Professional сенситив 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2172627,
+                "name": "Зубная паста Splat отбеливание плюс 100мл",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3966333,
+                "name": "Зубная щетка Splat Professional Ultra Sensitive Soft с мягкой щетиной 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3682222,
+                "name": "Зубная щетка Biomed Black комплексная с древесным углем средней жесткости 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3692639,
+                "name": "Зубная щетка Pure by President Medium в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370916,
+                "name": "Зубная паста Лесной Бальзам для чувствительных зубов и десен 113г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3687137,
+                "name": "Зубная паста Sensodyne экстра отбеливание 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4009090,
+                "name": "Зубная щетка Colgate Зиг Заг Древесный уголь средней жесткости промоупаковка 2+1",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250099,
+                "name": "Ополаскиватель для полости рта Lacalut White антибактериальный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4043346,
+                "name": "Зубная щетка Colgate Neo средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4328629,
+                "name": "Зубная щетка Synergetic JBrush средней жесткости для взрослых розовая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3629153,
+                "name": "Зубная щетка Splat Professionаl Sensitive Medium средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4156378,
+                "name": "Зубная паста Splat Daily Complex++ 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3376273,
+                "name": "Зубная щетка детская Splat Kids мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3500943,
+                "name": "Полоскание для полости рта Саномед с хлоргексидином 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313056,
+                "name": "Зубная паста Splat Professional Ультракомплекс для чувствительных зубов отбеливающая 2x100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2077692,
+                "name": "Зубная паста R.O.C.S. Кола и лимон 74г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3689449,
+                "name": "Зубная паста Красная цена Защита от кариеса 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4250098,
+                "name": "Ополаскиватель для полости рта Lacalut Multi-effect антибактериальный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2131758,
+                "name": "Зубная паста Colgate отбеливающая лечебные травы 146г",
+                "property": "146 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4328631,
+                "name": "Зубная щетка Synergetic JBrush средней жесткости для взрослых голубая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2172628,
+                "name": "Зубная паста Splat Professional биоактивная лечебные травы 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4381296,
+                "name": "Зубочистки K-Style бамбуковые 180шт.",
+                "property": "180 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114662,
+                "name": "Зубная паста Лесной Бальзам с соком лимона 113г",
+                "property": "113 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4328628,
+                "name": "Зубная щетка Synergetic JBrush средней жесткости для взрослых желтая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3690663,
+                "name": "Зубная щетка Oral-B Black Всесторонняя чистка средней жесткости 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378382,
+                "name": "Зубная паста Splat Естественная белизна 160г",
+                "property": "160 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4156377,
+                "name": "Зубная паста Splat Daily Whitening отбеливающая 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2020,
+                "name": "Зубная щетка Colgate Классика здоровья мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313369,
+                "name": "Зубная щетка Colgate Extra Density средней жесткости 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372510,
+                "name": "Зубная щетка Colgate High Density Charcoal мягкая 2шт",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2104916,
+                "name": "Паста зубная Splat Биокальций 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3628195,
+                "name": "Зубная паста Blend-a-med 3D White Luxe Совершенство 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4229810,
+                "name": "Ополаскиватель для полости рта Свобода Пародонтол комплексная защита 6в1 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4409598,
+                "name": "Зубная паста Splat Комплексный уход 160г",
+                "property": "160 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 8200,
+                "name": "Зубная щетка Colgate Классика здоровья средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3489655,
+                "name": "Зубная паста Splat Kids детская 2-6 лет биоактивная земляника-вишня 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089032,
+                "name": "Зубная паста Sensodyne Ежедневная защита Морозная мята 65г",
+                "property": "65 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4017455,
+                "name": "Зубная щетка Splat Junior детская в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4119999,
+                "name": "Щетка зубная Splat Professional Clinic Care средняя жесткость в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2104919,
+                "name": "Зубная паста Splat Ультракомплекс 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3682223,
+                "name": "Зубная щетка Biomed Silver средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418387,
+                "name": "Зубная паста Tiswell Detox отбеливание вкус манго 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389988,
+                "name": "Зубная паста Tiswell Реминерализующая с наногидроксиапатитом 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3159553,
+                "name": "Зубная паста для отбеливания зубов Splat Special Extreme White 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 10395,
+                "name": "Зубная паста Новый Жемчуг Кальций 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418386,
+                "name": "Зубная паста Tiswell Nano пломба Mineral 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3270526,
+                "name": "Зубная щетка Colgate Макс Блеск средней жесткости в ассортименте  1+1шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3359156,
+                "name": "Зубная щетка Colgate Зиг заг средней жесткости 2+1шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2062474,
+                "name": "Зубная паста Aquafresh Total Care 3 освежающая мята 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4183250,
+                "name": "Зубная нить Beauty Story вощеная с мятным вкусом 50м",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3299149,
+                "name": "Зубная паста Blend-a-med 3D White Арктическая Свежесть 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313887,
+                "name": "Зубная щетка Smile Care для взрослых средняя 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4377838,
+                "name": "Паста зубная Sensodyne Ежедневная защита Мягкая мята 75 мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223885,
+                "name": "Зубная щетка Colgate Extra Density жесткая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4395588,
+                "name": "Зубная щетка Lacalut Pure мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3945387,
+                "name": "Зубная паста Lacalut Aktiv защита десен и бережное отбеливание 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389987,
+                "name": "Зубная паста Tiswell энзимная отбеливающая с кальцием 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3329901,
+                "name": "Щетка зубная Splat Professional Whitening Hard жесткая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360969,
+                "name": "Зубная паста Colgate Total 12 Глубокое очищение Профессиональная 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4397762,
+                "name": "Зубная щетка Oral-B Pro-3D White 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358307,
+                "name": "Зубная паста Lacalut Pure Calcium 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389985,
+                "name": "Зубная паста Tiswell реминерализующая с наногидроксиапатитом 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4402990,
+                "name": "Зубная паста Colgate Total Активная защита для чувствительных зубов 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313745,
+                "name": "Зубная щетка R.O.C.S. Smokers средняя в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495897,
+                "name": "Зубная щетка R.O.C.S. Baby 0-3 года мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4009101,
+                "name": "Зубная паста Blend-a-med 3D White Глубокая Чистка с древесным углем 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358537,
+                "name": "Зубная щетка Biomed Max средняя в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4296146,
+                "name": "Зубная паста Aquafresh Сияющая Белизна 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4308967,
+                "name": "Зубная паста Dental Clinic 2080 Лечебные травы и биосоли 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375714,
+                "name": "Зубная паста Splat Professional Биокальций 80г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375713,
+                "name": "Зубная паста Splat Professional Отбеливание плюс 80г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2071595,
+                "name": "Паста зубная Лесной Бальзам Против кровоточивости десен 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2107064,
+                "name": "Зубная паста Parodontax без фтора 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4207472,
+                "name": "Зубная паста  President Renome 75г",
+                "property": "75 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4401274,
+                "name": "Зубная щетка Lacalut Pure Medium 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4355023,
+                "name": "Зубная паста R.O.C.S. Sensitive Восстановление и отбеливание для чувствительных зубов 64г",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3307676,
+                "name": "Ополаскиватель для рта Лесной бальзам при кровоточивости десен 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3663599,
+                "name": "Зубная щетка Colgate Отбеливающая Plus жесткая 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3621550,
+                "name": "Паста зубная Splat Junior бабл гам 6-11 лет 73г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3638296,
+                "name": "Зубная щетка R.O.C.S. Black Edition Classic средней жесткости цвета в ассортименте 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3197917,
+                "name": "Зубная паста Лесной бальзам профилактическая с экстрактом ромашки и маслом облепихи на отваре трав 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372269,
+                "name": "Набор зубных щеток Colgate Древесный уголь средней жесткости 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358308,
+                "name": "Зубная паста Lacalut Pure White 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3379809,
+                "name": "Зубная щетка Colgate 360 Optic White средней жесткости 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3914613,
+                "name": "Зубная паста R.O.C.S. Biocomplex активная защита 94г",
+                "property": "94 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4122136,
+                "name": "Зубная щетка LACALUT Medium 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3064038,
+                "name": "Зубная щетка R.O.C.S. Модельная средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3400235,
+                "name": "Ополаскиватель для полости рта Лесной бальзам Форте актив на отваре трав 400 мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 5937,
+                "name": "Зубная щетка Colgate ЗигЗаг средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4193672,
+                "name": "Ополаскиватель R.O.C.S. Black Edition 400мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340887,
+                "name": "Зубная паста Splat Professional Восстановление плюс 80г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4414179,
+                "name": "Зубная паста Tiswell с троксерутином и гиалуроном для поддержания здоровья десен 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4395591,
+                "name": "Зубная щётка Lacalut Pure средней жёсткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4414180,
+                "name": "Зубная паста Tiswell Энзимная вкус манго с каолином отбеливающая 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3948913,
+                "name": "Зубная паста R.O.C.S. Pro Brackets & Ortho 135г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4380925,
+                "name": "Зубная паста Sensodyne Clinical White Активное отбеливание от темного налета 75мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3254147,
+                "name": "Зубная паста Colgate Доктор Заяц детская 2+ со вкусом клубники 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4193662,
+                "name": "Зубная щетка R.O.C.S. отбеливающая средняя в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4401537,
+                "name": "Зубная паста Natusana Whitening 125мл",
+                "property": "125 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096763,
+                "name": "Ополаскиватель Фтородент Фторагент Отбеливающий для полости рта 475мл",
+                "property": "475 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4080487,
+                "name": "Зубная щетка Biomed Mineral жесткая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2131754,
+                "name": "Зубная паста Colgate Лечебные травы 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3369596,
+                "name": "Зубная паста Colgate Total 12 Pro здоровье десен 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3454742,
+                "name": "Ополаскиватель для полости рта Splat Professional White Plus 275мл",
+                "property": "275 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4397761,
+                "name": "Зубная щётка Oral-B Pro-3D White с Древесным Углем 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2124242,
+                "name": "Зубная паста Lacalut White, 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3642796,
+                "name": "Зубная паста Blend-a-med 3D White Бережная мята 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3419410,
+                "name": "Ополаскиватель для полости рта Лесной Бальзам Природная свежесть укрепление зубов и десен 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4357762,
+                "name": "Зубная щетка Splat Professional Ultra Clean жесткая в ассортименет 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3914638,
+                "name": "Зубная паста Splat Special Silver для бережного отбеливания зубов и свежести дыхания 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4381927,
+                "name": "Зубная щетка Splat Professional Clinic Care Soft инновационная мягкая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374679,
+                "name": "Зубная паста Absolut Professional Calcium Реминерализация и восстановление эмали 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3379811,
+                "name": "Зубная паста Colgate Optic White искрящаяся белизна 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4387138,
+                "name": "Ершики для чистки зубов Ершик №1 40шт",
+                "property": "23 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4087489,
+                "name": "Зубная щетка Oral-B Colors средней жесткости 4шт.",
+                "property": "4 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4247888,
+                "name": "Жидкость для ирригатора Spasta Fresh oclock Здоровые Зубы и Десны 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3368788,
+                "name": "Зубная паста R.O.C.S. Pro Fresh Mint деликатное отбеливание 135г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4397763,
+                "name": "Зубная щётка Oral-B Pro-3D Отбеливание 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4052811,
+                "name": "Зубная паста Colgate Гранат 154г",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3627224,
+                "name": "Зубная щетка Colgate Зигзаг с древесным углем средняя жесткость 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94928,
+                "name": "Зубная паста Лесной Бальзам при воспалении десен экстракт шалфея и алоэ вера на отваре трав 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3425418,
+                "name": "Зубная паста R.O.C.S Сенсационное отбеливание 74г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3247302,
+                "name": "Зубная щетка R.O.C.S. Модельная жесткая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4409056,
+                "name": "Зубная паста Natusana Daily Care 125мл",
+                "property": "125 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374682,
+                "name": "Зубная паста Absolut Professional Calcium Восстановление эмали и бережное отбеливание 110г",
+                "property": "110 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201057,
+                "name": "Ополаскиватель Лесной Бальзам для полости рта Total комплекс с морской солью экстрактом имбиря и чаем матча 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2038356,
+                "name": "Зубная паста Colgate Propolis отбеливающая 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3018823,
+                "name": "Зубная щетка Colgate Доктор Заяц детская 2+ супермягкая в ассортименте 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4377310,
+                "name": "Зубная паста Sensodyne Clinical White Активное отбеливание и укрепление эмали 75мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3480790,
+                "name": "Зубная паста Biomed Sensitive 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3276162,
+                "name": "Зубная паста Parodontax без фтора 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4057619,
+                "name": "Зубная щетка Colgate Классика здоровья многофункциональная средней жесткости промоупаковка 3шт",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4394481,
+                "name": "Ополаскиватель для полости рта Лесной бальзам Мандарин, лайм, мята 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3966329,
+                "name": "Зубная паста Splat Special Wonder White отбеливающая 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3498262,
+                "name": "Зубная паста Colgate Total 12 чистая мята 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4394482,
+                "name": "Ополаскиватель для полости рта Лесной бальзам Total Эффект 7В1 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3900299,
+                "name": "Зубная паста Colgate Total 12 Профессиональная чистка антибактериальная защита 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4256372,
+                "name": "Ополаскиватель Лесной бальзам Природная свежесть для десен 800мл",
+                "property": "800 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4098901,
+                "name": "Зубная паста Sensodyne Отбеливающая Восстановление и защита 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3684019,
+                "name": "Зубная паста Parodontax комплексная защита 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201047,
+                "name": "Зубная паста Лесной бальзам Total Комплекс Отбеливание 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4218499,
+                "name": "Зубная паста Лесной бальзам для десен с можжевеловыми ягодами и корой дуба 150г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3354764,
+                "name": "Зубная нить Splat Professional Dental Floss с ароматом бергамота и лайма 30м",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4218500,
+                "name": "Ополаскиватель для полости рта Лесной Бальзам Total Комплекс с морской солью экстрактом ромашки и маслом облепихи 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3251371,
+                "name": "Зубная паста Colgate Доктор Заяц детская 2+ со вкусом жвачки 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227385,
+                "name": "Набор зубных щеток Biomed Medium с древесным углем средней жесткости 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3437994,
+                "name": "Ополаскиватель для полости рта Splat Биокальций, 275мл",
+                "property": "275 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4049490,
+                "name": "Зубная паста Parodontax экстракты трав 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 24303,
+                "name": "Зубная щетка Aquafresh In-between Clean средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201048,
+                "name": "Зубная паста Лесной Бальзам Total комплекс с морской солью экстрактом имбиря и чаем матча 150г",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4197292,
+                "name": "Зубная паста Lacalut multi-effect с мульти-формулой 5в1 100мл",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3026057,
+                "name": "Зубной гель Lacalut Teens 8+ 50мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3621551,
+                "name": "Зубная паста Splat Junior ягодный коктейль 6-11 лет 55мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4383522,
+                "name": "Зубная щетка Biomed Pearl White комплексная средняя 1 шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4251849,
+                "name": "Зубная паста Sensodyne Ежедневная Защита Морозная Мята 75мл",
+                "property": "75 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2048193,
+                "name": "Зубная паста Colgate МаксФреш нежная мята 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4258414,
+                "name": "Ополаскиватель Лесной Бальзам для укрепления и антибактериальной защиты десен 800мл",
+                "property": "800 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3455661,
+                "name": "Ополаскиватель Лесной бальзам Тройной эффект Природная свежесть для рта 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312705,
+                "name": "Нить зубная Splat Smilex Ortho+ объемная ортодонтическая со вкусом мяты 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225574,
+                "name": "Зубная паста R.O.C.S. Sensitive Plus Gum Care для чувствительных зубов 94г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4284715,
+                "name": "Зубная щетка Splat Proffessional Whitening жесткая 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4306369,
+                "name": "Зубная щетка Splat  Магия единорога для детей с 6 лет",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3192291,
+                "name": "Ополаскиватель для полости рта Lacalut Activ, 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3978988,
+                "name": "Ополаскиватель для полости рта Biomed Superwhite 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4093052,
+                "name": "Ополаскиватель Elmex для полости рта защита от кариеса 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3978986,
+                "name": "Ополаскиватель для полости рта Biomed Vitafresh 500мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358306,
+                "name": "Зубная паста Lacalut Basic Junior 60г",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4306367,
+                "name": "Зубная щетка Splat Магия единорога для детей с 6 лет",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4308438,
+                "name": "Детская зубная паста Bioon с витамином С",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4317999,
+                "name": "Зубная щетка Oral-B Классик 123",
+                "property": "11 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4185438,
+                "name": "Зубная паста Curaprox Enzycal 1450ppm 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4316945,
+                "name": "Насадка Oral-B 3D White Clean для зубной щётки 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4033937,
+                "name": "Держатель для зубных щеток Wow-Цена в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4278010,
+                "name": "Зубная щётка электрическая Oral-B Vitality Pro Brown 3708 White 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4118341,
+                "name": "Зубная щетка Colgate Зиг Заг мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3276160,
+                "name": "Зубная паста Sensodyne Мята Мгновенный эффект 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4284700,
+                "name": "Зубная щетка Splat Whitening жесткая зеленая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3140290,
+                "name": "Ополаскиватель для полости рта Лесной Бальзам при кровоточивости десен кора дуба-пихта 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3411391,
+                "name": "Щетка Зубная Colgate Шелковые нити с древесным углем мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279960,
+                "name": "Зубная паста Splat Professional Актив 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3900215,
+                "name": "Зубная паста Лесной бальзам Ягодный вкус детская с 7 лет 50мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4258415,
+                "name": "Ополаскиватель Лесной бальзам Total комплекс для полости рта 800мл",
+                "property": "800 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3140291,
+                "name": "Ополаскиватель для полости рта Лесной Бальзам против воспаления дёсен кедровый орех-шалфей 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4341145,
+                "name": "Зубная щетка Biomed Pearl White Комплексная средняя 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4114451,
+                "name": "Зубная щетка Colgate Cushion Clean мягкая в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3282039,
+                "name": "Зубная паста Colgate Sensitive Pro-Relief для чувствительных зубов 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4284891,
+                "name": "Зубная щетка Splat Junior для детей с ионами серебра",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3152406,
+                "name": "Паста зубная R.O.C.S. Baby аромат липы детская 45г",
+                "property": "45 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4364040,
+                "name": "Зубная паста Sensodyne 8в1 Комплексный уход для чувствительных зубов с фтором 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4341146,
+                "name": "Зубная щетка Biomed Pearl White Комплексная средняя 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3368036,
+                "name": "Зубная паста Sensodyne Комплексная защита 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3681961,
+                "name": "Зубная паста Blend-a-med 3D White Арктическая свежесть 125мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 21866,
+                "name": "Зубная паста Parodontax с фтором 75мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3497251,
+                "name": "Зубная паста Parodontax ультра очищение 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3463296,
+                "name": "Ополаскиватель для полости рта Лесной Бальзам Тройной эффект двойная мята 400мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3439211,
+                "name": "Зубная паста Sensodyne Мята восстановление и защита 75мл",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438397,
+                "name": "Ополаскиватель Лесной Бальзам для полости рта  для чувствительных зубов и десен 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3435408,
+                "name": "Зубная паста Splat Juicy тутти-фрутти детская 35мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082618,
+                "name": "Зубная нить Splat DentalFloss объемная с ароматом клубники 30м 1шт",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3914530,
+                "name": "Зубная щетка Colgate Шелковые нити ультра 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370914,
+                "name": "Паста зубная Sensodyne Интенсивное восстановление эмали 75мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3914639,
+                "name": "Ополаскиватель для полости рта Biomed Well Gum 500мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3437995,
+                "name": "Ополаскиватель для полости рта Splat лечебные травы 275мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340891,
+                "name": "Зубная паста Splat Professional Восстановление плюс 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4080489,
+                "name": "Щетка зубная Splat Professional Ultra Complete средней жесткости в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4313878,
+                "name": "Зубная паста Splat Professional биокальций для восстановления эмали и отбеливания 2х100мл",
+                "property": "1 шт"
+            }
+        }
+    ]
+}
