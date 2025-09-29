@@ -1,17 +1,18 @@
 from config import settings
-from pydantic_models.models import Entities
+# from pydantic_models.models import Entities
 
 import torch
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 import re
+from typing import List, Optional, Tuple
 
 class Predictor:
     def __init__(self, tokenizer, model):
         self.tokenizer = tokenizer
         self.model = model
 
-    def predict_all_entities(self, text: str, debug: bool = False) -> Entities:
+    def predict_all_entities(self, text: str, debug: bool = False) -> List[Optional[Tuple[int, int, str]]]:
 
         self.model.eval()
         if settings.use_cuda:

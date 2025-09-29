@@ -9,6 +9,8 @@ class Settings(BaseSettings):
     tokenizer_name: str = "rubert_tiny2_ft_250925_tokenizer"
     tokenizer_dir: str = os.path.join(base_dir, models_folder, tokenizer_name)
     use_cuda: bool = False
+    env: str = "development"
+    log_level: str = "DEBUg"
 
     lbls_in_dataset: list = [
         'O',
@@ -23,5 +25,8 @@ class Settings(BaseSettings):
     label2id: dict = {v:i for i, v in enumerate(lbls_in_dataset)}
     id2label: dict = {i:v for i, v in enumerate(lbls_in_dataset)}
 
+    class Config:
+        env_file = ".env"
+
 settings = Settings()
-print(settings.model_dir)
+# print(settings.model_dir)

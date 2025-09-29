@@ -3,12 +3,12 @@ from pydantic_models.models import RequestPredict
 from model_processing.ner import Predictor
 from config import settings
 import time
-from typing import List, Optional, Tuple
+# from typing import List, Optional, Tuple
 
 router = APIRouter(prefix="/api", tags=["NER"])
 
 @router.post("/predict")
-async def predict_ner(payload: RequestPredict, request: Request) -> List[Optional[Tuple[int, int, str]]]:
+async def predict_ner(payload: RequestPredict, request: Request):
     try:
         if payload.input == "":
             return []
