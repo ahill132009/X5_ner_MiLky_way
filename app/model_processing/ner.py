@@ -6,6 +6,7 @@ import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 import re
 from typing import List, Optional, Tuple
+# torch.set_num_threads(4)
 
 class Predictor:
     def __init__(self, tokenizer, model):
@@ -13,8 +14,9 @@ class Predictor:
         self.model = model
 
     def predict_all_entities(self, text: str, debug: bool = False) -> List[Optional[Tuple[int, int, str]]]:
-
         self.model.eval()
+        
+        
         if settings.use_cuda:
             device="cuda"
         else:

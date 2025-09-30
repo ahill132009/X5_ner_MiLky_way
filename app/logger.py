@@ -5,6 +5,7 @@ from config import settings
 
 def get_logger(name: str = "app"):
     logger = logging.getLogger(name)
+    logger.info(f"Starting with {settings}")
 
     if logger.handlers:  # already configured
         return logger

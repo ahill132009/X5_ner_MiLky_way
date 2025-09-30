@@ -1,26 +1,38 @@
 from fastapi import APIRouter, HTTPException, Request
 from pydantic_models.models import RequestPredict
-from model_processing.ner import Predictor
 from config import settings
 import time
+import asyncio
+from logger import logger
+from concurrent.futures import ThreadPoolExecutor
+
 # from typing import List, Optional, Tuple
 
 router = APIRouter(prefix="/api", tags=["NER"])
 
+executor = ThreadPoolExecutor(max_workers=1)
+
 @router.post("/predict")
-async def predict_ner(payload: RequestPredict, request: Request):
+async def predict_ner(payload: RequestPredict, request: Request, logger=logger):
     try:
         if payload.input == "":
             return []
-        a = time.time()
-        loaded_model = request.app.state.loaded_model
-        predictor = Predictor(loaded_model[0], loaded_model[1])
-        entities = predictor.predict_all_entities(payload.input)
-        print(entities)
-        b = time.time()
-        print(f'took {b-a} sec')
+        start = time.perf_counter()
+        logger.debug(f"use cuda: {settings.use_cuda}")
+        if settings.use_cuda:
+            predictor = request.app.state.predictor
+            entities = predictor.predict_all_entities(payload.input)
+        else:
+            loop = asyncio.get_event_loop()
+            predictor = request.app.state.predictor
+            entities = await loop.run_in_executor(
+                executor,
+                predictor.predict_all_entities,
+                payload.input
+        )
+        latency = time.perf_counter() - start
+        logger.info(f'Prediction took: {latency:.4f}s | Entities: {entities}')
         # time.sleep(10)
         return entities
     except Exception as e:
-        print(e)
         raise HTTPException(status_code=500, detail=f"Prediction error: {str(e)}")

@@ -1,0 +1,37 @@
+# Virtual environments
+app/my_venv/
+
+# Model directories (already baked into image via download_model.py or copied selectively)
+app/nlp_models/
+models/
+
+# Data (large CSVs, datasets, etc.)
+data/
+
+# Notebooks
+notebooks/
+
+# Parser cache
+parser/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+
+# Test files
+app/test_request.py
+app/test_requests.py
+
+# IDE / dev files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docs & misc
+README.md
+.gitignore
+
+# Archives
+*.zip
+*.ods
