@@ -1,0 +1,52 @@
+{
+    "content": {
+        "items": [],
+        "paginator": {
+            "step": 100,
+            "current": 10000,
+            "nextPageExists": false
+        },
+        "currentSorting": {
+            "orderBy": "popularity",
+            "orderDirection": "asc"
+        },
+        "canonical": null,
+        "orderByInfoItems": [
+            {
+                "orderBy": "popularity",
+                "orderDirection": "desc",
+                "orderByTitle": "Рекомендуемые",
+                "isSelected": true
+            },
+            {
+                "orderBy": "price",
+                "orderDirection": "asc",
+                "orderByTitle": "Сначала дешевле",
+                "isSelected": false
+            },
+            {
+                "orderBy": "price",
+                "orderDirection": "desc",
+                "orderByTitle": "Сначала дороже",
+                "isSelected": false
+            },
+            {
+                "orderBy": "discount",
+                "orderDirection": "desc",
+                "orderByTitle": "По размеру скидки",
+                "isSelected": false
+            },
+            {
+                "orderBy": "rating",
+                "orderDirection": "desc",
+                "orderByTitle": "По рейтингу",
+                "isSelected": false
+            }
+        ],
+        "searchQueryId": null,
+        "searchType": "strict",
+        "catalogs": [
+            1
+        ]
+    }
+}

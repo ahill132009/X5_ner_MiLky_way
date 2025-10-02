@@ -1,0 +1,538 @@
+{
+    "category_id": "251C13068",
+    "category_name": "Кукурузные снеки",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 4239701,
+                "name": "Кукурузные шарики Twister Сыр 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4177294,
+                "name": "Палочки кукурузные Матяш Королевские Сладкие с подарком в ассортименте 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3468689,
+                "name": "Попкорн Mixbar со вкусом сыра 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3468690,
+                "name": "Попкорн Party Mixbar сладко-соленый 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3468688,
+                "name": "Попкорн Mixbar Party соленый 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4132780,
+                "name": "Чипсы Salto Nachos and Cheese кукурузные барбекю с соусом 220г/100г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4244960,
+                "name": "Чипсы Salto Nachos кукурузные с соусом и салфеткой 220г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3463552,
+                "name": "Начос Delicados Нежнейший сыр кукурузные 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3500409,
+                "name": "Попкорн CorinCorn соленый 45г",
+                "property": "45 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236250,
+                "name": "Чипсы Delicados кукурузные Ранч 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3437912,
+                "name": "Шарики кукурузные СырBall со вкусом сыра 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3373733,
+                "name": "Попкорн CorinCorn Vanilla Caramel карамельный 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3951309,
+                "name": "Хлебцы Take a Bite кукурузно-рисовые с морской солью хрустящие 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089566,
+                "name": "Зерно кукурузы лопающейся Holycorn Морская соль для приготовления попкорна, 65г",
+                "property": "1 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3463551,
+                "name": "Начос кукурузные Delicados 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4210462,
+                "name": "Снеки кукурузные Сырколбас двойной сыр 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94326,
+                "name": "Чипсы кукурузные Carambas Nacho cheese 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4237448,
+                "name": "Чипсы кукурузные Mission со вкусом сметаны и лука 90г",
+                "property": "90 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4107188,
+                "name": "Хлопья Кузя Лакомкин глазированные 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4061096,
+                "name": "Попкорн MixBar Карамель сладкий 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4173808,
+                "name": "Палочки Кузя Лакомкин кукурузные со вкусом клубники 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3679506,
+                "name": "Попкорн Holy Corn сладко-соленый 30г",
+                "property": "30 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4013364,
+                "name": "Чипсы кукурузные Mission Сыр Чеддер 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3679690,
+                "name": "Попкорн Holy Corn Морская соль 20г",
+                "property": "20 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483725,
+                "name": "Хлебцы Здоровей кукурузные хрустящие 90г",
+                "property": "90 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145293,
+                "name": "Попкорн Holy Corn Сладко-соленый для СВЧ 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94329,
+                "name": "Чипсы кукурузные Carambas сметана и лук 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204922,
+                "name": "Снеки Holy Corn кукурузные со вкусом Сыра 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3680662,
+                "name": "Чипсы Dr.Korner кукурузно-рисовые с сыром начо 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4335112,
+                "name": "Палочки Kidness кукурузные сладкие 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3224542,
+                "name": "Кукурузные снеки Cheetos Кетчуп 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3978740,
+                "name": "Попкорн Holy Corn со вкусом сыра воздушный 25г",
+                "property": "25 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295341,
+                "name": "Кукуруза Трям Карамель воздушная 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359632,
+                "name": "Палочки Кузя Лакомкин со вкусом карамели кукурузные 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089539,
+                "name": "Зерно кукурузы лопающейся Holycorn Сырный для приготовления попкорна, 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295342,
+                "name": "Попкорн Трям Соленый 130г",
+                "property": "130 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4179193,
+                "name": "Палочки кукурузные Cheetos кетчуп 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4270875,
+                "name": "Попкорн Mixbar Snack воздушная с солью 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4281334,
+                "name": "Чипсы Dr.Korner цельнозерновые кукурузно-рисовые со сметаной и зеленым луком 50г",
+                "property": "54 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4281464,
+                "name": "Чипсы Dr.Korner кукурузно-рисовые с тайским острым сладким перцем 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3196707,
+                "name": "Кукурузные снеки Cheetos Сыр 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94323,
+                "name": "Чипсы Carambas Original кукурузные 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4342112,
+                "name": "Попкорн ReeeL Брауни сладкий 55г",
+                "property": "55 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4237450,
+                "name": "Чипсы Mission кукурузные со вкусом краб камчатский 90г",
+                "property": "90 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94325,
+                "name": "Чипсы кукурузные Carambas бекон 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4214207,
+                "name": "Палочки кукурузные Crunch Time Три кота сладкие 75г в ассортименте",
+                "property": "75 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3922199,
+                "name": "Палочки кукурузные Ухтышки сладкие 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4233208,
+                "name": "Снеки кукурузные Сырколбас сыр и колбаса 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374378,
+                "name": "Палочки Cheetos Сыр кукурузные 130г",
+                "property": "130 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3412318,
+                "name": "Хлебцы Вкусная Фантазия Виктория кукурузные вафельные 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4237428,
+                "name": "Снеки Cheetos кукурузные со вкусом Краб 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4324729,
+                "name": "Попкорн Reeel Соленая карамель сладко-соленый 55г",
+                "property": "55 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4281894,
+                "name": "Снеки Cheetos Ветчина и сыр кукурузные 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157228,
+                "name": "Чипсы Cheetos Краб кукурузные 85г",
+                "property": "85 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204923,
+                "name": "Снеки Holy Corn со вкусом томат кукурузные 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3370312,
+                "name": "Палочки кукурузные Кузя Лакомкин сладкие 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4342077,
+                "name": "Попкорн Reeel Бабл гам сладкий 55г",
+                "property": "55 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4317804,
+                "name": "Попкорн Holy Corn Булочка с корицей 35г",
+                "property": "35 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3677055,
+                "name": "Чипсы кукурузно-рисовые Dr.Korner с оливковым маслом и розмарином 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3677056,
+                "name": "Чипсы кукурузно-рисовые Dr.Korner с томатом и базиликом 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4013362,
+                "name": "Чипсы кукурузные Mission со вкусом бекона 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145294,
+                "name": "Попкорн Holy Corn Сливочный для СВЧ 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4259992,
+                "name": "Палочки кукурузные Lava Lava со вкусом клубника-банан 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372571,
+                "name": "Попкорн Наша Кукуруза с солью для СВЧ 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3983861,
+                "name": "Попкорн Holy Corn Морская соль 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3983864,
+                "name": "Попкорн Holy Corn сладко-соленый 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4341322,
+                "name": "Попкорн Happy Corn Двойной сыр для СВЧ 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372554,
+                "name": "Попкорн Happy Corn Мексиканский Микс для СВЧ 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4317805,
+                "name": "Попкорн Holy Сorn Папа Джонс со вкусом пиццы 25г",
+                "property": "25 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070311,
+                "name": "Чипсы Happy Crisp цельнозерновые кукурузно-рисовые со вкусом сыра 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372574,
+                "name": "Попкорн Наша Кукуруза сладкий для СВЧ 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372573,
+                "name": "Попкорн Наша Кукуруза со вкусом сыра для СВЧ 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223870,
+                "name": "Чипсы кукурузно-рисовые Happy Crisp Пряный томат цельнозерновые 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4259993,
+                "name": "Палочки кукурузные Lava Lava со вкусом тутти-фрутти 50г",
+                "property": "50 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4341321,
+                "name": "Попкорн Happy Corn Двойное масло для микроволновой печи 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070313,
+                "name": "Чипсы Happy Crisp цельнозерновые кукурузно-рисовые со вкусом сметаны и лука 50г",
+                "property": "50 г"
+            }
+        }
+    ]
+}

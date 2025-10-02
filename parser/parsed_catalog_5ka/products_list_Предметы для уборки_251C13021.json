@@ -1,0 +1,657 @@
+{
+    "category_id": "251C13021",
+    "category_name": "Предметы для уборки",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 4216347,
+                "name": "Швабра Hausmann Classic Home 360 для влажной уборки пола с телескопической ручкой 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4301758,
+                "name": "Ведро Young Passion складное круглое 10л",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4301759,
+                "name": "Тазик Young Passion складной для мытья посуды 9л",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2167341,
+                "name": "Пакеты Paclan Big&Strong для мусора 70х110см 120л 25шт.",
+                "property": "25 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157193,
+                "name": "Салфетки Home Story Deluxe 140шт",
+                "property": "140 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3439736,
+                "name": "Полотенца House Lux сухие универсальные 70шт.",
+                "property": "70 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3970056,
+                "name": "Мешки для мусора Liberhaus сверхпрочные 240л 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4056125,
+                "name": "Перчатки Paclan виниловые размер M 100шт.",
+                "property": "100 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4296561,
+                "name": "Ведро Архимед Р1012 10л",
+                "property": "10 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3970057,
+                "name": "Мешки для мусора Liberhaus сверхпрочные 160л 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4032998,
+                "name": "Салфетки Liberhaus универсальные 4шт",
+                "property": "4 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4039982,
+                "name": "Насадка Liberhaus для швабры из микрофибры 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4151582,
+                "name": "Салфетка Liberhaus из микрофибры 30х30см 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4363601,
+                "name": "Ведро складное 5л",
+                "property": "5 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4262586,
+                "name": "Насадка Hausmann Classic Home 360 сменная из микрофибры для швабры 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120006,
+                "name": "Полотенца Master Fresh универсальные в рулоне 21x25см 100шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4181597,
+                "name": "Салфетки Liberhaus влажные антисептические 60шт.",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3384223,
+                "name": "Салфетки Econta губчатые 15х15см 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3369506,
+                "name": "Салфетки Econta универсальные в рулоне 30х25см 100шт.",
+                "property": "100 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3964958,
+                "name": "Салфетки Liberhaus универсальные перфорированные в рулоне 25х30см 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4034312,
+                "name": "Пакеты для мусора Master Fresh XXXL суперпрочные 120л 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4093249,
+                "name": "Полотенца House Lux Giga Roll сухие универсальные 20х25см 220шт.",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3980322,
+                "name": "Салфетка Liberhaus для пола из микрофибры 50х60см 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4183364,
+                "name": "Перчатки Liberhaus хозяйственные латексные в ассортименте 1пара",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3963665,
+                "name": "Пакеты для мусора Liberhaus сверхпрочные с завязками 60л 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3963627,
+                "name": "Мешки для мусора Liberhaus с завязками 35л 15шт.",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4277880,
+                "name": "Веник Spin&Clean Rock'n'Roll мини английская роза 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3416868,
+                "name": "Перчатки Econta хозяйственные латексные 1 пара",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3681023,
+                "name": "Салфетки Liberhaus универсальные из бамбукового волокна 30*34см 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3608299,
+                "name": "Губки Liberhaus целлюлоза 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3412846,
+                "name": "Салфетка Econta универсальные 30х38см в ассортименте 3шт",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3408392,
+                "name": "Мешки для мусора Econta 30л 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3412848,
+                "name": "Тряпка Econta для пола универсальная 50х60см 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3600080,
+                "name": "Салфетки Econta универсальные в рулоне 23х25см 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3411329,
+                "name": "Мешки для мусора Econta 60л 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4233473,
+                "name": "Салфетки Красная Цена хозяйственные нетканые 25х30см 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4034307,
+                "name": "Салфетки Master Fresh хозяйственные Эконом в рулоне 150шт.",
+                "property": "150 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375298,
+                "name": "Губки Liberhaus для мытья посуды 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3504680,
+                "name": "Ведро Hausmann для мытья пола HM-1084 10л",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4385757,
+                "name": "Губки для мытья посуды Liberhaus 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3404262,
+                "name": "Салфетки Kleenex Viva универсальные 21х28см 56шт",
+                "property": "56 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120009,
+                "name": "Губки для мытья посуды Master Fresh XL 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4244864,
+                "name": "Губки кухонные Big City Life Max 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652590,
+                "name": "Мешки для мусора Paclan Bunny Bags Aroma 35л 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652579,
+                "name": "Мешки для мусора Paclan Drawstring Aroma 60л 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652586,
+                "name": "Мешки для мусора Paclan Drawstring Aroma с завязками 35л 14шт.",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3655734,
+                "name": "Губки Master Fresh для мытья посуды XL 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3392826,
+                "name": "Набор салфеток Paclan Practi Microfiber универсальных 30x30см 4шт.",
+                "property": "4 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4034315,
+                "name": "Пакеты для мусора Master Fresh XXL с завязками 60л 15шт.",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3281574,
+                "name": "Мешки Paclan Multitop для мусора 60л 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382004,
+                "name": "Щетка Spean&Clean универсальная круглая d7.5см в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4343282,
+                "name": "Перчатки Kloob нитриловые диагностические нестерильные размер L 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120008,
+                "name": "Губки Master Fresh меламиновые суперочищающие 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4117433,
+                "name": "Пакеты Master Fresh для мусора экопакеты с усиленными завязками 35л 15шт.",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4077976,
+                "name": "Перчатки Paclan Practi виниловые М 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382005,
+                "name": "Щетка-утюжок Spin&Clean микс 14см в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4034314,
+                "name": "Пакеты для мусора Master Fresh 35л 15шт.",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200142,
+                "name": "Салфетка Эконом Smart из микрофибры 30x30см 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4117435,
+                "name": "Пакеты для мусора Master Fresh Экопакеты с усиленными завязками 60л 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4056124,
+                "name": "Перчатки Paclan виниловые размер L 100шт.",
+                "property": "100 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382017,
+                "name": "Набор Spean&Clean веник с совком микс в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120011,
+                "name": "Губки для мытья посуды Master Fresh XL Strong effect 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3660652,
+                "name": "Салфетки влажные House Lux 6in1 универсальные антибактериальные 80шт.",
+                "property": "80 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4341675,
+                "name": "Перчатки Kloob Нитримакс нитриловые смотровые нестерильные размер M 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070415,
+                "name": "Губки для мытья посуды Master Fresh Ecoline из агавы 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4376611,
+                "name": "Перчатки Paclan нитриловые L 50шт",
+                "property": "50 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4376612,
+                "name": "Перчатки Paclan нитриловые M 50шт",
+                "property": "50 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3655733,
+                "name": "Салфетки Master Fresh Эко универсальные для уборки 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382014,
+                "name": "Ведро Spean&Clean прямоугольное 8л в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3471935,
+                "name": "Салфетки House Lux универсальные 2х125шт",
+                "property": "250 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2167345,
+                "name": "Пакеты для мусора Paclan Big&Strong 240л 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120010,
+                "name": "Мочалки для посуды Master Fresh для эмали и тефлона 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3420700,
+                "name": "Мешки для мусора Paclan Super Strong 130х90см 240л 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4068871,
+                "name": "Губка хозяйственная в ассортименте 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382016,
+                "name": "Швабра-Моп Spean&Clean с насадкой в ассортименте 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4071676,
+                "name": "Салфетки Master Fresh Ecoline целлюлозные с антимикробной пропиткой 15x18см 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3683973,
+                "name": "Скребок Wow для стеклокерамики 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3937752,
+                "name": "Пакеты для мусора Paclan Bunny Bags Aroma 60л 15шт,",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4277879,
+                "name": "Веник Spin&Clean Rock'n'Roll мини молочный шоколад 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4104691,
+                "name": "Щетка SVIP Практик универсальная утюжок 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4244877,
+                "name": "Пакеты для мусора Big City Life особо прочные 240л 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4104693,
+                "name": "Совок Svip Клио Практик небесный 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3937286,
+                "name": "Окномойка Svip Практик с черенком 44см",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4183805,
+                "name": "Щетка-утюжок Idi Land в ассортименте 13.5см 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 22987,
+                "name": "Салфетки Paclan Soft Universal тканевые 38х38см 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4166591,
+                "name": "Окномойка Idi Land 60х162х157мм 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4118944,
+                "name": "Водосгон Svip Софтель 17см 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4322361,
+                "name": "Ведро Idi Land круглое 220х215х180мм 4л",
+                "property": "4 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120477,
+                "name": "Щетка Утюжок 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4278250,
+                "name": "Щетка Spin&Clean Утюжок мини Disco английская роза 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4023235,
+                "name": "Перчатки хозяйственные Paclan резиновые M",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276478,
+                "name": "Швабра Hitt Express c вертикальным отжимным механизмом 120см",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3982029,
+                "name": "Салфетки влажные Domestos Антибактериальные для очищения поверхностей 30шт.",
+                "property": "30 шт"
+            }
+        }
+    ]
+}

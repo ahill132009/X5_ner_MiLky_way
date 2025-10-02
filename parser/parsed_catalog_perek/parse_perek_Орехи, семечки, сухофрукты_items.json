@@ -1,0 +1,2667 @@
+{
+    "cat_name": {
+        "cat_id": 157,
+        "items": [
+            {
+                "title": "Смесь фруктово-ягодная Sublime клубника и персик сушеная, 25г",
+                "masterData": {
+                    "slug": "smes-fruktovo-agodnaa-sublime-klubnika-i-persik-susenaa-25g",
+                    "plu": "4391482",
+                    "unitName": "шт",
+                    "weight": 25,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Чернослив Naturfoods без косточки, 300г",
+                "masterData": {
+                    "slug": "cernosliv-naturfoods-bez-kostocki-300g",
+                    "plu": "4427004",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядро миндаля Naturfoods, 300г",
+                "masterData": {
+                    "slug": "adro-mindala-naturfoods-300g",
+                    "plu": "4427010",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра фундука Naturfoods жареные, 300г",
+                "masterData": {
+                    "slug": "adra-funduka-naturfoods-zarenye-300g",
+                    "plu": "4427003",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра кешью Naturfoods, 300г",
+                "masterData": {
+                    "slug": "adra-kesu-naturfoods-300g",
+                    "plu": "4427006",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Изюм Семушка узбекский чёрный, 150г",
+                "masterData": {
+                    "slug": "izum-semuska-uzbekskij-cernyj-150g",
+                    "plu": "3503752",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикос сушеный Naturfoods без косточки, 300г",
+                "masterData": {
+                    "slug": "abrikos-susenyj-naturfoods-bez-kostocki-300g",
+                    "plu": "4427009",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Перец Sublime Сладкий сушеный, 20г",
+                "masterData": {
+                    "slug": "perec-sublime-sladkij-susenyj-20g",
+                    "plu": "4391483",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Абрикос Sun Crisp сублимированный, 30г",
+                "masterData": {
+                    "slug": "abrikos-sun-crisp-sublimirovannyj-30g",
+                    "plu": "4283926",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Слива Sun Crisp сублимированная, 30г",
+                "masterData": {
+                    "slug": "sliva-sun-crisp-sublimirovannaa-30g",
+                    "plu": "4283928",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра кешью Naturfoods жареные, 300г",
+                "masterData": {
+                    "slug": "adra-kesu-naturfoods-zarenye-300g",
+                    "plu": "4427005",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикос Sublime сублимированный, 45г",
+                "masterData": {
+                    "slug": "abrikos-sublime-sublimirovannyj-45g",
+                    "plu": "4391480",
+                    "unitName": "шт",
+                    "weight": 45,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Орехи фисташковые Naturfoods неочищенные жареные солёные, 300г",
+                "masterData": {
+                    "slug": "orehi-fistaskovye-naturfoods-neocisennye-zarenye-solenye-300g",
+                    "plu": "4427007",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Топинамбур КД Посадъ цукаты на фруктозе, 120г",
+                "masterData": {
+                    "slug": "topinambur-kd-posad-cukaty-na-fruktoze-120g",
+                    "plu": "3963772",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь фруктов Filipino Sun ананас-банан-манго-сметанное яблоко подсушенная, 130г",
+                "masterData": {
+                    "slug": "smes-fruktov-filipino-sun-ananas-banan-mango-smetannoe-abloko-podsusennaa-130g",
+                    "plu": "4052878",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Груша Tasty Story вяленая, 30г",
+                "masterData": {
+                    "slug": "grusa-tasty-story-valenaa-30g",
+                    "plu": "4388472",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Томаты Черри Sublime сублимированные, 15г",
+                "masterData": {
+                    "slug": "tomaty-cerri-sublime-sublimirovannye-15g",
+                    "plu": "4391484",
+                    "unitName": "шт",
+                    "weight": 15,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Хурма Tasty Story вяленая, 30г",
+                "masterData": {
+                    "slug": "hurma-tasty-story-valenaa-30g",
+                    "plu": "4388471",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Яблоко Tasty Story с корицей вяленое, 25г",
+                "masterData": {
+                    "slug": "abloko-tasty-story-s-koricej-valenoe-25g",
+                    "plu": "4388469",
+                    "unitName": "шт",
+                    "weight": 25,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кишмиш темный, 300г",
+                "masterData": {
+                    "slug": "kismis-temnyj-300g",
+                    "plu": "4326592",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Дыня  Tasty Story вяленая, 30г",
+                "masterData": {
+                    "slug": "dyna-tasty-story-valenaa-30g",
+                    "plu": "4388470",
+                    "unitName": "шт",
+                    "weight": 30,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Клубника Sun Crisp cублимированная, 20г",
+                "masterData": {
+                    "slug": "klubnika-sun-crisp-cublimirovannaa-20g",
+                    "plu": "4283930",
+                    "unitName": "шт",
+                    "weight": 20,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ассорти арахиса Пикантное жареное солёное Маркет, 200г",
+                "masterData": {
+                    "slug": "assorti-arahisa-pikantnoe-zarenoe-solenoe-market-200g",
+                    "plu": "4368236",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Черника Ого! сублимированная целая, 25г",
+                "masterData": {
+                    "slug": "cernika-ogo-sublimirovannaa-celaa-25g",
+                    "plu": "4333952",
+                    "unitName": "шт",
+                    "weight": 25,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Фисташки Camel baked pistachios печёные подсоленные, 135г",
+                "masterData": {
+                    "slug": "fistaski-camel-baked-pistachios-pecenye-podsolennye-135g",
+                    "plu": "4369326",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный с карри и гималайской розовой солью, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-s-karri-i-gimalajskoj-rozovoj-solu-90g",
+                    "plu": "4388058",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный с гималайской розовой солью и черным перцем, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-s-gimalajskoj-rozovoj-solu-i-cernym-percem-90g",
+                    "plu": "4388060",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный с прованскими травами, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-s-provanskimi-travami-90g",
+                    "plu": "4388056",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Орехи фисташки Аркада со вкусом перца чили жареные в скорлупе, 150г",
+                "masterData": {
+                    "slug": "orehi-fistaski-arkada-so-vkusom-perca-cili-zarenye-v-skorlupe-150g",
+                    "plu": "4403143",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль Spices Nuts очищенный жареный с прованскими травами, 90г",
+                "masterData": {
+                    "slug": "mindal-spices-nuts-ocisennyj-zarenyj-s-provanskimi-travami-90g",
+                    "plu": "4388062",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Экзотик микс Filipino Sun манго-ананас, 100г",
+                "masterData": {
+                    "slug": "ekzotik-miks-filipino-sun-mango-ananas-100g",
+                    "plu": "4354364",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ассорти арахиса Аппетитное жареное солёное Маркет, 200г",
+                "masterData": {
+                    "slug": "assorti-arahisa-appetitnoe-zarenoe-solenoe-market-200g",
+                    "plu": "4368238",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль Spices Nuts очищенный жареный с паприкой и томатом, 90г",
+                "masterData": {
+                    "slug": "mindal-spices-nuts-ocisennyj-zarenyj-s-paprikoj-i-tomatom-90g",
+                    "plu": "4388063",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Плоды банана вяленые Маркет Collection, 200г",
+                "masterData": {
+                    "slug": "plody-banana-valenye-market-collection-200g",
+                    "plu": "4367718",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный с кайенским перцем, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-s-kajenskim-percem-90g",
+                    "plu": "4388059",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь салатная с розовым перцем и фундуком Зелёная Линия, 80г",
+                "masterData": {
+                    "slug": "smes-salatnaa-s-rozovym-percem-i-fundukom-zelenaa-linia-80g",
+                    "plu": "4341948",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Цукаты Cas Шишки сосновые, 80г",
+                "masterData": {
+                    "slug": "cukaty-cas-siski-sosnovye-80g",
+                    "plu": "4382395",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь салатная с арахисом Зелёная Линия, 80г",
+                "masterData": {
+                    "slug": "smes-salatnaa-s-arahisom-zelenaa-linia-80g",
+                    "plu": "4341950",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена подсолнечника Ciko чёрные жареные с солью, 100г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-ciko-cernye-zarenye-s-solu-100g",
+                    "plu": "4373720",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис сметана-зелень обжаренный Пр!ст, 80г",
+                "masterData": {
+                    "slug": "arahis-smetana-zelen-obzarennyj-pr-st-80g",
+                    "plu": "4110078",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Сладкая к чаю Пр!ст, 100г",
+                "masterData": {
+                    "slug": "smes-sladkaa-k-cau-pr-st-100g",
+                    "plu": "3640869",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь салатная с орехами Зелёная Линия, 80г",
+                "masterData": {
+                    "slug": "smes-salatnaa-s-orehami-zelenaa-linia-80g",
+                    "plu": "4341949",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Малина Ого!  сублимированная кусочки, 25г",
+                "masterData": {
+                    "slug": "malina-ogo-sublimirovannaa-kusocki-25g",
+                    "plu": "4333951",
+                    "unitName": "шт",
+                    "weight": 25,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Семена подсолнечника Ciko чёрные жареные, 100г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-ciko-cernye-zarenye-100g",
+                    "plu": "4373719",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Микс орехов Pocketnuts жареных без соли, 50г",
+                "masterData": {
+                    "slug": "miks-orehov-pocketnuts-zarenyh-bez-soli-50g",
+                    "plu": "4312471",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Плоды дыни мускусной сушёные Маркет Collection, 100г",
+                "masterData": {
+                    "slug": "plody-dyni-muskusnoj-susenye-market-collection-100g",
+                    "plu": "4322445",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Микс орехов Pocketnuts сушёных без соли, 50г",
+                "masterData": {
+                    "slug": "miks-orehov-pocketnuts-susenyh-bez-soli-50g",
+                    "plu": "4312470",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена льна Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "semena-lna-zelenaa-linia-200g",
+                    "plu": "4402182",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Фрукты сушёные Filipino Sun Фруктовый Микс манго ананас джекфрут, 100г",
+                "masterData": {
+                    "slug": "frukty-susenye-filipino-sun-fruktovyj-miks-mango-ananas-dzekfrut-100g",
+                    "plu": "4353754",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис От Мартина солёный обжаренный отборный, 100г",
+                "masterData": {
+                    "slug": "arahis-ot-martina-solenyj-obzarennyj-otbornyj-100g",
+                    "plu": "3954224",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Клубника Ого! сублимированная слайсы, 15г",
+                "masterData": {
+                    "slug": "klubnika-ogo-sublimirovannaa-slajsy-15g",
+                    "plu": "4366098",
+                    "unitName": "шт",
+                    "weight": 15,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Ананас сушёный Market Collection, 200г",
+                "masterData": {
+                    "slug": "ananas-susenyj-market-collection-200g",
+                    "plu": "4407929",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Виноград сушеный целый без косточки Маркет, 150г",
+                "masterData": {
+                    "slug": "vinograd-susenyj-celyj-bez-kostocki-market-150g",
+                    "plu": "4311579",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Микс орехов Pocketnuts жареных с солью, 50г",
+                "masterData": {
+                    "slug": "miks-orehov-pocketnuts-zarenyh-s-solu-50g",
+                    "plu": "4312469",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью жареные соленые с кожурой Маркет Collection, 120г",
+                "masterData": {
+                    "slug": "kesu-zarenye-solenye-s-kozuroj-market-collection-120g",
+                    "plu": "4391601",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра ореха грецкого, 300г",
+                "masterData": {
+                    "slug": "adra-oreha-greckogo-300g",
+                    "plu": "4326593",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Изюм Голден Кашмари сушеный Маркет, 130г",
+                "masterData": {
+                    "slug": "izum-golden-kasmari-susenyj-market-130g",
+                    "plu": "4389926",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный с чесноком и базиликом, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-s-cesnokom-i-bazilikom-90g",
+                    "plu": "4388054",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный с морской солью, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-s-morskoj-solu-90g",
+                    "plu": "4388055",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикосы Шоколадные сушёные без косточки Маркет Collection, 250г",
+                "masterData": {
+                    "slug": "abrikosy-sokoladnye-susenye-bez-kostocki-market-collection-250g",
+                    "plu": "4335796",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Финики сушеные с косточкой Пр!ст, 300г",
+                "masterData": {
+                    "slug": "finiki-susenye-s-kostockoj-pr-st-300g",
+                    "plu": "4287359",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Чипсы Вкусы Мира кокосовые, 40г",
+                "masterData": {
+                    "slug": "cipsy-vkusy-mira-kokosovye-40g",
+                    "plu": "3618875",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Виноград сушёный Пр!ст, 100г",
+                "masterData": {
+                    "slug": "vinograd-susenyj-pr-st-100g",
+                    "plu": "3959493",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Пекан Spices Nuts очищенный жареный с корицей и ванильным сахаром, 90г",
+                "masterData": {
+                    "slug": "pekan-spices-nuts-ocisennyj-zarenyj-s-koricej-i-vanilnym-saharom-90g",
+                    "plu": "4388068",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Клубника сушеная Маркет Collection, 150г",
+                "masterData": {
+                    "slug": "klubnika-susenaa-market-collection-150g",
+                    "plu": "4323693",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Spices Nuts жареный в соусе терияки с кунжутом, 90г",
+                "masterData": {
+                    "slug": "kesu-spices-nuts-zarenyj-v-souse-teriaki-s-kunzutom-90g",
+                    "plu": "4388051",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена подсолнечника очищенные Зелёная Линия, 200г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-ocisennye-zelenaa-linia-200g",
+                    "plu": "4402186",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Здоровый перекус",
+                    "id": 432
+                }
+            },
+            {
+                "title": "Изюм без косточек Маркет Collection, 200г",
+                "masterData": {
+                    "slug": "izum-bez-kostocek-market-collection-200g",
+                    "plu": "4381552",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена Нута обжаренные солёные Маркет, 100г",
+                "masterData": {
+                    "slug": "semena-nuta-obzarennye-solenye-market-100g",
+                    "plu": "4311984",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Финики Дары Природы сушёные, 180г",
+                "masterData": {
+                    "slug": "finiki-dary-prirody-susenye-180g",
+                    "plu": "4117069",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра арахиса обжаренные в хрустящей оболочке со вкусом хрена Маркет, 100г",
+                "masterData": {
+                    "slug": "adra-arahisa-obzarennye-v-hrustasej-obolocke-so-vkusom-hrena-market-100g",
+                    "plu": "4261860",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь винограда сушеного без косточек Маркет Collection, 180г",
+                "masterData": {
+                    "slug": "smes-vinograda-susenogo-bez-kostocek-market-collection-180g",
+                    "plu": "4381551",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ананас-папайя цукаты Пр!ст, 100г",
+                "masterData": {
+                    "slug": "ananas-papaja-cukaty-pr-st-100g",
+                    "plu": "3640867",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Черника вяленая Зелёная Линия, 150г",
+                "masterData": {
+                    "slug": "cernika-valenaa-zelenaa-linia-150g",
+                    "plu": "4328121",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Грецкий орех Аркада в скорлупе, 500г",
+                "masterData": {
+                    "slug": "greckij-oreh-arkada-v-skorlupe-500g",
+                    "plu": "4098825",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль Дары Природы жареный ядро, 70г",
+                "masterData": {
+                    "slug": "mindal-dary-prirody-zarenyj-adro-70g",
+                    "plu": "4117048",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Цукаты Апельсин Маркет Collection, 110г",
+                "masterData": {
+                    "slug": "cukaty-apelsin-market-collection-110g",
+                    "plu": "4297707",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки подсолнечника жареные Пр!ст, 100г",
+                "masterData": {
+                    "slug": "semecki-podsolnecnika-zarenye-pr-st-100g",
+                    "plu": "3473272",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра орехов миндаля обжаренные Пр!ст, 100г",
+                "masterData": {
+                    "slug": "adra-orehov-mindala-obzarennye-pr-st-100g",
+                    "plu": "4269170",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена подсолнечника Серые полосатые с морской солью Пр!ст, 200г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-serye-polosatye-s-morskoj-solu-pr-st-200g",
+                    "plu": "4359727",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена тыквы обжаренные солёные Маркет, 100г",
+                "masterData": {
+                    "slug": "semena-tykvy-obzarennye-solenye-market-100g",
+                    "plu": "4302861",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фундук жареный Пр!ст, 100г",
+                "masterData": {
+                    "slug": "funduk-zarenyj-pr-st-100g",
+                    "plu": "4249431",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью жареный Пр!ст, 100г",
+                "masterData": {
+                    "slug": "kesu-zarenyj-pr-st-100g",
+                    "plu": "3900342",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Клюква сушёная пропитанная сахарным сиропом Маркет, 150г",
+                "masterData": {
+                    "slug": "klukva-susenaa-propitannaa-saharnym-siropom-market-150g",
+                    "plu": "4330656",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Драже кешью в карамели с кунжутом Маркет Перекрёсток, 130г",
+                "masterData": {
+                    "slug": "draze-kesu-v-karameli-s-kunzutom-market-perekrestok-130g",
+                    "plu": "3476499",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис Джаз По-русски с жареным лучком жареный со вкусом жареного лука, 70г",
+                "masterData": {
+                    "slug": "arahis-dzaz-po-russki-s-zarenym-luckom-zarenyj-so-vkusom-zarenogo-luka-70g",
+                    "plu": "4311823",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Коктейль ореховый Chaka Чака-чака солёный, 70г",
+                "masterData": {
+                    "slug": "koktejl-orehovyj-chaka-caka-caka-solenyj-70g",
+                    "plu": "3661412",
+                    "unitName": "шт",
+                    "weight": 70,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Финики Королевские Меджуль сушеные с косточкой Маркет Collection, 300г",
+                "masterData": {
+                    "slug": "finiki-korolevskie-medzul-susenye-s-kostockoj-market-collection-300g",
+                    "plu": "4322373",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки тыквенные Семушка жареные 80г",
+                "masterData": {
+                    "slug": "semecki-tykvennye-semuska-zarenye-80g",
+                    "plu": "3363400",
+                    "unitName": "шт",
+                    "weight": 80,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра арахиса обжаренные в хрустящей оболочке со вкусом васаби Маркет, 100г",
+                "masterData": {
+                    "slug": "adra-arahisa-obzarennye-v-hrustasej-obolocke-so-vkusom-vasabi-market-100g",
+                    "plu": "4261859",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ягоды годжи сушеные Зелёная Линия, 100г",
+                "masterData": {
+                    "slug": "agody-godzi-susenye-zelenaa-linia-100g",
+                    "plu": "4271621",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Джаз из орехов и сухофруктов, 150г",
+                "masterData": {
+                    "slug": "smes-dzaz-iz-orehov-i-suhofruktov-150g",
+                    "plu": "3451584",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис небланшированный Маркет Перекрёсток, 180г",
+                "masterData": {
+                    "slug": "arahis-neblansirovannyj-market-perekrestok-180g",
+                    "plu": "4058975",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фундук Маркет Перекрёсток, 135г",
+                "masterData": {
+                    "slug": "funduk-market-perekrestok-135g",
+                    "plu": "3651926",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Виноград сушёный без косточек Маркет, 200г",
+                "masterData": {
+                    "slug": "vinograd-susenyj-bez-kostocek-market-200g",
+                    "plu": "4342295",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Драже миндаль в шоколадной глазури Маркет Перекрёсток, 150г",
+                "masterData": {
+                    "slug": "draze-mindal-v-sokoladnoj-glazuri-market-perekrestok-150g",
+                    "plu": "3476504",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь из ядер арахиса в сахаре-ягод сушеных-ядер орехов Маркет, 50г",
+                "masterData": {
+                    "slug": "smes-iz-ader-arahisa-v-sahare-agod-susenyh-ader-orehov-market-50g",
+                    "plu": "4305385",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра арахиса обжаренные в хрустящей оболочке со вкусом перца чили Маркет, 100г",
+                "masterData": {
+                    "slug": "adra-arahisa-obzarennye-v-hrustasej-obolocke-so-vkusom-perca-cili-market-100g",
+                    "plu": "4261861",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис солёный бланшированный обжаренный Пр!ст, 100г",
+                "masterData": {
+                    "slug": "arahis-solenyj-blansirovannyj-obzarennyj-pr-st-100g",
+                    "plu": "3639074",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь сладкая Маркет, 167г",
+                "masterData": {
+                    "slug": "smes-sladkaa-market-167g",
+                    "plu": "3640862",
+                    "unitName": "шт",
+                    "weight": 167,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фундук Семушка жареный, 150г",
+                "masterData": {
+                    "slug": "funduk-semuska-zarenyj-150g",
+                    "plu": "3428416",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Бананы Naturfoods вяленые, 200г",
+                "masterData": {
+                    "slug": "banany-naturfoods-valenye-200g",
+                    "plu": "3661298",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Манго Naturfoods цукаты, 300г",
+                "masterData": {
+                    "slug": "mango-naturfoods-cukaty-300g",
+                    "plu": "4417838",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис жаренный солёный Маркет, 40г",
+                "masterData": {
+                    "slug": "arahis-zarennyj-solenyj-market-40g",
+                    "plu": "4260363",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис солёный обжаренный очищенный Пр!ст, 200г",
+                "masterData": {
+                    "slug": "arahis-solenyj-obzarennyj-ocisennyj-pr-st-200g",
+                    "plu": "4000415",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Яблоко резаное сушёное Маркет Перекрёсток, 200г",
+                "masterData": {
+                    "slug": "abloko-rezanoe-susenoe-market-perekrestok-200g",
+                    "plu": "3972139",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ананас-папайя сушёные Маркет Перекрёсток, 200г",
+                "masterData": {
+                    "slug": "ananas-papaja-susenye-market-perekrestok-200g",
+                    "plu": "3469379",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Изюм Голден Маркет, 250г",
+                "masterData": {
+                    "slug": "izum-golden-market-250g",
+                    "plu": "4316951",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Чернослив без косточки Маркет, 500г",
+                "masterData": {
+                    "slug": "cernosliv-bez-kostocki-market-500g",
+                    "plu": "4360074",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Чернослив Дары природы сушеный, 150г",
+                "masterData": {
+                    "slug": "cernosliv-dary-prirody-susenyj-150g",
+                    "plu": "13921",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь компотная из сухофруктов Маркет, 500г",
+                "masterData": {
+                    "slug": "smes-kompotnaa-iz-suhofruktov-market-500g",
+                    "plu": "4312918",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фундук сушёный Пр!ст, 100г",
+                "masterData": {
+                    "slug": "funduk-susenyj-pr-st-100g",
+                    "plu": "3900343",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль жареный Маркет Перекрёсток, 130г",
+                "masterData": {
+                    "slug": "mindal-zarenyj-market-perekrestok-130g",
+                    "plu": "3640846",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Хурма сушеная Market Collection, 250г",
+                "masterData": {
+                    "slug": "hurma-susenaa-market-collection-250g",
+                    "plu": "4291760",
+                    "unitName": "шт",
+                    "weight": 250,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фундук Семушка сушёный, 120г",
+                "masterData": {
+                    "slug": "funduk-semuska-susenyj-120g",
+                    "plu": "4065822",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Чипсы банановые Пр!ст, 130г",
+                "masterData": {
+                    "slug": "cipsy-bananovye-pr-st-130g",
+                    "plu": "4034931",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена подсолнечника Ciko полосатые жареные с солью, 100г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-ciko-polosatye-zarenye-s-solu-100g",
+                    "plu": "4323974",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль Семушка, 120г",
+                "masterData": {
+                    "slug": "mindal-semuska-120g",
+                    "plu": "4065823",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Семушка из орехов и клюквы, 100г",
+                "masterData": {
+                    "slug": "smes-semuska-iz-orehov-i-klukvy-100g",
+                    "plu": "4027702",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Орех Макадамия очищенный сушеный Market Collection, 120г",
+                "masterData": {
+                    "slug": "oreh-makadamia-ocisennyj-susenyj-market-collection-120g",
+                    "plu": "4274181",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Арахис Семушка солёный жареный, 150г",
+                "masterData": {
+                    "slug": "arahis-semuska-solenyj-zarenyj-150g",
+                    "plu": "51225",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фундук жареный Маркет, 130г",
+                "masterData": {
+                    "slug": "funduk-zarenyj-market-130g",
+                    "plu": "3640847",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикос сушёный Маркет Перекрёсток, 150г",
+                "masterData": {
+                    "slug": "abrikos-susenyj-market-perekrestok-150g",
+                    "plu": "3651924",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль Семушка жареный, 150г",
+                "masterData": {
+                    "slug": "mindal-semuska-zarenyj-150g",
+                    "plu": "3428419",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина Полосатые Мегапапа отборные без соли, 200г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-polosatye-megapapa-otbornye-bez-soli-200g",
+                    "plu": "4280034",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра кешью жареные Маркет, 500г",
+                "masterData": {
+                    "slug": "adra-kesu-zarenye-market-500g",
+                    "plu": "4395060",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра миндаля жареные Маркет, 500г",
+                "masterData": {
+                    "slug": "adra-mindala-zarenye-market-500g",
+                    "plu": "4360059",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки Джаз солёные жареные, 130г",
+                "masterData": {
+                    "slug": "fistaski-dzaz-solenye-zarenye-130g",
+                    "plu": "4073982",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Коктейль Орехи и изюм Маркет,  50г",
+                "masterData": {
+                    "slug": "smes-koktejl-orehi-i-izum-market-50g",
+                    "plu": "4305393",
+                    "unitName": "шт",
+                    "weight": 53,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки очищенные сушеные Зелёная Линия, 100г",
+                "masterData": {
+                    "slug": "fistaski-ocisennye-susenye-zelenaa-linia-100g",
+                    "plu": "4331200",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Коктейль смесь сухофруктов и ядер орехов Маркет Перекрёсток, 150г",
+                "masterData": {
+                    "slug": "koktejl-smes-suhofruktov-i-ader-orehov-market-perekrestok-150g",
+                    "plu": "3651949",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикос сушеный без косточек Пр!ст, 100г",
+                "masterData": {
+                    "slug": "abrikos-susenyj-bez-kostocek-pr-st-100g",
+                    "plu": "4273146",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль жареный Маркет Collection, 135г",
+                "masterData": {
+                    "slug": "mindal-zarenyj-market-collection-135g",
+                    "plu": "4280433",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра арахиса жареные солёные Маркет, 180г",
+                "masterData": {
+                    "slug": "adra-arahisa-zarenye-solenye-market-180g",
+                    "plu": "4342293",
+                    "unitName": "шт",
+                    "weight": 180,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь ореховая Семушка с пеканом и макадамией жареная, 150г",
+                "masterData": {
+                    "slug": "smes-orehovaa-semuska-s-pekanom-i-makadamiej-zarenaa-150g",
+                    "plu": "3439153",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикосы сушеные без косточек Маркет, 150г",
+                "masterData": {
+                    "slug": "abrikosy-susenye-bez-kostocek-market-150g",
+                    "plu": "4336452",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Плоды манго сушеные Маркет Collection, 200г",
+                "masterData": {
+                    "slug": "plody-mango-susenye-market-collection-200g",
+                    "plu": "4367154",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Орех Пекан очищенный сушеный Market Collection,120г",
+                "masterData": {
+                    "slug": "oreh-pekan-ocisennyj-susenyj-market-collection-120g",
+                    "plu": "4274179",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Коктейль орехов и сухофруктов Маркет Collection, 135г",
+                "masterData": {
+                    "slug": "smes-koktejl-orehov-i-suhofruktov-market-collection-135g",
+                    "plu": "4280428",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Орехи кедровые Маркет, 100г",
+                "masterData": {
+                    "slug": "orehi-kedrovye-market-100g",
+                    "plu": "4256837",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра арахиса обжаренные солёные Маркет, 500г",
+                "masterData": {
+                    "slug": "adra-arahisa-obzarennye-solenye-market-500g",
+                    "plu": "4356139",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Чернослив Пр!ст, 100г",
+                "masterData": {
+                    "slug": "cernosliv-pr-st-100g",
+                    "plu": "4236206",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки Семушка солёные жареные, 90г",
+                "masterData": {
+                    "slug": "fistaski-semuska-solenye-zarenye-90g",
+                    "plu": "4066346",
+                    "unitName": "шт",
+                    "weight": 90,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь орехов Семушка жареных сладкая с цукатами, 110г",
+                "masterData": {
+                    "slug": "smes-orehov-semuska-zarenyh-sladkaa-s-cukatami-110g",
+                    "plu": "4268668",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки подсолнечника От Мартина особенные жареные, 200г",
+                "masterData": {
+                    "slug": "semecki-podsolnecnika-ot-martina-osobennye-zarenye-200g",
+                    "plu": "3630849",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра орехов кешью сушёные Market Collection, 150г",
+                "masterData": {
+                    "slug": "adra-orehov-kesu-susenye-market-collection-150g",
+                    "plu": "4303530",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль Маркет Collection, 135г",
+                "masterData": {
+                    "slug": "mindal-market-collection-135g",
+                    "plu": "4280434",
+                    "unitName": "шт",
+                    "weight": 135,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина отборные, 500г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-otbornye-500g",
+                    "plu": "3624461",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Чернослив без косточки сушёный Маркет Перекрёсток, 150г",
+                "masterData": {
+                    "slug": "cernosliv-bez-kostocki-susenyj-market-perekrestok-150g",
+                    "plu": "3651925",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Финики Меджул Маркет Collection, 200г",
+                "masterData": {
+                    "slug": "finiki-medzul-market-collection-200g",
+                    "plu": "4286638",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Финики Befresh Мазафати сушёные, 550г",
+                "masterData": {
+                    "slug": "finiki-befresh-mazafati-susenye-550g",
+                    "plu": "4118056",
+                    "unitName": "шт",
+                    "weight": 550,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра грецкого ореха сушёные Пр!ст, 100г",
+                "masterData": {
+                    "slug": "adra-greckogo-oreha-susenye-pr-st-100g",
+                    "plu": "4268794",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Финики сушёные Маркет Перекрёсток, 200г",
+                "masterData": {
+                    "slug": "finiki-susenye-market-perekrestok-200g",
+                    "plu": "4103572",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Grand Master Гурман, 550г",
+                "masterData": {
+                    "slug": "smes-grand-master-gurman-550g",
+                    "plu": "3645971",
+                    "unitName": "шт",
+                    "weight": 550,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра орехов Сибирской сосны очищенные Маркет, 40г",
+                "masterData": {
+                    "slug": "adra-orehov-sibirskoj-sosny-ocisennye-market-40g",
+                    "plu": "4256839",
+                    "unitName": "шт",
+                    "weight": 40,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядро ореха грецкого Market Collection, 100г",
+                "masterData": {
+                    "slug": "adro-oreha-greckogo-market-collection-100g",
+                    "plu": "4272202",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки солёные обжаренные Пр!ст, 100г",
+                "masterData": {
+                    "slug": "fistaski-solenye-obzarennye-pr-st-100g",
+                    "plu": "3638619",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Семушка из жареных орехов и изюма, 150г",
+                "masterData": {
+                    "slug": "smes-semuska-iz-zarenyh-orehov-i-izuma-150g",
+                    "plu": "3428415",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью жареный Маркет Collection, 150г",
+                "masterData": {
+                    "slug": "kesu-zarenyj-market-collection-150g",
+                    "plu": "4280430",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра грецкого ореха Маркет, 50г",
+                "masterData": {
+                    "slug": "adra-greckogo-oreha-market-50g",
+                    "plu": "4309729",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра орехов Кешью сушеные Маркет, 500г",
+                "masterData": {
+                    "slug": "adra-orehov-kesu-susenye-market-500g",
+                    "plu": "4371591",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра грецкого ореха сушеные Маркет, 134г",
+                "masterData": {
+                    "slug": "adra-greckogo-oreha-susenye-market-134g",
+                    "plu": "4269175",
+                    "unitName": "шт",
+                    "weight": 134,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Смесь Орехово-Фруктовая Маркет, 500г",
+                "masterData": {
+                    "slug": "smes-orehovo-fruktovaa-market-500g",
+                    "plu": "4383399",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки жареные неочищенные солёные Маркет, 50г",
+                "masterData": {
+                    "slug": "fistaski-zarenye-neocisennye-solenye-market-50g",
+                    "plu": "4309728",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Семушка жареный, 150г",
+                "masterData": {
+                    "slug": "kesu-semuska-zarenyj-150g",
+                    "plu": "3428417",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Миндаль очищенный жареный Маркет, 50г",
+                "masterData": {
+                    "slug": "mindal-ocisennyj-zarenyj-market-50g",
+                    "plu": "4306957",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Орехи кедровые очищенные дальневосточные Market Collection, 100г",
+                "masterData": {
+                    "slug": "orehi-kedrovye-ocisennye-dalnevostocnye-market-collection-100g",
+                    "plu": "4354382",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Ядра орехов фундука обжаренные Маркет, 50г",
+                "masterData": {
+                    "slug": "adra-orehov-funduka-obzarennye-market-50g",
+                    "plu": "4305395",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки солёные жареные в скорлупе Пр!ст, 300г",
+                "masterData": {
+                    "slug": "fistaski-solenye-zarenye-v-skorlupe-pr-st-300g",
+                    "plu": "3900345",
+                    "unitName": "шт",
+                    "weight": 300,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки подсолнечника Джинн жареные, 140г",
+                "masterData": {
+                    "slug": "semecki-podsolnecnika-dzinn-zarenye-140g",
+                    "plu": "3248290",
+                    "unitName": "шт",
+                    "weight": 140,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Фисташки солёные жареные неочищенные Маркет, 134г",
+                "masterData": {
+                    "slug": "fistaski-solenye-zarenye-neocisennye-market-134g",
+                    "plu": "3640863",
+                    "unitName": "шт",
+                    "weight": 134,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью Маркет, 130г",
+                "masterData": {
+                    "slug": "kesu-market-130g",
+                    "plu": "3640845",
+                    "unitName": "шт",
+                    "weight": 130,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена подсолнечника Джинн Солнечный Великан жареные особо солёные, 100г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-dzinn-solnecnyj-velikan-zarenye-osobo-solenye-100g",
+                    "plu": "4297853",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина белые солёные, 100г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-belye-solenye-100g",
+                    "plu": "3348828",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки тыквенные От Мартина жареные неочищенные с солью, 100г",
+                "masterData": {
+                    "slug": "semecki-tykvennye-ot-martina-zarenye-neocisennye-s-solu-100g",
+                    "plu": "3503953",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Грецкий орех Семушка, 110г",
+                "masterData": {
+                    "slug": "greckij-oreh-semuska-110g",
+                    "plu": "3428420",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Орехи фисташки в скорлупе жареные соленые Market Collection,120г",
+                "masterData": {
+                    "slug": "orehi-fistaski-v-skorlupe-zarenye-solenye-market-collection-120g",
+                    "plu": "4274180",
+                    "unitName": "шт",
+                    "weight": 120,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина Полосатые Мегапапа отборные с солью, 200г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-polosatye-megapapa-otbornye-s-solu-200g",
+                    "plu": "4280033",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Кешью очищенный жареный Маркет, 50г",
+                "masterData": {
+                    "slug": "kesu-ocisennyj-zarenyj-market-50g",
+                    "plu": "4306959",
+                    "unitName": "шт",
+                    "weight": 50,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Абрикосы сушёные без косточки Маркет, 500г",
+                "masterData": {
+                    "slug": "abrikosy-susenye-bez-kostocki-market-500g",
+                    "plu": "4385415",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена тыквы Семушка очищенные, 110г",
+                "masterData": {
+                    "slug": "semena-tykvy-semuska-ocisennye-110g",
+                    "plu": "4267522",
+                    "unitName": "шт",
+                    "weight": 110,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена подсолнечника Джинн Солнечный великан жареные, 200г",
+                "masterData": {
+                    "slug": "semena-podsolnecnika-dzinn-solnecnyj-velikan-zarenye-200g",
+                    "plu": "4155183",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Манго сушеное Маркет, 500г",
+                "masterData": {
+                    "slug": "mango-susenoe-market-500g",
+                    "plu": "4327421",
+                    "unitName": "шт",
+                    "weight": 500,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина чёрные отборные жареные с морской солью, 100г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-cernye-otbornye-zarenye-s-morskoj-solu-100g",
+                    "plu": "3469303",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина отборные жареные, 100г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-otbornye-zarenye-100g",
+                    "plu": "3072541",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки подсолнечника Джинн жареные солёные, 100г",
+                "masterData": {
+                    "slug": "semecki-podsolnecnika-dzinn-zarenye-solenye-100g",
+                    "plu": "4066289",
+                    "unitName": "шт",
+                    "weight": 100,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина отборные, 200г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-otbornye-200g",
+                    "plu": "3669122",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семена тыквы очищенные  Зелёная Линия, 150г",
+                "masterData": {
+                    "slug": "semena-tykvy-ocisennye-zelenaa-linia-150g",
+                    "plu": "4116888",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки От Мартина отборные жареные, 200г",
+                "masterData": {
+                    "slug": "semecki-ot-martina-otbornye-zarenye-200g",
+                    "plu": "3403508",
+                    "unitName": "шт",
+                    "weight": 200,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            },
+            {
+                "title": "Семечки подсолнуха От Мартина полосатые с солью, 150г",
+                "masterData": {
+                    "slug": "semecki-podsolnuha-ot-martina-polosatye-s-solu-150g",
+                    "plu": "3661124",
+                    "unitName": "шт",
+                    "weight": 150,
+                    "volume": null
+                },
+                "primaryCategory": {
+                    "title": "Орехи, семечки",
+                    "id": 368
+                }
+            }
+        ]
+    }
+}

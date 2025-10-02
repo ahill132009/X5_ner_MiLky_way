@@ -1,0 +1,1881 @@
+{
+    "parent_id": "251C12887",
+    "name": "Яйцо, масло",
+    "filters": [
+        {
+            "name": "Цена, ₽",
+            "field_name": "price",
+            "filter_type": "range",
+            "list_values": null,
+            "range_min_val": "35.49",
+            "range_max_val": "980.99"
+        },
+        {
+            "name": "Бренд",
+            "field_name": "brand",
+            "filter_type": "list",
+            "list_values": {
+                "all": [
+                    "Экомилк",
+                    "Вкус & Польза",
+                    "Волжанин",
+                    "Из Вологды",
+                    "Роскар",
+                    "Село Зеленое",
+                    "Окское",
+                    "Брест-Литовск",
+                    "Вкуснотеево",
+                    "Красная цена",
+                    "Тысяча озер",
+                    "President",
+                    "Александровская ферма",
+                    "Выручай",
+                    "Лето",
+                    "ЭкоНива",
+                    "Lami",
+                    "Вастэко",
+                    "Домик в деревне",
+                    "Ешь хорошее",
+                    "Лебедяньмолоко",
+                    "Ополье",
+                    "Рогачевъ",
+                    "Станция Молочная",
+                    "Baytler",
+                    "Delicato",
+                    "Laime",
+                    "Natura",
+                    "Parmalat",
+                    "Qegg",
+                    "Solio",
+                    "Viola",
+                    "White Cheese from Zhukovka",
+                    "Авида",
+                    "Амка",
+                    "Братья Чебурашкины",
+                    "Валуйские просторы",
+                    "Искренне Ваш",
+                    "Киприно",
+                    "Кремлевское",
+                    "Кубанский молочник",
+                    "Маркет Collection",
+                    "Маслом вверх",
+                    "Молодецкие",
+                    "Молочная Фамилия",
+                    "Молочный знак",
+                    "Му-У",
+                    "Пышка",
+                    "Ровеньки",
+                    "Суздальское",
+                    "Сыроваровъ и Масловъ",
+                    "Ульянка",
+                    "Фермерская Сбойка",
+                    "Фёдоровская ПФ",
+                    "Хозяюшка",
+                    "Чудесница",
+                    "Яйца"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        },
+        {
+            "name": "Со скидкой",
+            "field_name": "special_offers",
+            "filter_type": "toggle",
+            "list_values": {
+                "all": [
+                    "Скидка %",
+                    "% от количества"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        }
+    ],
+    "products": [
+        {
+            "plu": 3939636,
+            "name": "Масло топленое Вастэко ГХИ 99% БЗМЖ 400г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1372653-main/320x320.jpeg?updated_at=2025-03-11T20:34:26.906Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1372653-main/800x800.jpeg?updated_at=2025-03-11T20:34:26.906Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "980.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "440 мл",
+            "has_age_restriction": false,
+            "stock_limit": "2.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 630,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4255306,
+            "name": "Масло President кислосливочное несоленое 82% БЗМЖ 360г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1613434-main/320x320.jpeg?updated_at=2024-10-31T19:25:46.092Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1613434-main/800x800.jpeg?updated_at=2024-10-31T19:25:46.092Z",
+                    "https://catalog-images.x5static.net/product/6c07eab5ebfc8b35e7bcdb79c7e0068c-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "735.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "360 г",
+            "has_age_restriction": false,
+            "stock_limit": "8.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 490,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4302750,
+            "name": "Масло Экомилк Традиционное сладко-сливочное несоленое высший сорт 82.5% БЗМЖ 6х50г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1571739-main/320x320.jpeg?updated_at=2025-03-11T20:34:34.164Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1571739-main/800x800.jpeg?updated_at=2025-03-11T20:34:34.164Z",
+                    "https://catalog-images.x5static.net/product/21e81fa21e411c49d624524b0329f97d-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.7,
+                "rates_count": 10
+            },
+            "promo": null,
+            "prices": {
+                "regular": "599.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "6 шт",
+            "has_age_restriction": false,
+            "stock_limit": "7.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 350,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4285473,
+            "name": "Масло Александровская ферма сливочное сладко-сливочное несоленое 82.5% БЗМЖ 380г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1619339-main/320x320.jpeg?updated_at=2025-03-11T17:28:50.129Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1619339-main/800x800.jpeg?updated_at=2025-03-11T17:28:50.129Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.82,
+                "rates_count": 11
+            },
+            "promo": null,
+            "prices": {
+                "regular": "528.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "380 г",
+            "has_age_restriction": false,
+            "stock_limit": "7.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 350,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4175276,
+            "name": "Масло сладкосливочное Брест-Литовск 82.5% БЗМЖ 400г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1405203-main/320x320.jpeg?updated_at=2025-01-26T22:00:53.643Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1405203-main/800x800.jpeg?updated_at=2025-01-26T22:00:53.643Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 5.0,
+                "rates_count": 12
+            },
+            "promo": null,
+            "prices": {
+                "regular": "639.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 420,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4135603,
+            "name": "Масло сливочное ЭкоНива Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1368480-main/320x320.jpeg?updated_at=2025-04-16T09:57:33.121Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1368480-main/800x800.jpeg?updated_at=2025-04-16T09:57:33.121Z",
+                    "https://catalog-images.x5static.net/product/b821cb6884998a3c98f2f453311ecccc-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/c406d8aa7544182635638a7b52bb3883-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/1274a380871032540c78c4da37464093-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/3045ba6f0f4712dacf83e42bceee374f-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/9c0e3f1f4049af715bbc403b3e828b99-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/45c3cbd585420496f072a33c46c646d7-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 5185
+            },
+            "promo": null,
+            "prices": {
+                "regular": "219.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4196090,
+            "name": "Масло Тысяча Озер сливочное безлактозное 82.5% БЗМЖ 150г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1474660-main/320x320.jpeg?updated_at=2025-03-11T20:34:29.620Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1474660-main/800x800.jpeg?updated_at=2025-03-11T20:34:29.620Z",
+                    "https://catalog-images.x5static.net/product/dab2807cd6ecd7b544f340868f55ad0b-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.82,
+                "rates_count": 115
+            },
+            "promo": null,
+            "prices": {
+                "regular": "259.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Без лактозы",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "150 г",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4357095,
+            "name": "Масло Экомилк Традиционное сладко-сливочное несоленое 82.5% БЗМЖ 330г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1625702-main/320x320.jpeg?updated_at=2025-09-24T17:39:43.943Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1625702-main/800x800.jpeg?updated_at=2025-09-24T17:39:43.943Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 586
+            },
+            "promo": null,
+            "prices": {
+                "regular": "539.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "330 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 350,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3670111,
+            "name": "Масло сливочное Из Вологды Традиционное 82.5% БЗМЖ",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1188972-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.374Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1188972-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.374Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 1619
+            },
+            "promo": null,
+            "prices": {
+                "regular": "299.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "160 г",
+            "has_age_restriction": false,
+            "stock_limit": "14.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4357094,
+            "name": "Масло Экомилк Крестьянское сливочное 72.5% БЗМЖ 160г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1624978-main/320x320.jpeg?updated_at=2025-09-24T17:39:43.202Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1624978-main/800x800.jpeg?updated_at=2025-09-24T17:39:43.202Z",
+                    "https://catalog-images.x5static.net/product/d5fe5c1227bd1c857a1cb97c2962d414-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 5404
+            },
+            "promo": null,
+            "prices": {
+                "regular": "169.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "160 г",
+            "has_age_restriction": false,
+            "stock_limit": "10.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4300591,
+            "name": "Масло Гхи Вастэко топленое 90% БЗМЖ 160г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1574283-main/320x320.jpeg?updated_at=2025-03-11T20:34:46.390Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1574283-main/800x800.jpeg?updated_at=2025-03-11T20:34:46.390Z",
+                    "https://catalog-images.x5static.net/product/a6bde32aeb081253006512c9fc0620b2-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "489.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "185 мл",
+            "has_age_restriction": false,
+            "stock_limit": "7.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 280,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3922315,
+            "name": "Масло сливочное ЭкоНива Традиционное 82.5% БЗМЖ 350г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1408210-main/320x320.jpeg?updated_at=2025-04-16T09:57:28.164Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1408210-main/800x800.jpeg?updated_at=2025-04-16T09:57:28.164Z",
+                    "https://catalog-images.x5static.net/product/c59a8a6dd2920b7bea2e6d9d2454f74f-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/5890495f10512a498aea5a65a6b530d3-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/3e1f9492bcaae8d6f4040cc8c953467f-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/38eaf8f0b2daf3380cdf69868669edb8-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/061527a73dcd76e8fb0a4d581aa7913e-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/b91db721f523ca655d2b031a9dfd6c8c-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 265
+            },
+            "promo": null,
+            "prices": {
+                "regular": "559.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "350 г",
+            "has_age_restriction": false,
+            "stock_limit": "3.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 350,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3441931,
+            "name": "Масло сливочное Ровеньки Крестьянское 72.5% БЗМЖ 170г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1450321-main/320x320.jpeg?updated_at=2025-03-11T12:44:16.043Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1450321-main/800x800.jpeg?updated_at=2025-03-11T12:44:16.043Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 3890
+            },
+            "promo": null,
+            "prices": {
+                "regular": "229.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "170 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4360702,
+            "name": "Яйца Ешь Хорошее куриные столовые СО 10шт.",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1624127-main/320x320.jpeg?updated_at=2025-09-24T17:40:37.524Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1624127-main/800x800.jpeg?updated_at=2025-09-24T17:40:37.524Z",
+                    "https://catalog-images.x5static.net/product/8fbf578d94c55f6da679c4acd167ec4a-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/7e5c5fcfd35f03e771bf8a59d1161711-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/a3f667639026f3b843079b286b568224-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 11452
+            },
+            "promo": null,
+            "prices": {
+                "regular": "102.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "10.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4310021,
+            "name": "Масло Вкуснотеево Традиционное сливочное 82.5% БЗМЖ 340г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1570095-main/320x320.jpeg?updated_at=2025-09-19T08:56:12.824Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1570095-main/800x800.jpeg?updated_at=2025-09-19T08:56:12.824Z",
+                    "https://catalog-images.x5static.net/product/a62b9303a0285ddf75ea521463d46b98-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/39f88d61d92b59cb52561ec82d917df8-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.96,
+                "rates_count": 248
+            },
+            "promo": null,
+            "prices": {
+                "regular": "449.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "340 г",
+            "has_age_restriction": false,
+            "stock_limit": "32.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 280,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3026226,
+            "name": "Масло сладкосливочное Тысяча Озер Свежесть финского утра 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1162043-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.295Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1162043-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.295Z",
+                    "https://catalog-images.x5static.net/product/70bb2d228a7628673f400a190c17b0dd-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/4ec4fe3591137d3d7285be530d2db1df-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/4060d7d95bf875ca4fe9d6217f398866-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 7118
+            },
+            "promo": null,
+            "prices": {
+                "regular": "309.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "128.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4147662,
+            "name": "Масло сливочное  ЭкоНива Крестьянское 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1454646-main/320x320.jpeg?updated_at=2025-04-16T09:57:34.880Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1454646-main/800x800.jpeg?updated_at=2025-04-16T09:57:34.880Z",
+                    "https://catalog-images.x5static.net/product/063a35c85b7fb3fe55b29da24a46cb90-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/3ae5ef2ddfc5e7475a1e86e4075c74bb-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/cb5aebb95c61f57a53e6deb9946d233e-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/29339eb2e6f49ea5eac79a48d3b61928-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/25430dcc90f66198f237443fc613b88a-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/b03a48d71816d96a1e2419302d6d15b5-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 4000
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3413519,
+            "name": "Масло сладкосливочное Брест-Литовск 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1169627-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.331Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1169627-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.331Z",
+                    "https://catalog-images.x5static.net/product/7e16a9815b1c740bd8cfb510703929e3-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/71cd79857a4e5fb1c870941399cc0c89-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 17780
+            },
+            "promo": null,
+            "prices": {
+                "regular": "289.99",
+                "discount": "209.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-28%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "105.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3303858,
+            "name": "Яйцо куриное Роскар Экстра С1 15шт",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1370132-main/320x320.jpeg?updated_at=2025-03-11T20:34:46.526Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1370132-main/800x800.jpeg?updated_at=2025-03-11T20:34:46.526Z",
+                    "https://catalog-images.x5static.net/product/fee1351a33af20b8276b8ed4c369ba33-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 5.0,
+                "rates_count": 11
+            },
+            "promo": null,
+            "prices": {
+                "regular": "239.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "15 шт",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3369241,
+            "name": "Масло сливочное Из Вологды Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1367134-main/320x320.jpeg?updated_at=2025-03-11T20:34:24.763Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1367134-main/800x800.jpeg?updated_at=2025-03-11T20:34:24.763Z",
+                    "https://catalog-images.x5static.net/product/91d3ba4d34bdf8230edb2c56afe41890-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/c6744b51af40a9380d706131053343b1-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/c48a6bc329d84778664abc61143ac27b-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 10
+            },
+            "promo": null,
+            "prices": {
+                "regular": "379.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3658095,
+            "name": "Масло сладкосливочное Брест-Литовск Классическое 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1187039-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.306Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1187039-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.306Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 8677
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "44.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3495846,
+            "name": "Масло сладкосливочное Братья Чебурашкины Традиционное 82.5% БЗМЖ 200г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1455279-main/320x320.jpeg?updated_at=2025-06-27T12:52:55.260Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1455279-main/800x800.jpeg?updated_at=2025-06-27T12:52:55.260Z",
+                    "https://catalog-images.x5static.net/product/1f833dd47cc48c19f429ce42131f2b44-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/68dff88149a1a04138544ed9582db669-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/f6df49da164c8b3b77925f8438973ee9-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "429.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "9.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 280,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4281084,
+            "name": "Масло Natura сливочное 82% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1570861-main/320x320.jpeg?updated_at=2025-01-22T09:19:10.946Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1570861-main/800x800.jpeg?updated_at=2025-01-22T09:19:10.946Z",
+                    "https://catalog-images.x5static.net/product/670c9189787c2429215b9f0d77b99dd9-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/1ff4f9ff2052457ca6cadd07c99bca26-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "379.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "12.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3654694,
+            "name": "Яйцо куриное Роскар Яркоvо С1 20шт.",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1186608-main/320x320.jpeg?updated_at=2025-02-17T14:08:05.306Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1186608-main/800x800.jpeg?updated_at=2025-02-17T14:08:05.306Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 2685
+            },
+            "promo": null,
+            "prices": {
+                "regular": "309.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "20 шт",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3662417,
+            "name": "Масло сладкосливочное Валуйские Просторы Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1187715-main/320x320.jpeg?updated_at=2025-01-24T16:05:24.850Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1187715-main/800x800.jpeg?updated_at=2025-01-24T16:05:24.850Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.8,
+                "rates_count": 1774
+            },
+            "promo": null,
+            "prices": {
+                "regular": "259.99",
+                "discount": "199.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-23%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4313397,
+            "name": "Масло President топленое 99% БЗМЖ 200г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1619088-main/320x320.jpeg?updated_at=2024-10-31T19:33:56.688Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1619088-main/800x800.jpeg?updated_at=2024-10-31T19:33:56.688Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "451.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "7.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 280,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4357606,
+            "name": "Белок яичный Вкус & Польза пастеризованный жидкий охлажденный 330мл",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1620651-main/320x320.jpeg?updated_at=2024-12-11T07:29:59.128Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1620651-main/800x800.jpeg?updated_at=2024-12-11T07:29:59.128Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 1248
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": "109.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-15%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "330 мл",
+            "has_age_restriction": false,
+            "stock_limit": "14.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4144780,
+            "name": "Масло сладкосливочное White Cheese From Zhukovka Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1455771-main/320x320.jpeg?updated_at=2025-03-11T20:34:43.762Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1455771-main/800x800.jpeg?updated_at=2025-03-11T20:34:43.762Z",
+                    "https://catalog-images.x5static.net/product/ba0d29df14b7c449860b3a2d98877964-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.82,
+                "rates_count": 11
+            },
+            "promo": null,
+            "prices": {
+                "regular": "279.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "1.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3948153,
+            "name": "Масло сливочное Станция Молочная Традиционное 82.5% БЗМЖ 175г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1195935-main/320x320.jpeg?updated_at=2025-07-16T10:00:52.202Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1195935-main/800x800.jpeg?updated_at=2025-07-16T10:00:52.202Z",
+                    "https://catalog-images.x5static.net/product/173e979b50d6bf5178509d92c3556b93-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 21155
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "175 г",
+            "has_age_restriction": false,
+            "stock_limit": "9.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3953367,
+            "name": "Масло сливочное Тысяча Озер Свежесть финского утра 82.5% БЗМЖ 400г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1196338-main/320x320.jpeg?updated_at=2025-03-11T20:34:27.034Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1196338-main/800x800.jpeg?updated_at=2025-03-11T20:34:27.034Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.4,
+                "rates_count": 11
+            },
+            "promo": null,
+            "prices": {
+                "regular": "569.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "400 г",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 350,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4261639,
+            "name": "Масло сладкосливочное Ульянка несоленое 82.5% БЗМЖ 160г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1491235-main/320x320.jpeg?updated_at=2025-02-24T08:00:28.837Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1491235-main/800x800.jpeg?updated_at=2025-02-24T08:00:28.837Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 6091
+            },
+            "promo": null,
+            "prices": {
+                "regular": "184.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "160 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4318428,
+            "name": "Яйца Маркет Collection Молодецкие перепелиные копченые 15шт",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1829072-main/320x320.jpeg?updated_at=2024-06-13T20:22:41.523Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1829072-main/800x800.jpeg?updated_at=2024-06-13T20:22:41.523Z",
+                    "https://catalog-images.x5static.net/product/738e41d4440c7554cb8d265dec435730-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 13
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "15 шт",
+            "has_age_restriction": false,
+            "stock_limit": "11.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4261768,
+            "name": "Масло Viola сладкосливочное фасованное 82.5% БЗМЖ 150г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1488992-main/320x320.jpeg?updated_at=2025-03-11T20:34:31.777Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1488992-main/800x800.jpeg?updated_at=2025-03-11T20:34:31.777Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 5.0,
+                "rates_count": 13
+            },
+            "promo": null,
+            "prices": {
+                "regular": "329.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "150 мл",
+            "has_age_restriction": false,
+            "stock_limit": "8.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4206839,
+            "name": "Масло сладкосливочное Ополье Крестьянское 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1456512-main/320x320.jpeg?updated_at=2025-02-21T12:30:40.246Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1456512-main/800x800.jpeg?updated_at=2025-02-21T12:30:40.246Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 1121
+            },
+            "promo": null,
+            "prices": {
+                "regular": "219.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 мл",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3696828,
+            "name": "Масло сладкосливочное Сыроваровъ и Масловъ Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1433290-main/320x320.jpeg?updated_at=2025-02-24T08:00:28.959Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1433290-main/800x800.jpeg?updated_at=2025-02-24T08:00:28.959Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 17256
+            },
+            "promo": null,
+            "prices": {
+                "regular": "164.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "36.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3643092,
+            "name": "Масло сладкосливочное Искренне Ваш Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1357880-main/320x320.jpeg?updated_at=2024-10-31T19:22:45.629Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1357880-main/800x800.jpeg?updated_at=2024-10-31T19:22:45.629Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.82,
+                "rates_count": 689
+            },
+            "promo": null,
+            "prices": {
+                "regular": "219.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4362170,
+            "name": "Масло сливочное Вкус & Польза безлактозное Гранд Премиум 72.5% БЗМЖ 200г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1620550-main/320x320.jpeg?updated_at=2025-03-11T20:14:20.854Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1620550-main/800x800.jpeg?updated_at=2025-03-11T20:14:20.854Z",
+                    "https://catalog-images.x5static.net/product/4a1d2649327f97a94f0f1410b71160d3-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.69,
+                "rates_count": 13
+            },
+            "promo": null,
+            "prices": {
+                "regular": "259.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Без лактозы",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "10.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4199268,
+            "name": "Яйцо куриное Волжанин С1 10шт.",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1455772-main/320x320.jpeg?updated_at=2025-02-24T07:59:20.130Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1455772-main/800x800.jpeg?updated_at=2025-02-24T07:59:20.130Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 6627
+            },
+            "promo": null,
+            "prices": {
+                "regular": "89.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 62,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 86150,
+            "name": "Масло сливочное Из Вологды Крестьянское 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1370231-main/320x320.jpeg?updated_at=2025-07-02T10:12:11.391Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1370231-main/800x800.jpeg?updated_at=2025-07-02T10:12:11.391Z",
+                    "https://catalog-images.x5static.net/product/ea0987283222e4b2eeb26d407cc292a4-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/f378b44f0398376f7fb15ebbbdbc29c9-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/ed45d820bcf0fda20566774d651af596-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.68,
+                "rates_count": 10
+            },
+            "promo": null,
+            "prices": {
+                "regular": "299.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3125449,
+            "name": "Яйцо куриное Роскар Мега Экстра СВ 10шт",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1162516-main/320x320.jpeg?updated_at=2025-02-17T14:05:43.511Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1162516-main/800x800.jpeg?updated_at=2025-02-17T14:05:43.511Z",
+                    "https://catalog-images.x5static.net/product/03bbedd2fa030d69e567ff484b2ee571-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/d6e411ae038730456ef679c728b64321-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/f44258a741a31435f22b5d0fa67c0905-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/c91caa824bbc8e5746e5614e2cc3c832-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 1836
+            },
+            "promo": null,
+            "prices": {
+                "regular": "169.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 2137022,
+            "name": "Масло сливочное Домик в деревне 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1161048-main/320x320.jpeg?updated_at=2025-03-05T15:13:34.023Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1161048-main/800x800.jpeg?updated_at=2025-03-05T15:13:34.023Z",
+                    "https://catalog-images.x5static.net/product/ffd79c9f36ba02187c219ddbf5b46beb-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/afdebef41f590b9c5de0ad800ead3d4c-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/8bd9bda63587b45021ae240823d2bd5f-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/c69ce41569d2b00ac8f3d46f4c5bd3b7-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/85df0c22ae7d16f45286647ecd1c7b2c-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.83,
+                "rates_count": 499
+            },
+            "promo": null,
+            "prices": {
+                "regular": "339.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4285468,
+            "name": "Масло Александровская ферма сливочное несоленое 82.5% БЗМЖ 150г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1503023-main/320x320.jpeg?updated_at=2025-03-11T17:28:50.004Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1503023-main/800x800.jpeg?updated_at=2025-03-11T17:28:50.004Z",
+                    "https://catalog-images.x5static.net/product/8f9040d5e31305197268be79ab96d1d4-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.55,
+                "rates_count": 12
+            },
+            "promo": null,
+            "prices": {
+                "regular": "249.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "150 г",
+            "has_age_restriction": false,
+            "stock_limit": "5.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 2137023,
+            "name": "Масло сливочное Домик в Деревне 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1161049-main/320x320.jpeg?updated_at=2025-03-11T20:34:24.653Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1161049-main/800x800.jpeg?updated_at=2025-03-11T20:34:24.653Z",
+                    "https://catalog-images.x5static.net/product/1505c53751ff1658e6bdb75eec54b6d9-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/47f66142ac2418e83892ac5d0552eea5-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/8346e79aaa0166aba97213f4a2f2a03a-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/6f999312bd6f5753ed9424352e0035f1-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/a6f54e0205274d4f01d13dc1d707567b-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": null,
+            "promo": null,
+            "prices": {
+                "regular": "349.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "12.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 210,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 4206759,
+            "name": "Масло сливочное Ополье 72.5% БЗМЖ 230г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1456511-main/320x320.jpeg?updated_at=2025-02-14T12:21:13.977Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1456511-main/800x800.jpeg?updated_at=2025-02-14T12:21:13.977Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 856
+            },
+            "promo": null,
+            "prices": {
+                "regular": "239.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "230 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3902761,
+            "name": "Масло сливочное Кубанский молочник Традиционное 82.5% БЗМЖ 170г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1193460-main/320x320.jpeg?updated_at=2025-01-22T09:18:50.782Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1193460-main/800x800.jpeg?updated_at=2025-01-22T09:18:50.782Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 3242
+            },
+            "promo": null,
+            "prices": {
+                "regular": "276.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "170 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3423762,
+            "name": "Масло сладкосливочное Лебедяньмолоко Крестьянское 72.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1170629-main/320x320.jpeg?updated_at=2025-03-14T10:11:13.206Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1170629-main/800x800.jpeg?updated_at=2025-03-14T10:11:13.206Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 6853
+            },
+            "promo": null,
+            "prices": {
+                "regular": "174.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": null,
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3698785,
+            "name": "Масло сливочное Му-у Традиционное 82.5% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1193234-main/320x320.jpeg?updated_at=2025-02-24T08:00:29.911Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1193234-main/800x800.jpeg?updated_at=2025-02-24T08:00:29.911Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 6065
+            },
+            "promo": null,
+            "prices": {
+                "regular": "249.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "2.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3062835,
+            "name": "Яйцо куриное Окское столовое СО 10шт.",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1162345-main/320x320.jpeg?updated_at=2025-02-17T14:05:41.708Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1162345-main/800x800.jpeg?updated_at=2025-02-17T14:05:41.708Z",
+                    "https://catalog-images.x5static.net/product/b708b115f5f9fc387b319de6d3b6ffd7-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/2e3582d5d6a20ac8851f528f8cde0ca1-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/d1eb042bb7b52f7dd9411c6b5f5bd2dd-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 25541
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "10 шт",
+            "has_age_restriction": false,
+            "stock_limit": "279.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3963777,
+            "name": "Масло сливочное President несоленое 82% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1197047-main/320x320.jpeg?updated_at=2025-04-01T12:46:27.761Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1197047-main/800x800.jpeg?updated_at=2025-04-01T12:46:27.761Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.85,
+                "rates_count": 317
+            },
+            "promo": null,
+            "prices": {
+                "regular": "249.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "28.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        },
+        {
+            "plu": 3341462,
+            "name": "Яйцо куриное Лето С1 20шт.",
+            "image_links": {
+                "small": [
+                    "https://catalog-images.x5static.net/product/1166174-main/320x320.jpeg?updated_at=2025-02-24T07:59:24.641Z"
+                ],
+                "normal": [
+                    "https://catalog-images.x5static.net/product/1166174-main/800x800.jpeg?updated_at=2025-02-24T07:59:24.641Z",
+                    "https://catalog-images.x5static.net/product/56425871f8312851c79eea0bfb7b699f-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/3600ac3a4f29e89d9f58c444ec21f886-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/d0bb9c47765cd41d69a9731d66d4bb5d-additional/800x800.jpeg",
+                    "https://catalog-images.x5static.net/product/52bfca5433131a657f389cc6cc624f5c-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 11975
+            },
+            "promo": null,
+            "prices": {
+                "regular": "219.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "20 шт",
+            "has_age_restriction": false,
+            "stock_limit": "38.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140,
+            "is_available": true,
+            "price_piece_unit": null
+        }
+    ]
+}
