@@ -2,7 +2,7 @@
 
 Шаги решения:
 
-1. Парсинг каталогов магазинов "Пятёрочка" и "Перекрёсток" с помощью open-source проекта [Open Inflation](!https://github.com/Open-Inflation).
+1. Парсинг каталогов магазинов "Пятёрочка" и "Перекрёсток" с помощью open-source проекта [Open Inflation](!https://github.com/Open-Inflation). Код парсинга находится в папке `parser`.
 2. Данные каталогов были использованы для обучения модели на задачу Masked Language Modelling для лучшего понимания моделью доменной области. Были использованы аугментации: пропущенные буквы, лишние буквы, грамматические ошибки. Базовая модель -- `DeepPavlov/distilrubert-base-cased-conversational`.
 3. Обучение модели на задачу MLM производилось на основе ноутбука `notebooks/create_mlm_dataset.ipynb` 
 4. Также были созданы и вручную размечены дополнительные примеры для сущностей VOLUME и PERCENT в `augmentation_from_catalog.ipynb`.
