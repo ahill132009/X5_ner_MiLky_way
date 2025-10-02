@@ -1,55 +1,35 @@
-import re
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
-from pydantic import BaseModel
-from typing import List
+from fastapi.responses import JSONResponse
+from model_processing.loader import Model 
+from model_processing.ner import Predictor
+from config import settings
+from api.routes import router
 
-app = FastAPI(title="NER Hackathon Stub (Async, rule-based)")
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup
+    print("🚀 Loading NER model...")
+    model = Model(settings.model_dir, settings.tokenizer_dir)
+    loaded_model = model.init_model()
+    app.state.loaded_model = loaded_model
+    app.state.predictor = Predictor(loaded_model[0], loaded_model[1])
+    print("✅ NER model loaded.")
+    yield
+    # Shutdown
+    print("🧹 Unloading NER model...")
+    app.state.loaded_model = None
+    app.state.predictor = None
+    print("👋 NER model unloaded.")
 
-class PredictIn(BaseModel):
-    input: str
+app = FastAPI(
+    title="X5 NER",
+    description="Сервис для хакатона X5",
+    lifespan=lifespan
+)
 
-class SpanOut(BaseModel):
-    start_index: int
-    end_index: int
-    entity: str
+app.include_router(router)
 
-CYRILLIC_RE = re.compile(r'^[А-Яа-яЁё]', re.UNICODE)
-LATIN_RE = re.compile(r'^[A-Za-z]')
-DIGIT_RE = re.compile(r'^\d')
-TOKEN_RE = re.compile(r'\S+')
-
-@app.get("/health")
-async def health():
-    return {"status": "ok"}
-
-@app.post("/api/predict", response_model=List[SpanOut])
-async def predict(payload: PredictIn) -> List[SpanOut]:
-    text = payload.input
-    if text == "":
-        return []
-
-    spans: List[SpanOut] = []
-    prev_type: str | None = None
-
-    for m in TOKEN_RE.finditer(text):
-        token = m.group(0)
-        start = m.start()
-        end = m.end()
-
-        if CYRILLIC_RE.match(token):
-            typ = "TYPE"
-        elif LATIN_RE.match(token):
-            typ = "BRAND"
-        elif DIGIT_RE.match(token):
-            typ = "VOLUME"
-        else:
-            prev_type = None
-            continue
-
-        prefix = "I-" if prev_type == typ else "B-"
-        entity = f"{prefix}{typ}"
-
-        spans.append(SpanOut(start_index=start, end_index=end, entity=entity))
-        prev_type = typ
-
-    return spans
+@app.get("/", include_in_schema=False)
+async def root():
+    return JSONResponse({"status": "ok", "service": "X5 NER"})
