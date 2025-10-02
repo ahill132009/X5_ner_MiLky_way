@@ -35,3 +35,4 @@ README.md
 # Archives
 *.zip
 *.ods
+.venv

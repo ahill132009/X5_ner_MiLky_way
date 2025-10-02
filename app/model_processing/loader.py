@@ -13,7 +13,7 @@ class Model:
         
 
         self.__logger = logger
-        # self.__logger.info(f"Start model from {self.model_path}")
+        self.__logger.info(f"Start model from {self.model_path}")
         if settings.use_cuda:
             self.device="cuda"
         else:

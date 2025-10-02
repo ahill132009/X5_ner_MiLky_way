@@ -2,20 +2,21 @@ from pathlib import Path
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from functools import cached_property
 import os
+import torch
 
 class Settings(BaseSettings):
     """Application settings with Docker and environment variable support."""
     
     # Base paths - can be overridden via environment variables
     base_dir: Path = Path.cwd()
-    models_folder: str = "nlp_models"
+    models_folder: str = "prod_models"
     
     # Model configuration
-    model_name: str = "rubert_tiny2_250925"
-    tokenizer_name: str = "rubert_tiny2_ft_250925_tokenizer"
+    model_name: str = "distilrubert_optuna_ft_09344"
+    tokenizer_name: str = "distilrubert_optuna_ft_09344"
     
     # Runtime settings
-    use_cuda: bool = False
+    use_cuda: bool = True if torch.cuda.is_available() else False
     env: str = "development"
     log_level: str = "DEBUG"
     
@@ -51,6 +52,7 @@ class Settings(BaseSettings):
     @cached_property
     def tokenizer_dir(self) -> Path:
         """Full path to tokenizer directory."""
+        print(self.base_dir / self.models_folder / self.tokenizer_name)
         if os.path.exists(self.base_dir / self.models_folder / self.tokenizer_name):
             return self.base_dir / self.models_folder / self.tokenizer_name
         else:
