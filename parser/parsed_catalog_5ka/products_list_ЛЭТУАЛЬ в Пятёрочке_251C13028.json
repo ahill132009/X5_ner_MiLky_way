@@ -1,0 +1,503 @@
+{
+    "category_id": "251C13028",
+    "category_name": "ЛЭТУАЛЬ в Пятёрочке",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 4146290,
+                "name": "Кондиционер для волос Dolce Milk Мулатка-шоколадка питание и восстановление 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147294,
+                "name": "Молочко для тела Dolce Milk Ванила-Манила 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147331,
+                "name": "Кондиционер Dolce Milk Райские яблочки для волос 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147296,
+                "name": "Молочко для тела Dolce Milk гоу-гоу манго 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147295,
+                "name": "Молочко для тела Dolce Milk Мулатка-шоколадка 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147288,
+                "name": "Крем Dolce Milk Smart Milk для лица увлажняющий 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4299675,
+                "name": "Гель Dolce Milk Черри-леди для душа 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4361142,
+                "name": "Гель Juicy Stars Крышесносная земляника для душа 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146176,
+                "name": "Шампунь Dolce Milk Заводной мандарин Detox и контроль жирности 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146002,
+                "name": "Шампунь Dolce Milk Мулатка-шоколадка питание и восстановление 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352807,
+                "name": "Крем Loren Сosmetic Sea Therapy для лица дневной для всех типов кожи 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4148751,
+                "name": "Мист Hey-Day! Vanilla dreams парфюмированный для тела 135мл",
+                "property": "135 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4361141,
+                "name": "Гель Dolce Milk Босс шелковый кокос для душа 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147286,
+                "name": "Мицеллярная вода Dolce Milk двухфазная 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4152760,
+                "name": "Шампунь High Purity мицеллярный увлажняющий 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147287,
+                "name": "Мицеллярная вода Dolce Milk Waterose 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4152761,
+                "name": "Шампунь High Purity мицеллярный восстанавливающий 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4355495,
+                "name": "Жемчуг Juicy Stars Bath pearls Крышесносная земляника для ванны 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4348828,
+                "name": "Гель для душа Unicorns Approve Клубничная вселенная 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4348829,
+                "name": "Гель Unicorns Approve Райская дыня для душа 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4152765,
+                "name": "Бальзам High Purity мицеллярный восстанавливающий для волос 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147315,
+                "name": "Пенка для умывания Dolce Milk Bubble Milk 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4355498,
+                "name": "Жемчуг Juicy Stars Bath pearls Экзотик тропик для ванны 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200881,
+                "name": "Вода мицеллярная Dolce Milk Clear Drops 3в1 для лица, глаз, губ 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201004,
+                "name": "Гель Dolce Milk Ханна Банана для душа 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4355506,
+                "name": "Гель-шампунь Juicy Stars Man Плохие парни 2в1 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4355503,
+                "name": "Гель-шампунь Juicy Stars Man Хей пацан 2в1 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4260507,
+                "name": "Дезодорант-антиперспирант Dolce Milk Man Вредные Привычки 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4165038,
+                "name": "Гель для душа Dolce Milk Man Дикий Лес 3в1 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146393,
+                "name": "Шампунь Dolce Milk Райские яблочки с пребиотиком 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200999,
+                "name": "Тоник Dolce Milk Ягодный Бум увлажняющий 125мл",
+                "property": "125 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146325,
+                "name": "Кондиционер Dolce Milk Ханна Банана экстремальное увлажнение 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145774,
+                "name": "Шампунь Dolce Milk Ханна Банана экстремальное увлажнение 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146054,
+                "name": "Шампунь Dolce Milk Мисс Клубничный компромисс для окрашенных волос 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4162597,
+                "name": "Гель Dolce Milk Man для душа 3 в 1 Текила Вилла 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201041,
+                "name": "Гель для душа Dolce Milk Мисс Клубничный Компромисс 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147207,
+                "name": "Дезодорант-антиперспирант Sophisticated клубника 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4348836,
+                "name": "Шампунь Unicorns Approve Шоколадная пауза для кудрявых волос 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147285,
+                "name": "Мицеллярная вода Dolce Milk Clear Drops 3в1 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146242,
+                "name": "Кондиционер Dolce Milk Заводной мандарин Detox и контроль жирности для волос 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4348837,
+                "name": "Шампунь Unicorns Approve Вишенка на торте для ослабленных волос 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200059,
+                "name": "Скраб для тела Unicorns Approve Sweet Sleep отшелушивающий сахарный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4146683,
+                "name": "Кондиционер Dolce Milk Мисс Клубничный компромисс для окрашенных волос 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4148748,
+                "name": "Мист Hey-Day! Sexy Berry парфюмированный для тела 135мл",
+                "property": "135 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147261,
+                "name": "Маска Funky Fun очищение и увлажнение с экстрактом малины пузырьковая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147264,
+                "name": "Маска Funky Fun Свинка для свежести кожи лица 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147262,
+                "name": "Маска для лица Funky Fun Очищение и защита пузырьковая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147271,
+                "name": "Патчи Agiotage моделирующие для глаз 4 пары",
+                "property": "4 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147268,
+                "name": "Маска Skin Needs с гиалуроновой кислотой тканевая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200058,
+                "name": "Пудра-шиммер Unicorns Approve Pink Strawberry для ванны 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200996,
+                "name": "Шампунь Unicorns Approve Клубничное Смузи 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4348827,
+                "name": "Гель для душа Unicorns Approve Ягодная королева 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201046,
+                "name": "Гель для душа Unicorns Approve Ягодный Коктейль 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200884,
+                "name": "Тоник Dolce Milk Deep Breath гиалуроновый для лица и шеи 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147203,
+                "name": "Дезодорант-антиперспирант Sophisticated орхидея 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147265,
+                "name": "Маска Funky Fun увлажняющая единорог для лица 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147175,
+                "name": "Дезодорант-антиперспирант Sophisticated хлопок 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201039,
+                "name": "Гель Dolce Milk мулатка-шоколадка для душа 460мл",
+                "property": "460 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147272,
+                "name": "Маска Unicorns Approve с экстрактом огурца тканевая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147309,
+                "name": "Салфетки Sophisticated для снятия макияжа 15шт",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147205,
+                "name": "Дезодорант-антиперспирант Sophisticated цветочный букет 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4145288,
+                "name": "Повязка на голову Unicorns Approve для нанесения масок 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147274,
+                "name": "Маска Unicorns Approve с экстрактом граната тканевая 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147266,
+                "name": "Тканевая маска Skin Needs с коллагеном для лица 23мл 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147260,
+                "name": "Маска Unicorns Approve с экстрактом меда тканевая 28мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201081,
+                "name": "Шампунь Unicorns Approve Банан 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200991,
+                "name": "Кондиционер Unicorns approve Клубничное смузи 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201044,
+                "name": "Гель для душа Unicorns Approve Мороженое 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4201002,
+                "name": "Крем-сияние Dolce Milk Milky Way для лица увлажняющий 50мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4260512,
+                "name": "Щетка Sophisticated Pink Glitter для волос",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4200998,
+                "name": "Кондиционер для волос Unicorns Approve Банан 240мл",
+                "property": "240 мл"
+            }
+        }
+    ]
+}

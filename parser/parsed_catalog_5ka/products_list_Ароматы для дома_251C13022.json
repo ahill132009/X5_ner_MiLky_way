@@ -1,0 +1,587 @@
+{
+    "category_id": "251C13022",
+    "category_name": "Ароматы для дома",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 4225456,
+                "name": "Освежитель воздуха AIRWICK Freshmatic Древесный Пачули и Эвкалипт 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4212613,
+                "name": "Набор аромамасел Air Wick Диффузор со сменным флаконом Сочный гранат 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4212615,
+                "name": "Набор аромамасел Air Wick диффузор со сменным флаконом Цветущая вишня 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378257,
+                "name": "Освежитель воздуха Arluni сакура-вишня 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378263,
+                "name": "Освежитель воздуха Arluni персик-пион 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370048,
+                "name": "Освежитель воздуха Arluni Автоматик фиалка-бергамот 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3927598,
+                "name": "Освежитель воздуха Liberhaus Солнечное настроение сменный аэрозольный баллон 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370351,
+                "name": "Освежитель воздуха Nice by septivit Formula Tobacco Vanilla аромат для интерьера 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370350,
+                "name": "Освежитель воздуха Nice by septivit Formula Black рepper аромат для интерьера 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225453,
+                "name": "Освежитель воздуха Air Wick Freshmatic Цветущая сакура 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3930178,
+                "name": "Освежитель воздуха Liberhaus Ягодный взрыв 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370352,
+                "name": "Освежитель воздуха Nice by septivit Formula 06 Violet flow парфюм аромат для интерьера 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3361848,
+                "name": "Освежитель воздуха Liberhaus После дождя 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4042866,
+                "name": "Сменный баллон Glade Лазурная волна и магнолия 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3623182,
+                "name": "Сменный баллон для Glade Автоматик Ванильные мечты 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4246855,
+                "name": "Освежитель воздуха Synergetic Миндаль и яблоневый цвет 380мл",
+                "property": "380 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4246856,
+                "name": "Освежитель воздуха Synergetic Ирис и розовый перец 380мл",
+                "property": "380 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4126183,
+                "name": "Баллон Glade Automatics Кокосовый Бали для автоматического освежителя воздуха 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4246858,
+                "name": "Освежитель воздуха Synergetic Имбирь и лемонграсс 380мл",
+                "property": "380 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4246857,
+                "name": "Освежитель воздуха Synergetic Пачули и Нероли 380мл",
+                "property": "380 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225458,
+                "name": "Освежитель воздуха Airwick Freshmatic Микс дыня огурец 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4221483,
+                "name": "Блок Domestos Power 5+ Свежесть Зеленого Чая для очищения унитаза 2х50г",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4246859,
+                "name": "Освежитель воздуха Synergetic Ягоды можжевельника и ангелика 380мл",
+                "property": "380 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4069053,
+                "name": "Сменный баллон Glade Нежность кашемира и сандал для автоматического освежителя воздуха 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4306926,
+                "name": "Набор Kukina Raffinata ароматический в ассортименте 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3927564,
+                "name": "Освежитель воздуха Liberhaus Тропический остров 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4126182,
+                "name": "Освежитель воздуха Glade Свежесть белья 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3417458,
+                "name": "Освежитель Econta WC Море для унитаза 30г 1шт",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4283365,
+                "name": "Набор Kukina Raffinata ароматический в ассортименте 30мл",
+                "property": "30 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4283366,
+                "name": "Набор Kukina Raffinata ароматический в ассортименте 30мл",
+                "property": "30 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279803,
+                "name": "Диффузор Aromantique Альпийские луга ароматический 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3654065,
+                "name": "Освежитель воздуха Glade Пион и сочные ягоды 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3467951,
+                "name": "Освежитель воздуха Symphony Душистая сирень 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974927,
+                "name": "Освежитель воздуха Air Wick Тропические цветы-пачули в ассортименте 290мл",
+                "property": "290 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225732,
+                "name": "Сменный баллон Air Wick Freshmatic Life Scents Океанский Бриз для освежитель воздуха 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652933,
+                "name": "Освежитель воздуха Symphony Магнолия-ваниль 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652932,
+                "name": "Освежитель воздуха Symphony Сочные ягоды 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274862,
+                "name": "Диффузор Aromantique Белые цветы ароматический 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4228849,
+                "name": "Сменный баллон для Air Wick Freshmatic Райский Десерт 250мл",
+                "property": "238 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3411982,
+                "name": "Освежитель воздуха Glade Океанский оазис 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3212818,
+                "name": "Освежитель воздуха Glade Свежесть утра аэрозоль 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652931,
+                "name": "Освежитель воздуха Symphony Лаванда-Грейпфрут 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4314722,
+                "name": "Освежитель воздуха Glade Сицилийский лимонад и мята аэрозоль 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3440052,
+                "name": "Освежитель воздуха Glade Японский сад аэрозоль 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 38668,
+                "name": "Освежитель воздуха Glade После дождя 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279802,
+                "name": "Диффузор Aromantique Mанго ароматический 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3459500,
+                "name": "Освежитель воздуха Glade Индонезийский сандал 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225454,
+                "name": "Освежитель воздуха Air Wick Freshmatic Весеннее пробуждение 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225455,
+                "name": "Освежитель воздуха Airwick Freshmatic Тропические фантазии Спелый манго 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3408348,
+                "name": "Освежитель воздуха Econta Океан 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374873,
+                "name": "Аромадиффузор Oriatique Dolce Vita с ароматом малины, питайи и сандала 40мл",
+                "property": "40 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4050854,
+                "name": "Набор Диффузор ароматический Air Wick Botanica Приморский кипарис и терпкий ветивер и палочки 80мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974933,
+                "name": "Освежитель воздуха Air Wick Испанские каникулы Грейпфрут-цветущий лайм 290мл",
+                "property": "290 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374876,
+                "name": "Аромадиффузор Oriatique Gurme Vanilla с ароматом ванили, муската и бобов тонка 40мл",
+                "property": "40 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4365769,
+                "name": "Аромат для дома Arida Home Hygge Flower Табак, бергамот 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4228847,
+                "name": "Набор освежитель воздуха Air Wick Freshmatic Pure Цветущая сакура автоматический + сменный баллон 250мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4365767,
+                "name": "Аромат для дома Arida Home Hygge Flower Пляж Вайкики 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4212616,
+                "name": "Аромамасло Air Wick бодрящий цитрус для диффузора 19мл",
+                "property": "19 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4365773,
+                "name": "Аромат для дома Arida Home Hygge #19 Бобы тонка и цветок апельсина 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4365772,
+                "name": "Аромат для дома Arida Home Hygge #22 Персик и пион 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4050855,
+                "name": "Диффузор ароматический Air Wick Botanica в комплекте с деревянными палочками свежий ананас и тунисский розмарин 80мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331238,
+                "name": "Освежитель воздуха Glade I Love You аэрозоль 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4228844,
+                "name": "Баллон сменный Air Wick Freshmatic Бодрящий Апельсин и Бергамот Анти-табак 250мл",
+                "property": "238 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4212611,
+                "name": "Диффузор аромамасел Air Wick со сменным флаконом Бодрящий цитрус 19мл",
+                "property": "19 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4365771,
+                "name": "Аромат для дома Arida Home Hygge #20 Шафран и карамель 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225733,
+                "name": "Освежитель воздуха Airwick Freshmatic Нежные цветы сменный баллон 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4228845,
+                "name": "Освежитель воздуха Airwick Freshmatic Нежный шелк и лилия 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974930,
+                "name": "Освежитель воздуха Air Wick Французская Ривьера 290мл",
+                "property": "290 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225452,
+                "name": "Освежитель воздуха Air Wick Freshmatic Вечерняя прохлада к автоматическому распылителю 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974932,
+                "name": "Освежитель воздуха Air Wick Сибирская сказка Травяной чай-зимний лес 290мл",
+                "property": "290 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225451,
+                "name": "Освежитель воздуха Airwick Freshmatic Утренний лес 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3654067,
+                "name": "Освежитель воздуха Glade Автоматик Пион и сочные ягоды сменный баллон 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359879,
+                "name": "Освежитель воздуха Glade нежность Полевых цветов 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4141262,
+                "name": "Свеча РСМ Карибский кокос ароматизированная 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225730,
+                "name": "Освежитель воздуха Airwick Freshmatic Дикий Гранат 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974931,
+                "name": "Освежитель воздуха Air Wick Швейцарские Альпы Утренняя роса и зеленый лес 290мл",
+                "property": "290 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974928,
+                "name": "Освежитель воздуха Air Wick Японская весна Цветущая сакура-бергамот 290мл",
+                "property": "290 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4370353,
+                "name": "Освежитель воздуха Nice by septivit Formula 01 Oakmoss Amber парфюм аромат для интерьера 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4228850,
+                "name": "Набор распылитель Air Wick Freshmatic Нежный шелк и лилия автоматический со сменным баллоном 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3440047,
+                "name": "Сменный баллон для Glade Автоматик Свежесть утра 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331239,
+                "name": "Сменный баллон для освежителя воздуха Glade Automatic I Love You 269мл",
+                "property": "269 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3654066,
+                "name": "Набор Glade Пион и сочные ягоды Автоматический освежитель воздуха со сменным баллоном 269мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3404252,
+                "name": "Сменный баллон для Glade Автоматик Океанский оазис 269мл",
+                "property": "269 мл"
+            }
+        }
+    ]
+}

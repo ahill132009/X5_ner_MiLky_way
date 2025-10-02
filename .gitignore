@@ -1,0 +1,17 @@
+my_venv/
+.venv/
+misc/
+data/
+*.pqt
+*.parquet
+*.csv
+*.xlsx
+__MACOSX
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+venv3.10/
+catboost_info/%  
+models/
+nlp_models/
+.vscode/

@@ -1,0 +1,3499 @@
+{
+    "category_id": "251C13060",
+    "category_name": "Майонез, соусы",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 3427310,
+                "name": "Соус Кинто Кебаб томатный 310г",
+                "property": "310 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236360,
+                "name": "Соус Astoria Пицца-соус 200мл",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332227,
+                "name": "Соус Heinz Баффало Острый томатный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2046147,
+                "name": "Сироп Bifrut шиповник на фруктозе 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 19247,
+                "name": "Соус Darbo Naturrein дикая брусника 400г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 19918,
+                "name": "Соус Кинто Наршараб 380г",
+                "property": "380 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3979080,
+                "name": "Крем-соус бальзамический Kotanyi со вкусом лесных ягод 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3382835,
+                "name": "Соус Кинто Наршараб сладко-острый 380г",
+                "property": "380 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304348,
+                "name": "Соус Don Antonio томатный с рикоттой и баклажанами 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3477315,
+                "name": "Соус Filippo Berio Песто классический 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4303602,
+                "name": "Сироп Barlife Блю Курасао 375мл",
+                "property": "375 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4003263,
+                "name": "Соус томатный Mutti с сыром пармиджано реджано, 400г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274972,
+                "name": "Кетчуп Heinz Итальянский 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 403,
+                "name": "Соус соевый Kikkoman натурального брожения 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3619553,
+                "name": "Соус бальзамический Filippo Berio классический, 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236429,
+                "name": "Соус Tamaki сладкий чили для курицы 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339881,
+                "name": "Соус Bravente Наполетана томатный 360г",
+                "property": "360 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304349,
+                "name": "Соус Don Antonio Томатный с белыми грибами 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 21001,
+                "name": "Горчица Kuhne Ротиссер зернистая 250мл",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3648133,
+                "name": "Соус кунжутный Takemura, 215мл",
+                "property": "215 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2140646,
+                "name": "Соус Barilla Песто Дженовезе с базиликом 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274971,
+                "name": "Кетчуп Heinz острый 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4102469,
+                "name": "Соус Filippo Berio Песто с трюфелем на основе растительного масла 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3477317,
+                "name": "Соус Filippo Berio Песто с томатами 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339294,
+                "name": "Соус Bravente Арраббьята томатный 360г",
+                "property": "360 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304345,
+                "name": "Соус томатный Don Antonio с черным трюфелем 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2080068,
+                "name": "Соус Kuhne Тысяча островов салатный, 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204075,
+                "name": "Соус Tamaki ореховый на основе растительных масел, 470 мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295863,
+                "name": "Кетчуп Remia Rebel Red Bbq Американский 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4116830,
+                "name": "Кетчуп Heinz томатный 460г",
+                "property": "460 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3461659,
+                "name": "Соус Filippo Berio Песто c вялеными томатами 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336596,
+                "name": "Соус Tamaki Сырный 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3619554,
+                "name": "Соус бальзамический Filippo Berio трюфельный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4255264,
+                "name": "Соус Filippo Berio томатный с базиликом 340г",
+                "property": "340 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 21051,
+                "name": "Хрен Kuhne Сливочный 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3666050,
+                "name": "Соус Костровок барбекю с черносливом для мяса, 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204070,
+                "name": "Аджика Дядя Ваня острая с перцем чили 370г",
+                "property": "370 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3461113,
+                "name": "Соус Uni-Eagle Шрирача, 470г",
+                "property": "475 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3646060,
+                "name": "Соус Cholimex Шрирача чили острый, 520г",
+                "property": "520 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3502051,
+                "name": "Соус Barilla Песто с базиликом и рукколой без глютена 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4282684,
+                "name": "Кетчуп Sahar 310г",
+                "property": "310 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4255265,
+                "name": "Соус Filippo Berio Арраббьята томатный 340г",
+                "property": "340 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3673178,
+                "name": "Соус томатный Славянский Дар для макарон с баклажанами и чесноком 360г",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3967085,
+                "name": "Соус овощной Delicados Сальса пикантная, 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 11786,
+                "name": "Соус Tabasco Pepper Sauce перечный красный 60мл",
+                "property": "60 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4256466,
+                "name": "Соус Delicados Сладкий чили деликатесный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2138374,
+                "name": "Соус Barilla Болоньезе томатный с говядиной и свининой 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339291,
+                "name": "Соус Bravente Базилико томатный 360г",
+                "property": "360 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4121678,
+                "name": "Соус Casa Kubana песто с томатами 170г",
+                "property": "170 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4255263,
+                "name": "Соус Filippo Berio Verdure grigliate томатный 340г",
+                "property": "340 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3336628,
+                "name": "Соус Kuhne Тартар 253г",
+                "property": "253 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4097873,
+                "name": "Соус Barilla Pesto Basilico e Peperoncino с базиликом и перцем чили 195г",
+                "property": "195 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305643,
+                "name": "Кетчуп Mutti Tomato Ketchup томатный 300г",
+                "property": "285 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 21002,
+                "name": "Горчица Kuhne Дижонская острая 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3941358,
+                "name": "Соус Appel Worcester 140мл",
+                "property": "140 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082163,
+                "name": "Соус песто Trattoria Di Maestro Turatti 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 54,
+                "name": "Соус фруктовый Кинто Ткемали классический 300г",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2080060,
+                "name": "Соус Kuhne Цезарь классический салатный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4048959,
+                "name": "Соус Костровок Медово-Горчичный на основе растительных масел 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304350,
+                "name": "Соус Don Antonio Калабрийский томатный с острой салями 240мл",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4061456,
+                "name": "Соус Кинто брусничный Четыре перца 320г",
+                "property": "280 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495204,
+                "name": "Соус Sen Soy Терияки сладкий 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2157567,
+                "name": "Кетчуп Махеевъ Лечо 500г",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4363958,
+                "name": "Соус Heinz Крем Шоколад 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3916043,
+                "name": "Соус Barilla Pesto Rosso c томатами и базиликом 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4165909,
+                "name": "Сироп  Barline Cocktail Syrup Лаванда 375мл",
+                "property": "375 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 64,
+                "name": "Соус Кинто Ткемали фруктовый ранний 300г",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4165912,
+                "name": "Сироп Barline Фундук 375мл",
+                "property": "375 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223625,
+                "name": "Соус-крем Кинто бальзамический гранат 200 г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3954910,
+                "name": "Соус Casa Kubania Песто с базиликом 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3951778,
+                "name": "Соус Filippo Berio Песто овощи гриль на основе растительных масел 190г",
+                "property": "212 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4233420,
+                "name": "Майонез Ряба Провансаль 67% 630г",
+                "property": "670 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4287246,
+                "name": "Соус Помидорка Краснодарский 490г",
+                "property": "490 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225978,
+                "name": "Майонез Я Люблю Готовить чистый майонез 67% 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332857,
+                "name": "Соус Philosophia De Natura Гуакама майонезный 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3676110,
+                "name": "Соус гранатовый Evod Наршараб 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3648817,
+                "name": "Соус Чим Чим для приготовления яки соба 90г",
+                "property": "90 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4342231,
+                "name": "Томатная паста Ящик Астраханских помидоров 490г",
+                "property": "490 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4165908,
+                "name": "Сироп Barline Кокос 375мл",
+                "property": "375 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3666039,
+                "name": "Соус Костровок брусничный для мяса 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236339,
+                "name": "Соус Tamaki Черный перец 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3385155,
+                "name": "Соус Aroy-D сладкий чили для курицы 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204076,
+                "name": "Соус Tamaki Унаги 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295885,
+                "name": "Соус Philosophia de Natura Перечный английский 230г",
+                "property": "230 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295180,
+                "name": "Соус Philosophia de Natura Сырный с халапеньо 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236381,
+                "name": "Соус Takemura Терияки 215мл",
+                "property": "215 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4273484,
+                "name": "Соус Heinz Гранатовый для мяса деликатесный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4088863,
+                "name": "Соус Filippo Berio Песто классический на основе растительного масла 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4028142,
+                "name": "Соус Sen Soy Premium Унаги столовый 320г",
+                "property": "320 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3607413,
+                "name": "Соус Троя Наршараб гранатовый 380г",
+                "property": "380 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3385157,
+                "name": "Соус Aroy-D кисло-сладкий 215г",
+                "property": "215 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4003266,
+                "name": "Соус томатный Mutti с базиликом, 400г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227745,
+                "name": "Соус Bella Contadina Наполетана 290г",
+                "property": "314 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382035,
+                "name": "Сироп Вкус & Польза Финиковый 240г",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3227317,
+                "name": "Соус гранатовый Grandelitez Наршараб, 400г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4028145,
+                "name": "Соус устричный Sen Soy Premium деликатесный, 330г",
+                "property": "330 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4334727,
+                "name": "Аджика Апсны Абхазская 130г",
+                "property": "130 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295884,
+                "name": "Соус Philosophia de Natura Барбекю техасский 230г",
+                "property": "230 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4178296,
+                "name": "Соус Чим-Чим сливочно-кунжутный 180г",
+                "property": "180 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4112954,
+                "name": "Майонез Я люблю готовить Московский Провансаль классический 700мл",
+                "property": "700 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4178295,
+                "name": "Соус Чим-Чим сладкий чили 220г",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3466439,
+                "name": "Соус Кинто Зогалшараб кизиловый 370г",
+                "property": "370 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4303625,
+                "name": "Сироп Barlife Гренадин 375мл",
+                "property": "375 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276570,
+                "name": "Аджика Кинто Халапеньо зелёный 265г",
+                "property": "265 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295679,
+                "name": "Соус Kalleh Цезарь на основе растительных масел 440г",
+                "property": "440 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4166764,
+                "name": "Соус SanBonsai Вустерский 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2168220,
+                "name": "Соус Barilla Arrabbiata томатный с перцем чили 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4380959,
+                "name": "Сироп Вкус & Польза топинамбура 240г",
+                "property": "240 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2156106,
+                "name": "Соус Barilla Базилико томатный с базиликом 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295182,
+                "name": "Соус Philosophia de Natura Мексиканский Сальса 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4280431,
+                "name": "Соус Barilla Песто с базиликом и фисташками 190г",
+                "property": "190 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336593,
+                "name": "Соус Tamaki Для бургеров 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4287250,
+                "name": "Соус Помидорка Томатный с пряными травами 490г",
+                "property": "490 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3648818,
+                "name": "Соус Чим Чим для приготовления яки удон 90г",
+                "property": "90 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3010197,
+                "name": "Соус Barilla Наполетана томатный с овощами 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4136984,
+                "name": "Соус Sahar Халапеньо острый 290г",
+                "property": "290 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4178301,
+                "name": "Соус Чим Чим Шрирача жгучий 205г",
+                "property": "205 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2127539,
+                "name": "Аджика Амца Абхазская классическая 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4149113,
+                "name": "Соус Кинто Мегрельский перечный 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336594,
+                "name": "Соус Tamaki Чесночный ранч 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321929,
+                "name": "Соус Costa Caliente Scorpion перечный 90мл",
+                "property": "90 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 58068,
+                "name": "Томатная паста Помидорка 380г",
+                "property": "380 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3673190,
+                "name": "Кетчуп Махеевъ Шашлычный 700г",
+                "property": "700 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4078077,
+                "name": "Кетчуп Mr.Ricco средиземноморский с вялеными томатами 550г",
+                "property": "550 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4178299,
+                "name": "Соус Чим-Чим чили с манго 210г",
+                "property": "210 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227928,
+                "name": "Кетчуп Слобода томатный 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236347,
+                "name": "Соус Tamaki соевый 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483852,
+                "name": "Маринад Костровок Идея на закуску медово-горчичный для крылышек, 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321937,
+                "name": "Соус Кинто Сацебели свежий помидор 305г",
+                "property": "305 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3913123,
+                "name": "Соус соевый Cholimex натурального брожения, 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4028162,
+                "name": "Соус Sen Soy Sriracha Hot Chili столовый 310г",
+                "property": "310 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4165144,
+                "name": "Соус бальзамический Ortalli Классический на основе уксуса Modena 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199312,
+                "name": "Майонез Я люблю готовить Классический провансаль 67% 700мл",
+                "property": "700 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4111823,
+                "name": "Соус Sen Soy Premium Терияки для жарки овощей с грибами шиитаке 80г",
+                "property": "80 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4004674,
+                "name": "Томатная паста Помидорка с базиликом, 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336595,
+                "name": "Соус Tamaki Для шаурмы 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3364356,
+                "name": "Соус Astoria Цезарь сырный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4004675,
+                "name": "Томатная паста Помидорка с пряными травами и чесноком 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4078080,
+                "name": "Кетчуп Mr.Ricco сладкий черри Pomodore Speciale 550г",
+                "property": "550 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3673189,
+                "name": "Кетчуп Махеевъ Томатный 700г",
+                "property": "700 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495205,
+                "name": "Соус Sen Soy Wok 310г",
+                "property": "310 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 43299,
+                "name": "Соус Kuhne Barbecue томатный 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3363586,
+                "name": "Соус Кинто Грузинский шашлычный томатный 305г",
+                "property": "305 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279828,
+                "name": "Соус Heinz Перечно-пряный для курицы 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2157566,
+                "name": "Кетчуп Махеевъ Шашлычный 500г",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3966099,
+                "name": "Аджика Амца Абхазская копченая 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4184018,
+                "name": "Паста Global Village Selection томатная 205г",
+                "property": "205 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2042000,
+                "name": "Маринад Костровок для курицы 300г",
+                "property": "290 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3616052,
+                "name": "Хрен Uni Dan Сливочный 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4609,
+                "name": "Томатная паста Помидорка 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352557,
+                "name": "Майонез Mr. Ricco на перепелином яйце 67% 630г",
+                "property": "630 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3672152,
+                "name": "Соус майонезный Astoria сырный 42% 384г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3638950,
+                "name": "Крем-соус бальзамический Kotanyi Glace Classic 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4038375,
+                "name": "Соус соевый SanBonsai без глютена 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4284062,
+                "name": "Майонез Heinz классический 67% 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3385127,
+                "name": "Соус соевый Pearl River Bridge органический 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3436165,
+                "name": "Томатная паста Кухмастер 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3636364,
+                "name": "Соус Кинто Абхазский перечный 195г",
+                "property": "195 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4349313,
+                "name": "Майонез Я люблю готовить с лимонным соком 67% 390мл",
+                "property": "390 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3674577,
+                "name": "Майонез Слобода Провансаль 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3650069,
+                "name": "Паста томатная Trattoria Di Maestro Turatti 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4053945,
+                "name": "Соус горчичный Philosophia De Natura Грушевый медово-фруктовая 100г",
+                "property": "125 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3397793,
+                "name": "Соус майонезный Марианна Провансаль 25% 750мл",
+                "property": "750 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4225365,
+                "name": "Кетчуп Heinz Острый 550г",
+                "property": "550 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495094,
+                "name": "Соус-крем бальзамический СП Мирный 220мл",
+                "property": "220 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3901986,
+                "name": "Соус Махеевъ кисло-сладкий деликатесный 230г",
+                "property": "230 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4003264,
+                "name": "Соус Mutti томатный с овощами гриль 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279822,
+                "name": "Соус Heinz Чатни-Груша для цыпленка 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3901091,
+                "name": "Соус томатный Славянский Дар Хреновина 360г",
+                "property": "360 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3698912,
+                "name": "Майонез Селяночка Провансаль 67% 420мл",
+                "property": "420 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3494984,
+                "name": "Соус Чим Чим Hot Asia для курицы терияки 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3957197,
+                "name": "Концентрат Костровок основа для приготовления глинтвейна на красном вине 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2047206,
+                "name": "Майонез Махеевъ Провансаль с лимонным соком 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3467275,
+                "name": "Майонез Скит Провансаль 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070650,
+                "name": "Соус Pearl River Bridge Соевый слабосоленый без глютена 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3695167,
+                "name": "Майонез Я люблю готовить на перепелиных яйцах 67% 600мл",
+                "property": "600 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3624121,
+                "name": "Соус Remia Sweet Dalton Smokey BBQ Медовый 450мл",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3163111,
+                "name": "Майонез Слобода оливковый 67% 800мл",
+                "property": "800 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2086811,
+                "name": "Хрен Kuhne Столовый 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3358719,
+                "name": "Соус Кухмастер Итальянский 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 84652,
+                "name": "Томатная паста Помидорка 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4274973,
+                "name": "Кетчуп Heinz томатный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3695292,
+                "name": "Майонез Селяночка Провансаль 67% 720мл",
+                "property": "720 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3629086,
+                "name": "Соус томатный Славянский Дар для болоньезе 360г",
+                "property": "360 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4053946,
+                "name": "Соус горчичный Philosophia De Natura Апельсиновый медово-фруктовый 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4338100,
+                "name": "Соус Славянский дар Аджика Традиционная 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227930,
+                "name": "Кетчуп Слобода Чесночный 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3662629,
+                "name": "Сироп КД Посадъ из топинамбура премиум натуральный 330г",
+                "property": "330 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3629085,
+                "name": "Соус томатный Славянский Дар для макарон с базиликом 360г",
+                "property": "360 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 31623,
+                "name": "Томатная паста Помидорка 480мл",
+                "property": "480 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3419671,
+                "name": "Майонез Скит Провансаль 67% 675мл",
+                "property": "675 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3335647,
+                "name": "Майонез Слобода на перепелиных яйцах 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331533,
+                "name": "Майонез Ряба Сметанный Провансаль 50.5% 330г",
+                "property": "344 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4297313,
+                "name": "Майонез Я Люблю Готовить Московский Провансаль классический 67% 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3659898,
+                "name": "Соус Краснодарский томатный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4212550,
+                "name": "Соус Megachef устричный премиум 230 г",
+                "property": "230 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3446697,
+                "name": "Кетчуп Махеевъ Чили 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096400,
+                "name": "Соус Рестория Краснодарский томатный 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3273356,
+                "name": "Соус Astoria сметана с луком 42% 233г",
+                "property": "233 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4207051,
+                "name": "Кетчуп Heinz для гриля и шашлыка 550г",
+                "property": "550 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4233421,
+                "name": "Майонез Ряба Провансаль Оливковый 67% 630г",
+                "property": "670 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223544,
+                "name": "Соус Гурмикс Заправка салатная Греческая 80г",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4379000,
+                "name": "Соус Premissimo Барбекю томатный 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279810,
+                "name": "Соус Heinz Сладкий Чили 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4149116,
+                "name": "Горчица Кинто Дижонская 170мл",
+                "property": "170 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279799,
+                "name": "Соус Heinz Терияки 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4379006,
+                "name": "Соус Premissimo Сладкий чили для вторых блюд 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276801,
+                "name": "Соус Uni Dan с Базиликом томатный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3655714,
+                "name": "Томатная паста Global Village 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340906,
+                "name": "Cоус Mivimex Кавказский жгучий чили 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279811,
+                "name": "Соус Heinz Горчичный на основе растительных масел 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 9238,
+                "name": "Соус Кинто Сацебели охотничий 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3015181,
+                "name": "Соус Sen Soy Сладкий чили 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236399,
+                "name": "Соус Tamaki Шрирача 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339442,
+                "name": "Майонез Махеевъ Провансаль с лимонным соком дой-пак 655мл",
+                "property": "655 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279829,
+                "name": "Соус Heinz цитрусовый для стейка 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3354001,
+                "name": "Соус Буздякский Краснодарский 670г",
+                "property": "670 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279825,
+                "name": "Соус Heinz Карри-Манго для курицы 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276567,
+                "name": "Соус Кинто Халапеньо зеленый перечный 190г",
+                "property": "190 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3153286,
+                "name": "Майонез Скит Провансаль 67% 900мл",
+                "property": "900 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337618,
+                "name": "Горчица Натурово Зернистая 180г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4095200,
+                "name": "Майонез Рестория Оливковый 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279818,
+                "name": "Соус Heinz Барбекю томатный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279809,
+                "name": "Соус Heinz Цезарь 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3029014,
+                "name": "Майонез Я люблю готовить Московский Провансаль 67% 900мл",
+                "property": "900 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157697,
+                "name": "Кетчуп Heinz острый 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312550,
+                "name": "Майонез Я люблю готовить 67% 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3621047,
+                "name": "Горчица Global Village Французская 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337617,
+                "name": "Горчица Натурово Русская 180г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3634657,
+                "name": "Соус Богатство Вкуса Сацебели 310г",
+                "property": "310 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3634658,
+                "name": "Соус Богатство Вкуса Сацебели классический 310г",
+                "property": "310 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336613,
+                "name": "Соус Tamaki Черный чеснок 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4044938,
+                "name": "Кетчуп Махеевъ Томатный 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4154517,
+                "name": "Кетчуп Heinz томатный 550г",
+                "property": "550 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279819,
+                "name": "Соус Heinz Сырный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4354444,
+                "name": "Соус Astoria Барбекю для гриля и шашлыка 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3193489,
+                "name": "Майонез Слобода Провансаль 67% 800мл",
+                "property": "800 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3384157,
+                "name": "Томатная паста Кухмастер Экстра ГОСТ 370г",
+                "property": "370 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4212357,
+                "name": "Соус Астория Сэндвич-Соус 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3170890,
+                "name": "Майонез Я люблю готовить Саратовский Провансаль классический 67% 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4256657,
+                "name": "Майонез Махеевъ Провансаль 50.5% 190г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3940951,
+                "name": "Соус Сулини Долголетие с зеленью 6-8% 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157702,
+                "name": "Кетчуп Heinz томатный 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3072579,
+                "name": "Соус соевый Sen Soy Классический 1л",
+                "property": "1 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279821,
+                "name": "Соус Heinz Чесночный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305783,
+                "name": "Соус Домшим соевый 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331515,
+                "name": "Майонез Ряба Провансаль 67% 350г",
+                "property": "372 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4123469,
+                "name": "Маринад Костровок сливочно-чесночный 300г",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3358721,
+                "name": "Соус Кухмастер Татарский 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279815,
+                "name": "Соус Heinz Брусничный для мяса 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4149865,
+                "name": "Кетчуп Помидорка Томатный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276668,
+                "name": "Соус Tamaki Медово-горчичный на основе растительных масел 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3425669,
+                "name": "Майонез Mr. Ricco на перепелином яйце 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4147787,
+                "name": "Соус Дзадзики G-balance 6-8% 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2042012,
+                "name": "Маринад Костровок для шашлыка классический 300г",
+                "property": "290 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295670,
+                "name": "Соус Kalleh Горчичный на основе растительных масел 335г",
+                "property": "335 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4038129,
+                "name": "Топпинг Махеевъ мягкая карамель 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3266875,
+                "name": "Соус Sen Soy кисло-сладкий 120г",
+                "property": "120 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227927,
+                "name": "Кетчуп Слобода с базиликом 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3679039,
+                "name": "Кетчуп Махеевъ Татарский 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3901093,
+                "name": "Соус томатный Славянский Дар Шашлык-машлык 360г",
+                "property": "360 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4335887,
+                "name": "Хрен Uni Dan Домашний 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4152780,
+                "name": "Горчица Кинто Баварская Октоберфест 170мл",
+                "property": "170 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157803,
+                "name": "Кетчуп Heinz для гриля и шашлыка 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2073203,
+                "name": "Томатная паста Помидорка пастеризованная 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2108609,
+                "name": "Майонез Слобода оливковый 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3970015,
+                "name": "Кетчуп Томатный без сахара и крахмала 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4322908,
+                "name": "Горчица Кинто Скорпион чилийская 170мл",
+                "property": "170 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4377080,
+                "name": "Кетчуп Махеевъ Кавказский 300г",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4152778,
+                "name": "Горчица Кинто Ротисьер 170мл",
+                "property": "170 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3642910,
+                "name": "Кетчуп Astoria Томатный 330г",
+                "property": "330 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236359,
+                "name": "Соус Astoria Для шаурмы чесночный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4123468,
+                "name": "Маринад для шашлыка Костровок Соевый с черным перцем 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4066360,
+                "name": "Заправка БО По-французски салатная с дижонской горчицей 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3677955,
+                "name": "Соус Astoria Тартар 30% 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295183,
+                "name": "Соус Philosophia de Natura Индийский Карри 230г",
+                "property": "230 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3375125,
+                "name": "Заправка Sen Soy По-корейски для фунчозы 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3408179,
+                "name": "Соус Sen Soy Терияки премиум столовый 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070329,
+                "name": "Кетчуп Рестория Шашлычный 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4055336,
+                "name": "Соус Astoria Бургер-соус 30% 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4229365,
+                "name": "Горчица Семилукская Трапеза Burger & Hot-Dog 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3681256,
+                "name": "Аджика По-домашнему 220г",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3434049,
+                "name": "Хрен Главпродукт Ядреный 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4121602,
+                "name": "Соус майонезный Махеевъ бургер-соус с огурчиками 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337616,
+                "name": "Горчица Натурово Дижонская 180г",
+                "property": "180 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4149866,
+                "name": "Кетчуп Помидорка для шашлыка пастеризованный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4070328,
+                "name": "Кетчуп Рестория Томатный 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4288385,
+                "name": "Соус Astoria Сырный на основе растительных масел 20% 233г",
+                "property": "233 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483854,
+                "name": "Маринад Костровок Идея на закуску для приготовления крылышек барбекю 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3679724,
+                "name": "Соус майонезный Махеевъ сырный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3681253,
+                "name": "Хренодер Холодушка Чесночный 220г",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340903,
+                "name": "Cоус Mivimex соевый Микс чили и чеснок 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295653,
+                "name": "Кетчуп Heinz Picador супер-острый 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276802,
+                "name": "Соус Uni Dan Для Болоньезе томатный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157704,
+                "name": "Кетчуп Heinz супер острый 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236424,
+                "name": "Заправка Tamaki для салата 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495835,
+                "name": "Майонез Я люблю готовить домашний 55% 390мл",
+                "property": "380 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3685654,
+                "name": "Майонез Красная Цена Провансаль 67% 370мл",
+                "property": "370 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4288377,
+                "name": "Соус Astoria Чесночный на основе растительных масел 20% 233г",
+                "property": "233 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3689654,
+                "name": "Кетчуп Махеевъ Краснодарский 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223547,
+                "name": "Соус Гурмикс Салатная заправка Цезарь 80г",
+                "property": "75 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312323,
+                "name": "Кетчуп Mr. Ricco Pomodoro Speciale Для гриля и шашлыка 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2164566,
+                "name": "Соус соевый Sen Soy классический 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332226,
+                "name": "Соус Heinz Бургер 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199300,
+                "name": "Майонез Я люблю готовить Провансаль классический 67% 390мл",
+                "property": "390 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4336610,
+                "name": "Соус Tamaki Халапеньо 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3995313,
+                "name": "Горчица Uni Dan Дижонская 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3311552,
+                "name": "Соус майонезный Слобода Постный 56% 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4105769,
+                "name": "Майонез Я Люблю Готовить Московский Провансаль классический 67% 390г",
+                "property": "374 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4043547,
+                "name": "Соус-основа Гурмикс Pasta Bar для спагетти с креветками 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4102644,
+                "name": "Соус майонезный Я люблю готовить Легкий 30% 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4287253,
+                "name": "Соус Помидорка Кавказский 490г",
+                "property": "490 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3900225,
+                "name": "Соус Uni Dan клюквенный для вторых обеденных блюд 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2162564,
+                "name": "Майонез Слобода на перепелиных яйцах 67% 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4331529,
+                "name": "Майонез Ряба Провансаль Оливковый 67% 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157703,
+                "name": "Кетчуп Heinz с чесноком и пряностями 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4275042,
+                "name": "Паста Global Village томатная 70г",
+                "property": "70 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4314495,
+                "name": "Хрен столовый Красная цена острый 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227926,
+                "name": "Кетчуп Слобода острый 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4095201,
+                "name": "Майонез Restoria с перепелиными яйцами 67% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3957200,
+                "name": "Заправка салатная Гурмикс Кунжутная 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3346238,
+                "name": "Паста томатная Красная цена 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374575,
+                "name": "Майонез Махеевъ c перепелиным яйцом БЗМЖ 370мл",
+                "property": "370 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4343480,
+                "name": "Паста Ящик Астраханских помидоров Настоящая томатная 140г",
+                "property": "140 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3995314,
+                "name": "Горчица Uni Dan Баварская 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438199,
+                "name": "Соус Чим Чим Корейская заправка для фунчозы 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4175135,
+                "name": "Хрен Global Village столовый 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3679725,
+                "name": "Соус майонезный Махеевъ Цезарь 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3673978,
+                "name": "Кетчуп Красная Цена Томатный 230г",
+                "property": "230 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4116848,
+                "name": "Кетчуп Heinz со вкусом укроп-петрушка для шашлыка 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4091463,
+                "name": "Майонез Я люблю готовить классический 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3435016,
+                "name": "Горчица Махеевъ Русская столовая 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483226,
+                "name": "Соус Слобода сырный 60% 220мл",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227924,
+                "name": "Кетчуп Слобода гриль 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3494920,
+                "name": "Аджика Богатство Вкуса Домашняя остра, 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2045995,
+                "name": "Ароматизатор Костровок Жидкий дым коптильный 330мл",
+                "property": "330 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295650,
+                "name": "Кетчуп Heinz Pikador с чесноком 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337664,
+                "name": "Соус Uni Dan Чимичурри острый для вторых блюд 230г",
+                "property": "230 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483228,
+                "name": "Соус Слобода Грибной 60% 220мл",
+                "property": "220 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3948604,
+                "name": "Кетчуп Красная Цена Шашлычный 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2091117,
+                "name": "Соус соевый Sen Soy Терияки 220мл",
+                "property": "220 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3354003,
+                "name": "Соус Буздякский Татарский, 670г",
+                "property": "670 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3170510,
+                "name": "Майонез ЕЖК Провансаль 67% 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3483227,
+                "name": "Соус Слобода чесночный 60% 220мл",
+                "property": "220 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3425670,
+                "name": "Майонез Mr. Ricco organic на перепелином яйце 67% 800мл",
+                "property": "800 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4165906,
+                "name": "Сироп Barline Cocktail Syrup Карамель 375мл",
+                "property": "375 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3339906,
+                "name": "Хрен Махеевъ Столовый 140г",
+                "property": "125 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321940,
+                "name": "Аджика Кинто Аджика Охотничья перечный 360г",
+                "property": "360 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2153858,
+                "name": "Горчица Столичная Русская 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3901990,
+                "name": "Аджика Махеевъ острая 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438196,
+                "name": "Соус Чим Чим Корейская заправка для моркови 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3901985,
+                "name": "Соус Махеевъ барбекю деликатесный 230г",
+                "property": "230 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3135056,
+                "name": "Горчица Столичная С хреном 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3941584,
+                "name": "Кетчуп Махеевъ Шашлычный 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4262564,
+                "name": "Аджика Пиканта домашняя 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3648819,
+                "name": "Соус устричный Чим Чим для приготовления фунчозы, 90г",
+                "property": "90 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082171,
+                "name": "Майонез Я люблю готовить Саратовский Провансаль классический 67% 400г",
+                "property": "378 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082170,
+                "name": "Майонез Я люблю готовить Саратовский Провансаль 67% 200г",
+                "property": "192 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4288316,
+                "name": "Соус Astoria Грибной на основе растительных масел 20% 233г",
+                "property": "233 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295651,
+                "name": "Кетчуп Heinz Pikador томатный 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2060604,
+                "name": "Майонез Махеевъ Провансаль классический 50.5% 380г",
+                "property": "380 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3636785,
+                "name": "Порошок горчичный Красная Цена 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4363957,
+                "name": "Соус Heinz Вкус Тоффи Карамель 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3679726,
+                "name": "Соус Махеевъ Сливочно-чесночный майонезный 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3440720,
+                "name": "Соус майонезный Ласка Постный 56% 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4279805,
+                "name": "Соус Heinz Кисло-сладкий 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4342051,
+                "name": "Соус Pikador Сацебели томатный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3434688,
+                "name": "Горчица МЖК Столичная с медом 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089000,
+                "name": "Соус Рестория Сметанный с грибами 42% 233г",
+                "property": "242 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4130566,
+                "name": "Соус Много лосося соевый 30г",
+                "property": "30 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3495095,
+                "name": "Соус-крем СП Мирный бальзамический сливочный 220мл",
+                "property": "220 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4223637,
+                "name": "Соус Махеевъ Тар-тар майонезный 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276806,
+                "name": "Хрен Gustoff Cook Profi столовый 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204890,
+                "name": "Горчица Красная цена Столовая острая 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3694867,
+                "name": "Соус Красная Цена майонезный 25% 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4089001,
+                "name": "Соус Рестория сырный 233г",
+                "property": "242 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3438145,
+                "name": "Горчица Махеевъ Зернистая 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4277722,
+                "name": "Соус Троя Наршараб гранатовый 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4411304,
+                "name": "Соус Рестория Сырный на основе растительных масел 42% 200г",
+                "property": "208 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4399862,
+                "name": "Соус Махеевъ Салатный майонезный 370мл",
+                "property": "370 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3384959,
+                "name": "Аджика Стоевъ Грузинская перечная 120г",
+                "property": "120 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4410997,
+                "name": "Соус Рестория Сливочно-Чесночный на основе растительных масел 42% 200г",
+                "property": "208 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3900224,
+                "name": "Соус Uni Dan Брусничный 270г",
+                "property": "270 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4315990,
+                "name": "Маринад Костровок Жарим рыбу Лимонный с травами 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3016147,
+                "name": "Майонез Скит Провансаль 67% 225мл",
+                "property": "225 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4412152,
+                "name": "Майонез Слобода Оливковый 67% 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392692,
+                "name": "Соус Домшим Классический соевый 1л",
+                "property": "1 л"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4043549,
+                "name": "Соус-основа Гурмикс для приготовления макарон с беконом в сливочно-сырном соусе 120мл",
+                "property": "120 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3494918,
+                "name": "Соус Богатство Вкуса Ткемали зеленый кисло-сладкий 310г",
+                "property": "310 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4412153,
+                "name": "Майонез Слобода Провансаль 67% 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4017726,
+                "name": "Хрен Uni Dan со свеклой 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276800,
+                "name": "Соус Uni Dan Аррабиата томатный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312322,
+                "name": "Аджика Арарат острая стерилизованная 480г",
+                "property": "480 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3406437,
+                "name": "Соус Кухмастер Сацебели, 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4100327,
+                "name": "Соус Sen Soy Premium Якитори для курицы 120мл",
+                "property": "120 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4289925,
+                "name": "Соус Heinz Тартар майонезный 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4395152,
+                "name": "Соус Heinz Тысяча Островов Хайнц 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4149867,
+                "name": "Кетчуп Помидорка острый пастеризованный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3681572,
+                "name": "Соус Кухмастер для макарон с болгарским перцем 400г",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4155274,
+                "name": "Соус Astoria Релиш 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312324,
+                "name": "Кетчуп Mr. Ricco Острый Pomodoro Speciale 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378605,
+                "name": "Паста томатная Станичные 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3359327,
+                "name": "Соус томатный Uni Dan Хреновина 500г",
+                "property": "500 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4380321,
+                "name": "Пюре томатное Станичные Пассата 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360269,
+                "name": "Соус Pikador Болоньезе томатный для макарон 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2143139,
+                "name": "Горчица Главпродукт Русская 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4404153,
+                "name": "Соус соевый Пятерочка Кафе 15г",
+                "property": "13 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4043548,
+                "name": "Соус-основа Гурмикс для пасты с курицей в сливочно-грибном соусе 120мл",
+                "property": "120 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3941585,
+                "name": "Кетчуп Махеевъ Чили 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082172,
+                "name": "Майонез Я Люблю Готовить Саратовский провансаль классический 67%, 700мл",
+                "property": "672 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3659143,
+                "name": "Заправка салатная Sen Soy Premium цитрусовая 40мл",
+                "property": "40 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4088999,
+                "name": "Соус Рестория сливочно-чесночный 233г",
+                "property": "242 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3659142,
+                "name": "Заправка салатная Sen Soy Premium ореховая 30% 40г",
+                "property": "40 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3696421,
+                "name": "Томатная паста Green Ray Ящик астраханских помидоров 205г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4366788,
+                "name": "Соус Рестория Тартар на основе растительных масел 30% 200г",
+                "property": "208 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4385642,
+                "name": "Хренодер Global Village Классический упаковка в ассортименте 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227925,
+                "name": "Кетчуп Слобода Лечо 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360141,
+                "name": "Соус соевый S.U.Chef 15г",
+                "property": "13 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295631,
+                "name": "Соус Costa Caliente Original Red Hot перечный красный острый 90мл",
+                "property": "90 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378603,
+                "name": "Томатная паста Станичные 490г",
+                "property": "450 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392562,
+                "name": "Соус Рестория Аджика По-Абхазски 170г",
+                "property": "170 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3901092,
+                "name": "Соус томатный Славянский Дар По-грузински 360г",
+                "property": "360 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3659843,
+                "name": "Хрен Uni Dan столовый 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4157700,
+                "name": "Кетчуп Heinz с горчицей 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4408712,
+                "name": "Соус Premissimo Горчичный 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236370,
+                "name": "Соус Славянский дар Аджика кавказская 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3054047,
+                "name": "Кетчуп Кухмастер Острый по-грузински 260г",
+                "property": "260 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4204077,
+                "name": "Соус Tamaki Спайси на основе растительных масел 470 мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2085980,
+                "name": "Хрен Дядя Ваня Столовый 140г",
+                "property": "140 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392429,
+                "name": "Соус Рестория Аджика острая с перцем Чили томатный 350г",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4265904,
+                "name": "Соус Sen Soy Premium для рыбы и морепродуктов 120мл",
+                "property": "120 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4277972,
+                "name": "Майонез Я люблю готовить На перепелиных яйцах 67% 390мл",
+                "property": "390 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4373978,
+                "name": "Соус Roleski Street Food для гамбургеров и хот-догов 300мл",
+                "property": "300 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392160,
+                "name": "Кетчуп Tat томатный 250г",
+                "property": "225 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4227932,
+                "name": "Кетчуп Слобода Шашлычный 320г",
+                "property": "320 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3681573,
+                "name": "Соус Кухмастер с баклажаном для макарон 400г",
+                "property": "400 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4376279,
+                "name": "Соус Roleski Salsa Dip Cheese сырный 220г",
+                "property": "220 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236388,
+                "name": "Основа Чим Чим Фо Бо для приготовления азиатского супа 80г",
+                "property": "80 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3354004,
+                "name": "Соус Буздякский Шашлычный 670г",
+                "property": "670 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352040,
+                "name": "Соус-крем бальзамический Andrea Milano 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3494917,
+                "name": "Соус Богатство Вкуса Ткемали фруктовый красный остро-сладкий 310г",
+                "property": "310 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 78193,
+                "name": "Майонез Слобода Провансаль оливковый 67% 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375362,
+                "name": "Хрен O'Food Дэсанг Васаби столовый 35г",
+                "property": "35 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4405244,
+                "name": "Кетчуп Mr. Ricco Для гриля и шашлыка Pomodoro Speciale 800г",
+                "property": "800 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4376287,
+                "name": "Горчица Roleski Street Food классическая американская 200г",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4334317,
+                "name": "Cоус Easy Montali томатный с базиликом 90мл",
+                "property": "90 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3054048,
+                "name": "Кетчуп Кухмастер Томатный 260г",
+                "property": "260 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4276808,
+                "name": "Горчица Gustoff Cook Profi русская 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3494983,
+                "name": "Соус Чим Чим кисло-сладкий для свинины 150г",
+                "property": "150 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4383688,
+                "name": "Соус Heinz со вкусом Васаби 200г",
+                "property": "200 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4378604,
+                "name": "Томатная паста Станичные 100мл",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375446,
+                "name": "Соус Sipan Болоньезе томатный 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392158,
+                "name": "Кетчуп Tat острый томатный 250г",
+                "property": "225 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374020,
+                "name": "Соус Roleski BBQ Sauce Chipotle томатный 350г",
+                "property": "350 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374024,
+                "name": "Горчица Roleski Французская 175г",
+                "property": "175 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4399826,
+                "name": "Кетчуп Premissimo Томатный пастеризованный 30г",
+                "property": "30 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4337665,
+                "name": "Соус Uni Dan Шрирача острый чили для вторых блюд 230мл",
+                "property": "230 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374019,
+                "name": "Соус Roleski Для стейков и бургеров томатный 370г",
+                "property": "370 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3043177,
+                "name": "Хрен Главпродукт Острый 170г",
+                "property": "170 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4358262,
+                "name": "Соус Костровок Гриль-бургер с жареным луком 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236427,
+                "name": "Соус Tamaki Кимчи 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3907365,
+                "name": "Крем-соус бальзамический СП Мирный со вкусом граната 220мл",
+                "property": "220 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400504,
+                "name": "Маринад Global Spice Грильбуттер для мяса 60г",
+                "property": "60 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375441,
+                "name": "Соус Sipan томатный для пиццы 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4371535,
+                "name": "Аджика Юнона по-татарски 250г",
+                "property": "250 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4392154,
+                "name": "Соус Tat острый томатный 110г",
+                "property": "100 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352041,
+                "name": "Соус Andrea Milano Crema с бальзамическим уксусом 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4351808,
+                "name": "Соус Tamaki Кисло-сладкий 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4374018,
+                "name": "Соус Roleski BBQ Sauce Whisky томатный 365г",
+                "property": "365 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400506,
+                "name": "Маринад Global Spice Шашлычный для мяса 60г",
+                "property": "60 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4312325,
+                "name": "Кетчуп Mr.Ricco Pomodoro Speciale Томатный 300г",
+                "property": "300 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359763,
+                "name": "Сироп Биоинвентика имбирный с лимоном фреш на сорбите 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4352026,
+                "name": "Соус Andrea Milano на основе винного уксуса с трюфелем 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3389322,
+                "name": "Майонез Слобода Провансаль оливковый 67% 230мл",
+                "property": "230 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332845,
+                "name": "Cоус Easy Montali Песто Alla Genovese 90мл",
+                "property": "90 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3372044,
+                "name": "Горчица Махеевъ Русская 100г",
+                "property": "100 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332844,
+                "name": "Cоус Easy Montali Наполетана томатный 90мл",
+                "property": "90 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4332843,
+                "name": "Cоус Easy Montali Аррабиата томатный 90мл",
+                "property": "90 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400509,
+                "name": "Маринад Global Spice Лимонный для рыбы 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3418385,
+                "name": "Соус Махеевъ Постный с лимонным соком 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400505,
+                "name": "Маринад Global Spice Восточный для мяса 60г",
+                "property": "60 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4379031,
+                "name": "Соус O'Food Джин соевый натурального брожения 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4364084,
+                "name": "Соус кулинарный Костровок Сеульский с арахисом 245мл",
+                "property": "245 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400510,
+                "name": "Маринад Global Spice Средиземноморский для рыбы 60г",
+                "property": "60 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375448,
+                "name": "Соус Sipan Базилико томатный 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3494860,
+                "name": "Кетчуп Балтимор Томатный 260г",
+                "property": "260 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375790,
+                "name": "Соус Bio Georgia Deda's Recepti Сацебели классический 250мл",
+                "property": "250 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295678,
+                "name": "Соус Kalleh Йогуртовый на основе растительных масел 450г",
+                "property": "450 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4379032,
+                "name": "Соус соевый O'Food Дэсанг Джин натурального брожения 500мл",
+                "property": "500 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4375447,
+                "name": "Соус Sipan Араббиата томатный 350мл",
+                "property": "350 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4364082,
+                "name": "Соус кулинарный Костровок Барбекю со вкусом колы 245мл",
+                "property": "245 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4255266,
+                "name": "Соус Filippo Berio томатный с оливками 340г",
+                "property": "340 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4376484,
+                "name": "Горчица Roleski Trinidad Scorpion 210г",
+                "property": "210 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3180502,
+                "name": "Соус майонезный Скит Постный 25%, 225г",
+                "property": "225 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4140740,
+                "name": "Соус Barilla для болоньезе 400мл",
+                "property": "400 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3444609,
+                "name": "Майонез Я люблю готовить оливковый 67%, 390г",
+                "property": "374 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4236431,
+                "name": "Соус Tamaki Терияки 470мл",
+                "property": "470 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4292766,
+                "name": "Соус Пиканта Краснодарский томатный 280г",
+                "property": "280 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4093072,
+                "name": "Майонез Я люблю готовить домашний 55% 600мл",
+                "property": "600 мл"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1840 @@
+{
+    "category_id": "251C13027",
+    "category_name": "Аптека",
+    "products_list": [
+        {
+            "product_info": {
+                "plu": 23937,
+                "name": "Тампоны O.B. ProСomfort Super 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 77863,
+                "name": "Прокладки Carefree Fresh with Cotton extract ежедневные 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 11714,
+                "name": "Гигиенические прокладки Либресс Ультра Нормал с мягкой поверхностью 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4111377,
+                "name": "Бальзам для губ Мое Солнышко Пантенол детский 2.8г",
+                "property": "3 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4044399,
+                "name": "Трусы впитывающие Seni Active Normal Large для взрослых р.L 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082842,
+                "name": "Прокладки Seni Lady Plus урологические 15шт",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4044397,
+                "name": "Подгузники Seni Super Classic для взрослых р.L 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4323885,
+                "name": "Прокладки Tereza Lady Super урологические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4244740,
+                "name": "Прокладки Laurier Super Slim Guard дневные гигиенические 28шт.",
+                "property": "28 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4244738,
+                "name": "Прокладки Laurier Super Slim Guard ночные гигиенические 15шт.",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4244739,
+                "name": "Прокладки Laurier Super Slim Guard дневные ультратонкие с крылышками 25см 19шт.",
+                "property": "19 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4232434,
+                "name": "Подгузники-трусики YokoSun для взрослых р.XL 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4318435,
+                "name": "Тампоны O.B. ProComfort Normal 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4318436,
+                "name": "Тампоны O.B. ProComfort Super Plus 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3486067,
+                "name": "Презервативы Durex Invisible 12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 70526,
+                "name": "Прокладки Always Ultra super 3 гигиенические 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3650053,
+                "name": "Пеленки одноразовые TerezaMed Normal впитывающие 60х90см 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2096806,
+                "name": "Презервативы Contex Классик 12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3488297,
+                "name": "Гигиенические прокладки Либресс Ультра Супер с мягкой поверхностью 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3459352,
+                "name": "Гель-смазка Durex Play Feel для повышения чувствительности 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4239639,
+                "name": "Прокладки Linmin Ночные гигиенические 290мм 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3001429,
+                "name": "Презервативы Durex Classic 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4136896,
+                "name": "Прокладки Ola! Silk Sense Daily Large Deo Ромашка ежедневные 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4102138,
+                "name": "Прокладки Kotex Natural Ночные 12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4166500,
+                "name": "Пеленки Deliqua Одноразовые впитывающие 60х90 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329577,
+                "name": "Прокладки Carefree Plus Large Fresh 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4232432,
+                "name": "Подгузники-трусики YokoSun для взрослых р.М 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3633750,
+                "name": "Презервативы In Time №12 Classic 12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362288,
+                "name": "Прокладки Marabu Super ультратонкие гигиенические 8шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4329578,
+                "name": "Прокладки Carefree Cotton Feel Aloe 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3481791,
+                "name": "Лейкопластырь Econta медицинский 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3359164,
+                "name": "Прокладки Seni Normal урологические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4239637,
+                "name": "Прокладки Linmin гигиенические 245мм 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2048896,
+                "name": "Презервативы Contex Ribbed с ребрами 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3139991,
+                "name": "Прокладки Pupi Normal 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2112336,
+                "name": "Прокладки Seni Lady extra урологические 15шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 55551,
+                "name": "Прокладки Always Ultra night 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3219736,
+                "name": "Гигиенические прокладки Либресс Ультра Супер с мягкой поверхностью 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3348476,
+                "name": "Прокладки Ola! Classic 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362290,
+                "name": "Прокладки Marabu Normal ультратонкие гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2113031,
+                "name": "Гель-смазка Contex Wave увлажняющий с пантенолом 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362287,
+                "name": "Прокладки Marabu Normal plus ультратонкие гигиенические 9шт.",
+                "property": "9 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 6076,
+                "name": "Тампоны Kotex Супер гигиенические женские 16шт",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 6075,
+                "name": "Тампоны Kotex Normal гигиенические 16шт",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3472289,
+                "name": "Прокладки Pupi Multiform ежедневные 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362286,
+                "name": "Прокладки Marabu Night ультратонкие гигиенические 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3635965,
+                "name": "Тампоны Kotex Active супер 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4372309,
+                "name": "Прокладки Pupi Ultra Night женские гигиенические 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4232433,
+                "name": "Подгузники-трусики YokoSun для взрослых р.L 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3017398,
+                "name": "Прокладки Kotex Ultra night 7шт",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3364386,
+                "name": "Прокладки Kotex Ultra нормал с крылышками 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3922213,
+                "name": "Перекись водорода Kloob 3% 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3422374,
+                "name": "Прокладки Ola! Classic wings singles мягкая поверхность super 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 44435,
+                "name": "Прокладки Always Ultra normal 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3932119,
+                "name": "Прокладки ежедневные Always Незаметная защита удлиненные 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3080207,
+                "name": "Тест Evitest для определения беременности 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3447269,
+                "name": "Прокладки Pupi Panty soft ежедневные 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3652233,
+                "name": "Прокладки Always Platinum Ultra ночные 4 гигиенические 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4237738,
+                "name": "Презервативы Reflex Dotted из натурального латекса в смазке 3шт",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4172330,
+                "name": "Прокладки Always Ultra Secure Night Plus Duo женские 5шт",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3367494,
+                "name": "Прокладки ежедневные Pupi Multiform 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4224909,
+                "name": "Прокладки Molped First and Last day Ежедневные гигиенические 28шт.",
+                "property": "28 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4007949,
+                "name": "Прокладки Naturella Classic normal ромашка гигиенические 9шт.",
+                "property": "9 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4362289,
+                "name": "Прокладки Marabu гигиенические 20шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3647604,
+                "name": "Прокладки Kotex Ultra soft нормал 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3951863,
+                "name": "Прокладки Pupi Night Soft 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3379634,
+                "name": "Прокладки Bella Panty soft ежедневные 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096940,
+                "name": "Прокладки гигиенические Kotex Natural нормал 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 31942,
+                "name": "Прокладки Always Ultra super 8шт",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4251915,
+                "name": "Прокладки Melitina Ultra Basis Day 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3646138,
+                "name": "Прокладки Naturella Ultra Camomile ночные гигиенические 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3914542,
+                "name": "Бальзам Боро Плюс Увлажняющий для губ без отдушек 10г",
+                "property": "10 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3379607,
+                "name": "Молочко для тела EVO Пантенол 150мл",
+                "property": "150 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4172328,
+                "name": "Прокладки Always Ultra Secure Night 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304852,
+                "name": "Прокладки Joonies Дневные гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096944,
+                "name": "Прокладки Kotex Natural ночные 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4350190,
+                "name": "Крем Bio Cosmetolog Professional Sun Family Spf 50 водостойкий солнцезащитный 200мл",
+                "property": "200 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3635964,
+                "name": "Тампоны Kotex Active нормал 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4251917,
+                "name": "Прокладки Melitina Ultra Basis Night 7 шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2112317,
+                "name": "Прокладки Naturella Ultra camomile normal 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3482212,
+                "name": "Пеленки одноразовые TerezaMed Super впитывающие 60х90см 5шт.",
+                "property": "5 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3637887,
+                "name": "Прокладки Always Platinum ultra super plus 14шт",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3455001,
+                "name": "Помада гигиеническая EVO Пантенол 2.8г",
+                "property": "3 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3914546,
+                "name": "Крем Боро Плюс для ухода за кожей без запаха 25мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3609575,
+                "name": "Презервативы In Time №3 классические 3шт",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3364389,
+                "name": "Прокладки Kotex Ultra dry нормал 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3932118,
+                "name": "Прокладки Always Незаметная защита нормал ежедневные 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4047825,
+                "name": "Прокладки ежедневные Ola! Silk sense daily deo ромашка 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 60724,
+                "name": "Прокладки Bella Classic nova maxi 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304856,
+                "name": "Прокладки Joonies Ежедневные гигиенические 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2112312,
+                "name": "Прокладки Naturella Ultra Camomile normal гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4107154,
+                "name": "Прокладки Always Незаметная защита при недержании Лайт 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4035801,
+                "name": "Прокладки Always Platinum ultra secure night ультратонкие 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4251916,
+                "name": "Прокладки Melitina Ultra Basis Day Night 8шт",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2112309,
+                "name": "Прокладки Naturella Ultra Макси гигиенические 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4148798,
+                "name": "Тампоны Kotex Natural Нормал гигиенические 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3455002,
+                "name": "Крем EVO laboratoires для ног с мочевиной 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3500943,
+                "name": "Полоскание для полости рта Саномед с хлоргексидином 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4148799,
+                "name": "Тампоны Kotex Natural Супер гигиенические 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3635015,
+                "name": "Аскорбинка Racionika без сахара 30г",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 58950,
+                "name": "Прокладки ежедневные Bella Panty soft 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3223215,
+                "name": "БАД Аскорбинка Фарм-Тигода клубника 30г",
+                "property": "30 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4009589,
+                "name": "Тампоны Tampax Compak Regular Duo с аппликатором 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096941,
+                "name": "Прокладки Kotex Natural Нормал 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4322994,
+                "name": "Прокладки My Lady Silky Soft ультратонкие L 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 74861,
+                "name": "Презервативы Contex особо тонкие 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4325246,
+                "name": "Прокладки My Lady Instant Dry ультратонкие М 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3647606,
+                "name": "Прокладки Kotex Ultra soft супер 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4304853,
+                "name": "Прокладки Joonies Ночные гигиенические 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096942,
+                "name": "Прокладки гигиенические Kotex Natural супер 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4107150,
+                "name": "Прокладки Always Незаметная Нормал Плюс впитывающие 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2050876,
+                "name": "Тампоны Tampax Compak super plus с аппликатором 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360735,
+                "name": "Прокладки Molped Pure & Soft Normal 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3609574,
+                "name": "Презервативы In Time №3 особо тонкие 3шт",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3379604,
+                "name": "Крем универсальный EVO Пантенол 46мл",
+                "property": "46 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2133881,
+                "name": "Прокладки ежедневные Discreet Deo spring breeze multiform 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4107151,
+                "name": "Трусы Always Незаметная защита нормал впитывающие для взрослых размер L 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4360737,
+                "name": "Прокладки ночные Molped женские гигиенические с крылышками 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 97803,
+                "name": "Прокладки ежедневные Discreet Deo Waterlily multiform 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4322989,
+                "name": "Прокладки My Lady Silky Soft ультратонкие M 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3637886,
+                "name": "Прокладки Always Platinum ultra normal plus 16шт",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4125134,
+                "name": "Прокладки Naturella Ромашка Лайт на каждый день 52шт.",
+                "property": "52 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3424970,
+                "name": "Прокладки Always Ultra Ночные экстра защита 5 гигиенические 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94399,
+                "name": "Тампоны Ola! Normal 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 40764,
+                "name": "Прокладки Carefree plus large ежедневные 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3633331,
+                "name": "Прокладки Sense Sense medium ультратонкие 24см 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4103709,
+                "name": "Гигиенические прокладки Либресс Сенситив Ультра Ночные + 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3923304,
+                "name": "Прокладки Kotex Ультра ночные 14шт.",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 29608,
+                "name": "Прокладки Bella Normal без крылышек 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3623034,
+                "name": "Прокладки Always Ultra night ароматизированные 26шт.",
+                "property": "26 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096946,
+                "name": "Прокладки Kotex Natural Normal ежедневные 40шт.",
+                "property": "40 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4082759,
+                "name": "Тест Clearblue Plus на беременность 1шт.",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4322988,
+                "name": "Прокладки My Lady Silky Soft ультратонкие XL 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4325245,
+                "name": "Прокладки My Lady Instant Dry ультратонкие L 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3223218,
+                "name": "Аскорбиновая кислота Bud со вкусом апельсина 30г",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 97802,
+                "name": "Прокладки Discreet Air multiform ежедневные 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3223220,
+                "name": "БАД Аскорбиновая кислота Аскорбинка с сахаром к пище 30г",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3639595,
+                "name": "Прокладки Always Platinum Ultra Супер плюс 3 гигиенические 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4322995,
+                "name": "Прокладки My Lady Instant Dry ультратонкие XL 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4340690,
+                "name": "Прокладки Ola Silk Sense Soft & Fresh женские гигиенические ультратонкие 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4275605,
+                "name": "Прокладки Naturella Classic Camomile Night 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199732,
+                "name": "Прокладки Always maxi secure night extra женские гигиенические с крылышками 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3649910,
+                "name": "Прокладки Secret Day Sense ультратонкие 14.5см 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3623035,
+                "name": "Прокладки Always Ultra super ароматизированные 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3639593,
+                "name": "Прокладки Always Platinum Ultra Нормал плюс 2 гигиенические 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321773,
+                "name": "Прокладки Ola Silk Sense Teens  нормал ультратонкие 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2133901,
+                "name": "Прокладки ежедневные Discreet Air multiform 60шт.",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3639594,
+                "name": "Прокладки Always Platinum Ultra Ночные 4 гигиенические 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2112340,
+                "name": "Тампоны Tampax Compak super 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3633330,
+                "name": "Прокладки Secret Day Sense large ультратонкие 28см 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3660006,
+                "name": "Прокладки Naturella Ultra camomile макси 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305851,
+                "name": "Прокладки Ola Silk Sense Daily 60шт.",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4224896,
+                "name": "Прокладки Molped Extra Hygiene Тонкие ежедневные гигиенические 28шт.",
+                "property": "28 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3364391,
+                "name": "Прокладки Kotex Ultra супер 8шт",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4359872,
+                "name": "Прокладки ежедневные Linmin гигиенические 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4133997,
+                "name": "Трусики Kotex Экстра Защита ночные 2шт.",
+                "property": "2 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389456,
+                "name": "Прокладки Yioiy Ultra женские гигиенические дневные 9шт.",
+                "property": "9 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3952591,
+                "name": "Гигиенические прокладки Либресс Ультра Ночные с мягкой поверхностью 8шт",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3943537,
+                "name": "Тампоны Kotex Super с аппликатором 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4389458,
+                "name": "Прокладки Yioiy Ultra женские гигиенические ночные 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4321313,
+                "name": "Прокладки Ola Silk Sense Teens Light женские тонкие стинг-мультиформ 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3018040,
+                "name": "Презервативы Durex Classic гладкие с гелем-смазкой 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 45625,
+                "name": "Прокладки Либресс Ультра Нормал с мягкой поверхностью 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4314233,
+                "name": "Прокладки Naturella Нежная защита макси 14шт",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3647607,
+                "name": "Прокладки Kotex Ultra soft супер 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2050868,
+                "name": "Прокладки ежедневные Discreet Deo Waterlily multiform 60шт.",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3654123,
+                "name": "Прокладки Depend Super при недержании 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4400028,
+                "name": "Прокладки Kotex Young Ночные для девочек 6шт.",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4295820,
+                "name": "Прокладки Kotex Ультра софт Нормал гигиенические 18шт.",
+                "property": "18 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3660015,
+                "name": "Прокладки Naturella Ultra camomile ночные 14шт.",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3364392,
+                "name": "Прокладки Kotex Ultra Супер 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4059012,
+                "name": "Гигиенические прокладки Либресс Ультра Ночные с мягкой поверхностью 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4314234,
+                "name": "Прокладки Naturella Нежная защита нормал плюс 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3623033,
+                "name": "Прокладки Always Ultra normal ароматизированные 36шт.",
+                "property": "36 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4298561,
+                "name": "Прокладки Reva Care Ultra гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4298563,
+                "name": "Прокладки Reva Care Night гигиенические 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4197267,
+                "name": "Прокладки Kotex ежедневные 2в1 длинные 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4366179,
+                "name": "Прокладки Deliqua Normal гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2099932,
+                "name": "Гель-смазка Contex Strong 100мл",
+                "property": "1 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4296253,
+                "name": "Подгузники-трусы Sensetti впитывающие одноразовые для взрослых L 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 17580,
+                "name": "Тампоны Kotex Mini 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4298565,
+                "name": "Прокладки Reva Care Normal гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339633,
+                "name": "Раствор Аквасол Морская вода и алоэ спрей 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2133899,
+                "name": "Прокладки Naturella Ultra camomile normal 40шт.",
+                "property": "40 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4326157,
+                "name": "Прокладки Sensetti Normal Plus впитывающие для женщин 12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4103707,
+                "name": "Гигиенические прокладки Либресс Сенситив Ультра Нормал+ 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4210493,
+                "name": "Прокладки Seni Lady урологические р.S 15шт.",
+                "property": "15 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4326152,
+                "name": "Прокладки Sensetti Normal впитывающие для женщин 14шт",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4366181,
+                "name": "Прокладки Deliqua Micro гигиенические 24шт.",
+                "property": "24 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3020398,
+                "name": "Прокладки Discreet Deo water lily multiform ежедневные 100шт.",
+                "property": "100 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4172331,
+                "name": "Прокладки ежедневные Discreet Deo WaterLily Plus 52шт.",
+                "property": "52 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4120859,
+                "name": "Прокладки Always Platinum Ultra Ночные экстра защита плюс 6 гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4047826,
+                "name": "Прокладки Ola! Silk sense daily deo бархатная роза ежедневные 60шт.",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199729,
+                "name": "Прокладки Always Ultra Secure Night женские ультратонкие гигиенические ароматизированные экстра ночная защита 22шт.",
+                "property": "22 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 94395,
+                "name": "Прокладки Ola! Wings super top dry гигиенические 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4039752,
+                "name": "Прокладки Kotex Normal ежедневные 56шт.",
+                "property": "56 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3388974,
+                "name": "Тампоны Kotex Lux normal с аппликатором, 8шт",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4241222,
+                "name": "Прокладки Yioiy женские гигиенические ночные 8шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4298562,
+                "name": "Прокладки ежедневные Reva Care Daily гигиенические 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3654108,
+                "name": "Прокладки Depend Normal при недержании 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3932508,
+                "name": "Прокладки Always duo удлиненные ежедневные 28шт.",
+                "property": "28 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3020401,
+                "name": "Прокладки Discreet Air Multiform ежедневные 100шт.",
+                "property": "100 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4326147,
+                "name": "Прокладки Sensetti Mini впитывающие для женщин 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2048894,
+                "name": "Презервативы Contex Classic 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3374224,
+                "name": "Прокладки Kotex Young Нормал 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4323278,
+                "name": "Прокладки Ola! Silk Sense нормал ромашка ультратонкие 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3943538,
+                "name": "Прокладки Kotex Active deo экстратонкие ежедневные 48шт",
+                "property": "48 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4326323,
+                "name": "Прокладки Sensetti Extra Night впитывающие для женщин 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4237740,
+                "name": "Презервативы Reflex Classic 3шт.",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3277209,
+                "name": "Прокладки Seni Lady Micro урологические 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3127458,
+                "name": "Прокладки Ola! Daily ежедневные 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4241220,
+                "name": "Прокладки Yioiy женские гигиенические дневные 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4096943,
+                "name": "Прокладки Kotex Natural Супер 14шт.",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3932509,
+                "name": "Прокладки Always Незаметная защита Экстраудлиненные 18шт.",
+                "property": "18 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305850,
+                "name": "Прокладки Ola Silk Sense Мягкая поверхность ультратонкие 10шт.",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4241221,
+                "name": "Прокладки Yioiy женские гигиенические ежедневные 20шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4382670,
+                "name": "Гигиенические прокладки Либресс Экстра плюс ночные 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4083216,
+                "name": "Прокладки Elis Shin-Suhadakan дневные гигиенические 22шт.",
+                "property": "22 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3359163,
+                "name": "Прокладки урологические Seni Lady mini 12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 2074003,
+                "name": "Презервативы Contex Light особо тонкие 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3923707,
+                "name": "Прокладки Laurier F дневные супертонкие с крылышками 25см 17шт.",
+                "property": "17 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4268224,
+                "name": "Прокладки Kotex 2в1 нормал+ 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3469830,
+                "name": "Впитывающее нижнее белье Depend для женщин L-XL 9шт.",
+                "property": "9 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4241223,
+                "name": "Прокладки Yioiy Plus Large женские гигиенические ежедневные 16шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4039753,
+                "name": "Прокладки ежедневные Kotex Deo ультратонкие 56шт.",
+                "property": "56 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974818,
+                "name": "Крем Nivea Энергия молодости антивозрастной 65+ дневной для лица 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4224894,
+                "name": "Прокладки Molped Extra Hygiene Супер антибактериальные гигиенические 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3469829,
+                "name": "Нижнее белье Depend впитывающее для женщин M-L 10шт",
+                "property": "10 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3974817,
+                "name": "Крем Nivea энергия молодости антивозрастной 65+ ночной для лица 50мл",
+                "property": "50 мл"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3474740,
+                "name": "Презервативы Durex Invisible ультратонкие 3шт",
+                "property": "3 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39145,
+                "name": "Прокладки Always Ultra light duo 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4316028,
+                "name": "Прокладки Depend ночные 6шт",
+                "property": "6 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4326384,
+                "name": "Бальзам Nivea SOS-уход для губ 4.8г",
+                "property": "5 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4107152,
+                "name": "Трусы впитывающие Always Незаметная Нормал для взрослых р М 7шт.",
+                "property": "7 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4044398,
+                "name": "Подгузники Seni Super Classic для взрослых дышащие р.M 30шт.",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418379,
+                "name": "Прокладки Тена Lady Active Extra 20 шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4133995,
+                "name": "Прокладки Kotex Natural Нормал+ ежедневные гигиенические 18шт.",
+                "property": "18 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4305219,
+                "name": "БАД 1Win Детский Омега-3 с Витаминами Е и Д вкус клубника 60 капсул",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339582,
+                "name": "Магний хелат 400 мг+B6 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4068304,
+                "name": "Комплексная программа питания Леовит Снижение веса и холестерина 602г",
+                "property": "602 г"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4342371,
+                "name": "Витамин Dr. Zubareva Магний+ 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339501,
+                "name": "Витамин Dr. Zubareva D3 5000 МЕ+K2 90шт",
+                "property": "90 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4334599,
+                "name": "БАД GLS Коллаген для суставов с мартинией 120шт",
+                "property": "120 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339954,
+                "name": "Магний цитрат 400 мг+B6 60шт.",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4339955,
+                "name": "Витамины Dr. Zubareva HTP-5 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4325691,
+                "name": "БАД Splat Магний Биохак+ 400мг 90шт",
+                "property": "90 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418382,
+                "name": "Прокладки Тена Lady Active Maxi 16 шт.",
+                "property": "16 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418380,
+                "name": "Прокладки Тена Lady Active Maxi 8 шт.",
+                "property": "8 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418371,
+                "name": "Подгузники - трусы Тена Pants Active Normal M 30",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4418372,
+                "name": "Подгузники - трусы Тена Pants Active Normal L 30",
+                "property": "30 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4334078,
+                "name": "БАД GLS Коллаген морской 1000 180шт",
+                "property": "180 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4342372,
+                "name": "Витамин Dr. Zubareva С+ 60шт",
+                "property": "60 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4166393,
+                "name": "Презервативы Durex Invisible XXL12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4155953,
+                "name": "Набор пластырей Matopat Universal косметические 1шт.",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4039754,
+                "name": "Прокладки Kotex Superslim ежедневные 56шт.",
+                "property": "56 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4057896,
+                "name": "Презервативы Durex Invisible ультратонкие 18шт",
+                "property": "18 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 70525,
+                "name": "Прокладки Always Ultra normal 2 гигиенические 20шт",
+                "property": "20 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 39124,
+                "name": "Прокладки Always Ultra день и ночь 14шт",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3426547,
+                "name": "Презервативы Durex RealFeel 12шт.",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 4199731,
+                "name": "Прокладки Always Maxi Secure Night Extra 14шт",
+                "property": "14 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3001430,
+                "name": "Презервативы Durex Elite, 6х12шт",
+                "property": "12 шт"
+            }
+        },
+        {
+            "product_info": {
+                "plu": 3469832,
+                "name": "Впитывающее нижнее белье Depend для мужчин L-XL 9шт",
+                "property": "9 шт"
+            }
+        }
+    ]
+}
